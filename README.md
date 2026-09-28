@@ -1,6 +1,14 @@
 # CAP182_STADIOEquities_first-deposit-activation-project
+
 Data science project investigating first-deposit activation at STADIOEquities, identifying factors associated with customer activation and informing targeted onboarding interventions.
-# CAP182 STADIOEquities First-Deposit Activation Project
+
+# STADIOEquities First-Deposit Activation Project
+
+This project investigates the customer activation challenge at STADIOEquities, with a specific focus on the transition from registration to first deposit. The project progresses from defining the business problem and requesting the required data to developing, evaluating and comparing machine-learning models using a proxy dataset.
+
+---
+
+# SS1 – Project Definition
 
 ## Part A – Motivation
 
@@ -70,10 +78,10 @@ The detailed data requirements are provided in the data request document located
 
 | Folder | Purpose |
 |---|---|
-| `data/` | Data requirements and datasets |
+| `data/` | Data requirements, datasets and project reports |
 | `preprocessing/` | Data cleaning and preparation |
 | `feature_engineering/` | Creation and transformation of modelling features |
-| `models/` | Machine learning models |
+| `models/` | Machine-learning models |
 | `evaluation/` | Model evaluation |
 | `statistical_analysis/` | Statistical helper and comparison scripts |
 | `visualisation/` | Visualisation scripts |
@@ -95,3 +103,217 @@ Data Collection → Data Validation → Data Preprocessing → Feature Engineeri
 | **Issues** | **1.** The STADIOEquities datasets not being received timely or not received at all. This will result in data completeness, linkage success and feature availability not being verified. This will be addressed once access to the datasets is obtained. |
 | **Decisions** | **1.** First-deposit activation will be used as the target variable because it directly addresses the business problem of reducing the proportion of never-funded accounts and improving sign-up-to-deposit conversion.<br><br>**2.** A supervised machine-learning approach will be used because activation status is a known outcome that can be predicted using historical customer data. |
 | **Dependencies** | **1.** Data quality assessment depends on dataset acquisition. The STADIOEquities datasets must be received before their completeness, accuracy and consistency can be evaluated.<br><br>**2.** Dataset integration depends on data quality assessment. The datasets must be validated and Customer ID consistency confirmed before they can be combined into a single customer view.<br><br>**3.** Feature engineering depends on dataset integration. Customer, onboarding, behavioural, funding, marketing and support data must be combined before meaningful variables can be created for analysis.<br><br>**4.** Model development depends on feature engineering. The activation outcome and predictor variables must be prepared before a machine-learning model can be developed and evaluated.<br><br>**5.** Recommendations depend on model evaluation. Recommendations for improving first-deposit activation can only be made after the model results have been analysed and the key factors influencing activation have been identified. |
+
+---
+
+# SS2 – Data Science Project
+
+## Part A – Literature Review and Dataset Selection
+
+The literature review investigated the use of machine-learning techniques for customer response, conversion and take-up prediction.
+
+Three related studies were reviewed:
+
+1. **Verster et al. (2021)** – prediction of home-loan take-up using tree-based ensemble models.
+2. **Breed and Verster (2017)** – customer-response prediction and segmentation in a South African banking context.
+3. **Moro, Cortez and Rita (2014)** – prediction of bank telemarketing success using the Bank Marketing dataset.
+
+The **UCI Bank Marketing dataset** was selected as a structural proxy dataset because the actual STADIOEquities customer data requested in SS1 was not available for the modelling stage.
+
+### Part A Report
+
+[View the Part A Literature Review and Dataset Selection Report](data/CAP182%20-%20SS2%20-PART%20A.pdf)
+
+### Proxy Dataset
+
+The modelling dataset used in SS2 is the UCI Bank Marketing `bank-full.csv` dataset. It contains 45,211 observations and was used only as a proxy for demonstrating the data-science workflow.
+
+The proxy dataset should not be interpreted as STADIOEquities customer data.
+
+---
+
+# SS2 Part B – Data Science Implementation
+
+Part B implements the complete modelling workflow through separate preprocessing, feature-engineering and model-development stages.
+
+## 1. Data Preprocessing
+
+### Documentation
+
+[Preprocessing Documentation](Preprocessing.MD)
+
+### Code
+
+[`preprocessing/preprocessing.ipynb`](preprocessing/preprocessing.ipynb)
+
+The preprocessing stage loads the raw Bank Marketing dataset, performs data-quality checks, handles the `pdays = -1` representation, creates the binary target variable and produces the preprocessed dataset.
+
+### Data
+
+- Raw dataset: `data/raw/bank-full.csv`
+- Preprocessed dataset: `data/processed/bank_marketing_preprocessed.csv`
+
+---
+
+## 2. Feature Engineering
+
+### Documentation
+
+[Feature Engineering Documentation](FeatureEngineering.MD)
+
+### Code
+
+[`feature_engineering/feature_engineering.ipynb`](feature_engineering/feature_engineering.ipynb)
+
+The feature-engineering stage creates additional modelling variables, including:
+
+- `previously_contacted`
+- `age_band`
+- `balance_band`
+- `repeated_contact_flag`
+
+Categorical variables are one-hot encoded and the final modelling dataset is prepared for machine learning.
+
+### Data
+
+`data/processed/bank_marketing_features.csv`
+
+---
+
+## 3. Model 1 – Logistic Regression
+
+### Documentation
+
+[Model 1 Documentation](Model1.MD)
+
+### Code
+
+[`models/logistic_regression.ipynb`](models/logistic_regression.ipynb)
+
+Logistic Regression was implemented as the first classification model.
+
+The workflow uses:
+
+- 80/20 stratified train-test split
+- `random_state = 42`
+- StandardScaler
+- Logistic Regression
+- 5-fold StratifiedKFold cross-validation
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- ROC-AUC
+- Held-out test evaluation
+
+---
+
+## 4. Model 2 – Gradient Boosting
+
+### Documentation
+
+[Model 2 Documentation](Model2.MD)
+
+### Code
+
+[`models/gradient_boosting.ipynb`](models/gradient_boosting.ipynb)
+
+Gradient Boosting was implemented as the second classification model.
+
+The workflow uses:
+
+- 80/20 stratified train-test split
+- `random_state = 42`
+- GradientBoostingClassifier
+- 5-fold StratifiedKFold cross-validation
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- ROC-AUC
+- Held-out test evaluation
+
+---
+
+# SS2 Part C – Model Performance Evaluation
+
+Model performance was evaluated using a consistent evaluation framework for both models.
+
+The evaluation process uses the same stratified 80/20 train-test split and 5-fold cross-validation approach. Both models are evaluated using Accuracy, Precision, Recall, F1-score and ROC-AUC.
+
+## Model 1 Performance
+
+[Model 1 Performance Evaluation](Model1Performance.MD)
+
+## Model 2 Performance
+
+[Model 2 Performance Evaluation](Model2Performance.MD)
+
+## Model Comparison
+
+[Model Performance Comparison](Comparison.MD)
+
+## Evaluation Code
+
+[`evaluation/evaluation.ipynb`](evaluation/evaluation.ipynb)
+
+The evaluation notebook reconstructs both deterministic models using the same feature-engineered dataset, train-test split and random state used during model development. It then calculates and compares the performance metrics and confusion matrices.
+
+---
+
+# SS2 Part D – Client Report
+
+Part D provides the client-facing interpretation of the modelling results and addresses:
+
+1. Model selection
+2. Model improvement
+3. Adaptation of the selected model to actual STADIOEquities data
+4. Alignment of the results with the related literature
+
+### Part D Report
+
+[View the Part D Client Report](data/CAP182%20-%20SS2%20-PART%20D.pdf)
+
+Gradient Boosting achieved the higher held-out test performance across the reported evaluation metrics and was therefore identified as the model for further development. The report also highlights the relatively low recall and the need for further refinement before applying the approach to actual STADIOEquities data.
+
+---
+
+# SS2 Repository Structure
+
+```text
+CAP182_STADIOEquities_first-deposit-activation-project/
+│
+├── README.md
+│
+├── data/
+│   ├── raw/
+│   │   └── bank-full.csv
+│   │
+│   ├── processed/
+│   │   ├── bank_marketing_preprocessed.csv
+│   │   └── bank_marketing_features.csv
+│   │
+│   ├── CAP182 - SS2 -PART A.pdf
+│   ├── CAP182 - SS2 -PART D.pdf
+│   └── [SS1 data request document]
+│
+├── preprocessing/
+│   └── preprocessing.ipynb
+│
+├── feature_engineering/
+│   └── feature_engineering.ipynb
+│
+├── models/
+│   ├── logistic_regression.ipynb
+│   └── gradient_boosting.ipynb
+│
+├── evaluation/
+│   └── evaluation.ipynb
+│
+├── Preprocessing.MD
+├── FeatureEngineering.MD
+├── Model1.MD
+├── Model2.MD
+├── Model1Performance.MD
+├── Model2Performance.MD
+└── Comparison.MD
