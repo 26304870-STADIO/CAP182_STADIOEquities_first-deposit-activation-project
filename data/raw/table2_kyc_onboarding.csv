@@ -1,0 +1,2412 @@
+customer_id,kyc_status,kyc_completion_date,onboarding_step_reached,step_status,time_spent_on_step_minutes,failure_reason
+STUE100000,Complete,2025-02-12 15:41:15,Fund Account,Completed,8.9,
+STUE100011,Complete,2024-04-28 20:07:10,Fund Account,Completed,5.9,
+STUE100017,Complete,2025-02-06 09:33:54,Fund Account,Completed,2.0,
+STUE100026,Abandoned,,Proof of Address,Abandoned,5.2,Document Rejected
+STUE100030,Complete,2024-03-26 13:04:02,Fund Account,Completed,11.7,
+STUE100039,Complete,2025-07-18 21:24:27,Fund Account,Completed,12.3,
+STUE100043,Complete,2025-03-26 09:05:54,Fund Account,Completed,37.37,
+STUE100055,Complete,2025-02-06 16:33:07,Fund Account,Completed,18.1,
+STUE100059,Abandoned,,Proof of Address,Abandoned,12.6,Document Rejected
+STUE100063,Complete,2024-05-05 10:24:42,Fund Account,Completed,3.5,
+STUE100075,Complete,2025-04-21 06:18:36,Fund Account,Completed,0.2,
+STUE100077,Complete,2024-01-19 21:54:31,Fund Account,Completed,4.9,
+STUE100090,Abandoned,,Proof of Address,Abandoned,4.8,Poor Image Quality
+STUE100092,Complete,2025-06-15 05:24:35,Fund Account,Completed,0.2,
+STUE100103,In Progress,,Personal Details,Started,5.0,
+STUE100111,Abandoned,,Bank Account Link,Abandoned,9.3,Session Timeout
+STUE100112,Failed,,Personal Details,Failed,9.8,Bank Verification Failed
+STUE100125,Complete,2024-02-09 19:07:10,Fund Account,Completed,9.5,
+STUE100130,Complete,2024-12-25 01:20:02,Fund Account,Completed,6.6,
+STUE100135,Complete,2025-07-14 15:22:33,Fund Account,Completed,13.2,
+STUE100144,Abandoned,,Bank Account Link,Abandoned,1.1,Session Timeout
+STUE100147,In Progress,,Identity Verification,Started,5.9,
+STUE100156,Complete,2024-03-13 22:10:38,Fund Account,Completed,7.3,
+STUE100164,Complete,2024-06-21 23:46:11,Fund Account,Completed,16.7,
+STUE100172,Failed,,Email Verification,Failed,4.3,Address Not Verified
+STUE100179,Complete,2024-01-08 23:07:39,Fund Account,Completed,0.3,
+STUE100187,Complete,2024-08-06 19:36:46,Fund Account,Completed,4.3,
+STUE100190,Complete,2024-08-23 01:58:49,Fund Account,Completed,3.6,
+STUE100197,In Progress,,Proof of Address,Started,14.0,
+STUE100209,Complete,2025-03-10 14:48:06,Fund Account,Completed,17.2,
+STUE100211,Complete,2024-05-06 16:35:40,Fund Account,Completed,12.9,
+STUE100220,Complete,2024-01-05 04:05:02,Fund Account,Completed,2.3,
+STUE100225,Complete,2024-06-16 19:55:59,Fund Account,Completed,13.7,
+STUE100236,Failed,,Email Verification,Failed,13.4,ID Expired
+STUE100239,Complete,2024-03-09 05:48:26,Fund Account,Completed,8.5,
+STUE100245,Complete,2024-10-05 08:21:58,Fund Account,Completed,1.5,
+STUE100256,Abandoned,,Identity Verification,Abandoned,2.4,Document Rejected
+STUE100265,Complete,2024-08-31 21:01:46,Fund Account,Completed,3.2,
+STUE100270,Complete,2024-05-05 09:40:39,Fund Account,Completed,0.2,
+STUE100274,Complete,2024-09-04 01:27:02,Fund Account,Completed,9.1,
+STUE100285,Failed,,Identity Verification,Failed,0.2,Document Rejected
+STUE100292,Abandoned,,Proof of Address,Abandoned,9.7,Details Mismatch
+STUE100298,Complete,2024-12-01 20:05:43,Fund Account,Completed,12.6,
+STUE100307,Complete,2024-04-02 00:52:27,Fund Account,Completed,2.5,
+STUE100313,Complete,2024-09-16 21:31:00,Fund Account,Completed,5.9,
+STUE100317,Complete,2024-10-22 00:57:26,Fund Account,Completed,11.4,
+STUE100326,Complete,2024-07-12 04:17:14,Fund Account,Completed,6.0,
+STUE100332,Complete,2025-02-18 20:00:32,Fund Account,Completed,6.1,
+STUE100336,COMPLETE,2024-10-31 19:33:46,Fund Account,Completed,2.5,
+STUE100348,Abandoned,,Fund Account,Abandoned,6.7,Poor Image Quality
+STUE100351,COMPLETE,2025-05-31 03:03:57,Fund Account,Completed,3.3,
+STUE100361,Complete,2024-04-18 22:55:48,Fund Account,Completed,11.3,
+STUE100365,Failed,,Personal Details,Failed,8.7,Session Timeout
+STUE100371,In Progress,,Proof of Address,Started,11.2,
+STUE100382,Complete,2024-12-16 17:17:52,Fund Account,Completed,4.2,
+STUE100385,Complete,2024-07-31 21:44:24,Fund Account,Completed,0.7,
+STUE100393,Complete,2024-05-04 07:11:32,Fund Account,Completed,4.9,
+STUE100404,Abandoned,,Proof of Address,Abandoned,2.8,Poor Image Quality
+STUE100410,Complete,2024-09-22 15:45:43,Fund Account,Completed,0.2,
+STUE100418,Failed,,Proof of Address,Failed,11.3,Document Rejected
+STUE100424,In Progress,,Personal Details,Started,18.6,
+STUE100427,Complete,2024-03-15 07:02:11,Fund Account,Completed,0.2,
+STUE100434,Failed,,Bank Account Link,Failed,1.5,Address Not Verified
+STUE100441,Complete,2024-12-26 19:56:12,Fund Account,Completed,11.9,
+STUE100453,Complete,2024-04-13 19:21:11,Fund Account,Completed,6.4,
+STUE100455,In Progress,,Identity Verification,Started,7.8,
+STUE100465,Complete,2024-04-20 12:17:18,Fund Account,Completed,7.6,
+STUE100475,Complete,2025-08-22 19:23:46,Fund Account,Completed,5.3,
+STUE100479,Complete,2025-06-23 01:09:40,Fund Account,Completed,5.7,
+STUE100484,Complete,2025-08-20 21:18:28,Fund Account,Completed,8.2,
+STUE100493,Complete,2025-01-22 22:29:07,Fund Account,Completed,3.5,
+STUE100501,Complete,2024-07-19 05:20:56,Fund Account,Completed,12.6,
+STUE100504,In Progress,,Identity Verification,Started,0.5,
+STUE100517,Complete,2025-04-15 12:51:43,Fund Account,Completed,4.8,
+STUE100521,Complete,2025-07-06 12:28:40,Fund Account,Completed,15.1,
+STUE100527,Complete,2024-09-20 10:03:05,Fund Account,Completed,12.6,
+STUE100533,In Progress,,Bank Account Link,Started,10.9,
+STUE100543,Abandoned,,Personal Details,Abandoned,12.3,Address Not Verified
+STUE100549,Complete,2024-01-02 06:55:04,Fund Account,Completed,15.4,
+STUE100553,Complete,2025-06-20 04:59:13,Fund Account,Completed,5.9,
+STUE100566,Complete,2024-12-20 12:24:53,Fund Account,Completed,7.5,
+STUE100572,In Progress,,Identity Verification,Started,3.8,
+STUE100577,Complete,2025-01-19 21:18:42,Fund Account,Completed,2.1,
+STUE100581,Complete,2024-05-17 16:55:11,Fund Account,Completed,1.4,
+STUE100594,Complete,2024-01-02 01:31:33,Fund Account,Completed,11.7,
+STUE100595,Abandoned,,Identity Verification,Abandoned,12.3,Details Mismatch
+STUE100604,Complete,2025-02-15 03:22:27,Fund Account,Completed,2.3,
+STUE100613,Complete,2024-03-07 14:05:19,Fund Account,Completed,10.8,
+STUE100619,Abandoned,,Personal Details,Abandoned,9.7,Session Timeout
+STUE100627,Complete,2024-05-14 06:33:42,Fund Account,Completed,,
+STUE100632,Complete,2024-01-18 13:40:34,Fund Account,Completed,3.0,
+STUE100641,Complete,2025-02-10 16:26:13, Fund Account ,Completed,8.2,
+STUE100649,Abandoned,,Proof of Address,Abandoned,8.0,Session Timeout
+STUE100652,Complete,2025-03-12 03:35:49,Fund Account,Completed,8.3,
+STUE100661,Complete,2024-07-28 22:13:34,Fund Account,Completed,16.9,
+STUE100667,Complete,2024-08-22 01:15:04,Fund Account,Completed,2.0,
+STUE100678,Abandoned,,Personal Details,Abandoned,12.8,Details Mismatch
+STUE100679,In Progress,,Identity Verification,Started,3.8,
+STUE100691,Complete,2025-05-24 04:57:50,Fund Account,Completed,2.3,
+STUE100699,Complete,2024-01-16 22:13:32,Fund Account,Completed,4.3,
+STUE100701,Abandoned,,Bank Account Link,Abandoned,12.5,Bank Verification Failed
+STUE100707,Complete,2025-03-12 01:22:33,Fund Account,COMPLETED,11.4,
+STUE100717,Complete,2025-01-14 15:23:05,Fund Account,Completed,9.9,
+STUE100724,Complete,2024-12-30 10:07:32,Fund Account,Completed,9.5,
+STUE100731,Abandoned,,Bank Account Link,Abandoned,5.0,Address Not Verified
+STUE100738,Complete,2025-05-18 20:08:30,Fund Account,Completed,8.1,
+STUE100747,Complete,2025-03-23 17:23:01,Fund Account,Completed,4.4,
+STUE100752,Complete,2025-03-15 21:30:52,Fund Account,Completed,0.2,
+STUE100760,Abandoned,,Bank Account Link,Abandoned,2.9,Poor Image Quality
+STUE100764,Abandoned,,Bank Account Link,Abandoned,9.1,Bank Verification Failed
+STUE100771,Complete,2025-02-12 04:04:22,FUND ACCOUNT,Completed,15.9,
+STUE100783,In Progress,,Identity Verification,Started,8.0,
+STUE100785,Abandoned,,Proof of Address,Abandoned,0.2,Session Timeout
+STUE100795,Abandoned,,Proof of Address,Abandoned,7.7,Details Mismatch
+STUE100798,Complete,2025-06-29 15:54:24,Fund Account,Completed,5.0,
+STUE100808,In Progress,,Identity Verification,Started,0.2,
+STUE100814,Complete,2025-04-16 07:48:58,Fund Account,Completed,14.2,
+STUE100825,Complete,2024-08-17 07:06:44,Fund Account,Completed,12.9,
+STUE100826,Complete,2025-06-25 08:59:55,Fund Account,Completed,2.7,
+STUE100837,Abandoned,,Fund Account,Abandoned,11.4,Session Timeout
+STUE100841,Complete,2024-02-03 11:08:18,Fund Account,Completed,14.9,
+STUE100849,Failed,,Proof of Address,Failed,8.2,Address Not Verified
+STUE100860,Abandoned,,Proof of Address,Abandoned,8.8,Address Not Verified
+STUE100866,Complete,2024-04-14 20:01:25,Fund Account,Completed,0.5,
+STUE100874,Complete,2024-08-29 10:06:18,Fund Account,Completed,4.4,
+STUE100876,Complete,2025-03-28 14:42:21,Fund Account,Completed,9.1,
+STUE100887,Complete,2025-05-15 04:18:30,Fund Account,Completed,6.8,
+STUE100895,Complete,2024-11-21 10:10:00,Fund Account,Completed,3.7,
+STUE100901,Complete,2025-08-29 14:18:30,Fund Account,Completed,12.0,
+STUE100905,Abandoned,,Proof of Address,Abandoned,16.2,Session Timeout
+STUE100916,Complete,2024-08-09 04:04:18,Fund Account,Completed,12.9,
+STUE100922,Complete,2024-06-28 05:48:53,Fund Account,Completed,17.2,
+STUE100925,Failed,,Proof of Address,Failed,3.7,Address Not Verified
+STUE100932,Failed,,Personal Details,Failed,15.0,Address Not Verified
+STUE100939,Failed,,Proof of Address,Failed,1.6,Address Not Verified
+STUE100950,Complete,2024-09-05 05:55:04,Fund Account,Completed,0.2,
+STUE100952,Complete,2024-09-04 21:14:39,Fund Account, Completed ,1.1,
+STUE100962,Complete,2025-04-02 15:06:41,Fund Account,Completed,5.3,
+STUE100966,Complete,2024-04-26 16:00:47,Fund Account,Completed,13.2,
+STUE100979,Complete,2024-11-05 22:21:32,Fund Account,Completed,0.2,
+STUE100983,Complete,2025-05-29 10:40:35,Fund Account,Completed,18.3,
+STUE100993,Abandoned,,Email Verification,Abandoned,1.4,Poor Image Quality
+STUE100998,In Progress,,Bank Account Link,Started,10.3,
+STUE101005,Complete,2024-02-21 11:16:25,Fund Account,Completed,3.0,
+STUE101011,Failed,,Proof of Address,Failed,6.3,Details Mismatch
+STUE101018,In Progress,,Bank Account Link,Started,10.1,
+STUE101028,Complete,2025-05-21 07:11:49,Fund Account,Completed,7.3,
+STUE101033,Complete,2024-02-18 19:57:51,Fund Account,Completed,8.2,
+STUE101041,Complete,2025-07-26 21:18:48,Fund Account,Completed,4.6,
+STUE101048,In Progress,,Bank Account Link,Started,0.2,
+STUE101051,Abandoned,,Proof of Address,Abandoned,7.8,Poor Image Quality
+STUE101063,In Progress,,Identity Verification,Started,2.9,
+STUE101064,Failed,,Proof of Address,Failed,3.2,Bank Verification Failed
+STUE101071,In Progress,,Fund Account,Started,6.2,
+STUE101078,Failed,,Proof of Address,Failed,0.2,Document Rejected
+STUE101089,Complete,2024-08-05 22:17:24,Fund Account,Completed,6.5,
+STUE101094,Complete,2024-07-05 03:23:16,FUND ACCOUNT,Completed,3.6,
+STUE101105,Complete,2024-09-11 11:33:07,Fund Account,Completed,1.2,
+STUE101106,In Progress,,Email Verification,Started,2.1,
+STUE101115,In Progress,,Identity Verification,Started,8.2,
+STUE101123,Complete,2025-04-24 04:14:03,Fund Account,Completed,0.2,
+STUE101132,Complete,2024-05-06 21:56:26,Fund Account,Completed,3.8,
+STUE101134,Complete,2024-10-23 16:05:02,Fund Account,Completed,0.2,
+STUE101143,Complete,2025-06-05 00:41:53,Fund Account,Completed,7.2,
+STUE101149,Complete,2024-01-31 13:10:56,Fund Account,Completed,15.6,
+STUE101156,Complete,2024-07-02 07:22:49,Fund Account,Completed,10.0,
+STUE101168,Complete,2024-08-09 00:17:34,Fund Account,Completed,7.5,
+STUE101172,Complete,2025-04-22 02:10:44,Fund Account,Completed,,
+STUE101182,Complete,2024-01-06 14:20:36,Fund Account,Completed,2.2,
+STUE101183,Complete,2024-05-18 06:28:59,Fund Account,Completed,10.8,
+STUE101193,Complete,2024-04-01 16:24:03,Fund Account,Completed,6.9,
+STUE101201,Complete,2024-10-23 09:55:28,Fund Account,Completed,12.3,
+STUE101209,Complete,2025-01-12 00:52:38,Fund Account,Completed,4.9,
+STUE101214,FAILED,,Bank Account Link,Failed,16.3,Session Timeout
+STUE101218,Abandoned,,identity verification,Abandoned,10.5,Address Not Verified
+STUE101226,In Progress,,Personal Details,Started,2.2,
+STUE101237,In Progress,,Identity Verification,Started,7.6,
+STUE101244,Abandoned,,Identity Verification,Abandoned,11.6,Document Rejected
+STUE101252,Failed,,Proof of Address,Failed,10.6,Document Rejected
+STUE101254,Complete,2025-02-15 18:56:11,Fund Account,Completed,3.3,
+STUE101264,Failed,,Personal Details,Failed,2.4,Document Rejected
+STUE101268,Complete,2024-01-02 08:03:35,Fund Account,Completed,6.5,
+STUE101275,Failed,,Proof of Address,Failed,13.9,Session Timeout
+STUE101284,Complete,2025-02-25 03:45:12,Fund Account,Completed,6.8,
+STUE101290,Complete,2024-04-26 18:26:04,Fund Account,Completed,2.1,
+STUE101300,Failed,,Bank Account Link,Failed,11.4,ID Expired
+STUE101307,Complete,2025-07-15 10:51:28,Fund Account,Completed,12.5,
+STUE101313,In Progress,,Personal Details,Started,10.5,
+STUE101322,Failed,,Email Verification,Failed,10.0,Address Not Verified
+STUE101329,Complete,2024-11-15 18:24:15,Fund Account,Completed,10.8,
+STUE101333,Abandoned,,Bank Account Link,Abandoned,12.5,Poor Image Quality
+STUE101341,Abandoned,,Proof of Address,Abandoned,17.4,Bank Verification Failed
+STUE101347,Complete,2025-05-12 16:53:53,Fund Account,Completed,7.1,
+STUE101356,Complete,2025-01-04 19:14:13,Fund Account,Completed,10.3,
+STUE101364,Complete,2024-12-11 04:59:06,Fund Account,Completed,4.0,
+STUE101371,Abandoned,,Identity Verification,Abandoned,8.4,Details Mismatch
+STUE101373,Failed,,Bank Account Link,Failed,11.0,Address Not Verified
+STUE101384,Complete,2025-02-14 16:37:17,Fund Account,Completed,10.4,
+STUE101389,Abandoned,,Personal Details,Abandoned,10.2,ID Expired
+STUE101394,In Progress,,Personal Details,Started,15.6,
+STUE101402,Failed,,Personal Details,Failed,7.7,ID Expired
+STUE101410,Complete,2024-02-29 17:51:07,Fund Account,Completed,10.0,
+STUE101415,Complete,2024-12-29 11:06:08,Fund Account,Completed,6.2,
+STUE101422,Failed,,Proof of Address,Failed,,Bank Verification Failed
+STUE101429,Failed,,Identity Verification,Failed,1.9,Document Rejected
+STUE101438,Abandoned,,Bank Account Link,Abandoned,5.7,Session Timeout
+STUE101445,Complete,2024-08-01 16:52:13,Fund Account,Completed,11.0,
+STUE101453,Complete,2024-09-25 21:25:33,Fund Account,Completed,9.2,
+STUE101456,Complete,2024-04-07 08:10:14,Fund Account,Completed,0.2,
+STUE101468,Complete,2024-01-24 23:11:47,Fund Account,Completed,7.5,
+STUE101473,In Progress,,Bank Account Link,Started,11.7,
+STUE101477,Complete,2024-08-29 02:05:22,Fund Account,Completed,0.3,
+STUE101488,Complete,2024-08-25 02:11:03,Fund Account,Completed,11.9,
+STUE101497,Complete,2025-03-08 12:32:29,Fund Account,Completed,0.2,
+STUE101500,Complete,2024-01-27 14:43:33,Fund Account,Completed,8.8,
+STUE101505,Complete,2025-02-14 12:51:42,Fund Account,Completed,0.2,
+STUE101514,Complete,2024-10-06 03:00:34,Fund Account,Completed,1.3,
+STUE101523,Failed,,Identity Verification,Failed,2.2,Bank Verification Failed
+STUE101531,Abandoned,,Personal Details,Abandoned,0.2,Details Mismatch
+STUE101538,In Progress,,Proof of Address,Started,21.4,
+STUE101542,Complete,2025-03-07 13:21:16,Fund Account,Completed,2.1,
+STUE101551,Complete,2024-03-26 02:35:22,Fund Account,Completed,3.4,
+STUE101559, Complete ,2024-03-22 19:31:16,Fund Account,Completed,2.6,
+STUE101567,Abandoned,,Proof of Address,Abandoned,5.8,ID Expired
+STUE101570,Failed,,Fund Account,Failed,10.8,Document Rejected
+STUE101580,Complete,2024-01-21 12:23:17,Fund Account,Completed,13.9,
+STUE101584,Failed,,Identity Verification,Failed,0.2,Address Not Verified
+STUE101595,In Progress,,Identity Verification,Started,7.3,
+STUE101596,Complete,2024-03-06 13:35:10,Fund Account,Completed,0.2,
+STUE101607,Complete,2025-02-27 18:24:34,Fund Account,Completed,10.4,
+STUE101613,Failed,,Identity Verification,Failed,8.6,Bank Verification Failed
+STUE101619,Complete,2024-04-12 10:45:29,Fund Account,Completed,14.4,
+STUE101627,In Progress,,Fund Account,Started,4.5,
+STUE101634,Complete,2024-09-11 12:10:15,Fund Account,Completed,15.0,
+STUE101642,Complete,2025-05-19 21:46:28,Fund Account,Completed,5.0,
+STUE101650,Complete,2024-05-04 11:22:20,Fund Account,Completed,7.3,
+STUE101653,In Progress,, Bank Account Link ,Started,7.2,
+STUE101659,Complete,2025-04-16 10:14:36,Fund Account,Completed,14.7,
+STUE101667,Complete,2024-02-20 22:00:22,Fund Account,Completed,10.5,
+STUE101677,Complete,2024-03-09 04:42:29,Fund Account,Completed,18.8,
+STUE101683,Complete,2025-01-13 10:32:14,Fund Account,Completed,7.0,
+STUE101689,Complete,2024-03-01 12:54:04,Fund Account,Completed,12.5,
+STUE101697,Abandoned,,Personal Details,Abandoned,0.2,ID Expired
+STUE101705,Complete,2024-12-03 07:09:20,Fund Account,Completed,5.8,
+STUE101714,Complete,2024-06-03 16:14:01,Fund Account,Completed,5.0,
+STUE101721,Complete,2024-06-18 18:28:21,Fund Account,Completed,14.7,
+STUE101728,Complete,2025-07-09 12:33:02,Fund Account,Completed,8.8,
+STUE101732,Complete,2025-05-12 12:01:44,Fund Account,Completed,3.1,
+STUE101742,In Progress,,Bank Account Link,Started,4.2,
+STUE101745,Complete,2025-06-04 17:30:35,Fund Account,Completed,7.4,
+STUE101753,Complete,2024-09-03 07:17:39,Fund Account,Completed,4.7,
+STUE101757,In Progress,,Email Verification,Started,13.6,
+STUE101770,Complete,2024-06-17 05:56:47,Fund Account,Completed,14.0,
+STUE101776,Abandoned,,Personal Details,Abandoned,12.4,Bank Verification Failed
+STUE101779,Abandoned,,Identity Verification,Abandoned,1.7,Details Mismatch
+STUE101790,Complete,2024-04-16 08:54:42,Fund Account,Completed,5.4,
+STUE101795,Abandoned,,Proof of Address,Abandoned,2.7,Address Not Verified
+STUE101801,Complete,2024-03-17 23:53:31,Fund Account,Completed,0.2,
+STUE101808,In Progress,,Bank Account Link,Started,16.6,
+STUE101814,Complete,2024-04-26 00:18:44,Fund Account,Completed,11.6,
+STUE101820,Complete,2024-03-13 22:53:36,Fund Account,Completed,,
+STUE101831,Complete,2025-04-16 15:41:09,Fund Account,Completed,4.8,
+STUE101839,Complete,2024-06-12 06:02:49,Fund Account,Completed,2.5,
+STUE101841,Complete,2025-04-01 11:20:51,Fund Account,Completed,11.8,
+STUE101848,In Progress,,Identity Verification,Started,11.0,
+STUE101859,Complete,2025-06-29 23:17:06,Fund Account,Completed,8.1,
+STUE101868,In Progress,,Proof of Address,Started,8.0,
+STUE101869,Complete,2024-10-20 08:19:39,Fund Account,Completed,8.7,
+STUE101882,Complete,2024-05-13 00:22:19,Fund Account,Completed,0.2,
+STUE101884,In Progress,,Proof of Address,Started,14.8,
+STUE101890,Failed,,Proof of Address,Failed,9.6,Document Rejected
+STUE101903,In Progress,,Bank Account Link,Started,9.6,
+STUE101909,Failed,,Fund Account,Failed,0.2,Session Timeout
+STUE101912,Abandoned,,Personal Details,Abandoned,6.9,ID Expired
+STUE101922,Complete,2025-04-02 13:37:47,Fund Account,Completed,7.1,
+STUE101926,Complete,2024-04-26 00:27:26,Fund Account,Completed,8.2,
+STUE101938,Complete,2024-06-16 00:36:31,Fund Account,Completed,9.8,
+STUE101940,Abandoned,,Proof of Address,Abandoned,5.9,Address Not Verified
+STUE101951,Complete,2024-11-25 03:43:46,Fund Account,Completed,9.2,
+STUE101959,Complete,2024-05-14 11:09:21,Fund Account,Completed,5.6,
+STUE101963,Complete,2024-05-20 16:08:55,Fund Account,Completed,0.2,
+STUE101971,Complete,2025-04-29 19:50:31,Fund Account,Completed,19.4,
+STUE101978,Complete,2025-02-22 12:19:16,Fund Account,Completed,0.2,
+STUE101987,In Progress,,Proof of Address,Started,7.5,
+STUE101993,Complete,2024-02-03 06:06:28,Fund Account,Completed,7.7,
+STUE101996,In Progress,,Proof of Address,Started,8.1,
+STUE102004,Complete,2024-10-30 05:18:05,Fund Account,Completed,0.2,
+STUE102012,Complete,2025-03-16 19:03:10,Fund Account,Completed,8.1,
+STUE102017,Complete,2024-03-22 17:13:10,Fund Account,Completed,0.2,
+STUE102023,Abandoned,,Email Verification,Abandoned,9.8,Document Rejected
+STUE102035,In Progress,,Fund Account,Started,10.5,
+STUE102041,Complete,2025-03-11 07:40:11,Fund Account,Completed,5.4,
+STUE102046,Complete,2024-06-23 04:07:15,Fund Account,Completed,14.3,
+STUE102051,Complete,2024-03-14 18:45:58,Fund Account,Completed,4.7,
+STUE102060,Complete,2024-11-24 10:52:55,Fund Account,Completed,9.2,
+STUE102066,In Progress,,Identity Verification,Started,12.6,
+STUE102076,Complete,2024-12-08 19:01:25,Fund Account,Completed,8.7,
+STUE102084,Complete,2024-10-19 03:54:34,Fund Account,Completed,0.2,
+STUE102091,Complete,2024-10-27 18:16:28,Fund Account,Completed,6.5,
+STUE102097,Failed,,Personal Details,Failed,9.4,Bank Verification Failed
+STUE102106,Complete,2024-03-19 00:58:49,Fund Account,Completed,5.2,
+STUE102110,Complete,2024-07-28 23:11:37,Fund Account,Completed,4.0,
+STUE102118,In Progress,,Proof of Address,Started,9.6,
+STUE102124,Complete,2025-07-19 00:46:55,Fund Account,Completed,14.8,
+STUE102134,In Progress,,Bank Account Link,Started,10.5,
+STUE102136,Abandoned,,Fund Account,Abandoned,2.0,Address Not Verified
+STUE102142,Abandoned,,Proof of Address,Abandoned,0.2,Address Not Verified
+STUE102153,Failed,,Proof of Address,Failed,5.6,Bank Verification Failed
+STUE102162,Abandoned,,Fund Account,Abandoned,8.9,Bank Verification Failed
+STUE102163,Complete,2024-12-18 23:37:00,Fund Account,Completed,10.2,
+STUE102172,Complete,2024-11-04 13:44:53,Fund Account,Completed,1.5,
+STUE102183,Abandoned,,Bank Account Link,Abandoned,2.9,Document Rejected
+STUE102189,Complete,2024-10-20 00:41:46,Fund Account,Completed,19.7,
+STUE102194,Complete,2024-12-08 05:47:14,Fund Account,Completed,10.6,
+STUE102203,Abandoned,,Bank Account Link,Abandoned,3.8,Details Mismatch
+STUE102208,In Progress,,Personal Details,Started,9.6,
+STUE102216,Complete,2025-08-14 10:53:36,Fund Account,Completed,6.3,
+STUE102222,Complete,2025-01-29 01:21:25,Fund Account,Completed,19.4,
+STUE102232,Complete,2025-06-30 08:46:16,Fund Account,Completed,10.9,
+STUE102237,In Progress,,Bank Account Link,Started,6.4,
+STUE102246,Complete,2024-12-05 19:11:45,Fund Account,Completed,0.2,
+STUE102249,Complete,2025-08-15 17:13:12,Fund Account,Completed,13.4,
+STUE102260,Complete,2025-04-08 22:21:18,Fund Account,Completed,3.3,
+STUE102267,In Progress,,Identity Verification,Started,7.4,
+STUE102269,Abandoned,,Fund Account,Abandoned,2.7,Details Mismatch
+STUE102279,Complete,2024-01-10 17:41:38,Fund Account,Completed,3.6,
+STUE102287,Complete,2025-03-08 09:47:27,Fund Account,Completed,6.2,
+STUE102292,Abandoned,,Identity Verification,Abandoned,15.5,Details Mismatch
+STUE102297,Abandoned,,Identity Verification,Abandoned,14.4,Document Rejected
+STUE102304,In Progress,,Identity Verification,Started,15.3,
+STUE102315,Complete,2024-08-19 02:49:46,Fund Account,Completed,11.5,
+STUE102318,Complete,2024-05-13 10:28:01,Fund Account,Completed,0.2,
+STUE102330,Complete,2024-05-24 07:53:38,Fund Account,Completed,10.5,
+STUE102332,Complete,2024-03-25 00:09:35,Fund Account,Completed,0.2,
+STUE102344,Complete,2025-08-14 09:44:02,Fund Account,Completed,6.7,
+STUE102351,Complete,2024-10-28 22:55:22,Fund Account,Completed,0.2,
+STUE102357,In Progress,,Bank  Account  Link,Started,10.4,
+STUE102359,In Progress,,Personal Details,Started,0.5,
+STUE102368,Complete,2025-02-12 19:06:23,Fund Account,Completed,0.9,
+STUE102376,Complete,2024-07-23 09:10:22,Fund Account,Completed,1.2,
+STUE102382,Complete,2024-06-20 03:23:09,Fund Account,Completed,7.2,
+STUE102388,Complete,2025-03-22 07:42:49,Fund Account,Completed,1.1,
+STUE102394,Complete,2024-08-03 08:42:07,Fund Account,Completed,20.4,
+STUE102405,Complete,2024-09-01 16:11:58,Fund Account,Completed,5.8,
+STUE102411,Complete,2024-10-24 13:14:25,Fund Account,Completed,10.3,
+STUE102418,Failed,,Bank Account Link,Failed,6.0,Document Rejected
+STUE102424,Complete,2025-02-21 14:55:45,Fund Account,Completed,7.4,
+STUE102435,Complete,2024-11-28 06:28:58,Fund Account,Completed,7.5,
+STUE102440,Complete,2024-07-10 15:12:57,Fund Account,Completed,7.3,
+STUE102448,Complete,2024-01-04 05:08:24,Fund Account,Completed,10.2,
+STUE102453,Complete,2024-07-31 02:34:06,Fund Account,Completed,13.1,
+STUE102459,Complete,2024-12-10 12:38:07,Fund Account,Completed,10.5,
+STUE102468,Failed,,Identity Verification,Failed,5.5,ID Expired
+STUE102474,Complete,2024-11-23 11:03:52,FUND ACCOUNT,Completed,2.0,
+STUE102484,Complete,2025-06-08 12:26:59,Fund Account,Completed,11.4,
+STUE102489,Abandoned,,Bank Account Link,Abandoned,10.8,Session Timeout
+STUE102497,Complete,2024-05-31 19:41:35,Fund Account,Completed,19.7,
+STUE102505,Abandoned,,Proof of Address,Abandoned,7.6,ID Expired
+STUE102508,Complete,2024-11-09 00:54:47,Fund Account,Completed,14.5,
+STUE102513,Complete,2024-09-25 10:47:06,Fund Account,Completed,,
+STUE102522,Abandoned,,Email Verification,Abandoned,4.9,Document Rejected
+STUE102530,Abandoned,,Personal Details,Abandoned,3.7,Document Rejected
+STUE102536,Complete,2024-05-04 11:48:08,Fund Account,Completed,14.0,
+STUE102541,Complete,2024-03-23 05:21:21,Fund Account,Completed,2.5,
+STUE102553,Abandoned,,Fund Account,Abandoned,1.7,Poor Image Quality
+STUE102557,Abandoned,,Proof of Address,Abandoned,4.4,Document Rejected
+STUE102568,Abandoned,,Identity Verification,Abandoned,4.1,Session Timeout
+STUE102570,Abandoned,,Identity Verification,Abandoned,2.3,ID Expired
+STUE102576,Failed,,Identity Verification,Failed,0.2,Address Not Verified
+STUE102589,Complete,2025-03-08 15:30:32,Fund Account,Completed,2.1,
+STUE102595,Complete,2025-06-12 00:00:19,Fund Account,Completed,4.1,
+STUE102601,Complete,2025-03-13 04:20:06,Fund Account,Completed,7.0,
+STUE102605,Failed,,Bank Account Link,Failed,12.0,Document Rejected
+STUE102612,Failed,,Bank Account Link,Failed,10.7,Document Rejected
+STUE102620,Complete,2024-03-13 15:40:31,Fund Account,Completed,0.2,
+STUE102626,Abandoned,,Proof of Address,Abandoned,4.7,ID Expired
+STUE102638,Complete,2024-02-24 10:26:42,Fund Account,Completed,19.5,
+STUE102643,Failed,,Personal Details,Failed,12.5,Poor Image Quality
+STUE102648,Complete,2024-10-06 03:33:35,Fund Account,Completed,6.3,
+STUE102658,Complete,2024-06-02 09:04:30,Fund Account,Completed,9.0,
+STUE102665,Complete,2024-01-11 01:14:16,Fund Account,Completed,12.2,
+STUE102667,Abandoned,,Identity Verification,Abandoned,9.2,Address Not Verified
+STUE102675,Complete,2025-08-21 17:06:38,Fund Account,Completed,0.2,
+STUE102687,Complete,2025-06-13 11:56:55,Fund Account,Completed,9.4,
+STUE102689,Abandoned,,Personal Details,Abandoned,5.7,Address Not Verified
+STUE102695,Complete,2025-07-30 16:53:44,Fund Account,Completed,14.3,
+STUE102707,Failed,,Proof of Address,Failed,11.2,Bank Verification Failed
+STUE102715,Abandoned,,Email Verification,Abandoned,10.6,Document Rejected
+STUE102717,Complete,2024-08-18 19:02:09,Fund Account,Completed,4.7,
+STUE102723,Complete,2024-11-05 10:00:42,Fund Account,Completed,1.5,
+STUE102736,Complete,2025-05-06 15:57:14,Fund Account,Completed,7.4,
+STUE102741,Abandoned,,Bank  Account  Link,Abandoned,2.7,Document Rejected
+STUE102747,Complete,2025-02-28 03:18:26,Fund Account,Completed,0.7,
+STUE102752,Failed,,Personal Details,Failed,11.1,Address Not Verified
+STUE102763,In Progress,,Proof of Address,Started,14.8,
+STUE102767,Complete,2024-08-01 04:06:08,Fund Account,Completed,5.4,
+STUE102772,Complete,2024-07-21 17:29:02,Fund Account,Completed,15.2,
+STUE102784,Abandoned,,Personal Details,Abandoned,19.3,Poor Image Quality
+STUE102790,Complete,2024-11-28 11:03:45,Fund Account,Completed,8.6,
+STUE102798,In Progress,,Identity Verification,Started,12.5,
+STUE102804,Abandoned,,Identity Verification,Abandoned,9.8,Details Mismatch
+STUE102809,Failed,,Bank Account Link,Failed,12.3,Bank Verification Failed
+STUE102818,Complete,2024-04-02 07:42:59,Fund Account,Completed,8.7,
+STUE102822,Complete,2024-06-12 11:16:20,Fund Account,Completed,7.2,
+STUE102828,Complete,2024-05-12 19:21:30,Fund Account,Completed,3.7,
+STUE102836,In Progress,,Identity Verification,Started,10.0,
+STUE102842,Failed,,Personal Details,Failed,7.3,Bank Verification Failed
+STUE102854,Complete,2024-11-20 11:35:04,Fund Account,Completed,12.3,
+STUE102856,Complete,2024-07-11 00:29:18,Fund Account,Completed,7.3,
+STUE102867,Complete,2024-10-14 15:07:48,Fund Account,Completed,4.1,
+STUE102875,Complete,2025-05-20 15:35:39,Fund Account,Completed,4.9,
+STUE102880,In Progress,,Identity Verification,Started,6.8,
+STUE102885,Complete,2024-02-25 02:14:14,Fund Account,Completed,21.5,
+STUE102893,In Progress,,Proof of Address,Started,5.4,
+STUE102898,Failed,,Email Verification,failed,5.0,Document Rejected
+STUE102908,Complete,2024-04-12 16:57:21,Fund Account,Completed,4.8,
+STUE102912,Failed,,Identity Verification,Failed,14.8,Session Timeout
+STUE102924,Complete,2024-07-09 10:25:34,Fund Account,Completed,2.9,
+STUE102926,In Progress,,Bank Account Link,Started,7.1,
+STUE102935,In Progress,,Bank Account Link,Started,0.2,
+STUE102941,Abandoned,,Email Verification,Abandoned,0.2,Poor Image Quality
+STUE102950,Complete,2024-06-24 23:02:50,Fund Account,Completed,0.2,
+STUE102960,In Progress,,Fund Account,Started,9.6,
+STUE102962,Complete,2024-06-02 21:40:26,Fund Account,Completed,0.6,
+STUE102969,Failed,,Proof of Address,Failed,7.0,Session Timeout
+STUE102976,Failed,,Bank Account Link,Failed,70.03,Session Timeout
+STUE102988,Abandoned,,Bank Account Link,Abandoned,6.5,Poor Image Quality
+STUE102991,Failed,,Proof of Address,Failed,6.5,ID Expired
+STUE102998,Complete,2025-04-11 16:19:08,Fund Account,Completed,6.0,
+STUE103005,Complete,2024-09-16 13:02:49,Fund Account,Completed,10.5,
+STUE103014,Complete,2025-02-08 14:43:55,Fund Account,Completed,4.1,
+STUE103020,Complete,2025-08-20 22:36:15,Fund Account,Completed,7.6,
+STUE103028,Complete,2025-02-03 21:19:46,Fund Account,Completed,12.3,
+STUE103033,Complete,2024-09-20 15:32:08,Fund Account,Completed,7.1,
+STUE103039,In Progress,,Proof of Address,Started,12.7,
+STUE103050,Failed,,Personal Details,Failed,7.1,Document Rejected
+STUE103057,Abandoned,,Proof of Address,Abandoned,8.0,Document Rejected
+STUE103063,Failed,,Bank Account Link,Failed,6.5,Session Timeout
+STUE103066,Complete,2024-08-09 11:07:37,Fund Account,Completed,9.6,
+STUE103073,Complete,2024-11-08 15:24:12,Fund Account,Completed,2.9,
+STUE103081,Complete,2024-01-05 17:50:41,Fund Account,Completed,5.5,
+STUE103087,Complete,2024-08-09 14:27:40,Fund Account,Completed,1.0,
+STUE103097,Complete,2024-10-24 10:12:52,Fund Account,Completed,7.1,
+STUE103101,In Progress,,Proof of Address,Started,7.1,
+STUE103112,Complete,2024-04-27 18:33:12,Fund Account,Completed,0.2,
+STUE103115,Abandoned,,Identity Verification,Abandoned,10.3,Bank Verification Failed
+STUE103123,Complete,2025-03-16 00:16:38,Fund Account,Completed,1.1,
+STUE103132,Complete,2025-01-16 06:37:12,Fund Account,Completed,12.5,
+STUE103138,Complete,2024-11-12 01:37:07,Fund Account,Completed,8.7,
+STUE103149,Failed,,Email Verification,Failed,14.7,Address Not Verified
+STUE103154,Complete,2024-05-08 02:47:18,Fund Account,Completed,1.2,
+STUE103160,Complete,2024-02-15 03:30:50,Fund Account,Completed,3.5,
+STUE103167,Abandoned,,Identity Verification,Abandoned,15.3,Bank Verification Failed
+STUE103174,In Progress,,Personal Details,Started,12.7,
+STUE103184,In Progress,,Bank Account Link,Started,6.7,
+STUE103186,Abandoned,,Bank Account Link,Abandoned,8.7,Poor Image Quality
+STUE103193,Complete,2025-02-03 06:57:02,Fund Account,Completed,8.2,
+STUE103204,Complete,2024-03-16 22:48:09,Fund Account,Completed,18.3,
+STUE103208,Complete,2024-03-03 07:13:42,Fund Account,Completed,8.4,
+STUE103216,Complete,2025-07-08 09:49:26,Fund Account,Completed,15.7,
+STUE103224,Complete,2024-10-22 22:59:16,Fund Account,Completed,3.5,
+STUE103228,Failed,,Proof of Address,Failed,8.4,Address Not Verified
+STUE103234,Complete,2024-04-21 08:31:00,Fund Account,Completed,1.2,
+STUE103241,Complete,2025-03-21 05:06:29,Fund Account,Completed,0.2,
+STUE103253,Failed,,Email Verification,Failed,11.6,Session Timeout
+STUE103261, Abandoned ,,Bank Account Link,Abandoned,6.0,Details Mismatch
+STUE103262,Failed,,Proof of Address,Failed,7.0,Address Not Verified
+STUE103274,In Progress,,Bank Account Link,Started,0.2,
+STUE103280,In Progress,,Identity Verification,Started,16.4,
+STUE103286,In Progress,,Identity Verification,Started,3.8,
+STUE103290,Complete,2024-02-02 14:04:16,Fund Account,Completed,11.8,
+STUE103301,Abandoned,,Proof of Address,Abandoned,7.4,Poor Image Quality
+STUE103309,In Progress,,Email Verification,Started,2.8,
+STUE103317,Complete,2024-08-15 09:27:05,Fund Account,Completed,,
+STUE103323,Abandoned,,Identity Verification,Abandoned,4.7,Details Mismatch
+STUE103326,In Progress,,Proof of Address,Started,6.4,
+STUE103333,Abandoned,,Bank Account Link,Abandoned,7.3,Session Timeout
+STUE103343,Complete,2025-06-02 23:28:20,Fund Account,Completed,2.8,
+STUE103348,Abandoned,,Identity Verification,Abandoned,14.6,ID Expired
+STUE103354,Abandoned,,Proof of Address,Abandoned,4.8,Address Not Verified
+STUE103366,Abandoned,,Bank Account Link,Abandoned,6.8,Address Not Verified
+STUE103369,Complete,2024-03-01 19:48:17,Fund Account,Completed,11.9,
+STUE103375,Complete,2025-01-27 22:08:15,Fund Account,Completed,8.6,
+STUE103386,In Progress,,Personal Details,Started,10.1,
+STUE103391,Complete,2024-04-22 23:28:10,Fund Account,Completed,6.2,
+STUE103401,Abandoned,,Personal Details,Abandoned,9.1,Session Timeout
+STUE103404,Complete,2024-04-08 04:33:10,Fund Account,Completed,8.8,
+STUE103411,Complete,2024-04-09 03:41:08,Fund Account,Completed,5.4,
+STUE103417,Complete,2024-08-03 06:26:37,Fund Account,Completed,11.0,
+STUE103425,Complete,2024-12-12 15:59:29,Fund Account,Completed,6.4,
+STUE103435,Failed,,Personal Details,Failed,7.3,Bank Verification Failed
+STUE103441,Abandoned,,Identity Verification,Abandoned,6.4,Poor Image Quality
+STUE103448,Complete,2024-06-14 05:28:46,Fund Account,Completed,52.16,
+STUE103457,Failed,,Proof of Address,Failed,4.1,Details Mismatch
+STUE103459,Complete,2024-02-23 21:30:55,Fund Account,Completed,5.6,
+STUE103470,Abandoned,,Identity Verification,Abandoned,5.3,Document Rejected
+STUE103475,In Progress,,Email Verification,Started,11.8,
+STUE103481,Complete,2024-02-16 12:17:56,Fund Account,Completed,7.6,
+STUE103488,Complete,2025-03-05 14:26:23,Fund Account,Completed,2.6,
+STUE103499,In Progress,,Identity Verification,Started,17.8,
+STUE103500,In Progress,,Identity Verification,Started,4.4,
+STUE103508,Complete,2024-12-17 18:00:25,Fund Account,Completed,16.6,
+STUE103514,Complete,2025-01-31 20:15:16,Fund Account,Completed,9.8,
+STUE103526,Failed,,Email Verification,Failed,15.8,Bank Verification Failed
+STUE103529,Complete,2024-11-15 20:00:07,Fund Account,Completed,10.1,
+STUE103538,Abandoned,,Proof of Address,Abandoned,8.9,Bank Verification Failed
+STUE103543,In Progress,,Fund Account,Started,6.3,
+STUE103553,Complete,2025-06-08 14:50:35,Fund Account,Completed,4.3,
+STUE103556,Complete,2024-02-23 07:32:25,Fund Account,Completed,1.5,
+STUE103568,Complete,2025-01-18 10:58:01,Fund Account,Completed,4.8,
+STUE103571,Complete,2024-05-21 13:22:43,Fund Account,Completed,0.2,
+STUE103580,Complete,2024-12-19 12:55:09,Fund Account,Completed,14.9,
+STUE103586,Complete,2025-05-16 05:51:44,Fund Account,Completed,1.5,
+STUE103596,Complete,2024-06-28 16:27:21,Fund Account,Completed,7.8,
+STUE103600,In Progress,,Bank Account Link,Started,21.1,
+STUE103608,Complete,2025-06-21 00:08:51,Fund Account,Completed,8.2,
+STUE103612,Abandoned,,Proof of Address,Abandoned,4.9,Session Timeout
+STUE103622,Abandoned,,Proof of Address,Abandoned,,ID Expired
+STUE103631,Complete,2025-02-21 09:46:30,Fund Account,Completed,5.3,
+STUE103633,In Progress,,Bank Account Link,Started,9.5,
+STUE103640,Failed,,Bank Account Link,Failed,0.5,ID Expired
+STUE103652,Complete,2025-05-29 01:23:06,Fund Account,Completed,17.1,
+STUE103655,Abandoned,,Identity Verification,Abandoned,9.5,Address Not Verified
+STUE103661,Complete,2025-03-01 01:52:50,Fund Account,Completed,10.9,
+STUE103674,Complete,2024-12-02 18:23:20,Fund Account,Completed,9.7,
+STUE103679,Complete,2025-05-24 00:08:13,Fund Account,Completed,9.5,
+STUE103684,Complete,2025-03-20 10:15:04,Fund Account,Completed,0.2,
+STUE103691,Complete,2024-04-11 06:14:08,Fund Account,Completed,4.7,
+STUE103696,In Progress,,personal details,Started,0.6,
+STUE103704,Complete,2025-08-18 02:32:17,Fund Account,Completed,8.6,
+STUE103716,Complete,2025-01-06 22:26:55,Fund Account,Completed,2.9,
+STUE103720,In Progress,,Personal Details,Started,3.2,
+STUE103727,In Progress,,Identity Verification,Started,192.36,
+STUE103732,Complete,2025-03-12 12:32:13,Fund Account,Completed,9.4,
+STUE103743,Abandoned,,Proof of Address,Abandoned,13.1,Document Rejected
+STUE103748,Abandoned,,Proof of Address,Abandoned,5.7,Document Rejected
+STUE103756,Complete,2025-06-02 18:31:24,Fund Account,Completed,0.3,
+STUE103765,Complete,2024-01-24 00:12:19,Fund Account,Completed,14.4,
+STUE103767,Failed,,Bank Account Link,Failed,7.0,Details Mismatch
+STUE103774,Abandoned,,Identity Verification,Abandoned,2.1,Bank Verification Failed
+STUE103785,Complete,2024-08-28 02:56:05,Fund Account,Completed,3.2,
+STUE103789,Complete,2024-06-15 10:07:11,Fund Account,Completed,3.2,
+STUE103796,Complete,2025-05-01 19:13:05,Fund Account,Completed,10.2,
+STUE103807,Complete,2024-02-22 19:03:11,Fund Account,Completed,10.7,
+STUE103810,Abandoned,,Proof of Address,Abandoned,9.3,Address Not Verified
+STUE103819,Abandoned,,Identity Verification,Abandoned,24.4,Document Rejected
+STUE103827,Failed,,Identity Verification,Failed,5.4,Bank Verification Failed
+STUE103829,Abandoned,,Fund Account,Abandoned,7.3,ID Expired
+STUE103838,Abandoned,,Fund Account,Abandoned,9.6,Document Rejected
+STUE103847,Complete,2024-09-09 06:17:57,Fund Account,Completed,4.7,
+STUE103851,Complete,2025-05-17 20:28:49,Fund Account,Completed,3.9,
+STUE103857,Complete,2025-08-22 11:29:51,Fund Account,Completed,0.2,
+STUE103864,Abandoned,,Identity Verification,Abandoned,4.6,Address Not Verified
+STUE103873,Complete,2025-06-06 17:26:29,Fund Account,Completed,10.0,
+STUE103882,Complete,2025-03-11 00:46:45,Fund Account,Completed,13.2,
+STUE103885,Abandoned,,Bank Account Link,Abandoned,11.6,Details Mismatch
+STUE103895,Complete,2024-09-06 11:19:43,Fund Account,Completed,5.3,
+STUE103904,Complete,2024-06-30 06:54:49,Fund Account,Completed,7.7,
+STUE103909,Complete,2024-09-01 09:13:04,Fund Account,Completed,6.6,
+STUE103916,Complete,2025-04-22 13:10:43,Fund Account,Completed,8.0,
+STUE103925,Complete,2024-06-05 15:46:19,Fund Account,Completed,8.2,
+STUE103930,Complete,2024-01-29 17:02:46,Fund Account,Completed,13.9,
+STUE103935,Complete,2025-08-06 18:20:37,Fund Account,Completed,13.1,
+STUE103947,In Progress,,Bank Account Link,Started,14.1,
+STUE103949,Complete,2025-03-18 11:19:06,Fund Account,Completed,6.2,
+STUE103957,Abandoned,,Proof of Address,Abandoned,6.5,Session Timeout
+STUE103968,Complete,2025-02-03 17:39:00,Fund Account,Completed,6.9,
+STUE103969,Complete,2025-08-11 20:53:33,Fund Account,Completed,3.8,
+STUE103981,In Progress,,Proof of Address,Started,6.0,
+STUE103985,Complete,2024-07-02 15:34:10,Fund Account,Completed,6.4,
+STUE103991,Failed,,Bank Account Link,Failed,4.7,Session Timeout
+STUE103997,Complete,2025-03-09 22:45:35,Fund Account,Completed,2.5,
+STUE104007,Failed,,Bank Account Link,Failed,11.8,Bank Verification Failed
+STUE104014,Complete,2024-07-09 14:43:28,Fund Account,Completed,8.2,
+STUE104022,Failed,,Email Verification,Failed,10.4,Details Mismatch
+STUE104031,Abandoned,,Bank Account Link,Abandoned,0.5,Address Not Verified
+STUE104038,In Progress,,Personal Details,Started,10.2,
+STUE104045,Failed,,Proof of Address,Failed,12.7,Session Timeout
+STUE104051,Complete,2025-08-21 14:39:04,Fund Account,Completed,15.5,
+STUE104059,Abandoned,,Proof of Address,Abandoned,13.6,Bank Verification Failed
+STUE104063,Complete,2025-08-02 02:30:37,Fund Account,Completed,6.5,
+STUE104071,Complete,2024-04-23 11:19:24,Fund Account,Completed,,
+STUE104079,Complete,2025-08-11 12:53:34,Fund Account,Completed,4.9,
+STUE104085,Complete,2024-09-06 23:01:54,Fund Account,Completed,4.9,
+STUE104092,Complete,2025-03-01 22:59:27,Fund Account,Completed,7.0,
+STUE104096,Abandoned,,Bank Account Link,Abandoned,0.6,Session Timeout
+STUE104104,Abandoned,,Identity Verification,Abandoned,1.5,Details Mismatch
+STUE104114,In Progress,,Email Verification,Started,10.1,
+STUE104121,Abandoned,,Email Verification,Abandoned,5.4,Address Not Verified
+STUE104127,In Progress,,Email Verification,Started,17.1,
+STUE104135,Complete,2024-07-09 14:04:01,Fund Account,Completed,6.3,
+STUE104139,In Progress,,Email Verification,Started,8.7,
+STUE104148,Complete,2024-07-13 03:29:16,Fund Account,Completed,2.6,
+STUE104153,Failed,,Personal Details,Failed,7.5,ID Expired
+STUE104161,Abandoned,,Bank Account Link,Abandoned,15.6,Details Mismatch
+STUE104165,Complete,2024-02-22 09:06:24,Fund Account,Completed,10.6,
+STUE104172,Abandoned,,Bank Account Link,Abandoned,13.1,Poor Image Quality
+STUE104179,Complete,2024-11-14 21:05:37,Fund Account,Completed,13.4,
+STUE104189,In Progress,,Bank Account Link,Started,0.2,
+STUE104197,Complete,2024-11-09 06:13:24,Fund Account,Completed,2.5,
+STUE104203,In Progress,,Bank Account Link,Started,9.3,
+STUE104213,In Progress,,Personal Details,Started,10.9,
+STUE104217,Failed,,identity verification,Failed,0.2,Address Not Verified
+STUE104223,Complete,2024-03-21 02:51:21,Fund Account,Completed,3.9,
+STUE104233,In Progress,,Identity Verification,Started,13.3,
+STUE104236,Complete,2025-01-27 13:56:44,Fund Account,Completed,9.5,
+STUE104243,Failed,,Fund Account,Failed,5.2,Document Rejected
+STUE104250,Complete,2024-11-02 21:40:21,Fund Account,Completed,11.6,
+STUE104259,Complete,2025-01-08 04:32:42,Fund Account,Completed,3.3,
+STUE104264,Complete,2024-09-18 19:19:30,Fund Account,Completed,14.6,
+STUE104275,Complete,2024-03-07 14:46:39,Fund Account,Completed,15.0,
+STUE104278,Complete,2025-02-25 13:44:46,Fund Account,Completed,6.4,
+STUE104289,Failed,,Personal Details,Failed,16.1,Document Rejected
+STUE104294,Abandoned,,Personal Details,Abandoned,7.7,Session Timeout
+STUE104304,Abandoned,,Bank Account Link,Abandoned,7.9,Bank Verification Failed
+STUE104305,Complete,2025-08-12 13:33:41,Fund Account,Completed,10.4,
+STUE104314,Complete,2024-04-23 01:22:38,Fund Account,Completed,4.5,
+STUE104324,In Progress,,Identity Verification,Started,4.7,
+STUE104327,In Progress,,Bank Account Link,Started,5.1,
+STUE104336,Complete,2024-07-11 21:21:34,Fund Account,Completed,9.4,
+STUE104342,Complete,2024-04-09 09:55:56,Fund Account,Completed,6.9,
+STUE104348,Complete,2025-08-16 19:27:36,Fund Account,Completed,0.2,
+STUE104358,Failed,,Proof of Address,Failed,9.4,Document Rejected
+STUE104362,Complete,2024-10-26 19:47:41,Fund Account,Completed,10.5,
+STUE104369,Complete,2024-12-05 03:38:27,Fund Account,Completed,10.3,
+STUE104377,Complete,2025-04-29 12:51:16,Fund Account,Completed,0.2,
+STUE104387,Complete,2025-03-27 03:55:30,Fund Account,Completed,5.5,
+STUE104389,Abandoned,,Email Verification,Abandoned,2.1,Session Timeout
+STUE104397,Complete,2025-08-19 20:03:30,Fund Account,Completed,10.2,
+STUE104407,Complete,2024-06-11 23:50:19,Fund Account,Completed,5.7,
+STUE104416,Abandoned,,Identity Verification,Abandoned,11.8,Session Timeout
+STUE104421,In Progress,,Proof of Address,Started,17.6,
+STUE104430,Abandoned,,Bank Account Link,Abandoned,9.7,Details Mismatch
+STUE104435,In Progress,,Fund Account,Started,,
+STUE104438,In Progress,,Identity Verification,Started,,
+STUE104448,Failed,,Bank Account Link,Failed,6.6,ID Expired
+STUE104457,In Progress,,Fund Account,Started,4.1,
+STUE104463,Complete,2024-05-07 05:49:16,Fund Account,Completed,6.2,
+STUE104469,In Progress,,Proof of Address,Started,3.1,
+STUE104478,Complete,2025-04-15 10:37:55,Fund Account,Completed,11.3,
+STUE104481,Complete,2025-06-15 04:48:52,Fund Account,Completed,6.0,
+STUE104487,Abandoned,,Identity Verification,Abandoned,0.2,ID Expired
+STUE104498,Complete,2025-01-27 06:38:10,Fund Account,Completed,2.5,
+STUE104507,Abandoned,,Personal Details,Abandoned,17.6,Session Timeout
+STUE104512,Abandoned,,Fund Account,Abandoned,6.8,Session Timeout
+STUE104516,Complete,2024-04-29 19:33:22,Fund Account,Completed,10.7,
+STUE104522,Abandoned,,Email Verification,Abandoned,14.2,ID Expired
+STUE104532,Complete,2025-04-14 11:50:56,Fund Account,Completed,9.6,
+STUE104537,Complete,2025-06-29 12:50:07,Fund Account,Completed,11.2,
+STUE104546,Complete,2024-03-10 00:24:59,Fund Account,Completed,4.5,
+STUE104554,Complete,2025-01-07 01:41:31,Fund Account,Completed,9.2,
+STUE104557,Complete,2024-03-05 14:13:09,Fund Account,Completed,1.3,
+STUE104568,Complete,2025-02-21 11:50:59,Fund Account,Completed,7.1,
+STUE104573,Abandoned,,Identity Verification,Abandoned,1.3,Details Mismatch
+STUE104584,Complete,2024-09-07 14:26:15,Fund Account,Completed,12.7,
+STUE104589,Complete,2024-06-21 13:39:16,Fund Account,Completed,10.5,
+STUE104596,Complete,2025-05-27 07:17:47,Fund Account,Completed,12.7,
+STUE104605,Failed,,Personal Details,Failed,8.9,ID Expired
+STUE104612,Failed,,Identity Verification,Failed,16.8,Address Not Verified
+STUE104617,Complete,2025-05-18 06:28:11,Fund Account,Completed,1.3,
+STUE104624,Complete,2024-03-05 18:58:32,Fund Account,Completed,16.3,
+STUE104627,In Progress,,Proof of Address,Started,15.0,
+STUE104635,Abandoned,,Identity Verification,Abandoned,11.8,Session Timeout
+STUE104645,Complete,2024-06-13 18:23:02,Fund Account,Completed,2.2,
+STUE104652,Complete,2025-06-18 00:02:32,Fund Account,Completed,2.9,
+STUE104657,Complete,2025-07-26 00:55:24,Fund Account,Completed,2.1,
+STUE104667,Complete,2024-01-12 00:53:23,Fund Account,Completed,10.7,
+STUE104672,Abandoned,,Identity Verification,Abandoned,9.7,ID Expired
+STUE104678,Complete,2024-08-06 17:08:37,Fund Account,Completed,12.6,
+STUE104684,In Progress,,Proof of Address,Started,0.2,
+STUE104695,Abandoned,,Personal Details,Abandoned,17.0,Details Mismatch
+STUE104698,Abandoned,,Bank Account Link,Abandoned,,Bank Verification Failed
+STUE104709,Complete,2024-11-17 04:42:17,Fund Account,Completed,10.3,
+STUE104715,Abandoned,,Identity Verification,Abandoned,2.6,ID Expired
+STUE104720,Complete,2024-10-23 09:10:10,Fund Account,Completed,8.6,
+STUE104731,Failed,,Identity Verification,Failed,12.1,Details Mismatch
+STUE104733,Abandoned,,Proof of Address,Abandoned,16.3,ID Expired
+STUE104743,Complete,2025-01-09 22:17:05,Fund Account,Completed,9.8,
+STUE104752,Failed,,Identity Verification,Failed,5.2,Document Rejected
+STUE104758,Complete,2025-05-12 20:03:26,Fund Account,Completed,9.8,
+STUE104765,In Progress,,Email Verification,Started,10.8,
+STUE104770,Complete,2025-07-06 17:02:39,Fund Account,Completed,5.6,
+STUE104779,Complete,2024-04-21 01:48:34,Fund Account,Completed,7.6,
+STUE104787,Failed,,Identity Verification,Failed,7.0,Session Timeout
+STUE104790,Complete,2025-02-14 06:09:04,Fund Account,Completed,0.2,
+STUE104800,In Progress,,Personal Details,Started,18.2,
+STUE104805,Failed,,Personal Details,Failed,6.9,Address Not Verified
+STUE104814,Complete,2024-05-25 17:17:59,Fund Account,Completed,3.2,
+STUE104816,Complete,2024-01-29 15:42:18,Fund Account,Completed,0.2,
+STUE104829,Complete,2024-12-23 13:09:27,Fund Account,Completed,3.1,
+STUE104831,In Progress,,Personal Details,Started,8.2,
+STUE104840,Abandoned,,Identity Verification,Abandoned,0.2,ID Expired
+STUE104846,Complete,2024-01-20 13:53:36,Fund Account,Completed,5.2,
+STUE104852,Abandoned,,Proof of Address,Abandoned,14.4,Details Mismatch
+STUE104862,Complete,2025-05-04 20:39:43,Fund Account,Completed,4.6,
+STUE104870,Failed,,Proof of Address,Failed,0.2,Bank Verification Failed
+STUE104875,Abandoned,,Proof of Address,Abandoned,,Address Not Verified
+STUE104882,Complete,2024-09-22 04:42:46,Fund Account,Completed,9.5,
+STUE104886,Abandoned,,Fund Account,Abandoned,3.7,Poor Image Quality
+STUE104895,Abandoned,,Proof of Address,Abandoned,7.4,Session Timeout
+STUE104901,Complete,2024-02-12 14:32:52,Fund Account,Completed,6.3,
+STUE104913,Complete,2024-06-15 15:18:35,Fund Account,Completed,2.2,
+STUE104916,Complete,2024-01-20 21:18:42,Fund Account,Completed,13.8,
+STUE104926,complete,2024-06-08 05:11:24,Fund Account,Completed,11.2,
+STUE104931,Complete,2024-09-06 20:48:43,Fund Account,Completed,0.2,
+STUE104941,Complete,2025-08-25 09:51:49,Fund Account,Completed,2.8,
+STUE104942,Abandoned,,Identity Verification,Abandoned,5.9,Details Mismatch
+STUE104951,Abandoned,,Personal Details,Abandoned,11.9,Document Rejected
+STUE104957,In Progress,,Personal Details,Started,7.0,
+STUE104964,Complete,2024-01-14 04:35:18,Fund Account,Completed,8.2,
+STUE104976,Abandoned,,Proof of Address,Abandoned,9.1,Poor Image Quality
+STUE104979,Abandoned,,Bank Account Link,Abandoned,5.7,Details Mismatch
+STUE104989,In Progress,,Bank Account Link,Started,10.1,
+STUE104995,Abandoned,,Proof of Address,Abandoned,9.9,Address Not Verified
+STUE105000,Abandoned,,Identity Verification,Abandoned,4.2,Bank Verification Failed
+STUE105009,Complete,2024-08-10 21:14:06,Fund Account,Completed,5.8,
+STUE105014,Complete,2025-08-24 11:28:18,Fund Account,Completed,5.7,
+STUE105019,Failed,,Email Verification,Failed,2.7,Bank Verification Failed
+STUE105029,Complete,2024-01-31 22:37:23,Fund Account,Completed,5.8,
+STUE105039,Complete,2024-03-02 00:20:05,Fund Account,Completed,0.2,
+STUE105040,Complete,2025-05-26 08:01:31,Fund Account,Completed,8.6,
+STUE105052,Complete,2025-01-22 08:52:49,Fund Account,Completed,14.8,
+STUE105060,Complete,2025-05-05 07:45:50,Fund Account,Completed,0.2,
+STUE105065,Complete,2024-03-27 23:31:42,Fund Account,Completed,14.4,
+STUE105068,In Progress,,Bank Account Link,Started,5.4,
+STUE105078,Complete,2025-02-21 05:48:17,Fund Account,Completed,0.4,
+STUE105086,In Progress,,Email Verification,Started,8.4,
+STUE105089,Complete,2025-04-05 08:52:37,Fund Account,Completed,13.1,
+STUE105097,Failed,,Identity Verification,Failed,4.5,Details Mismatch
+STUE105105,Complete,2025-01-14 19:32:35,Fund Account,Completed,11.4,
+STUE105112,Complete,2025-03-23 22:34:48,Fund Account,Completed,0.2,
+STUE105118,In Progress,,Bank Account Link,Started,3.9,
+STUE105128,Complete,2024-02-11 10:57:23,Fund Account,Completed,11.3,
+STUE105134,In Progress,,Identity Verification,Started,13.2,
+STUE105144,Complete,2025-03-08 13:26:12,Fund Account,Completed,9.8,
+STUE105145,Failed,,Bank Account Link,Failed,2.3,ID Expired
+STUE105155,Complete,2024-10-11 14:53:31,Fund Account,Completed,13.6,
+STUE105163,Complete,2024-04-02 05:01:31,Fund Account,Completed,0.2,
+STUE105169,Complete,2024-05-28 12:47:02,Fund Account,Completed,0.2,
+STUE105179,Complete,2025-02-08 05:25:29,Fund Account,Completed,7.1,
+STUE105185,Complete,2024-08-15 21:41:21,Fund Account,Completed,3.3,
+STUE105193,Complete,2024-03-31 02:01:55,Fund Account,Completed,2.5,
+STUE105195,In Progress,,Bank Account Link,Started,2.8,
+STUE105207,Complete,2024-04-26 00:22:13,Fund Account,Completed,11.2,
+STUE105214,In Progress,,Personal Details,Started,3.9,
+STUE105218,Complete,2025-08-17 10:05:18,Fund Account,Completed,12.6,
+STUE105224,Complete,2024-03-23 16:33:04,Fund Account,Completed,10.0,
+STUE105230,Complete,2025-05-31 11:26:52,Fund Account,Completed,5.2,
+STUE105239,In Progress,,Proof of Address,Started,9.1,
+STUE105249,In Progress,,Proof of Address,Started,2.8,
+STUE105256,Abandoned,,Proof of Address,Abandoned,21.1,Details Mismatch
+STUE105263,Complete,2025-01-03 22:41:23,Fund Account,Completed,4.9,
+STUE105268,Failed,,Proof of Address,Failed,2.8,Bank Verification Failed
+STUE105271,Complete,2025-05-21 07:36:45,Fund Account,Completed,0.2,
+STUE105279,Complete,2024-10-29 08:51:02,Fund Account,Completed,10.8,
+STUE105286,Complete,2024-07-03 03:17:01,Fund Account,Completed,11.5,
+STUE105296,Abandoned,,Personal Details,Abandoned,8.4,Bank Verification Failed
+STUE105301,Complete,2024-03-03 12:30:54,Fund Account,Completed,0.2,
+STUE105306,Abandoned,,Identity Verification,Abandoned,0.2,ID Expired
+STUE105316,Failed,,Bank Account Link,Failed,5.4,Details Mismatch
+STUE105326,Abandoned,,Bank Account Link,Abandoned,9.6,Session Timeout
+STUE105332,Complete,2024-11-24 03:46:50,Fund Account,Completed,3.7,
+STUE105339,Complete,2025-07-24 09:26:41,Fund Account,Completed,9.4,
+STUE105342,Abandoned,,Personal Details,Abandoned,8.3,ID Expired
+STUE105351,Abandoned,,Proof of Address,Abandoned,19.4,Details Mismatch
+STUE105358,Failed,,Identity Verification,Failed,12.7,Details Mismatch
+STUE105363,Failed,,Proof of Address,Failed,8.2,Session Timeout
+STUE105374,In Progress,,Personal Details,Started,0.2,
+STUE105377,Complete,2025-01-07 22:42:05,Fund Account,Completed,9.3,
+STUE105383,Abandoned,,Personal Details,Abandoned,4.1,Session Timeout
+STUE105390,Complete,2024-05-12 05:14:10,Fund Account,Completed,23.9,
+STUE105402,Failed,,Fund Account,Failed,5.7,Details Mismatch
+STUE105408,Failed,,Identity Verification,Failed,11.3,Poor Image Quality
+STUE105415,Failed,,Bank Account Link,Failed,13.4,Bank Verification Failed
+STUE105421,Complete,2025-06-02 00:36:55,Fund Account,Completed,7.8,
+STUE105426,In Progress,,Personal Details,Started,1.2,
+STUE105436,Complete,2024-03-12 02:46:56,Fund Account,Completed,7.3,
+STUE105443,Complete,2025-06-26 04:31:29,Fund Account,Completed,3.7,
+STUE105446,Failed,,Personal Details,Failed,7.0,ID Expired
+STUE105456,In Progress,,Personal Details,Started,15.2,
+STUE105461,Complete,2024-06-20 10:51:43,Fund Account,Completed,10.7,
+STUE105470,Complete,2024-10-31 02:17:48,Fund Account,Completed,9.7,
+STUE105479,Complete,2025-02-15 19:49:26,Fund Account,Completed,19.5,
+STUE105484,Complete,2024-10-13 00:40:17,Fund Account,Completed,9.3,
+STUE105488,Abandoned,,Identity Verification,Abandoned,2.3,Bank Verification Failed
+STUE105498,Failed,,Bank Account Link,Failed,8.4,Document Rejected
+STUE105506,Failed,,Identity Verification,Failed,2.4,Bank Verification Failed
+STUE105513,Failed,,Identity Verification,Failed,10.9,Bank Verification Failed
+STUE105518,Complete,2025-03-21 16:06:15,Fund Account,Completed,10.8,
+STUE105525,Complete,2024-12-27 18:38:34,Fund Account,Completed,4.1,
+STUE105536,Complete,2025-06-24 07:45:06,Fund Account,Completed,0.2,
+STUE105540,Failed,,Identity Verification,Failed,3.3,Poor Image Quality
+STUE105545,Failed,,Personal Details,Failed,7.6,ID Expired
+STUE105555,Failed,,Personal Details,Failed,7.9,Document Rejected
+STUE105564,Complete,2024-07-06 07:04:20,Fund Account,Completed,4.9,
+STUE105570,In Progress,,Fund Account,Started,13.9,
+STUE105573,Complete,2024-01-31 06:26:33,Fund Account,Completed,8.1,
+STUE105582,Failed,,PROOF OF ADDRESS,Failed,4.6,ID Expired
+STUE105589,Failed,,Identity Verification,Failed,0.2,Poor Image Quality
+STUE105596,Complete,2024-04-03 14:04:22,Fund Account,Completed,15.5,
+STUE105604,Complete,2025-08-29 22:38:57,Fund Account,Completed,4.9,
+STUE105608,Complete,2024-08-30 07:52:28,Fund Account,Completed,3.7,
+STUE105614,Complete,2024-05-07 15:13:08,Fund Account,Completed,11.0,
+STUE105625,Complete,2025-07-31 21:51:36,Fund Account,Completed,7.1,
+STUE105631,In Progress,,Proof of Address,Started,1.6,
+STUE105636,Complete,2024-10-10 19:03:55,Fund Account,Completed,11.0,
+STUE105646,In Progress,,Identity Verification,Started,10.5,
+STUE105650,Complete,2024-03-08 22:51:07,Fund Account,Completed,1.8,
+STUE105659,Complete,2024-04-07 08:25:08,Fund Account,Completed,8.9,
+STUE105666,Failed,,Identity Verification,failed,10.1,Session Timeout
+STUE105675,Abandoned,,Proof of Address,Abandoned,16.6,Details Mismatch
+STUE105683,Failed,,Fund Account,Failed,8.7,Session Timeout
+STUE105690,In Progress,,Bank Account Link,Started,10.4,
+STUE105696,In Progress,,Bank Account Link,Started,11.1,
+STUE105699,Complete,2024-11-18 04:22:14,Fund Account,Completed,5.2,
+STUE105710,Abandoned,,Identity Verification,Abandoned,12.6,ID Expired
+STUE105718,Failed,,Proof of Address,Failed,7.7,Bank Verification Failed
+STUE105725,Complete,2024-02-03 13:18:19,Fund Account,Completed,5.5,
+STUE105730,Abandoned,,Bank Account Link,Abandoned,6.6,Details Mismatch
+STUE105734,Abandoned,,Personal Details,Abandoned,2.9,ID Expired
+STUE105742,Abandoned,,Proof of Address,Abandoned,11.8,Session Timeout
+STUE105752,Complete,2025-08-10 11:05:37,Fund Account,Completed,6.2,
+STUE105755,Complete,2025-08-30 01:58:03,Fund Account,Completed,4.5,
+STUE105767,Complete,2025-04-19 23:56:35,Fund Account,Completed,6.1,
+STUE105774,Abandoned,,Bank Account Link,Abandoned,12.3,Session Timeout
+STUE105778,In Progress,,Identity Verification,Started,3.8,
+STUE105786,In Progress,,Bank Account Link,Started,14.2,
+STUE105789,Complete,2024-07-11 08:52:58,Fund Account,Completed,5.6,
+STUE105799,Abandoned,,Email Verification,Abandoned,6.5,Address Not Verified
+STUE105804,In Progress,,Bank Account Link,Started,5.0,
+STUE105812,Complete,2024-05-21 07:33:25,Fund Account,Completed,4.9,
+STUE105821,In  Progress,,Identity Verification,Started,16.7,
+STUE105824,Complete,2024-12-25 20:28:10,Fund Account,Completed,13.5,
+STUE105836,Complete,2024-10-21 07:51:27,Fund Account,Completed,4.7,
+STUE105842,In Progress,,Bank Account Link,Started,1.7,
+STUE105846,Complete,2025-01-02 18:59:08,Fund Account,Completed,6.2,
+STUE105856,Complete,2025-02-10 06:15:55,Fund Account,Completed,2.4,
+STUE105861,Abandoned,,Proof of Address,Abandoned,3.8,Bank Verification Failed
+STUE105868,Abandoned,,Proof of Address,Abandoned,9.9,ID Expired
+STUE105877,In Progress,,Proof of Address,Started,2.4,
+STUE105886,Complete,2024-04-12 10:42:05,Fund Account,Completed,0.8,
+STUE105888,Complete,2024-08-11 08:53:17,Fund Account,Completed,332.59,
+STUE105895,Complete,2025-03-24 05:26:56,Fund Account,Completed,5.8,
+STUE105905,Abandoned,,Identity Verification,Abandoned,12.1,Address Not Verified
+STUE105912,Complete,2024-12-11 11:23:38,Fund Account,Completed,4.3,
+STUE105918,Complete,2024-02-04 17:14:39,Fund Account,Completed,4.7,
+STUE105927,Abandoned,,Fund Account,Abandoned,13.5,Details Mismatch
+STUE105930,Failed,,Personal Details,Failed,4.5,Bank Verification Failed
+STUE105940,Abandoned,,Identity Verification,Abandoned,10.5,Details Mismatch
+STUE105946,Complete,2024-07-13 07:08:17,Fund Account,Completed,14.2,
+STUE105950,In Progress,,Bank Account Link,Started,4.2,
+STUE105960,Complete,2025-03-26 05:28:19,Fund Account,Completed,4.9,
+STUE105964,Complete,2024-01-10 14:51:05,Fund Account,Completed,8.2,
+STUE105975,Complete,2024-12-16 19:53:32,Fund Account,Completed,5.7,
+STUE105981,Complete,2025-01-18 04:20:24,Fund Account,Completed,8.7,
+STUE105986,In Progress,,Proof of Address,Started,7.3,
+STUE105996,Failed,,Proof of Address,Failed,0.2,Address Not Verified
+STUE106005,Complete,2024-05-16 07:41:30,Fund Account,Completed,17.0,
+STUE106011,Failed,,Identity Verification,Failed,3.6,ID Expired
+STUE106018,Complete,2024-03-28 23:56:10,Fund Account,Completed,13.2,
+STUE106025,Abandoned,,Email Verification,Abandoned,3.9,Details Mismatch
+STUE106031,Complete,2024-07-02 04:53:36,Fund Account,Completed,0.7,
+STUE106035,Complete,2024-12-14 12:05:30,Fund Account,Completed,8.8,
+STUE106044,Abandoned,,Identity Verification,Abandoned,8.3,Bank Verification Failed
+STUE106052,Abandoned,,Proof of Address,Abandoned,7.1,Address Not Verified
+STUE106061,Failed,,Proof of Address,Failed,9.5,Bank Verification Failed
+STUE106062,Complete,2025-07-12 17:19:55,Fund Account,Completed,9.7,
+STUE106070,In Progress,,Proof of Address,Started,5.5,
+STUE106078,Complete,2025-02-27 01:29:26,Fund Account,Completed,4.8,
+STUE106084,Failed,,Bank Account Link,Failed,12.7,Details Mismatch
+STUE106090,Complete,2025-01-23 19:08:42,Fund Account,Completed,4.2,
+STUE106101,Complete,2025-02-14 22:04:49,Fund Account,Completed,9.8,
+STUE106104,Complete,2024-10-02 09:22:28,Fund Account,Completed,11.7,
+STUE106116,Complete,2024-11-29 23:29:12,Fund Account,Completed,7.0,
+STUE106119,Complete,2024-02-26 00:29:18,Fund Account,Completed,10.7,
+STUE106125,Complete,2025-06-07 08:42:17,Fund Account,Completed,0.2,
+STUE106134,Complete,2024-03-03 07:59:56,Fund Account,Completed,7.4,
+STUE106140,Complete,2025-03-28 08:02:28,Fund Account,Completed,12.9,
+STUE106146,In Progress,,Identity Verification,Started,3.2,
+STUE106158,Complete,2024-03-23 01:41:05,Fund Account,Completed,10.6,
+STUE106166,Complete,2025-06-07 11:50:26,Fund Account,Completed,12.0,
+STUE106171,Complete,2024-09-08 08:00:21,Fund Account,Completed,11.0,
+STUE106174,Complete,2024-12-29 06:04:36,Fund Account,Completed,3.2,
+STUE106182,Abandoned,,Identity Verification,Abandoned,5.3,Details Mismatch
+STUE106190,In Progress,,Proof of Address,Started,5.4,
+STUE106200,Complete,2025-02-14 16:05:04,Fund Account,Completed,2.2,
+STUE106203,In Progress,,Proof of Address,Started,9.7,
+STUE106211,Complete,2025-02-22 08:00:19,Fund Account,Completed,7.5,
+STUE106220,Complete,2024-12-28 07:43:35,Fund Account,Completed,2.0,
+STUE106224,Complete,2024-02-24 08:04:53,Fund Account,Completed,0.2,
+STUE106232,Complete,2024-07-14 21:50:41,Fund Account,Completed,13.3,
+STUE106237,Complete,2024-07-19 23:47:26,Fund Account,Completed,7.0,
+STUE106249,In Progress,,Proof of Address,Started,6.8,
+STUE106256,Complete,2024-08-22 22:09:11,Fund Account,Completed,11.1,
+STUE106258,Failed,,Proof of Address,Failed,2.2,ID Expired
+STUE106269,Complete,2024-06-09 05:53:12,Fund Account,Completed,2.8,
+STUE106278,Complete,2025-08-22 17:54:35,Fund Account,Completed,5.0,
+STUE106285,Abandoned,,Identity Verification,Abandoned,13.6,Poor Image Quality
+STUE106292,In Progress,,Personal Details,Started,16.2,
+STUE106299,Complete,2025-02-20 23:19:18,Fund Account,Completed,8.3,
+STUE106303,Complete,2024-06-11 07:03:03,Fund Account,Completed,8.7,
+STUE106313,Complete,2025-01-17 17:13:16,Fund Account,Completed,3.5,
+STUE106319,Complete,2025-05-30 04:29:52,Fund Account,Completed,7.6,
+STUE106325,Complete,2024-09-08 14:32:23,Fund Account,Completed,8.4,
+STUE106329,Failed,,Bank Account Link,Failed,9.7,Bank Verification Failed
+STUE106337,Complete,2024-02-18 02:41:01,Fund Account,Completed,11.7,
+STUE106344,Failed,,Fund Account,Failed,8.0,Bank Verification Failed
+STUE106352,Complete,2024-10-26 11:48:57,Fund Account,Completed,4.9,
+STUE106362,Complete,2025-01-18 14:40:35,Fund Account,Completed,7.7,
+STUE106366,Failed,,Identity Verification,Failed,3.8,Session Timeout
+STUE106373,Complete,2025-08-23 15:51:16,Fund Account,Completed,5.5,
+STUE106382,Abandoned,,IDENTITY VERIFICATION,Abandoned,2.3,Details Mismatch
+STUE106386,Failed,,Identity Verification,Failed,10.2,Address Not Verified
+STUE106396,In Progress,,identity verification,Started,0.2,
+STUE106400,Abandoned,,Identity Verification,Abandoned,1.6,Address Not Verified
+STUE106411,Complete,2025-03-14 00:42:15,Fund Account,Completed,10.4,
+STUE106414,Complete,2024-02-10 18:00:55,Fund Account,Completed,0.2,
+STUE106423,Complete,2024-08-29 13:56:15,Fund Account,Completed,5.4,
+STUE106428,In Progress,,Identity Verification,Started,14.3,
+STUE106436,Complete,2025-05-18 11:47:40,Fund Account,Completed,8.2,
+STUE106443,Complete,2024-03-06 14:51:22,Fund Account,Completed,8.9,
+STUE106447,In Progress,,Proof of Address,Started,11.7,
+STUE106460,Complete,2024-05-31 10:39:04,Fund Account,Completed,6.4,
+STUE106462,In Progress,,Proof of Address,Started,14.7,
+STUE106468,Abandoned,,Fund Account,Abandoned,7.6,Address Not Verified
+STUE106479,Complete,2024-01-19 19:29:02,Fund Account,Completed,4.4,
+STUE106483,Complete,2025-05-05 02:39:09,Fund Account,Completed,2.2,
+STUE106493,Complete,2025-08-22 00:32:06,Fund Account,Completed,9.4,
+STUE106501,In Progress,,Personal Details,Started,16.4,
+STUE106504,Complete,2024-06-17 10:37:48,Fund Account,Completed,6.2,
+STUE106513,Failed,,Identity Verification,Failed,1.9,Session Timeout
+STUE106523,Complete,2025-05-15 13:56:11,Fund Account,Completed,6.9,
+STUE106527,Complete,2024-12-23 06:19:43,Fund Account,Completed,13.6,
+STUE106531,Abandoned,,Bank Account Link,Abandoned,6.1,Address Not Verified
+STUE106544,Abandoned,,Proof of Address,Abandoned,8.2,Details Mismatch
+STUE106551,Complete,2025-08-14 04:31:32,Fund Account,Completed,0.2,
+STUE106552,Complete,2024-06-16 18:36:16,Fund Account,Completed,5.9,
+STUE106561,Complete,2025-07-13 14:56:55,Fund Account,Completed,9.9,
+STUE106571,In Progress,,Identity Verification,Started,10.0,
+STUE106575,Abandoned,,Personal Details,Abandoned,2.9,Details Mismatch
+STUE106583,Complete,2024-01-03 13:37:18,Fund Account,Completed,0.2,
+STUE106592,Complete,2024-02-01 05:13:20,Fund Account,Completed,10.1,
+STUE106600,Complete,2024-05-23 22:07:26,Fund Account,Completed,5.5,
+STUE106606,Complete,2024-11-05 00:45:58,Fund Account,Completed,4.2,
+STUE106613,In Progress,,Bank Account Link,Started,15.5,
+STUE106617,In Progress,,Identity Verification,Started,8.8,
+STUE106628,Abandoned,,Personal Details,Abandoned,5.4,Address Not Verified
+STUE106629,Complete,2024-01-27 13:59:02,Fund Account,Completed,0.9,
+STUE106642,Abandoned,,personal details,Abandoned,12.6,ID Expired
+STUE106647,Complete,2024-11-14 17:57:04,Fund Account,Completed,14.9,
+STUE106653,In Progress,,Personal Details,Started,6.7,
+STUE106663,Abandoned,,Personal Details,Abandoned,9.1,Document Rejected
+STUE106666,Complete,2025-07-07 17:37:25,Fund Account,Completed,4.7,
+STUE106677,In Progress,,Fund Account,Started,9.7,
+STUE106678,Complete,2025-06-09 14:18:30,Fund Account,Completed,11.0,
+STUE106685,Abandoned,,Proof of Address,Abandoned,15.2,Document Rejected
+STUE106696,Complete,2025-07-24 10:16:43,Fund Account,Completed,6.0,
+STUE106699,Complete,2025-06-17 07:10:36,Fund Account,Completed,12.5,
+STUE106710,Complete,2024-03-20 20:38:55,Fund Account,Completed,14.7,
+STUE106713,Complete,2024-12-19 00:18:20,Fund Account,Completed,15.3,
+STUE106722,Complete,2024-03-13 19:19:09,Fund Account,Completed,8.4,
+STUE106728,Complete,2024-07-26 08:43:37,Fund Account,Completed,5.7,
+STUE106740,Complete,2025-02-25 19:16:31,Fund Account,Completed,0.7,
+STUE106745,Complete,2024-03-20 02:38:30,Fund Account,Completed,8.3,
+STUE106749,Failed,,Email Verification,Failed,13.1,Address Not Verified
+STUE106761,Complete,2025-01-11 15:16:53,Fund Account,Completed,15.3,
+STUE106763,Complete,2024-12-27 19:26:41,Fund Account,Completed,9.4,
+STUE106773,Complete,2024-05-29 08:49:41,Fund Account,Completed,5.0,
+STUE106778,Complete,2025-04-01 12:21:31,Fund Account,Completed,16.9,
+STUE106786,Complete,2025-04-02 09:49:50,Fund Account,Completed,1.0,
+STUE106792,Complete,2024-09-12 20:09:25,Fund Account,Completed,16.9,
+STUE106803,Complete,2024-02-05 04:13:23,Fund Account,Completed,10.9,
+STUE106807,Complete,2024-03-26 14:06:19,Fund Account,Completed,13.6,
+STUE106816,Failed,,Email Verification,Failed,1.9,Session Timeout
+STUE106821,Complete,2025-06-22 12:50:20,Fund Account,Completed,5.7,
+STUE106829,Complete,2024-08-07 14:23:48,Fund Account,Completed,0.7,
+STUE106835,Complete,2024-01-10 14:31:16,Fund Account,Completed,0.9,
+STUE106840,Complete,2025-08-15 12:42:46,Fund Account,Completed,12.6,
+STUE106848,Abandoned,,Identity Verification,Abandoned,3.0,Address Not Verified
+STUE106857,Complete,2024-04-18 00:20:39,Fund Account,Completed,8.3,
+STUE106865,Failed,,Email Verification,Failed,5.2,Address Not Verified
+STUE106872,Complete,2024-02-29 07:01:17,Fund Account,Completed,9.0,
+STUE106877,Complete,2024-08-17 11:44:32,Fund Account,Completed,9.6,
+STUE106884,Complete,2024-04-15 07:36:18,Fund Account,Completed,0.2,
+STUE106893,Complete,2024-05-11 11:39:57,Fund Account,Completed,9.0,
+STUE106897,Complete,2024-12-30 08:19:55,Fund Account,Completed,13.7,
+STUE106908,Complete,2024-06-14 06:22:17,Fund Account,Completed,8.3,
+STUE106911,Complete,2024-04-26 22:08:55,Fund Account,Completed,16.8,
+STUE106920,Complete,2024-03-29 10:33:50,Fund Account,Completed,9.6,
+STUE106927,Complete,2024-06-16 22:25:16,Fund Account,Completed,3.8,
+STUE106932,Complete,2025-03-09 07:52:49,Fund Account,Completed,0.2,
+STUE106943,Abandoned,,Identity Verification,Abandoned,4.4,Document Rejected
+STUE106950,Complete,2024-11-08 10:59:28,Fund Account,Completed,0.2,
+STUE106955,Complete,2024-06-21 04:58:30,Fund Account,Completed,12.2,
+STUE106959,Complete,2024-09-19 11:24:11,Fund Account,Completed,0.2,
+STUE106966,Abandoned,,Proof of Address,Abandoned,,Bank Verification Failed
+STUE106972,Complete,2024-10-21 01:11:49,Fund Account,Completed,7.5,
+STUE106985,Complete,2025-01-18 17:48:49,Fund Account,Completed,0.2,
+STUE106987,Complete,2025-05-16 00:05:22,Fund Account,Completed,9.3,
+STUE106999,Complete,2024-07-26 03:55:17,Fund Account,Completed,1.3,
+STUE107005,In Progress,,Personal Details,Started,16.1,
+STUE107012,Complete,2025-06-19 06:37:49,Fund Account,Completed,3.6,
+STUE107019,Complete,2024-06-14 20:06:22,Fund Account,Completed,2.7,
+STUE107025,Complete,2025-02-03 13:24:51,Fund Account,Completed,8.2,
+STUE107028,Complete,2024-02-18 00:19:35,Fund Account,Completed,4.7,
+STUE107040,Complete,2024-08-13 07:26:37,Fund Account,Completed,12.0,
+STUE107045,Complete,2025-02-10 05:53:16,Fund Account,Completed,5.4,
+STUE107054,Complete,2024-01-03 07:50:41,Fund Account,Completed,4.5,
+STUE107061,Complete,2025-03-13 20:52:35,Fund Account,Completed,10.1,
+STUE107066,Complete,2025-02-13 22:51:07,Fund Account,Completed,5.2,
+STUE107074,Complete,2024-05-23 03:04:15,Fund Account,Completed,3.0,
+STUE107083,Complete,2024-02-29 01:39:55,Fund Account,Completed,3.7,
+STUE107084,Complete,2025-02-12 04:54:12,Fund Account,Completed,14.4,
+STUE107095,In Progress,,Personal Details,Started,7.8,
+STUE107103,Complete,2024-05-02 18:12:23,Fund Account,Completed,3.4,
+STUE107111,Complete,2024-07-29 20:38:08,Fund Account,Completed,12.6,
+STUE107117,In Progress,,Bank Account Link,Started,15.7,
+STUE107125,Complete,2024-08-27 13:13:28,Fund Account,Completed,9.4,
+STUE107129,Complete,2025-05-24 14:17:26,Fund Account,Completed,13.6,
+STUE107135,Complete,2024-03-08 00:10:21,Fund Account,Completed,0.2,
+STUE107145,In Progress,,Identity Verification,Started,8.9,
+STUE107152,Abandoned,,Bank Account Link,Abandoned,1.5,ID Expired
+STUE107155,Complete,2024-07-30 09:27:55,Fund Account,Completed,3.5,
+STUE107165,Abandoned,,Personal Details,Abandoned,5.4,Document Rejected
+STUE107169,Complete,2024-05-30 04:09:35,Fund Account,Completed,2.7,
+STUE107179,Complete,2024-10-19 06:55:47,Fund Account,Completed,11.2,
+STUE107185,Complete,2024-06-20 04:28:57,Fund Account,Completed,13.9,
+STUE107193,Complete,2024-08-24 21:33:23,Fund Account,Completed,8.4,
+STUE107201,Complete,2024-07-22 20:30:22,Fund Account, Completed ,14.0,
+STUE107208,Complete,2025-07-22 09:15:58,Fund Account,Completed,10.0,
+STUE107212,Complete,2025-01-03 14:27:56,Fund Account,Completed,13.3,
+STUE107219,Failed,,Identity Verification,Failed,13.8,Bank Verification Failed
+STUE107224,In Progress,,Proof of Address,Started,3.0,
+STUE107232,Complete,2025-07-01 13:07:19,Fund Account,Completed,12.1,
+STUE107239,Failed,,Personal Details,Failed,0.2,Bank Verification Failed
+STUE107246,Abandoned,,Personal Details,Abandoned,14.4,ID Expired
+STUE107254,Complete,2024-03-14 18:05:48,Fund Account,Completed,6.2,
+STUE107259,Abandoned,,Identity Verification,Abandoned,7.0,ID Expired
+STUE107268,Complete,2024-09-15 22:41:38,Fund Account,Completed,4.3,
+STUE107275,Abandoned,,Bank Account Link,Abandoned,0.2,ID Expired
+STUE107284,In Progress,,Personal Details,Started,0.2,
+STUE107288,Complete,2024-11-26 23:45:24,Fund Account,Completed,10.4,
+STUE107298,In Progress,,Proof of Address,Started,6.4,
+STUE107307,Failed,,Identity Verification,Failed,7.5,Poor Image Quality
+STUE107312,In Progress,,Bank Account Link,Started,1.8,
+STUE107315,Abandoned,,Bank Account Link,Abandoned,11.1,Bank Verification Failed
+STUE107323,Complete,2024-04-21 06:07:22,Fund Account,Completed,7.5,
+STUE107330,Complete,2025-06-09 15:17:46,Fund Account,Completed,10.7,
+STUE107342,Failed,,Identity Verification,Failed,11.3,Poor Image Quality
+STUE107344,Complete,2025-08-22 21:43:38,Fund Account,Completed,5.3,
+STUE107354, Complete ,2024-05-14 19:47:36,Fund Account,Completed,0.5,
+STUE107361,Complete,2025-01-09 10:47:28,Fund Account,Completed,5.3,
+STUE107370,Abandoned,,Proof of Address,Abandoned,13.3,Address Not Verified
+STUE107371,Complete,2025-01-16 05:17:46,Fund Account,Completed,1.7,
+STUE107382,Complete,2024-05-03 17:05:31,Fund Account,Completed,13.2,
+STUE107390,Complete,2024-08-13 14:35:03,Fund Account,Completed,9.4,
+STUE107394,Complete,2024-03-18 07:47:03,Fund Account,Completed,9.3,
+STUE107404,Abandoned,,Identity Verification,Abandoned,10.4,Address Not Verified
+STUE107409,Complete,2025-02-23 13:41:32,Fund Account,Completed,7.2,
+STUE107414,Complete,2024-08-08 00:57:04,Fund Account,Completed,2.7,
+STUE107421,Complete,2024-07-31 01:43:38,Fund Account,Completed,2.7,
+STUE107433,Failed,,Identity Verification,Failed,10.5,Poor Image Quality
+STUE107435,Abandoned,,Identity Verification,Abandoned,7.3,Details Mismatch
+STUE107446,Complete,2024-09-02 08:50:38,Fund Account,Completed,15.3,
+STUE107451,In Progress,,Identity Verification,Started,16.5,
+STUE107458,complete,2024-08-31 20:07:50,Fund Account,Completed,12.7,
+STUE107462,Complete,2024-11-25 20:41:00,Fund Account,Completed,5.0,
+STUE107475,Complete,2024-02-28 00:32:06,Fund Account,Completed,6.9,
+STUE107477,Abandoned,,Proof of Address,Abandoned,5.5,Poor Image Quality
+STUE107484,Complete,2024-01-30 13:50:55,Fund Account,Completed,11.6,
+STUE107496,Complete,2025-01-12 11:17:15,Fund Account,Completed,12.9,
+STUE107499,Complete,2025-08-16 20:56:49,Fund Account,Completed,2.5,
+STUE107510,Abandoned,,Bank Account Link,Abandoned,8.4,Document Rejected
+STUE107513,Abandoned,,Proof of Address,Abandoned,,Document Rejected
+STUE107520,In Progress,,Identity Verification,Started,0.2,
+STUE107531,Abandoned,,Proof of Address,Abandoned,14.0,ID Expired
+STUE107532,Complete,2025-06-30 01:03:53,Fund Account,Completed,8.0,
+STUE107543,Complete,2024-06-14 22:11:13,Fund Account,Completed,15.6,
+STUE107549,Complete,2024-10-01 03:57:28,Fund Account,Completed,11.2,
+STUE107556,In Progress,,Personal  Details,Started,9.8,
+STUE107566,Complete,2024-03-30 17:43:37,Fund Account,Completed,7.9,
+STUE107568,Complete,2024-01-26 04:10:21,Fund Account,Completed,18.6,
+STUE107574,Complete,2025-03-27 19:39:40,Fund Account,Completed,7.8,
+STUE107583,Abandoned,,Identity Verification,Abandoned,7.3,Details Mismatch
+STUE107590,Abandoned,,Bank Account Link,Abandoned,12.0,Session Timeout
+STUE107597,Abandoned,,Identity Verification,Abandoned,1.7,Document Rejected
+STUE107608,Complete,2024-10-20 18:41:37,Fund Account,Completed,6.1,
+STUE107613,Complete,2024-07-07 03:40:15,Fund Account,Completed,1.8,
+STUE107622,Complete,2024-12-17 04:52:07,Fund Account,Completed,7.2,
+STUE107628,Complete,2025-02-17 05:20:16,Fund Account,Completed,15.2,
+STUE107633,Abandoned,,Proof of Address,Abandoned,6.5,Details Mismatch
+STUE107643,In Progress,,Identity Verification,Started,5.8,
+STUE107649,Complete,2025-03-05 06:00:44,Fund Account,Completed,1.5,
+STUE107655,Complete,2024-11-10 21:08:54,Fund Account,Completed,11.1,
+STUE107658,Complete,2024-07-23 03:30:34,Fund Account,Completed,11.5,
+STUE107666,Abandoned,,Proof of Address,Abandoned,5.9,Session Timeout
+STUE107678,Complete,2024-03-14 22:25:08,Fund Account,Completed,9.0,
+STUE107681,Complete,2025-05-28 22:17:06,Fund Account,Completed,6.0,
+STUE107691,In Progress,,Proof of Address,Started,4.9,
+STUE107699,Failed,,Bank Account Link,Failed,7.4,ID Expired
+STUE107703,Complete,2024-10-01 15:55:52,Fund Account,Completed,9.3,
+STUE107710,Abandoned,,Email Verification,Abandoned,10.5,Poor Image Quality
+STUE107719,Abandoned,,Identity Verification,Abandoned,9.7,Document Rejected
+STUE107725,Complete,2024-02-08 03:25:37,Fund Account,Completed,17.7,
+STUE107734,Complete,2024-04-24 15:07:56,Fund Account,Completed,0.2,
+STUE107738,Complete,2024-07-14 05:39:29,Fund Account,Completed,7.9,
+STUE107745,Abandoned,,Identity Verification,Abandoned,10.3,Details Mismatch
+STUE107752,Complete,2024-04-19 07:28:20,Fund Account,Completed,9.9,
+STUE107757,Complete,2025-05-03 08:21:40,Fund Account,Completed,2.1,
+STUE107768,Complete,2025-01-09 21:30:33,Fund Account,Completed,7.2,
+STUE107774,Complete,2024-11-07 01:18:45, Fund Account ,Completed,2.5,
+STUE107783,Complete,2024-08-19 12:47:34,Fund Account,Completed,7.3,
+STUE107789,Abandoned,,Bank Account Link,Abandoned,7.0,Document Rejected
+STUE107795,Complete,2025-08-27 12:59:26,Fund Account,Completed,6.8,
+STUE107803,In Progress,,Proof of Address,Started,5.1,
+STUE107806,In Progress,,Identity Verification,Started,1.7,
+STUE107812,Complete,2025-01-25 00:23:35,Fund Account,Completed,7.3,
+STUE107825,Complete,2024-11-26 17:08:18,Fund Account,Completed,15.1,
+STUE107832,Complete,2025-01-08 06:48:19,Fund Account,Completed,6.1,
+STUE107835,Complete,2025-02-02 17:14:53,Fund Account,Completed,5.4,
+STUE107841,Complete,2024-12-26 17:41:49,Fund Account,Completed,7.4,
+STUE107847,Abandoned,,FUND ACCOUNT,Abandoned,18.7,Session Timeout
+STUE107858,In Progress,,Bank Account Link,Started,8.0,
+STUE107866,Complete,2024-05-04 11:27:49,Fund Account,Completed,9.8,
+STUE107872,Failed,,Identity Verification,Failed,8.3,ID Expired
+STUE107877,In Progress,,Personal Details,Started,10.0,
+STUE107885,In Progress,,Proof of Address,STARTED,12.8,
+STUE107891,Complete,2024-10-02 16:52:30,Fund Account,Completed,9.1,
+STUE107899,Complete,2024-10-22 08:52:28,Fund Account,Completed,17.7,
+STUE107907,Complete,2024-01-19 05:46:03,Fund Account,Completed,4.7,
+STUE107913,Complete,2024-10-06 13:31:41,Fund Account,Completed,4.3,
+STUE107921,Complete,2025-08-13 22:40:51,Fund Account,Completed,10.2,
+STUE107928,Complete,2025-05-29 02:35:31,Fund Account,Completed,12.2,
+STUE107934,Complete,2024-08-23 14:57:15,Fund Account,Completed,0.8,
+STUE107939,Complete,2025-06-12 11:23:10,Fund Account,Completed,10.8,
+STUE107949,Abandoned,,Identity Verification,Abandoned,,Details Mismatch
+STUE107956,Complete,2024-06-23 15:28:13,Fund Account,Completed,3.9,
+STUE107959,Complete,2025-02-19 15:07:16,Fund Account,Completed,0.9,
+STUE107970,Abandoned,,Identity Verification,Abandoned,13.9,Document Rejected
+STUE107978,Abandoned,,Bank Account Link,Abandoned,8.7,Poor Image Quality
+STUE107980,Complete,2025-07-03 10:08:14,Fund Account,Completed,7.0,
+STUE107992,In Progress,,Identity Verification,Started,7.5,
+STUE107996,Complete,2025-07-21 06:16:54,Fund Account,Completed,2.9,
+STUE108001,Complete,2025-04-06 11:07:39,Fund Account,Completed,5.6,
+STUE108011,In Progress,,Bank Account Link,Started,7.4,
+STUE108016,In Progress,,Personal Details,Started,1.4,
+STUE108026,Abandoned,,Bank Account Link,Abandoned,2.4,Details Mismatch
+STUE108032,Complete,2025-04-26 13:09:40,Fund Account,Completed,3.5,
+STUE108042,Complete,2024-03-12 21:11:41,Fund Account,Completed,8.1,
+STUE108049,Abandoned,,Identity Verification,Abandoned,4.5,Details Mismatch
+STUE108053,In Progress,,Personal Details,Started,6.7,
+STUE108062,In Progress,,Fund Account,Started,11.5,
+STUE108069,Complete,2024-07-19 14:20:54,Fund Account,Completed,0.2,
+STUE108076,In Progress,,Identity Verification,Started,2.5,
+STUE108083,Complete,2024-11-15 02:59:44,Fund Account,Completed,8.4,
+STUE108091,Complete,2024-08-08 05:11:47,Fund Account,Completed,7.1,
+STUE108094,Complete,2025-08-14 20:52:20,Fund Account,Completed,12.9,
+STUE108099,In Progress,,Proof of Address,Started,,
+STUE108111,Complete,2024-07-29 10:38:54,Fund Account, Completed ,13.7,
+STUE108118,Failed,,Identity Verification,Failed,5.4,Bank Verification Failed
+STUE108120,In Progress,,Identity Verification,Started,5.8,
+STUE108130,Complete,2025-03-16 00:26:03,Fund Account,Completed,5.3,
+STUE108137,Abandoned,,Proof of Address,Abandoned,4.5,ID Expired
+STUE108144,In Progress,,Email Verification,Started,0.2,
+STUE108152,Complete,2024-09-27 23:55:55,Fund Account,Completed,7.1,
+STUE108157,Complete,2024-11-01 14:06:30,Fund Account,Completed,11.8,
+STUE108164,Complete,2025-07-01 17:29:31,Fund Account,Completed,2.7,
+STUE108171,Complete,2024-09-13 18:20:09,Fund Account,Completed,9.1,
+STUE108178,Complete,2025-01-25 06:01:48,Fund Account,Completed,10.7,
+STUE108187,Complete,2024-09-16 08:34:52,Fund Account,Completed,5.4,
+STUE108191,Abandoned,,Identity Verification,Abandoned,4.6,Session Timeout
+STUE108197,Complete,2024-09-14 12:18:08,Fund Account,Completed,3.6,
+STUE108205,Failed,,Email Verification,Failed,5.9,Session Timeout
+STUE108217,Complete,2024-08-30 18:06:16,Fund Account,Completed,4.6,
+STUE108219,Complete,2024-11-24 03:54:18,Fund Account,Completed,2.6,
+STUE108227,Complete,2025-05-03 08:31:36,Fund Account, Completed ,0.2,
+STUE108232,In Progress,,Identity Verification,Started,11.9,
+STUE108239,Complete,2025-01-16 08:43:36,Fund Account,Completed,4.0,
+STUE108246,Complete,2024-07-24 04:46:41,Fund Account,Completed,6.8,
+STUE108258,Complete,2024-09-06 03:53:08,Fund Account,Completed,13.7,
+STUE108261,Complete,2024-07-05 22:38:08,Fund Account,Completed,13.0,
+STUE108273,Complete,2025-04-10 08:00:51,Fund Account,Completed,0.2,
+STUE108277,In Progress,,Personal Details,Started,6.0,
+STUE108287,Complete,2024-10-16 23:46:58,Fund Account,Completed,10.9,
+STUE108289,Complete,2024-07-01 13:11:53,Fund Account,Completed,8.9,
+STUE108297,Abandoned,,Proof of Address,Abandoned,11.2,Poor Image Quality
+STUE108306,Complete,2024-07-11 23:17:21,Fund Account,Completed,12.0,
+STUE108315,Complete,2025-02-26 10:58:30,Fund Account,Completed,0.2,
+STUE108322,Complete,2025-07-14 22:50:09,Fund Account,Completed,6.7,
+STUE108326,In Progress,,Identity Verification,Started,12.7,
+STUE108331,Complete,2024-07-08 06:47:19,Fund Account,Completed,3.7,
+STUE108342,In Progress,,Identity Verification,Started,3.3,
+STUE108345,Complete,2025-03-14 12:44:07,Fund Account,Completed,1.6,
+STUE108356,Complete,2024-07-10 11:42:51,Fund Account,Completed,10.1,
+STUE108360,Complete,2025-05-16 00:38:38,Fund Account,Completed,5.7,
+STUE108366,In Progress,,Email Verification,Started,10.0,
+STUE108377,Complete,2024-01-09 03:35:49,fund account,Completed,0.2,
+STUE108385,Complete,2024-04-24 00:49:22,Fund Account,Completed,0.2,
+STUE108389,Complete,2024-05-08 23:02:54,Fund Account,Completed,1.4,
+STUE108399,Complete,2025-08-08 02:17:48,Fund Account,Completed,9.6,
+STUE108403,Complete,2024-07-26 04:15:56,Fund Account,Completed,5.2,
+STUE108410,Complete,2025-07-23 19:45:11,Fund Account,Completed,17.3,
+STUE108414,In Progress,,Proof of Address,Started,12.1,
+STUE108423,Abandoned,,Proof of Address,Abandoned,9.4,Address Not Verified
+STUE108428,Complete,2024-01-29 22:38:55,Fund Account,Completed,8.3,
+STUE108437,Abandoned,,Identity Verification,Abandoned,8.7,Details Mismatch
+STUE108448,Complete,2025-02-20 12:20:00,Fund Account,Completed,9.0,
+STUE108452,Complete,2024-02-22 10:25:35,Fund Account,Completed,7.6,
+STUE108459,Complete,2025-04-03 16:25:59,Fund Account,Completed,9.3,
+STUE108463,Abandoned,,Proof of Address,Abandoned,3.0,Poor Image Quality
+STUE108471,Abandoned,,Personal Details,Abandoned,7.4,Poor Image Quality
+STUE108478,In Progress,,Personal Details,Started,11.3,
+STUE108490,Abandoned,,Personal Details,Abandoned,7.7,Poor Image Quality
+STUE108494,COMPLETE,2025-08-05 08:38:59,Fund Account,Completed,8.0,
+STUE108501,Complete,2024-09-11 22:52:03,Fund Account,Completed,5.5,
+STUE108505,Abandoned,,Bank Account Link,Abandoned,0.2,Poor Image Quality
+STUE108512,Failed,,Personal Details,Failed,7.2,Session Timeout
+STUE108525,Complete,2024-12-14 17:58:09,Fund Account,Completed,8.1,
+STUE108526,Failed,,Proof of Address,Failed,14.3,Details Mismatch
+STUE108537,Complete,2024-07-05 08:03:55,Fund Account,Completed,7.6,
+STUE108545,Abandoned,,Proof of Address,Abandoned,10.4,Details Mismatch
+STUE108547,Abandoned,,Identity Verification,Abandoned,12.1,Address Not Verified
+STUE108560,In Progress,,Identity Verification,Started,12.7,
+STUE108565,Complete,2025-05-19 19:00:11,Fund Account,Completed,0.2,
+STUE108573,Abandoned,,Bank Account Link,Abandoned,12.1,ID Expired
+STUE108575,Complete,2024-11-16 22:59:47,Fund Account,Completed,10.0,
+STUE108583,Complete,2024-03-09 14:19:54,Fund Account,Completed,7.1,
+STUE108590,Complete,2025-02-03 13:53:50,Fund Account,Completed,2.8,
+STUE108599,Abandoned,,Bank Account Link,Abandoned,8.7,Details Mismatch
+STUE108605,Failed,,Identity Verification,Failed,5.4,Details Mismatch
+STUE108612,Complete,2024-04-28 17:35:27,Fund Account,Completed,6.3,
+STUE108620,In Progress,,Proof of Address,Started,10.8,
+STUE108626,Abandoned,,Personal Details,Abandoned,10.9,Bank Verification Failed
+STUE108631,Complete,2025-08-02 18:55:13,Fund Account,Completed,6.5,
+STUE108642,Failed,,Identity Verification,Failed,13.3,Poor Image Quality
+STUE108649,Abandoned,,Proof of Address,Abandoned,2.7,Details Mismatch
+STUE108657,Failed,,Identity Verification,Failed,12.2,Document Rejected
+STUE108659,Complete,2025-07-21 16:25:30,Fund Account,Completed,8.9,
+STUE108671,Abandoned,,Email Verification,Abandoned,5.9,ID Expired
+STUE108677,Failed,,Bank Account Link,Failed,6.4,Session Timeout
+STUE108682,Abandoned,,Identity Verification,Abandoned,1.7,Bank Verification Failed
+STUE108691,Abandoned,,Personal Details,Abandoned,4.3,Document Rejected
+STUE108700,In Progress,,Bank Account Link,Started,14.7,
+STUE108705,In Progress,,Fund Account,Started,12.5,
+STUE108712,Complete,2025-06-07 01:14:55,Fund Account,Completed,9.5,
+STUE108719,Failed,,Email Verification,Failed,9.5,Document Rejected
+STUE108725,In Progress,,Personal Details,Started,4.1,
+STUE108730,Complete,2024-06-11 23:15:12,Fund Account,Completed,0.2,
+STUE108737,Complete,2024-01-18 17:47:59,Fund Account,Completed,4.6,
+STUE108744,Abandoned,,Fund Account,Abandoned,2.4,Address Not Verified
+STUE108756,Complete,2024-05-30 21:27:39,Fund Account,Completed,4.2,
+STUE108762,Abandoned,,Proof of Address,Abandoned,10.6,Bank Verification Failed
+STUE108769,Failed,,Proof of Address,Failed,11.6,Bank Verification Failed
+STUE108774,Abandoned,,Identity Verification,Abandoned,0.2,Document Rejected
+STUE108781,Failed,,Identity Verification,Failed,9.8,Bank Verification Failed
+STUE108788,Abandoned,,Proof of Address,Abandoned,12.8,Bank Verification Failed
+STUE108793,In Progress,,Identity Verification,Started,13.6,
+STUE108799,Complete,2025-01-06 21:04:53,Fund Account,Completed,6.1,
+STUE108810,Complete,2024-04-17 08:55:14,Fund Account,Completed,5.7,
+STUE108813,Complete,2025-08-20 23:03:18,Fund Account,Completed,19.3,
+STUE108824,Complete,2024-10-13 10:19:29,Fund Account,Completed,6.9,
+STUE108827,Complete,2025-02-14 07:36:39,Fund Account,Completed,9.4,
+STUE108834,Abandoned,,Bank Account Link,Abandoned,0.2,Document Rejected
+STUE108843,In Progress,,Proof of Address,Started,1.6,
+STUE108853,Complete,2024-11-20 20:54:12,Fund Account,Completed,0.2,
+STUE108855,Complete,2025-07-28 12:19:28,Fund Account,Completed,12.0,
+STUE108865,Failed,,Proof of Address,Failed,4.0,Address Not Verified
+STUE108869,Abandoned,,Proof of Address,Abandoned,7.3,Session Timeout
+STUE108882,In Progress,,Personal Details,Started,13.8,
+STUE108889,In Progress,,Personal Details,Started,1.7,
+STUE108890,Complete,2025-02-02 20:48:41,Fund Account,Completed,5.3,
+STUE108897,Complete,2024-03-12 15:17:09,Fund Account,Completed,6.0,
+STUE108907,Abandoned,,Identity Verification,Abandoned,10.9,Address Not Verified
+STUE108911,Failed,,Identity Verification,Failed,6.5,Address Not Verified
+STUE108918,Complete,2025-01-16 03:10:49,Fund Account,Completed,6.4,
+STUE108926,Complete,2024-09-11 20:56:50,Fund Account,Completed,0.2,
+STUE108938,Complete,2025-08-04 23:45:52,Fund Account,Completed,13.9,
+STUE108944,Complete,2024-01-28 01:19:50,Fund Account,Completed,5.9,
+STUE108952,Abandoned,,Bank Account Link,Abandoned,6.6,Address Not Verified
+STUE108954,Complete,2024-01-13 16:24:38,Fund Account,Completed,12.8,
+STUE108963,Complete,2025-04-14 20:18:34,Fund Account,Completed,7.5,
+STUE108970,Complete,2025-06-13 14:41:24,Fund Account,Completed,11.2,
+STUE108979,In Progress,,Fund Account,Started,9.0,
+STUE108984,Complete,2024-03-18 01:24:15,Fund Account,Completed,5.5,
+STUE108990,In Progress,,Bank Account Link,Started,9.4,
+STUE108999,Abandoned,,Bank Account Link,Abandoned,5.9,ID Expired
+STUE109006,Complete,2025-06-08 22:13:46,Fund Account,Completed,10.7,
+STUE109013,Complete,2024-08-29 20:58:36,Fund Account,Completed,15.9,
+STUE109021,Complete,2024-06-24 03:33:25,Fund Account,Completed,11.7,
+STUE109024,Abandoned,,Identity Verification,Abandoned,,Document Rejected
+STUE109035,Failed,,Proof of Address,Failed,7.8,Session Timeout
+STUE109039,Complete,2024-10-18 18:49:15,Fund Account,Completed,1.4,
+STUE109050,Complete,2024-08-06 16:58:42,Fund Account,Completed,2.8,
+STUE109057,Complete,2024-10-24 17:33:26,Fund Account,Completed,0.2,
+STUE109058,Complete,2024-11-02 02:07:51,Fund Account,Completed,9.9,
+STUE109071,Complete,2024-02-15 06:09:38,Fund Account,Completed,16.4,
+STUE109072,In Progress,,Proof of Address,Started,8.4,
+STUE109084,Complete,2025-06-26 09:32:05,Fund Account,Completed,4.6,
+STUE109090,Failed,,Proof of Address,Failed,8.2,ID Expired
+STUE109097,Complete,2025-02-20 09:23:46,Fund Account,Completed,11.6,
+STUE109101,Complete,2024-11-20 02:59:14,Fund Account,Completed,13.4,
+STUE109113,In Progress,,Proof of Address,Started,9.4,
+STUE109116,Complete,2025-04-16 01:27:43,Fund Account,Completed,,
+STUE109121,Failed,,Bank Account Link,Failed,0.2,Document Rejected
+STUE109134,In Progress,,Proof of Address,Started,2.1,
+STUE109136,Complete,2024-01-06 17:51:03,Fund Account,Completed,7.5,
+STUE109146,Complete,2025-06-23 01:11:34,Fund Account,Completed,2.7,
+STUE109154,In Progress,,Identity Verification,Started,10.9,
+STUE109158,Complete,2025-05-12 14:27:35,Fund Account,Completed,9.2,
+STUE109168,Complete,2024-01-02 17:35:24,Fund Account,Completed,2.0,
+STUE109170,Abandoned,,Identity Verification,Abandoned,12.5,ID Expired
+STUE109182,Complete,2024-09-17 19:33:07,Fund Account,Completed,14.8,
+STUE109186,Abandoned,,Bank Account Link,Abandoned,12.5,Bank Verification Failed
+STUE109197,Abandoned,,Email Verification,Abandoned,13.0,Details Mismatch
+STUE109198,Complete,2025-06-21 07:34:39,Fund Account,Completed,2.4,
+STUE109211,Complete,2024-09-10 02:14:40,Fund Account,Completed,9.1,
+STUE109213,Complete,2024-12-06 07:06:27,Fund Account,Completed,4.4,
+STUE109220,Complete,2024-08-25 21:17:14,Fund Account,Completed,5.6,
+STUE109226,Failed,,Identity Verification,Failed,14.6,Poor Image Quality
+STUE109239,Abandoned,,Identity  Verification,Abandoned,4.6,Bank Verification Failed
+STUE109246,Abandoned,,Identity Verification,Abandoned,0.2,Session Timeout
+STUE109251,In Progress,,Personal Details,Started,0.5,
+STUE109254,Complete,2025-03-08 03:12:55,Fund Account,Completed,9.0,
+STUE109262,Complete,2025-01-02 11:37:34,Fund Account,Completed,6.7,
+STUE109274,Complete,2024-06-12 15:16:02,Fund Account,Completed,5.7,
+STUE109278,Complete,2024-04-12 10:07:25,Fund Account,Completed,0.2,
+STUE109288,Complete,2025-03-30 05:22:19,Fund Account,Completed,0.2,
+STUE109294,Failed,,Identity Verification,Failed,4.1,Session Timeout
+STUE109299,Complete,2024-04-10 05:08:01,Fund Account,Completed,2.1,
+STUE109306,Abandoned,,Email Verification,Abandoned,9.1,Document Rejected
+STUE109316,Failed,,Bank Account Link,Failed,6.8,Address Not Verified
+STUE109319,Complete,2025-03-30 12:08:13,Fund Account,Completed,8.4,
+STUE109327,Complete,2024-01-08 10:40:21,Fund Account,Completed,8.6,
+STUE109333,Complete,2024-05-18 03:27:47,Fund Account,Completed,8.0,
+STUE109344,Complete,2025-04-06 15:51:28,Fund Account,Completed,15.8,
+STUE109347,Complete,2024-01-17 22:11:14,Fund Account,Completed,8.3,
+STUE109357,Complete,2025-05-22 17:22:57,Fund Account,Completed,9.4,
+STUE109359,In Progress,,Email Verification,Started,4.6,
+STUE109368,Complete,2024-01-14 12:08:59,Fund Account,Completed,5.3,
+STUE109375,Abandoned,,Proof of Address,Abandoned,10.4,Address Not Verified
+STUE109382,Complete,2024-03-04 17:16:16,Fund Account,Completed,2.3,
+STUE109387,In Progress,,Personal Details,Started,14.1,
+STUE109395,Complete,2024-03-22 04:24:20,Fund Account,Completed,5.7,
+STUE109407,Complete,2024-02-07 20:50:26,Fund Account,Completed,12.2,
+STUE109412,Complete,2024-12-31 09:03:00,Fund Account,Completed,18.0,
+STUE109416,Complete,2024-02-29 05:32:01,Fund Account,Completed,5.9,
+STUE109424,Complete,2024-02-27 17:02:05,Fund Account,Completed,,
+STUE109429,Complete,2024-04-01 15:27:11,Fund Account,Completed,12.4,
+STUE109438,Abandoned,,Proof of Address,Abandoned,4.8,Poor Image Quality
+STUE109443,Complete,2025-04-04 13:26:46,Fund Account,Completed,0.6,
+STUE109454,Complete,2024-07-20 18:41:49,Fund Account,Completed,10.4,
+STUE109460,Complete,2025-03-23 15:51:14,Fund Account,Completed,19.2,
+STUE109467,Complete,2024-12-05 00:03:36,Fund Account,Completed,15.6,
+STUE109477,Complete,2024-02-14 16:38:48,Fund Account,Completed,13.6,
+STUE109479,Complete,2025-06-22 20:17:23,Fund Account,Completed,9.4,
+STUE109486,In Progress,,Identity Verification,Started,8.4,
+STUE109494,Failed,,Personal Details,Failed,6.3,Session Timeout
+STUE109503,Failed,,Bank Account Link,Failed,7.3,ID Expired
+STUE109506,Failed,,Fund Account,Failed,9.8,Poor Image Quality
+STUE109513,Abandoned,,Fund Account,Abandoned,17.9,Poor Image Quality
+STUE109525,Complete,2025-03-31 00:57:35,Fund Account,Completed,0.2,
+STUE109529,Complete,2024-08-30 15:30:10,Fund Account,Completed,8.7,
+STUE109537,Complete,2024-11-05 00:22:42,Fund Account,Completed,4.3,
+STUE109545,In Progress,,Bank Account Link,Started,0.2,
+STUE109553,Failed,,Bank Account Link,Failed,7.5,Address Not Verified
+STUE109557,Abandoned,,Bank Account Link,Abandoned,12.4,Address Not Verified
+STUE109567,Complete,2024-08-08 21:03:31,Fund Account,Completed,11.5,
+STUE109571,Complete,2024-01-27 02:02:21,Fund Account,Completed,9.7,
+STUE109578,In Progress,,Personal Details,Started,2.7,
+STUE109586,Failed,,Proof of Address,Failed,8.8,ID Expired
+STUE109591,Abandoned,,Proof of Address,Abandoned,5.4,Document Rejected
+STUE109599,Abandoned,,Identity Verification,Abandoned,0.7,Details Mismatch
+STUE109609,Complete,2025-04-12 01:13:16,Fund Account,Completed,8.2,
+STUE109615,Complete,2024-11-08 19:10:21,Fund Account,Completed,0.5,
+STUE109623,Abandoned,,Identity Verification,Abandoned,9.2,Bank Verification Failed
+STUE109626,Abandoned,,Personal Details,Abandoned,5.4,Address Not Verified
+STUE109635,Abandoned,,Fund Account,Abandoned,5.5,Session Timeout
+STUE109640,Complete,2024-08-19 20:31:43,Fund Account,Completed,0.2,
+STUE109648, Complete ,2025-05-28 08:32:13,Fund Account,Completed,,
+STUE109655,In Progress,,Personal Details,Started,13.6,
+STUE109664,Complete,2024-05-25 12:25:46,Fund Account,Completed,9.1,
+STUE109672,Abandoned,,Proof of Address,Abandoned,8.0,ID Expired
+STUE109680,Complete,2024-01-22 06:32:54,Fund Account,Completed,7.8,
+STUE109682,Complete,2024-11-27 17:50:31,Fund Account,Completed,11.5,
+STUE109693,Complete,2025-07-24 23:44:00,Fund Account,Completed,0.2,
+STUE109697,Failed,,Proof of Address,Failed,0.2,Address Not Verified
+STUE109705,Complete,2024-07-29 04:53:32,Fund Account,Completed,2.1,
+STUE109710,In Progress,,Identity Verification,Started,0.6,
+STUE109717,Complete,2025-06-08 12:30:48,Fund Account,Completed,1.4,
+STUE109728,Failed,,Bank Account Link,Failed,10.9,Session Timeout
+STUE109732,Abandoned,,Identity Verification,Abandoned,9.1,ID Expired
+STUE109743,Complete,2024-04-24 14:22:36,Fund Account,Completed,9.3,
+STUE109748,Abandoned,,Proof of Address,Abandoned,11.2,Document Rejected
+STUE109757,Abandoned,,Proof of Address,Abandoned,12.1,Document Rejected
+STUE109758,Complete,2024-01-03 03:26:58,Fund Account,Completed,13.4,
+STUE109770,Failed,,Proof of Address,Failed,6.3,Document Rejected
+STUE109778,Abandoned,,Identity Verification,Abandoned,14.8,Address Not Verified
+STUE109782,In Progress,,Proof of Address,Started,9.1,
+STUE109789,Complete,2024-09-17 17:36:01,Fund Account,Completed,8.1,
+STUE109797,Abandoned,,Identity Verification,Abandoned,15.7,Bank Verification Failed
+STUE109806,Complete,2024-06-06 20:52:15,Fund Account,Completed,5.3,
+STUE109813,Complete,2024-01-25 07:46:12,Fund Account,Completed,10.3,
+STUE109820,Complete,2025-05-23 18:23:30,Fund Account,Completed,0.2,
+STUE109822,Failed,,Email Verification,Failed,1.3,ID Expired
+STUE109833,Abandoned,,Personal Details,Abandoned,0.2,Poor Image Quality
+STUE109838,Complete,2024-07-25 09:10:46,Fund Account,Completed,1.7,
+STUE109843,Complete,2024-01-03 23:14:54,Fund Account,Completed,12.0,
+STUE109853,Complete,2024-06-28 23:25:25,Fund Account,Completed,6.4,
+STUE109856,Complete,2025-07-16 01:44:22,Fund Account,Completed,7.5,
+STUE109866,Complete,2025-05-27 05:35:59,Fund Account,Completed,14.3,
+STUE109871,Complete,2025-01-07 13:14:11,Fund Account,Completed,19.7,
+STUE109879,Failed,,Bank Account Link,Failed,7.1,ID Expired
+STUE109884,Complete,2024-07-21 15:59:04,Fund Account,Completed,4.7,
+STUE109892,Failed,,Email Verification,Failed,5.6,Session Timeout
+STUE109904,Failed,,Identity Verification,Failed,10.1,Session Timeout
+STUE109907,Complete,2024-01-17 03:29:08,Fund Account,Completed,11.1,
+STUE109913,Abandoned,,Bank Account Link,Abandoned,7.9,ID Expired
+STUE109923,Complete,2024-10-26 16:30:44,Fund Account,Completed,1.2,
+STUE109928,Complete,2025-02-07 10:00:00,Fund Account,Completed,9.0,
+STUE109938,Abandoned,,Identity Verification,Abandoned,6.7,Session Timeout
+STUE109943,Complete,2025-08-16 01:05:20,Fund Account,Completed,4.1,
+STUE109949,Complete,2025-05-04 12:40:10,Fund Account,Completed,14.2,
+STUE109956,Failed,,Bank Account Link,Failed,0.2,Details Mismatch
+STUE109966,Abandoned,,Personal Details,Abandoned,9.6,Address Not Verified
+STUE109971, Complete ,2025-06-05 02:04:45, Fund Account ,Completed,5.0,
+STUE109980,Complete,2025-06-28 20:15:17,Fund Account,Completed,13.4,
+STUE109987,Abandoned,,Proof of Address,Abandoned,7.7,Bank Verification Failed
+STUE109991,Abandoned,,Personal Details,Abandoned,9.3,Session Timeout
+STUE109998,Complete,2024-06-05 10:36:47,Fund Account,Completed,6.9,
+STUE110006,Complete,2024-10-17 00:29:30,Fund Account,Completed,9.2,
+STUE110016,Complete,2024-09-01 01:22:36,Fund Account,Completed,11.6,
+STUE110023,Failed,,Bank Account Link,Failed,6.5,Address Not Verified
+STUE110024,Complete,2024-12-09 22:05:08,Fund Account,Completed,16.3,
+STUE110032,Complete,2024-05-13 23:35:46,Fund Account,Completed,5.3,
+STUE110043,Abandoned,,Proof of Address,Abandoned,8.4,Bank Verification Failed
+STUE110051,Complete,2025-02-02 19:36:54,Fund Account,Completed,5.2,
+STUE110054,Complete,2025-01-08 14:07:10,Fund Account,Completed,11.6,
+STUE110065,Failed,,Proof of Address,Failed,9.4,Poor Image Quality
+STUE110068,Complete,2025-08-02 13:45:32,Fund Account,Completed,11.6,
+STUE110079,Complete,2024-05-16 14:57:56,Fund Account,Completed,8.9,
+STUE110082,In Progress,,Proof of Address,Started,9.7,
+STUE110091,In Progress,,Identity Verification,Started,0.2,
+STUE110095,In Progress,,Email Verification,Started,10.3,
+STUE110102,complete,2025-05-26 10:29:13,Fund Account,Completed,5.6,
+STUE110112,Complete,2025-02-18 00:56:44,Fund Account,Completed,8.9,
+STUE110120,Failed,,Email Verification,Failed,8.3,Address Not Verified
+STUE110128,In Progress,,Identity Verification,Started,5.0,
+STUE110135,Complete,2024-08-14 00:11:52,Fund Account,Completed,6.0,
+STUE110140,Complete,2024-03-10 09:16:23,Fund Account,Completed,5.6,
+STUE110149,Complete,2024-10-12 12:57:50,Fund Account,Completed,3.3,
+STUE110154,In Progress,,Identity Verification,Started,,
+STUE110157,Complete,2025-02-25 15:19:49,Fund Account,Completed,16.0,
+STUE110169,Complete,2025-01-01 21:48:50,Fund Account,Completed,4.2,
+STUE110177,Abandoned,,Proof of Address,Abandoned,8.9,Details Mismatch
+STUE110179,Failed,,Fund Account,Failed,6.6,Session Timeout
+STUE110191,Abandoned,,Proof of Address,Abandoned,0.2,Poor Image Quality
+STUE110197,Failed,,Personal Details,Failed,10.3,Bank Verification Failed
+STUE110201,Complete,2025-01-04 03:08:05,Fund Account,Completed,5.1,
+STUE110206,Complete,2024-07-22 05:25:21,Fund Account,Completed,3.8,
+STUE110213,Complete,2024-05-11 00:02:02,Fund Account,Completed,11.7,
+STUE110225,Complete,2024-01-28 05:38:07,Fund Account,Completed,14.9,
+STUE110228,Complete,2025-06-24 14:48:19,Fund Account,Completed,6.7,
+STUE110237,Failed,,Identity Verification,Failed,1.0,Details Mismatch
+STUE110245,Complete,2024-12-20 09:53:34,Fund Account,Completed,2.2,
+STUE110253,Complete,2024-03-19 17:26:50,Fund Account,Completed,2.8,
+STUE110255,Abandoned,,Identity Verification,Abandoned,6.1,Address Not Verified
+STUE110267,Complete,2025-07-25 05:00:15,Fund Account,Completed,9.7,
+STUE110272,Complete,2025-07-29 22:15:28,Fund Account,Completed,8.6,
+STUE110281,Complete,2025-08-29 01:33:52,Fund Account,Completed,9.8,
+STUE110286,Complete,2024-01-25 13:07:27,Fund Account,Completed,5.7,
+STUE110294,Complete,2024-07-22 13:58:11,Fund Account,Completed,16.4,
+STUE110298,Complete,2025-01-18 13:19:17,Fund Account,Completed,10.3,
+STUE110306,Complete,2024-12-26 04:18:07,Fund Account,Completed,2.1,
+STUE110311,Abandoned,,Proof of Address,Abandoned,4.3,Poor Image Quality
+STUE110322,Abandoned,,Fund Account,Abandoned,8.9,ID Expired
+STUE110331,Abandoned,,Proof of Address,Abandoned,3.6,Address Not Verified
+STUE110333,Complete,2025-01-04 11:32:44, Fund Account ,Completed,11.8,
+STUE110339,Abandoned,,Identity Verification,Abandoned,0.7,Document Rejected
+STUE110347,Complete,2024-03-08 18:59:40,Fund Account,Completed,8.1,
+STUE110355,Complete,2024-08-28 22:31:41,Fund Account,Completed,11.1,
+STUE110360,Complete,2025-06-08 11:34:29,Fund Account,Completed,7.5,
+STUE110370,Complete,2024-02-24 06:49:44,Fund Account,Completed,10.5,
+STUE110380,Complete,2024-10-27 12:16:36,Fund Account,Completed,14.1,
+STUE110386,Failed,,Bank Account Link,Failed,3.0,Session Timeout
+STUE110392,Failed,,Proof of Address,Failed,8.6,Details Mismatch
+STUE110397,Complete,2024-01-30 22:15:58,Fund Account,Completed,7.8,
+STUE110408,Complete,2024-05-28 18:33:24,Fund Account, Completed ,7.0,
+STUE110410,Complete,2024-09-19 04:08:08,Fund Account,Completed,7.0,
+STUE110421,Complete,2024-02-01 03:35:01,Fund Account,Completed,11.7,
+STUE110423,In Progress,,Bank Account Link,Started,4.4,
+STUE110430,Complete,2024-09-15 02:08:49,Fund Account,Completed,,
+STUE110439,Abandoned,,Fund Account,Abandoned,12.2,Poor Image Quality
+STUE110447,Complete,2024-11-04 13:18:40,Fund Account,Completed,8.9,
+STUE110457,Complete,2024-10-24 07:12:44,Fund Account,Completed,9.5,
+STUE110464,Failed,,Personal Details,Failed,0.2,ID Expired
+STUE110465,In Progress,,Identity Verification,Started,9.4,
+STUE110478,Complete,2024-06-09 14:00:47,Fund Account,Completed,0.2,
+STUE110479,Complete,2024-09-22 20:56:39,Fund Account,Completed,13.5,
+STUE110489,Complete,2025-05-11 14:32:00,Fund Account,Completed,6.9,
+STUE110499,Complete,2025-02-05 21:01:25,Fund Account,Completed,12.3,
+STUE110506,Complete,2025-03-11 02:09:17,Fund Account,Completed,9.2,
+STUE110509,Abandoned,,Identity Verification,Abandoned,6.4,Bank Verification Failed
+STUE110517,Complete,2025-06-09 08:47:20,Fund Account,Completed,8.9,
+STUE110522,In Progress,,Proof of Address,Started,8.5,
+STUE110529,In Progress,,Proof of Address,Started,6.2,
+STUE110540,Failed,,Proof of Address,Failed,1.9,Bank Verification Failed
+STUE110547,Abandoned,,Proof of Address,Abandoned,16.7,Details Mismatch
+STUE110553,Abandoned,,Personal Details,Abandoned,0.7,Document Rejected
+STUE110561,Failed,,Personal Details,Failed,1.4,Document Rejected
+STUE110564,Complete,2025-06-16 04:24:45,Fund Account,Completed,0.2,
+STUE110575,Failed,,Proof of Address,Failed,12.2,Address Not Verified
+STUE110578,Abandoned,,Personal Details,Abandoned,3.0,ID Expired
+STUE110584,Complete,2024-11-21 12:46:41,Fund Account,Completed,9.0,
+STUE110596,Complete,2025-01-16 07:34:43,Fund Account,Completed,5.6,
+STUE110598,Failed,,Personal Details,Failed,15.9,Bank Verification Failed
+STUE110605,Failed,,Personal Details,Failed,12.6,Session Timeout
+STUE110618,Abandoned,,Proof of Address,Abandoned,14.9,Address Not Verified
+STUE110619,Complete,2024-09-09 04:00:21,Fund Account,Completed,6.2,
+STUE110627,Failed,,Email Verification,Failed,4.4,Bank Verification Failed
+STUE110639,Complete,2024-11-21 23:08:26,Fund Account,Completed,18.3,
+STUE110640,Abandoned,,Personal Details,Abandoned,15.2,Address Not Verified
+STUE110647,Complete,2024-12-27 03:13:10,Fund Account,Completed,16.3,
+STUE110658,In Progress,,Proof of Address,Started,14.2,
+STUE110662,Complete,2025-08-30 02:20:41,Fund Account,Completed,7.1,
+STUE110671,In Progress,,Identity Verification,Started,1.3,
+STUE110679,Complete,2024-10-06 18:58:36,Fund Account,Completed,12.5,
+STUE110682,Complete,2025-01-27 00:53:54,Fund Account,Completed,5.2,
+STUE110689,Complete,2024-05-22 06:18:34,Fund Account,Completed,12.7,
+STUE110700,Complete,2024-01-22 15:16:06, Fund Account ,Completed,6.9,
+STUE110706,In Progress,,Email Verification,Started,15.6,
+STUE110714,Failed,,Fund Account,Failed,13.4,ID Expired
+STUE110717,Failed,,Bank Account Link,Failed,11.5,Document Rejected
+STUE110724,Failed,,Bank Account Link,Failed,12.5,Details Mismatch
+STUE110733,Failed,,Personal Details,Failed,7.6,Bank Verification Failed
+STUE110741,In Progress,,Identity Verification,Started,6.3,
+STUE110745,Complete,2024-07-28 07:52:03,Fund Account,Completed,0.2,
+STUE110753,Abandoned,,Identity Verification,Abandoned,2.9,Bank Verification Failed
+STUE110760,Complete,2025-03-21 19:25:14,Fund Account,Completed,10.9,
+STUE110770,In Progress,,Identity Verification,Started,7.5,
+STUE110777,Complete,2025-05-20 08:12:01,Fund Account,Completed,2.7,
+STUE110781,Complete,2024-07-15 22:27:29,Fund Account,Completed,15.3,
+STUE110787,Failed,,Personal Details,Failed,9.8,Poor Image Quality
+STUE110795,In Progress,,Bank Account Link,Started,7.9,
+STUE110803,Complete,2025-05-05 15:19:52,Fund Account,Completed,14.2,
+STUE110809,Complete,2025-06-01 03:25:56,Fund Account,Completed,0.2,
+STUE110817,Complete,2024-07-30 08:32:33,Fund Account,Completed,0.2,
+STUE110822,Complete,2024-05-29 02:18:09,Fund Account,Completed,4.5,
+STUE110833,Failed,,Bank Account Link,Failed,1.6,Address Not Verified
+STUE110837,Complete,2025-08-24 21:01:25,Fund Account,Completed,17.0,
+STUE110848,In Progress,,Proof of Address,Started,1.6,
+STUE110850,Complete,2024-09-24 23:44:43,Fund Account,Completed,8.4,
+STUE110858,Complete,2025-01-03 20:42:02,Fund Account,Completed,13.6,
+STUE110870,In Progress,,Proof of Address,Started,10.0,
+STUE110874,Failed,,Proof of Address,Failed,0.2,ID Expired
+STUE110879,Complete,2024-07-31 07:23:27,Fund Account,Completed,6.4,
+STUE110891,Complete,2025-04-23 15:21:05,Fund Account,Completed,7.0,
+STUE110892,Abandoned,,Identity Verification,Abandoned,2.3,Document Rejected
+STUE110900,In Progress,,Identity Verification,Started,3.3,
+STUE110911,Failed,,Bank Account Link,Failed,10.6,Session Timeout
+STUE110913,Failed,,Identity Verification,Failed,7.0,Address Not Verified
+STUE110926,Complete,2025-08-16 00:53:46,Fund Account,Completed,0.2,
+STUE110932,In Progress,,Proof of Address,Started,17.5,
+STUE110934,Failed,,Email Verification,Failed,11.9,Document Rejected
+STUE110944,Complete,2025-03-13 20:52:25,Fund Account,Completed,13.7,
+STUE110953,Failed,,Proof of Address,Failed,12.7,Session Timeout
+STUE110960,Complete,2025-02-06 22:56:27,Fund Account,Completed,10.7,
+STUE110965,Failed,,Bank Account Link,Failed,13.5,ID Expired
+STUE110970,Complete,2025-02-19 04:44:42,Fund Account,Completed,2.7,
+STUE110978,Failed,,Identity Verification,Failed,0.2,Session Timeout
+STUE110985,Abandoned,,Identity Verification,Abandoned,5.8,Document Rejected
+STUE110996,Complete,2025-04-03 04:02:04,Fund Account,Completed,7.5,
+STUE110997,Abandoned,,Proof of Address,Abandoned,4.9,Document Rejected
+STUE111009,Abandoned,,Bank Account Link,Abandoned,0.9,Bank Verification Failed
+STUE111011,COMPLETE,2024-07-19 20:32:26,Fund Account,Completed,6.4,
+STUE111021,Complete,2024-10-02 00:11:59,Fund Account,Completed,7.9,
+STUE111029,Complete,2025-06-22 16:53:48,Fund Account,Completed,9.3,
+STUE111032,Abandoned,,Identity Verification,Abandoned,3.4,Bank Verification Failed
+STUE111040,Complete,2024-09-30 20:35:22,Fund Account,Completed,2.8,
+STUE111048,Complete,2025-03-02 04:32:18,Fund Account,Completed,8.6,
+STUE111058,Failed,,Identity Verification,Failed,6.3,ID Expired
+STUE111061,Abandoned,,Personal Details,Abandoned,2.5,Address Not Verified
+STUE111069,Complete,2025-01-24 00:37:47,Fund Account,Completed,8.4,
+STUE111077,Complete,2024-02-19 07:46:49,Fund Account,Completed,4.9,
+STUE111084,Abandoned,,Personal Details,Abandoned,2.0,Document Rejected
+STUE111089,Failed,,Bank Account Link,Failed,0.2,Document Rejected
+STUE111099,Abandoned,,Identity Verification,Abandoned,5.2,Address Not Verified
+STUE111102,Complete,2025-03-14 03:45:02,Fund Account,Completed,1.5,
+STUE111113,In Progress,,Proof of Address,Started,6.3,
+STUE111119,Complete,2024-07-12 13:38:47,Fund Account,Completed,7.0,
+STUE111128,In Progress,,Fund Account,Started,2.1,
+STUE111136,Abandoned,,Proof of Address,Abandoned,10.1,ID Expired
+STUE111142,Abandoned,,Bank Account Link,Abandoned,6.4,Session Timeout
+STUE111150,Failed,,Bank Account Link,Failed,7.8,Poor Image Quality
+STUE111151,Complete,2024-02-03 14:55:17,Fund Account,Completed,9.4,
+STUE111162,Complete,2025-01-20 14:19:41,Fund Account,Completed,7.7,
+STUE111167,Abandoned,,Identity Verification,Abandoned,4.5,Bank Verification Failed
+STUE111172,Complete,2024-01-29 19:10:51,Fund Account,Completed,7.3,
+STUE111179,Failed,,Proof of Address,Failed,10.1,Session Timeout
+STUE111190,Abandoned,,Proof of Address,Abandoned,7.4,ID Expired
+STUE111198,In Progress,,Proof of Address,Started,1.1,
+STUE111201,Complete,2024-03-02 07:15:38,Fund Account,Completed,7.2,
+STUE111208,In Progress,,Identity Verification,Started,13.0,
+STUE111217,Complete,2025-06-12 21:20:37,Fund Account,Completed,6.4,
+STUE111224,In Progress,,Bank Account Link,Started,13.2,
+STUE111229,Complete,2025-02-05 20:42:48,Fund Account,Completed,10.0,
+STUE111237,Failed,,Identity Verification,Failed,3.1,Session Timeout
+STUE111245,Complete,2025-03-05 23:33:34,Fund Account,Completed,7.1,
+STUE111252,Failed,,Proof of Address,Failed,1.4,Details Mismatch
+STUE111262,Complete,2024-10-04 11:17:08,Fund Account,Completed,14.2,
+STUE111265,Abandoned,,Proof of Address,Abandoned,6.5,Details Mismatch
+STUE111275,Abandoned,,Identity Verification,Abandoned,15.5,Poor Image Quality
+STUE111279,Complete,2024-06-03 07:54:21,Fund Account,Completed,7.4,
+STUE111290,Complete,2024-07-22 21:25:01,Fund Account,Completed,0.2,
+STUE111294,Failed,,Email Verification,Failed,,Details Mismatch
+STUE111303,Complete,2024-10-29 01:47:11,Fund Account,Completed,1.8,
+STUE111306,Complete,2025-02-02 04:53:26,Fund Account,Completed,1.9,
+STUE111315,Complete,2025-08-11 18:58:26,Fund Account,Completed,11.7,
+STUE111323,In Progress,,Proof of Address,Started,13.7,
+STUE111332,Complete,2024-09-17 02:06:58,Fund Account,Completed,4.9,
+STUE111333,In Progress,,Proof of Address,Started,6.7,
+STUE111340,In Progress,,Proof of Address,Started,16.2,
+STUE111348,Complete,2024-03-03 14:56:55,Fund Account,Completed,11.2,
+STUE111357,Abandoned,,Personal Details,Abandoned,9.9,Address Not Verified
+STUE111365,In Progress,,Personal Details,Started,2.1,
+STUE111370,Abandoned,,Proof of Address,Abandoned,8.8,Document Rejected
+STUE111375,Complete,2025-02-12 18:27:46,FUND ACCOUNT,Completed,7.0,
+STUE111383,Complete,2024-08-14 13:07:36,Fund Account,Completed,3.3,
+STUE111394,Complete,2025-05-20 16:37:28,FUND ACCOUNT,Completed,11.6,
+STUE111402,Complete,2024-10-02 07:19:04,Fund Account,Completed,2.3,
+STUE111408,Abandoned,,Proof of Address, Abandoned ,10.1,Poor Image Quality
+STUE111415,Complete,2024-01-28 23:12:33,Fund Account,Completed,11.1,
+STUE111422,Complete,2024-04-07 17:56:03,Fund Account,Completed,11.4,
+STUE111424,Complete,2024-02-17 18:19:15,Fund Account,Completed,13.0,
+STUE111436,In Progress,,Bank Account Link,Started,0.8,
+STUE111439,Failed,,Fund Account,Failed,3.7,Session Timeout
+STUE111446,Complete,2025-04-11 02:58:17,Fund Account,Completed,5.8,
+STUE111458,In Progress,,Fund Account,Started,11.7,
+STUE111464,Abandoned,,Bank Account Link,Abandoned,0.2,Document Rejected
+STUE111468,Abandoned,,Proof of Address,Abandoned,4.6,Session Timeout
+STUE111473,Abandoned,,Proof of Address,Abandoned,6.2,Poor Image Quality
+STUE111486,Complete,2025-02-02 19:56:13,Fund Account,Completed,7.6,
+STUE111491,Complete,2024-12-22 07:54:50,Fund Account,Completed,0.2,
+STUE111497,Complete,2024-02-09 03:48:56,Fund Account,Completed,10.2,
+STUE111504,Complete,2025-04-10 22:47:42,Fund Account,Completed,0.2,
+STUE111510,Abandoned,,Proof of Address,Abandoned,10.2,Document Rejected
+STUE111520,Complete,2025-06-01 17:51:25,Fund Account,Completed,5.1,
+STUE111528,Failed,,Proof of Address,Failed,21.0,ID Expired
+STUE111534,Complete,2024-03-15 09:19:49,Fund Account,Completed,5.1,
+STUE111540,Complete,2025-07-12 22:18:28,Fund Account,Completed,8.5,
+STUE111548,Abandoned,,Bank Account Link,Abandoned,7.3,Details Mismatch
+STUE111551,Abandoned,,Identity Verification,Abandoned,12.2,Poor Image Quality
+STUE111561,Complete,2024-10-05 01:46:54,Fund Account,Completed,13.4,
+STUE111569,Complete,2024-08-31 16:41:56,Fund Account,Completed,10.1,
+STUE111577,Failed,,Proof of Address,Failed,7.9,ID Expired
+STUE111582,Complete,2024-09-27 11:20:51,Fund Account,Completed,0.2,
+STUE111591,Abandoned,,Proof of Address,Abandoned,4.0,Address Not Verified
+STUE111596,In Progress,,Email Verification,Started,1.5,
+STUE111600,Complete,2025-06-23 14:35:07,Fund Account,Completed,12.1,
+STUE111612,Complete,2025-08-01 10:20:54,Fund Account,Completed,20.8,
+STUE111616,Abandoned,,Identity Verification,Abandoned,13.3,Address Not Verified
+STUE111620,In Progress,,Proof of Address,Started,17.2,
+STUE111633,Abandoned,,Personal Details,Abandoned,8.6,Address Not Verified
+STUE111638,Abandoned,,Bank Account Link,Abandoned,9.2,Session Timeout
+STUE111641,Complete,2024-05-11 15:42:08,Fund Account,Completed,8.7,
+STUE111654,Failed,,Bank Account Link,Failed,20.2,Session Timeout
+STUE111661,Abandoned,,Personal Details,Abandoned,16.5,Poor Image Quality
+STUE111665,Complete,2024-07-14 03:25:06,Fund Account,Completed,10.1,
+STUE111672,Complete,2025-04-10 00:33:24,Fund Account,Completed,7.1,
+STUE111676,Complete,2025-04-16 14:47:24,Fund Account,Completed,5.9,
+STUE111689,Complete,2024-08-01 04:48:44,Fund Account,Completed,14.1,
+STUE111691,Abandoned,,Email Verification,Abandoned,14.1,Address Not Verified
+STUE111699,Failed,,Fund Account,Failed,6.7,Document Rejected
+STUE111707,Complete,2024-03-18 19:41:24,Fund Account,Completed,9.0,
+STUE111713,Complete,2025-07-15 12:08:16,Fund Account,Completed,5.4,
+STUE111719,IN PROGRESS,,Identity Verification,Started,11.1,
+STUE111727,In Progress,,Personal Details,Started,15.8,
+STUE111736,Complete,2024-05-16 18:09:57,Fund Account,Completed,0.7,
+STUE111740,In Progress,,Fund Account,Started,4.4,
+STUE111748,Complete,2024-05-10 14:31:27,Fund Account,Completed,9.7,
+STUE111759,In Progress,,Personal Details,Started,13.6,
+STUE111760,Complete,2024-03-28 08:13:13,Fund Account,Completed,10.8,
+STUE111769,Complete,2024-10-01 07:26:33,Fund Account,Completed,4.8,
+STUE111780,Abandoned,,Personal Details,Abandoned,11.8,Poor Image Quality
+STUE111786,Abandoned,,Identity Verification,Abandoned,8.5,Session Timeout
+STUE111794,Complete,2024-03-17 08:37:33,Fund Account,Completed,5.1,
+STUE111800,Complete,2025-02-16 04:42:24,Fund Account,Completed,4.9,
+STUE111802,In Progress,,Proof of Address,Started,7.3,
+STUE111813,Complete,2025-04-15 22:32:13,Fund Account,Completed,10.8,
+STUE111822,In Progress,,Fund Account,Started,6.2,
+STUE111828,Abandoned,,Fund Account,Abandoned,12.2,Session Timeout
+STUE111833,Abandoned,,Bank Account Link,Abandoned,3.5,Session Timeout
+STUE111840,Failed,,Fund Account,Failed,6.2,Poor Image Quality
+STUE111850,Complete,2025-04-11 19:28:31,Fund Account,Completed,7.2,
+STUE111854,In Progress,,Email Verification,Started,11.2,
+STUE111864,Abandoned,,Proof of Address,Abandoned,6.5,Session Timeout
+STUE111865,Failed,,Personal Details,Failed,19.3,Session Timeout
+STUE111877,Complete,2024-05-25 22:58:46,Fund Account,Completed,7.8,
+STUE111879,Complete,2024-12-08 13:19:36,Fund Account,Completed,14.1,
+STUE111891,In Progress,,Proof of Address,Started,1.1,
+STUE111899,In Progress,,Proof of Address,Started,11.9,
+STUE111903,Abandoned,,Identity Verification,Abandoned,0.2,Session Timeout
+STUE111909,Complete,2024-09-24 09:51:52,Fund Account,Completed,9.0,
+STUE111918,Complete,2025-07-11 15:15:46,Fund Account,Completed,5.3,
+STUE111925,In Progress,,Personal Details,Started,9.3,
+STUE111929,Complete,2025-02-07 17:31:59,Fund Account,Completed,12.1,
+STUE111937,Complete,2025-06-24 23:46:29,Fund Account,Completed,15.8,
+STUE111947,Complete,2024-10-03 09:29:07,Fund Account,Completed,8.9,
+STUE111954,Complete,2025-06-24 19:49:53,Fund Account,Completed,18.7,
+STUE111956,Complete,2025-04-23 14:12:07,Fund Account,Completed,16.0,
+STUE111965,Complete,2025-04-28 17:57:19,Fund Account,Completed,8.9,
+STUE111972,Failed,,Bank Account Link,Failed,14.1,Document Rejected
+STUE111979,Failed,,Personal Details,Failed,3.7,Session Timeout
+STUE111986,Complete,2024-03-15 15:11:17,Fund Account,Completed,11.6,
+STUE111996,Abandoned,,Proof of Address,Abandoned,3.1,Bank Verification Failed
+STUE112001,Complete,2025-03-02 09:31:44,Fund Account,Completed,7.3,
+STUE112009,Complete,2025-03-24 18:03:12,Fund Account,Completed,5.6,
+STUE112012,Complete,2024-11-29 06:28:34,Fund Account,Completed,11.0,
+STUE112019,Complete,2025-06-27 10:03:24,Fund Account,Completed,11.4,
+STUE112029,Failed,,Identity Verification,Failed,9.9,Details Mismatch
+STUE112038,Abandoned,,Proof of Address,Abandoned,4.7,Document Rejected
+STUE112041,Complete,2024-07-06 20:52:02,Fund Account,Completed,14.1,
+STUE112047,Complete,2024-10-12 16:01:36,Fund Account,Completed,6.2,
+STUE112058,In Progress,,Identity Verification,Started,10.7,
+STUE112062,Complete,2024-04-01 17:21:49,Fund Account,Completed,5.4,
+STUE112068,Abandoned,,Proof of Address,Abandoned,6.1,Details Mismatch
+STUE112077,Abandoned,,Identity Verification,Abandoned,14.8,Document Rejected
+STUE112088,Complete,2025-03-14 15:52:17,Fund Account,Completed,1.8,
+STUE112093,Abandoned,,Bank Account Link,Abandoned,0.4,Document Rejected
+STUE112102,Complete,2024-07-11 01:01:48,Fund Account,Completed,4.8,
+STUE112105,Complete,2025-08-16 14:10:44,Fund Account,Completed,7.0,
+STUE112110,In Progress,,Identity Verification,Started,1.0,
+STUE112120,Abandoned,,Bank Account Link,Abandoned,4.4,Session Timeout
+STUE112124,Complete,2025-04-11 12:00:17,Fund Account,Completed,10.4,
+STUE112134,Complete,2024-10-09 00:31:49,Fund Account,Completed,7.8,
+STUE112142,In Progress,,Proof of Address,Started,6.2,
+STUE112145,Complete,2024-03-13 22:40:06,Fund Account,Completed,17.8,
+STUE112153,Complete,2024-08-21 23:49:17,Fund Account,Completed,7.7,
+STUE112165,Abandoned,,Personal Details,Abandoned,13.3,Session Timeout
+STUE112167,Failed,,bank account link,Failed,12.1,Bank Verification Failed
+STUE112173,Complete,2024-10-15 19:02:53,Fund Account,Completed,12.3,
+STUE112182,Abandoned,,Email Verification,Abandoned,0.2,Details Mismatch
+STUE112190,Abandoned,,Bank Account Link,Abandoned,2.6,Session Timeout
+STUE112196,In Progress,,Proof of Address,Started,8.8,
+STUE112201,Abandoned,,Bank Account Link,Abandoned,3.0,Details Mismatch
+STUE112208,Complete,2025-06-26 21:14:34,Fund Account,Completed,0.2,
+STUE112216,Complete,2024-03-18 07:12:11,Fund Account,Completed,7.2,
+STUE112224,In Progress,,Fund Account,Started,7.6,
+STUE112232,Complete,2025-02-17 02:10:39,Fund Account,Completed,10.4,
+STUE112237,Complete,2025-07-09 10:06:31,Fund Account,Completed,6.4,
+STUE112243,Abandoned,,Proof of Address,Abandoned,15.8,Details Mismatch
+STUE112252,Complete,2025-07-31 17:15:25,Fund Account,Completed,6.7,
+STUE112261,Complete,2025-02-11 10:14:24,Fund Account,Completed,11.6,
+STUE112268,Complete,2024-12-15 09:43:15,Fund Account,Completed,6.5,
+STUE112273,Complete,2024-07-29 13:08:40,Fund Account,Completed,9.9,
+STUE112283,Abandoned,,Identity Verification,Abandoned,13.3,Session Timeout
+STUE112290,Complete,2024-10-25 09:49:09,Fund Account,Completed,2.3,
+STUE112293,Complete,2024-11-06 02:24:18,Fund Account,Completed,17.5,
+STUE112299,Failed,,Proof of Address,Failed,9.3,Document Rejected
+STUE112307,Complete,2025-03-16 14:12:16,Fund Account,Completed,3.8,
+STUE112318,Failed,,Proof of Address,Failed,11.4,Session Timeout
+STUE112320,Complete,2024-05-07 22:21:56,Fund Account,Completed,6.1,
+STUE112331,Complete,2024-06-21 08:31:37,Fund Account,Completed,2.4,
+STUE112338,Complete,2024-08-03 04:29:38,Fund Account,Completed,3.7,
+STUE112341,Complete,2024-08-30 00:47:16,Fund Account,Completed,11.0,
+STUE112351,Complete,2025-08-28 07:25:28,Fund Account,Completed,13.2,
+STUE112356,Abandoned,,Proof of Address,Abandoned,16.4,ID Expired
+STUE112362,Complete,2024-11-24 22:58:07,Fund Account,Completed,4.4,
+STUE112374,Abandoned,,Personal Details,Abandoned,11.0,Bank Verification Failed
+STUE112378,Complete,2025-03-19 13:32:10,Fund Account,Completed,5.6,
+STUE112385,In Progress,,Fund Account,Started,7.2,
+STUE112394,Abandoned,,Bank Account Link,Abandoned,12.4,Address Not Verified
+STUE112398,Complete,2024-02-02 21:07:44,Fund Account,Completed,7.6,
+STUE112405,Complete,2024-06-23 22:03:44,Fund Account,Completed,4.6,
+STUE112414,In Progress,,Personal Details,Started,0.8,
+STUE112423,Failed,,Email Verification,Failed,10.5,Document Rejected
+STUE112428,Complete,2025-07-15 12:39:37,Fund Account,Completed,16.0,
+STUE112434,In Progress,,Proof of Address,Started,6.7,
+STUE112440,Abandoned,,Identity Verification,Abandoned,3.7,Poor Image Quality
+STUE112451,Failed,,Identity Verification,Failed,7.9,Poor Image Quality
+STUE112453,In Progress,,Identity Verification,Started,7.8,
+STUE112465,Complete,2024-06-07 20:49:35,Fund Account,Completed,4.2,
+STUE112470,Complete,2024-01-26 13:37:38, Fund Account ,Completed,10.4,
+STUE112474,Complete,2025-04-02 02:40:31,Fund Account,Completed,9.8,
+STUE112484,Failed,,Proof of Address,Failed,10.3,Details Mismatch
+STUE112491,Failed,,Fund Account,Failed,,Session Timeout
+STUE112496,Complete,2025-07-22 15:32:43,Fund Account,Completed,6.6,
+STUE112508,Abandoned,,Proof of Address,Abandoned,1.2,Address Not Verified
+STUE112514,Complete,2024-05-08 07:18:51,Fund Account,Completed,7.4,
+STUE112519,Abandoned,,Proof of Address,Abandoned,9.0,Document Rejected
+STUE112528,Complete,2024-06-17 00:08:55,Fund Account,Completed,2.9,
+STUE112533,In Progress,,Proof of Address,Started,8.6,
+STUE112539,Complete,2025-02-17 18:27:14,Fund Account,Completed,5.1,
+STUE112548,Complete,2024-12-17 09:13:57,Fund Account,Completed,24.9,
+STUE112555,Abandoned,,Personal Details,abandoned,4.3,Details Mismatch
+STUE112562,Complete,2025-06-25 01:42:53,Fund Account,Completed,1.4,
+STUE112566,Complete,2024-10-13 10:40:58,Fund Account,Completed,0.2,
+STUE112573,Complete,2024-05-26 04:32:17,Fund Account,Completed,2.7,
+STUE112580,In Progress,,Bank Account Link,Started,7.5,
+STUE112588,Complete,2024-05-15 14:33:51,fund account,Completed,3.6,
+STUE112593,In Progress,,Proof of Address,Started,15.4,
+STUE112601,Abandoned,,Fund Account,Abandoned,16.2,ID Expired
+STUE112611,Complete,2025-06-08 15:26:33,Fund Account,Completed,19.6,
+STUE112617,Complete,2024-12-29 14:52:37,Fund Account,Completed,13.6,
+STUE112624,In Progress,,Proof of Address,Started,6.1,
+STUE112628,In Progress,,Identity Verification,Started,17.7,
+STUE112640,Abandoned,,Personal Details,Abandoned,10.5,ID Expired
+STUE112648,Complete,2025-07-28 22:57:36,Fund Account,Completed,5.6,
+STUE112651,Complete,2025-06-09 14:42:53,Fund Account,Completed,0.2,
+STUE112656,abandoned,,Proof of Address,Abandoned,4.9,Document Rejected
+STUE112669,In Progress,,Fund Account,Started,11.0,
+STUE112674,Complete,2025-01-11 09:41:54,Fund Account,Completed,16.2,
+STUE112681,Failed,,Bank Account Link,Failed,6.3,Details Mismatch
+STUE112685,Complete,2025-04-07 16:30:51,Fund Account,Completed,10.4,
+STUE112695,Complete,2024-05-30 18:33:44,Fund Account,Completed,,
+STUE112704,Complete,2025-06-06 06:06:59,Fund Account,Completed,12.8,
+STUE112707,Abandoned,,Identity Verification,Abandoned,5.5,Bank Verification Failed
+STUE112713,Abandoned,,Identity Verification,Abandoned,7.8,ID Expired
+STUE112719,Complete,2024-09-11 06:14:23,Fund Account,Completed,1.8,
+STUE112731,Abandoned,,Proof of Address,Abandoned,4.4,Session Timeout
+STUE112739,Complete,2025-04-29 10:10:36,Fund Account,Completed,4.3,
+STUE112746,Failed,,Identity Verification,Failed,8.1,Poor Image Quality
+STUE112752,Complete,2025-03-27 02:27:36,Fund Account,Completed,8.0,
+STUE112758,Failed,,Email Verification,Failed,5.7,Session Timeout
+STUE112763,Failed,,Identity Verification,Failed,11.3,Address Not Verified
+STUE112771,Abandoned,,Personal Details,Abandoned,7.3,Details Mismatch
+STUE112781,Complete,2024-02-08 13:11:36,Fund Account,Completed,2.9,
+STUE112783,Complete,2025-05-17 02:53:06,Fund Account,Completed,6.5,
+STUE112792,Complete,2025-07-09 14:53:20,Fund Account,Completed,9.4,
+STUE112799,Complete,2024-08-02 14:47:48,Fund Account,Completed,7.5,
+STUE112807,Failed,,Proof of Address,Failed,3.7,Address Not Verified
+STUE112810,Abandoned,,Proof of Address,Abandoned,4.2,Session Timeout
+STUE112818,Complete,2024-06-30 06:15:48,Fund Account,Completed,9.5,
+STUE112828,Abandoned,,Identity Verification,Abandoned,11.5,Session Timeout
+STUE112835,Failed,,Proof of Address,Failed,17.8,Bank Verification Failed
+STUE112841,Failed,,Identity Verification,Failed,12.4,Details Mismatch
+STUE112847,In Progress,,Personal Details,Started,4.9,
+STUE112856,In Progress,,Bank Account Link,Started,3.8,
+STUE112864,Complete,2025-02-23 00:50:31,Fund Account,Completed,12.2,
+STUE112868,Failed,,Proof of Address,Failed,1.7,Address Not Verified
+STUE112879,Complete,2025-02-09 01:10:13,Fund Account,Completed,9.9,
+STUE112881,Complete,2024-05-25 01:37:42,Fund Account,Completed,8.1,
+STUE112887,Complete,2024-12-20 06:35:32,Fund Account,Completed,0.2,
+STUE112899,Complete,2025-03-25 09:20:43,Fund Account,Completed,8.1,
+STUE112905,In Progress,,Personal Details,Started,3.8,
+STUE112909,Complete,2025-03-29 11:27:24,Fund Account,Completed,7.9,
+STUE112915, Complete ,2025-03-29 21:20:05,Fund Account,Completed,12.3,
+STUE112923,Complete,2025-04-05 16:18:45,Fund Account,Completed,5.1,
+STUE112930,Complete,2025-03-21 15:30:24,Fund Account,Completed,0.2,
+STUE112937,Complete,2024-01-30 09:44:42,Fund Account,Completed,10.5,
+STUE112946,Complete,2025-02-24 15:07:23,Fund Account,Completed,9.8,
+STUE112955,Complete,2024-09-04 13:45:41,Fund Account,Completed,5.7,
+STUE112959,Complete,2025-08-03 12:20:40,Fund Account,Completed,3.9,
+STUE112964,Complete,2024-01-07 01:36:42,Fund Account,Completed,6.4,
+STUE112971,Complete,2024-05-12 16:58:05,Fund Account,Completed,0.4,
+STUE112983,Abandoned,,Bank Account Link,Abandoned,12.1,Document Rejected
+STUE112991,Complete,2025-06-17 09:05:09,Fund Account,Completed,4.8,
+STUE112992,Complete,2024-06-15 02:37:43,Fund Account,Completed,13.5,
+STUE112999,Abandoned,,Identity Verification,Abandoned,12.7,Details Mismatch
+STUE113012,Complete,2025-06-07 03:51:38,Fund Account,Completed,12.5,
+STUE113017,Complete,2024-10-05 17:43:50,Fund Account,Completed,7.2,
+STUE113022,Complete,2025-07-18 00:43:26,Fund Account,Completed,13.2,
+STUE113032,In Progress,,Email Verification,Started,0.2,
+STUE113040,In Progress,,Identity Verification,Started,5.0,
+STUE113046,Failed,,Proof of Address,Failed,6.1,Poor Image Quality
+STUE113051,Complete,2024-09-27 18:21:53,Fund Account,Completed,14.1,
+STUE113061,Complete,2025-06-06 14:05:25,Fund Account,Completed,10.7,
+STUE113065,Complete,2024-05-22 07:00:21,Fund Account,Completed,9.5,
+STUE113073,Complete,2025-08-29 01:40:19,Fund Account,Completed,10.0,
+STUE113079,Abandoned,,Identity Verification,Abandoned,10.8,Poor Image Quality
+STUE113089,Complete,2024-08-16 01:48:14,Fund Account,Completed,1.7,
+STUE113096,In Progress,,Identity Verification,Started,12.1,
+STUE113099,Complete,2025-08-04 19:38:59,Fund Account,Completed,1.9,
+STUE113104,Complete,2024-11-18 23:19:21,Fund Account,Completed,1.0,
+STUE113115,Failed,,Email Verification,Failed,10.4,Bank Verification Failed
+STUE113123,Abandoned,,Identity Verification,Abandoned,20.3,Details Mismatch
+STUE113129,Complete,2025-02-02 00:05:40,Fund Account,Completed,12.5,
+STUE113137,Abandoned,,Identity Verification,Abandoned,5.7,Details Mismatch
+STUE113141,Complete,2024-03-09 01:18:47,Fund Account,Completed,7.8,
+STUE113149,Abandoned,,Proof of Address,Abandoned,15.5,ID Expired
+STUE113157,Failed,,Personal Details,Failed,6.7,Session Timeout
+STUE113160,In Progress,,Identity Verification,Started,0.2,
+STUE113167,In Progress,,Identity Verification,Started,8.1,
+STUE113176,complete,2024-11-22 13:37:24,Fund Account,Completed,0.2,
+STUE113181,Complete,2024-10-01 01:47:19,Fund Account,Completed,14.8,
+STUE113189,Failed,,Proof of Address,Failed,19.0,Session Timeout
+STUE113196,In Progress,,Fund Account,Started,8.8,
+STUE113207,Abandoned,,Bank Account Link,Abandoned,4.0,Poor Image Quality
+STUE113209,Complete,2024-05-18 09:25:31,Fund Account,Completed,4.5,
+STUE113220,Complete,2024-10-12 06:56:36,Fund Account,COMPLETED,6.0,
+STUE113225,Complete,2024-08-05 17:22:30,Fund Account,Completed,11.2,
+STUE113234,Complete,2024-06-02 05:02:57,Fund Account,Completed,0.2,
+STUE113241,Abandoned,,Bank Account Link,Abandoned,5.7,Details Mismatch
+STUE113248,Abandoned,,Proof of Address,Abandoned,7.4,Bank Verification Failed
+STUE113256,Complete,2024-03-31 04:26:38,Fund Account,Completed,15.5,
+STUE113260,Complete,2025-01-31 19:35:08,Fund Account,Completed,7.7,
+STUE113267,Failed,,Bank Account Link,Failed,11.0,Session Timeout
+STUE113272,Complete,2024-07-31 20:50:44,Fund Account,Completed,9.1,
+STUE113280,Complete,2024-03-12 16:49:09,Fund Account,Completed,9.8,
+STUE113288,Failed,,Bank Account Link,Failed,14.9,Poor Image Quality
+STUE113293,In Progress,,Email Verification,Started,14.6,
+STUE113305,Complete,2024-06-07 19:45:23,Fund Account,Completed,0.4,
+STUE113311,In Progress,,Identity Verification,Started,7.3,
+STUE113319,Complete,2024-03-18 18:20:23,Fund Account, Completed ,7.8,
+STUE113322,Complete,2024-03-13 01:17:23,Fund Account,Completed,16.9,
+STUE113331,Complete,2024-12-19 18:13:31,Fund Account,Completed,0.2,
+STUE113336,Complete,2024-05-27 11:18:58,Fund Account,Completed,11.4,
+STUE113346,Complete,2024-12-04 12:23:06,Fund Account,Completed,17.1,
+STUE113350,Complete,2024-04-09 16:44:13,Fund Account,Completed,15.7,
+STUE113361,Abandoned,,Personal Details,Abandoned,11.8,Bank Verification Failed
+STUE113369,Abandoned,,Email Verification,Abandoned,16.6,Address Not Verified
+STUE113372,Abandoned,,Identity Verification,Abandoned,8.8,Details Mismatch
+STUE113381,Abandoned,,Bank Account Link,Abandoned,12.1,Address Not Verified
+STUE113388,Complete,2024-01-16 08:37:52,Fund Account,Completed,7.7,
+STUE113396,Abandoned,,Proof of Address,Abandoned,9.0,Document Rejected
+STUE113398,Complete,2025-08-30 17:18:57,Fund Account,Completed,17.4,
+STUE113411,In Progress,,Identity Verification,Started,5.6,
+STUE113416,Complete,2024-09-17 21:01:08,Fund Account,Completed,0.2,
+STUE113425,Abandoned,,Identity Verification,Abandoned,9.2,Bank Verification Failed
+STUE113428,In Progress,,Proof of Address,Started,11.6,
+STUE113437,Complete,2024-12-23 12:54:49,Fund Account,Completed,8.7,
+STUE113442,Complete,2025-04-04 15:47:02,Fund Account,Completed,9.9,
+STUE113448,Complete,2025-01-19 06:19:28,Fund Account,Completed,7.3,
+STUE113459,Complete,2024-12-30 06:37:26,Fund Account,Completed,6.7,
+STUE113461,Complete,2024-06-06 19:32:30,Fund Account,Completed,8.4,
+STUE113471,Complete,2024-06-06 19:32:01,Fund Account,Completed,8.3,
+STUE113477,Complete,2025-06-20 09:10:04,Fund Account,Completed,3.0,
+STUE113485,Complete,2025-03-17 09:33:16,Fund Account,Completed,4.3,
+STUE113491,Complete,2025-08-18 03:36:20,Fund Account,Completed,6.4,
+STUE113500,Abandoned,,Personal Details,Abandoned,6.1,Poor Image Quality
+STUE113506,Complete,2024-03-31 03:50:24,Fund Account,Completed,10.1,
+STUE113513,Complete,2024-01-18 14:54:44,Fund Account,Completed,3.9,
+STUE113521,Complete,2025-06-02 15:39:29,Fund Account,Completed,0.2,
+STUE113530,Abandoned,,Proof of Address,Abandoned,8.3,Session Timeout
+STUE113532,Abandoned,,Bank Account Link,Abandoned,14.5,Details Mismatch
+STUE113540,In Progress,,Identity Verification,Started,13.0,
+STUE113549,Complete,2024-08-19 09:04:25,Fund Account,Completed,4.9,
+STUE113552,Complete,2024-05-31 17:55:11,Fund Account,Completed,4.6,
+STUE113559,Failed,,Email Verification,Failed,4.6,Bank Verification Failed
+STUE113568,Complete,2024-07-01 16:30:55,Fund Account,Completed,11.1,
+STUE113579,Complete,2024-11-12 03:30:48,Fund Account,Completed,2.4,
+STUE113584,Complete,2025-01-28 21:14:47,Fund Account,Completed,6.9,
+STUE113593,Abandoned,,Proof of Address,Abandoned,16.1,Session Timeout
+STUE113596,Failed,,Identity Verification,Failed,3.7,Poor Image Quality
+STUE113603,Abandoned,,Bank Account Link,Abandoned,0.2,Poor Image Quality
+STUE113609,In Progress,,Bank Account Link,Started,12.2,
+STUE113617,Complete,2025-03-26 01:00:51,FUND ACCOUNT,Completed,13.4,
+STUE113623,Failed,,Bank Account Link,Failed,14.5,Document Rejected
+STUE113634,Complete,2024-05-08 12:19:34,Fund Account,Completed,5.8,
+STUE113637,Complete,2024-01-26 08:04:12,Fund Account,Completed,4.2,
+STUE113645,In Progress,,Identity Verification,Started,7.7,
+STUE113655,Complete,2024-04-11 02:40:34,Fund Account,Completed,7.4,
+STUE113661,Complete,2025-07-08 12:00:29,Fund Account,Completed,8.1,
+STUE113665,Complete,2024-06-10 06:15:01,Fund Account,Completed,8.8,
+STUE113676,In Progress,,Proof of Address,Started,10.0,
+STUE113679,Complete,2024-03-17 19:36:02,Fund Account,Completed,17.0,
+STUE113687,Complete,2024-07-20 12:45:19,Fund Account,Completed,15.5,
+STUE113692,Complete,2024-01-06 22:36:28,Fund Account,Completed,0.7,
+STUE113703,Abandoned,,Proof of Address,Abandoned,16.3,Document Rejected
+STUE113707,Complete,2024-04-27 03:11:56,Fund Account,Completed,0.3,
+STUE113716,Complete,2025-02-24 17:58:48,Fund Account,Completed,8.7,
+STUE113722,Complete,2024-10-02 11:27:14,Fund Account,Completed,9.1,
+STUE113729,Complete,2024-09-15 23:04:32,Fund Account,Completed,0.2,
+STUE113740,Complete,2025-08-02 07:30:42,Fund Account,Completed,9.9,
+STUE113744,Complete,2025-02-23 15:26:59,Fund Account,Completed,11.0,
+STUE113753,Complete,2025-07-15 22:35:22,Fund Account,Completed,7.3,
+STUE113756,Abandoned,,Identity Verification,Abandoned,10.4,ID Expired
+STUE113764,Abandoned,,Bank Account Link,Abandoned,5.7,ID Expired
+STUE113769,In Progress,,Identity Verification,Started,7.9,
+STUE113776,Abandoned,,Proof of Address,Abandoned,0.2,Document Rejected
+STUE113785,Failed,,Identity Verification,Failed,11.4,Poor Image Quality
+STUE113796,Complete,2025-08-06 07:23:42,Fund Account,Completed,0.7,
+STUE113800,In Progress,,Bank Account Link,Started,17.4,
+STUE113807,Failed,,Identity Verification,Failed,14.8,ID Expired
+STUE113811,In Progress,,Identity Verification,Started,15.2,
+STUE113821,In Progress,,Proof of Address,Started,0.2,
+STUE113826,Complete,2024-10-20 23:57:32,Fund Account,Completed,6.9,
+STUE113838,Complete,2024-11-15 10:12:17,Fund Account,Completed,3.7,
+STUE113845,Failed,,Proof of Address,Failed,8.8,ID Expired
+STUE113849,Failed,,Proof of Address,Failed,13.4,Bank Verification Failed
+STUE113855,In Progress,,Personal Details,Started,11.2,
+STUE113862,In Progress,,Proof of Address,Started,3.6,
+STUE113869,Complete,2025-02-17 20:16:42,Fund Account,Completed,6.9,
+STUE113874,Complete,2024-11-16 19:47:46,Fund Account,Completed,7.1,
+STUE113881,Complete,2024-12-13 00:04:57,Fund Account,Completed,6.9,
+STUE113889,In Progress,,Personal Details,Started,14.7,
+STUE113899,Complete,2024-08-15 16:58:55,Fund Account,Completed,8.3,
+STUE113908,Complete,2024-05-29 13:36:35,Fund Account,Completed,11.2,
+STUE113910,Complete,2024-09-29 08:17:29,Fund Account,Completed,16.7,
+STUE113917,Complete,2025-03-21 02:44:18,Fund Account,Completed,8.5,
+STUE113924,Complete,2024-08-13 22:52:06,Fund Account,Completed,1.6,
+STUE113930,In Progress,,Proof of Address,Started,3.2,
+STUE113943,Complete,2025-07-30 16:03:38,Fund Account,Completed,11.3,
+STUE113949,Complete,2024-02-04 02:39:21,Fund Account,Completed,3.5,
+STUE113955,Complete,2025-01-12 12:09:54,Fund Account,Completed,12.2,
+STUE113964,Abandoned,,Email Verification,Abandoned,9.7,Bank Verification Failed
+STUE113965,Complete,2024-10-03 09:24:39,Fund Account,Completed,10.9,
+STUE113976,In Progress,,Fund Account,Started,,
+STUE113985,Complete,2024-03-17 22:02:15,Fund Account,Completed,9.6,
+STUE113988,Complete,2025-06-02 12:53:17,Fund Account,Completed,8.6,
+STUE113997,Complete,2024-06-27 21:55:31,Fund Account,Completed,7.9,
+STUE114005,Failed,,Bank Account Link,Failed,5.5,ID Expired
+STUE114008,Complete,2024-10-01 10:18:13,Fund Account,Completed,14.8,
+STUE114016,Abandoned,,Proof of Address,Abandoned,8.3,Address Not Verified
+STUE114026,Abandoned,,Personal Details,Abandoned,7.1,ID Expired
+STUE114030,Complete,2025-01-05 22:35:27,Fund Account,Completed,8.2,
+STUE114038,Abandoned,,Identity Verification,Abandoned,0.2,ID Expired
+STUE114046,Abandoned,,Identity Verification,Abandoned,14.3,Address Not Verified
+STUE114052,In Progress,,Proof of Address,Started,8.1,
+STUE114060,Complete,2025-01-06 02:36:16,Fund Account,Completed,10.1,
+STUE114063,Complete,2025-06-11 18:03:08,Fund Account,Completed,13.0,
+STUE114071,In Progress,,Proof of Address,Started,3.9,
+STUE114083,Abandoned,,Personal Details,Abandoned,7.7,ID Expired
+STUE114089,Complete,2024-08-07 03:23:56,Fund Account,Completed,9.1,
+STUE114092,Abandoned,,Proof of Address,Abandoned,12.1,Poor Image Quality
+STUE114099,Complete,2025-03-31 20:36:42,Fund Account,Completed,9.8,
+STUE114105,Complete,2025-08-20 13:18:56,Fund Account,Completed,7.5,
+STUE114115,In Progress,,Email Verification,Started,1.8,
+STUE114119,Abandoned,,Email Verification,Abandoned,6.7,Session Timeout
+STUE114128,Complete,2025-08-20 02:32:19,Fund Account,Completed,4.4,
+STUE114136,Abandoned,,Personal Details,Abandoned,8.7,Details Mismatch
+STUE114141,Failed,,Proof of Address,Failed,2.0,Bank Verification Failed
+STUE114152,Complete,2025-01-16 10:04:45,Fund Account,Completed,11.7,
+STUE114155,Complete,2024-01-18 22:57:52,Fund Account,Completed,3.0,
+STUE114161,In Progress,,Identity Verification,Started,2.1,
+STUE114169,Complete,2025-08-10 16:21:39,Fund Account,Completed,8.3,
+STUE114181,Complete,2025-08-17 17:15:04,Fund Account,Completed,1.4,
+STUE114187,Complete,2024-02-18 18:47:31,Fund Account,Completed,4.5,
+STUE114192,In Progress,,Identity Verification,Started,10.6,
+STUE114197,Complete,2024-04-19 22:39:33,Fund Account,Completed,3.4,
+STUE114208,Complete,2024-04-03 01:21:15,Fund Account,Completed,3.6,
+STUE114215,Complete,2024-05-29 10:23:08,Fund Account,Completed,12.9,
+STUE114221,Complete,2024-10-25 14:58:21,Fund Account,Completed,6.9,
+STUE114228,Failed,,Proof of Address,Failed,11.5,Poor Image Quality
+STUE114233,Complete,2024-08-12 18:13:31,Fund Account,Completed,7.0,
+STUE114244,Complete,2024-07-16 01:46:22,Fund Account,COMPLETED,15.9,
+STUE114247,Complete,2025-03-28 06:15:01,Fund Account, Completed ,23.0,
+STUE114257,Complete,2024-04-02 13:12:35,Fund Account,Completed,5.3,
+STUE114261,Failed,,Identity Verification,Failed,19.5,Session Timeout
+STUE114272,Failed,,Personal Details,Failed,12.7,Address Not Verified
+STUE114274,Complete,2025-08-30 09:08:32,Fund Account,Completed,4.2,
+STUE114281,Abandoned,,Bank Account Link,Abandoned,9.3,Bank Verification Failed
+STUE114291,Abandoned,,Identity Verification,Abandoned,1.4,Bank Verification Failed
+STUE114296,Abandoned,,Fund Account,Abandoned,1.3,Bank Verification Failed
+STUE114307,Complete,2024-07-31 09:37:15,Fund Account,Completed,7.3,
+STUE114313,Complete,2024-08-25 05:04:28,Fund Account,Completed,9.0,
+STUE114320,Failed,,Identity Verification,Failed,10.2,Session Timeout
+STUE114327,Complete,2024-01-08 03:01:54,Fund Account,Completed,6.9,
+STUE114332,Complete,2024-10-16 02:02:30,Fund Account,Completed,8.6,
+STUE114337,Abandoned,,Personal Details, Abandoned ,1.4,Address Not Verified
+STUE114345,Complete,2024-11-14 09:18:07,Fund Account,Completed,14.1,
+STUE114353,Failed,,personal details,Failed,13.1,Poor Image Quality
+STUE114363,Failed,,Proof of Address,Failed,2.9,ID Expired
+STUE114368,Abandoned,,Email Verification,Abandoned,16.0,Document Rejected
+STUE114375,Complete,2025-06-30 06:38:21,Fund Account,Completed,12.5,
+STUE114378,Abandoned,,Identity Verification,Abandoned,0.2,Document Rejected
+STUE114390,Complete,2024-06-07 17:59:11,Fund Account,Completed,4.5,
+STUE114398,Complete,2025-01-05 07:55:46,Fund Account,Completed,4.9,
+STUE114405,In Progress,,Identity Verification,Started,4.4,
+STUE114411,Complete,2024-08-15 01:12:12,Fund Account,Completed,18.9,
+STUE114414,Complete,2025-07-29 01:17:30,Fund Account,Completed,7.1,
+STUE114426,Failed,,Proof of Address,Failed,6.9,ID Expired
+STUE114428,Complete,2024-08-27 14:34:30,Fund Account,Completed,12.2,
+STUE114440,Failed,,Identity Verification,Failed,4.9,Details Mismatch
+STUE114445,Complete,2025-03-21 20:20:28,Fund Account,Completed,9.8,
+STUE114453,Abandoned,,Personal Details,Abandoned,3.9,Address Not Verified
+STUE114459,Complete,2024-12-06 06:13:22,Fund Account,Completed,14.2,
+STUE114467,Complete,2024-08-29 04:58:33,Fund Account,Completed,1.5,
+STUE114469,Abandoned,,Personal Details,Abandoned,6.0,Details Mismatch
+STUE114476,Failed,,Proof of Address,Failed,5.3,Session Timeout
+STUE114489,Abandoned,,Email Verification,Abandoned,0.9,Details Mismatch
+STUE114491,Abandoned,,Personal Details,Abandoned,7.4,Address Not Verified
+STUE114502,Abandoned,,Personal Details,Abandoned,2.5,Document Rejected
+STUE114507,Complete,2025-05-20 02:10:08,Fund Account,Completed,10.5,
+STUE114515,In Progress,,Identity Verification,Started,1.2,
+STUE114519,Abandoned,,Proof of Address,Abandoned,8.7,Poor Image Quality
+STUE114527,Complete,2025-03-10 17:49:15,Fund Account,Completed,13.5,
+STUE114535,Complete,2024-09-25 00:35:17,Fund Account,Completed,10.1,
+STUE114543,In Progress,,Bank Account Link,Started,0.3,
+STUE114547,Abandoned,,Identity Verification,Abandoned,5.8,Poor Image Quality
+STUE114553,Complete,2025-03-19 22:40:15,Fund Account,Completed,15.2,
+STUE114562,Complete,2024-10-16 07:55:36,Fund Account,Completed,15.4,
+STUE114568,Complete,2024-06-20 14:31:41,Fund Account,Completed,3.9,
+STUE114576,Failed,,Proof of Address,Failed,6.2,Details Mismatch
+STUE114584,Abandoned,,Identity Verification,Abandoned,5.5,Document Rejected
+STUE114588,Complete,2024-08-09 15:12:40,Fund Account,Completed,4.2,
+STUE114599,Complete,2025-07-01 00:53:04,Fund Account,Completed,4.1,
+STUE114605,Complete,2025-06-08 07:48:56,Fund Account,Completed,9.5,
+STUE114612,Abandoned,,Personal Details,Abandoned,0.2,Address Not Verified
+STUE114619,Abandoned,,Proof of Address,Abandoned,0.2,ID Expired
+STUE114628,Abandoned,,Fund Account,Abandoned,10.2,Document Rejected
+STUE114631,Abandoned,,Bank Account Link,Abandoned,3.2,Details Mismatch
+STUE114639,Abandoned,,Proof of Address,Abandoned,1.3,Document Rejected
+STUE114644,Complete,2025-06-04 18:48:54,Fund Account,Completed,9.3,
+STUE114651,Complete,2025-08-19 14:51:24,Fund Account,Completed,0.8,
+STUE114661,Complete,2024-05-08 08:15:20,Fund Account,Completed,36.88,
+STUE114667,Abandoned,,Proof of Address,Abandoned,13.1,ID Expired
+STUE114677,Complete,2025-04-27 12:12:16,Fund Account,completed,12.8,
+STUE114681,Failed,,Personal Details,Failed,2.9,Document Rejected
+STUE114688,Failed,,Bank Account Link,Failed,12.2,ID Expired
+STUE114697,Failed,,Email Verification,Failed,13.9,Address Not Verified
+STUE114704,Complete,2024-09-21 03:32:23,Fund Account,Completed,13.4,
+STUE114709,Failed,,Proof of Address,Failed,12.0,ID Expired
+STUE114716,Complete,2025-08-17 05:00:09,Fund Account,Completed,10.9,
+STUE114727,Complete,2024-05-27 10:09:33,Fund Account,Completed,14.6,
+STUE114730,Complete,2024-12-26 05:08:04,Fund Account,Completed,6.6,
+STUE114736,Complete,2024-09-04 07:48:34,Fund Account,Completed,10.1,
+STUE114742, In Progress ,,Proof of Address,Started,14.6,
+STUE114749,Abandoned,,Fund Account,Abandoned,6.9,Document Rejected
+STUE114760,Complete,2024-03-09 19:26:51,Fund Account,Completed,2.0,
+STUE114765,Abandoned,,Personal Details,Abandoned,4.4,Document Rejected
+STUE114771,Complete,2024-06-03 00:20:42,Fund Account,Completed,10.7,
+STUE114780,Complete,2024-12-30 10:04:33,Fund Account,Completed,13.6,
+STUE114789,Complete,2025-06-28 08:29:22,Fund Account,Completed,2.0,
+STUE114793,Complete,2025-08-09 19:13:07,Fund Account,Completed,10.3,
+STUE114799,Complete,2025-08-16 02:52:30,Fund Account,Completed,15.0,
+STUE114811,Failed,,Proof of Address,Failed,6.6,Bank Verification Failed
+STUE114814,Complete,2024-12-12 17:08:43,Fund Account,Completed,3.3,
+STUE114822,In Progress,,Personal Details,Started,4.4,
+STUE114829,Complete,2024-12-06 02:33:44,Fund Account,Completed,7.8,
+STUE114839,Complete,2025-05-14 17:45:10,fund account,Completed,9.9,
+STUE114840,Failed,,Bank Account Link,Failed,1.8,Bank Verification Failed
+STUE114850,Complete,2024-08-02 12:19:40,Fund Account,Completed,12.7,
+STUE114857,Complete,2024-07-01 18:13:34,Fund Account,Completed,8.3,
+STUE114867,Complete,2025-05-11 19:49:26,Fund Account,Completed,1.3,
+STUE114872,Failed,,Proof of Address,Failed,1.8,Address Not Verified
+STUE114875,Complete,2025-01-18 03:00:25,Fund Account,Completed,7.2,
+STUE114886,Failed,,Identity Verification,Failed,14.5,Document Rejected
+STUE114889,Abandoned,,Proof of Address,Abandoned,3.6,Details Mismatch
+STUE114900,In Progress,,Proof of Address,Started,6.5,
+STUE114903,Complete,2024-12-28 15:57:55,Fund Account,Completed,,
+STUE114913,Abandoned,,Proof of Address,Abandoned,8.8,ID Expired
+STUE114917,Complete,2025-02-25 00:40:34,Fund Account,Completed,10.6,
+STUE114929,In Progress,,Personal Details,Started,0.8,
+STUE114936,Abandoned,,Identity Verification,Abandoned,6.5,Session Timeout
+STUE114941,Complete,2025-07-31 00:50:10,Fund Account,Completed,5.3,
+STUE114951,Complete,2025-01-01 12:59:46,Fund Account,Completed,0.2,
+STUE114958,Complete,2025-05-21 11:29:15,Fund Account,Completed,8.5,
+STUE114961,In Progress,,Identity Verification,Started,7.5,
+STUE114971,Complete,2024-07-23 10:50:28,Fund Account,Completed,0.2,
+STUE114976,In Progress,,Proof of Address,Started,11.2,
+STUE114983,Complete,2025-03-09 15:50:04,Fund Account,Completed,11.0,
+STUE114993,Complete,2024-05-24 22:13:11,Fund Account,Completed,9.7,
+STUE114995,Complete,2024-12-05 12:29:22,Fund Account,Completed,8.5,
+STUE115006,In Progress,,Proof of Address,Started,4.0,
+STUE115013,In Progress,,Bank Account Link,Started,0.6,
+STUE115021,Abandoned,,Fund Account,Abandoned,4.9,Bank Verification Failed
+STUE115025,Complete,2025-06-19 18:37:38,Fund Account,Completed,10.5,
+STUE115033,Complete,2024-08-02 01:08:44,Fund Account,Completed,6.9,
+STUE115039,Abandoned,,Personal Details,Abandoned,7.4,Bank Verification Failed
+STUE115045,Complete,2025-02-09 22:32:51,Fund Account,Completed,6.8,
+STUE115054,Complete,2024-02-11 09:26:41,Fund Account,Completed,9.1,
+STUE115057,Complete,2024-06-25 20:15:05,Fund Account,Completed,6.5,
+STUE115067,Complete,2025-01-13 12:01:17,Fund Account,Completed,7.4,
+STUE115072,Failed,,Fund Account,Failed,7.0,Details Mismatch
+STUE115078,Complete,2024-06-02 14:32:12,Fund Account,Completed,11.3,
+STUE115088,Failed,,Identity Verification,Failed,3.4,Details Mismatch
+STUE115092,In Progress,,Identity Verification,Started,170.21,
+STUE115099,Failed,,Personal Details,Failed,15.6,Session Timeout
+STUE115108,Complete,2024-03-16 07:27:07,Fund Account,Completed,12.8,
+STUE115113,Complete,2025-01-02 16:26:16,Fund Account,Completed,14.1,
+STUE115123,Complete,2024-09-28 03:27:15,Fund Account,Completed,3.6,
+STUE115129,Failed,,Personal Details,Failed,3.8,Poor Image Quality
+STUE115139,COMPLETE,2025-07-29 13:08:45,Fund Account,Completed,8.8,
+STUE115147,In Progress,,fund account,Started,10.0,
+STUE115152,In Progress,,Identity Verification,Started,13.1,
+STUE115160,Complete,2024-10-21 21:02:40,Fund Account,Completed,9.1,
+STUE115167,In Progress,,Proof of Address,Started,9.7,
+STUE115170,Complete,2024-08-01 17:09:53,Fund Account,Completed,5.5,
+STUE115178,Complete,2025-06-27 02:59:18,Fund Account,Completed,6.0,
+STUE115188,Complete,2025-03-19 15:31:31,Fund Account,Completed,7.4,
+STUE115196,Complete,2024-12-05 11:02:56,Fund Account,Completed,4.1,
+STUE115200,Failed,,Proof of Address,Failed,3.0,Session Timeout
+STUE115207,Complete,2024-02-29 13:05:04,Fund Account,Completed,5.4,
+STUE115214,Failed,,Personal Details,Failed,10.1,Document Rejected
+STUE115224,Complete,2024-11-02 06:37:43,Fund Account,Completed,2.3,
+STUE115230,In Progress,,Email Verification,Started,6.9,
+STUE115238,Failed,,Identity Verification,Failed,0.2,Bank Verification Failed
+STUE115243,Complete,2024-03-04 02:28:18,Fund Account,Completed,8.4,
+STUE115250,Complete,2024-12-04 19:27:58,Fund Account,Completed,5.8,
+STUE115258,Complete,2025-03-24 17:17:14,Fund Account,Completed,9.8,
+STUE115265,Complete,2024-03-29 08:02:14,Fund Account,Completed,13.1,
+STUE115271,In Progress,,Personal Details,Started,4.6,
+STUE115274,Complete,2024-03-14 05:28:30,Fund Account,Completed,9.0,
+STUE115283,Abandoned,,Fund Account,Abandoned,16.4,Poor Image Quality
+STUE115290,Complete,2024-04-18 08:01:38,Fund Account,Completed,10.6,
+STUE115300,Failed,,Personal Details,Failed,4.4,Bank Verification Failed
+STUE115308,Complete,2024-03-21 16:00:53,Fund Account,Completed,0.4,
+STUE115315,In Progress,,Proof of Address,Started,0.2,
+STUE115318,Complete,2024-12-11 16:08:42,Fund Account,Completed,21.3,
+STUE115323,In Progress,,Identity Verification,Started,24.7,
+STUE115335,Abandoned,,Personal Details,Abandoned,0.2,Document Rejected
+STUE115342,Complete,2025-08-25 22:11:22,Fund Account,Completed,10.5,
+STUE115344,Complete,2025-08-23 05:28:16,Fund Account,Completed,4.3,
+STUE115353,Complete,2024-08-02 11:37:21,Fund Account,Completed,2.9,
+STUE115360, Abandoned ,,Personal Details,Abandoned,9.8,ID Expired
+STUE115368,Complete,2024-04-13 11:04:32,Fund Account,Completed,13.7,
+STUE115373,Abandoned,,Fund Account,Abandoned,1.5,Address Not Verified
+STUE115382,Complete,2025-02-20 16:43:13,Fund Account,Completed,,
+STUE115388,Failed,,Personal Details,Failed,5.7,Session Timeout
+STUE115398,Abandoned,,Identity Verification,Abandoned,5.9,Details Mismatch
+STUE115403,Complete,2024-08-09 15:01:50,Fund Account,Completed,0.6,
+STUE115413,Failed,,Identity Verification,Failed,0.2,Poor Image Quality
+STUE115415,Complete,2025-05-15 16:42:59,Fund Account,Completed,1.7,
+STUE115426,Abandoned,,Personal Details,Abandoned,4.4,Bank Verification Failed
+STUE115433,Abandoned,,Identity Verification,Abandoned,5.2,Details Mismatch
+STUE115440,Complete,2024-04-17 21:44:07,Fund Account,Completed,12.0,
+STUE115443,Complete,2024-03-14 16:13:00,Fund Account,Completed,1.0,
+STUE115449,Complete,2025-07-01 05:16:53,Fund Account,Completed,10.7,
+STUE115456,In Progress,,Personal Details,Started,1.2,
+STUE115464,Failed,,Identity Verification,Failed,13.9,Document Rejected
+STUE115470,Complete,2025-07-30 17:41:53,Fund Account,Completed,5.2,
+STUE115482,Complete,2024-05-01 02:35:54,Fund Account,Completed,13.5,
+STUE115485,Complete,2024-06-11 13:54:57,Fund Account,Completed,3.9,
+STUE115494,Complete,2025-05-20 04:28:36,Fund Account,Completed,14.4,
+STUE115499,Failed,,Identity Verification,Failed,5.4,Poor Image Quality
+STUE115509,Complete,2024-11-18 15:27:22,Fund Account,Completed,0.5,
+STUE115513,Complete,2025-02-27 09:11:54,Fund Account,Completed,7.1,
+STUE115524,Complete,2024-12-04 02:59:43,Fund Account,Completed,9.5,
+STUE115528,Complete,2024-10-19 20:02:11,Fund Account,Completed,3.1,
+STUE115533,Complete,2024-01-18 23:47:06,Fund Account,Completed,0.2,
+STUE115545,Complete,2024-09-24 06:14:52,Fund Account,Completed,9.9,
+STUE115552,Abandoned,,Proof of Address,Abandoned,4.8,Poor Image Quality
+STUE115556,Complete,2025-06-26 21:47:53,Fund Account,Completed,1.9,
+STUE115566,In Progress,,Identity Verification,Started,9.5,
+STUE115568,In Progress,,Proof of Address,Started,0.2,
+STUE115579,Complete,2024-06-22 22:49:17,Fund Account,Completed,19.0,
+STUE115587,Abandoned,,Proof of Address,abandoned,13.0,Document Rejected
+STUE115594,In Progress,,Email Verification,Started,0.2,
+STUE115596,In Progress,,Bank Account Link,Started,6.8,
+STUE115604,Complete,2024-03-18 21:16:35,Fund Account,Completed,5.7,
+STUE115611,Complete,2025-01-15 12:44:36,Fund Account,Completed,3.7,
+STUE115617,Abandoned,,Bank Account Link,Abandoned,2.0,Session Timeout
+STUE115627,Complete,2024-03-02 17:31:23,Fund Account,Completed,8.9,
+STUE115636,Failed,,Identity Verification,Failed,10.6,Address Not Verified
+STUE115638,Abandoned,,Identity Verification,Abandoned,3.5,Document Rejected
+STUE115647,Complete,2024-07-26 14:31:17,Fund Account,Completed,1.4,
+STUE115658,Complete,2024-02-27 09:30:15,Fund Account,Completed,0.2,
+STUE115661,Complete,2024-11-06 13:23:19,Fund Account,Completed,0.2,
+STUE115672,In Progress,,IDENTITY VERIFICATION,Started,4.8,
+STUE115675,Complete,2025-04-26 00:11:42,Fund Account,Completed,4.3,
+STUE115686,Complete,2024-12-10 00:52:23,Fund Account,Completed,3.6,
+STUE115688,Complete,2025-02-16 11:48:43,Fund Account,Completed,3.5,
+STUE115695,Complete,2025-06-24 16:34:47,Fund Account,Completed,12.3,
+STUE115707,Complete,2024-02-12 18:53:50,Fund Account,Completed,16.3,
+STUE115710,Complete,2025-04-17 02:20:51,Fund Account,Completed,3.7,
+STUE115715,Complete,2024-03-18 03:22:41,Fund Account,Completed,9.5,
+STUE115727,Abandoned,,Proof of Address,Abandoned,10.9,Poor Image Quality
+STUE115735,Complete,2024-12-21 09:27:52,Fund Account,Completed,11.2,
+STUE115736,Complete,2025-05-20 01:25:39,Fund Account,Completed,2.4,
+STUE115746,Complete,2025-02-21 18:40:49,Fund Account,Completed,1.9,
+STUE115750,Abandoned,,Proof of Address,Abandoned,9.0,Poor Image Quality
+STUE115761,Complete,2024-01-19 21:27:36,Fund Account,Completed,3.4,
+STUE115764,Complete,2024-07-02 00:18:25,Fund Account,Completed,3.3,
+STUE115776,Abandoned,,Identity Verification,Abandoned,10.8,Bank Verification Failed
+STUE115781,Complete,2025-08-08 01:15:18,Fund Account,Completed,5.3,
+STUE115785,Failed,,Personal Details,Failed,3.2,Poor Image Quality
+STUE115797,Complete,2024-05-08 00:56:24,Fund Account,Completed,11.0,
+STUE115800,In Progress,,Fund Account,Started,7.0,
+STUE115812,Abandoned,,Bank Account Link,Abandoned,15.3,Poor Image Quality
+STUE115815,Complete,2024-08-01 03:45:45,Fund Account,Completed,,
+STUE115821,Complete,2025-01-01 08:16:22,Fund Account,Completed,12.2,
+STUE115831,Failed,,Personal Details,Failed,0.2,ID Expired
+STUE115838,Complete,2024-04-10 07:17:42,Fund Account,Completed,20.0,
+STUE115845,Failed,,Bank Account Link,Failed,10.0,Document Rejected
+STUE115849,Failed,,Proof of Address,Failed,5.6,Poor Image Quality
+STUE115859,In Progress,,Proof of Address,Started,5.9,
+STUE115863,Complete,2024-11-29 07:54:48,Fund Account,Completed,2.3,
+STUE115875,Complete,2025-06-02 04:15:23,Fund Account,Completed,6.4,
+STUE115881,Complete,2024-02-22 05:49:38,Fund Account,Completed,8.2,
+STUE115888,Abandoned,,Identity Verification,Abandoned,1.0,ID Expired
+STUE115890,Complete,2025-04-04 00:54:18,Fund Account,Completed,14.2,
+STUE115902,Complete,2024-08-13 19:05:07,Fund Account,Completed,2.6,
+STUE115910,Complete,2025-08-14 12:03:42,Fund Account,Completed,0.2,
+STUE115917,Complete,2025-04-30 14:59:30,Fund Account,Completed,10.9,
+STUE115924,Complete,2024-03-27 05:41:05,Fund Account,Completed,8.8,
+STUE115927,Failed,,Personal Details,Failed,10.8,ID Expired
+STUE115933,In Progress,,Bank Account Link,Started,0.2,
+STUE115939,Complete,2024-01-04 17:04:19,Fund Account,Completed,10.9,
+STUE115947,Complete,2025-04-09 05:31:21,Fund Account,COMPLETED,9.9,
+STUE115959,Complete,2025-06-17 23:21:34,Fund Account,Completed,2.6,
+STUE115962,In Progress,,Proof of Address,Started,4.2,
+STUE115967,Failed,,Proof of Address,Failed,3.1,Address Not Verified
+STUE115978, Complete ,2024-02-10 02:18:02,Fund Account,Completed,3.5,
+STUE115984,Complete,2025-05-17 00:00:51,Fund Account,Completed,15.6,
+STUE115988,Abandoned,,Identity Verification,Abandoned,7.5,ID Expired
+STUE115997,Complete,2024-11-23 18:47:05, Fund Account ,Completed,5.8,
+STUE116002,Complete,2025-07-05 07:53:46,Fund Account,Completed,,
+STUE116013,Complete,2025-08-05 07:57:55,Fund  Account,Completed,6.8,
+STUE116019,Complete,2024-01-14 01:58:48,Fund Account,Completed,5.8,
+STUE116028,Complete,2025-06-04 06:31:55,Fund Account,Completed,10.1,
+STUE116032,Complete,2024-07-07 07:36:27,Fund Account,Completed,4.0,
+STUE116037,In Progress,,Email Verification,Started,15.1,
+STUE116048,Complete,2024-06-05 02:29:45,Fund Account,Completed,4.9,
+STUE116051,Complete,2025-04-25 04:11:01,Fund Account,Completed,2.9,
+STUE116061,In Progress,,Proof of Address,Started,5.2,
+STUE116066,Complete,2024-09-30 02:16:02,Fund Account,Completed,17.0,
+STUE116075,Complete,2024-12-10 09:51:33,Fund Account,Completed,8.1,
+STUE116083,Complete,2024-07-25 09:39:08,Fund Account, Completed ,10.0,
+STUE116087,Complete,2024-12-18 08:47:51,Fund Account,Completed,11.0,
+STUE116096,Complete,2025-07-22 08:25:47,Fund Account,Completed,6.6,
+STUE116102,In Progress,,Proof of Address,Started,10.0,
+STUE116113,Failed,,Bank Account Link,Failed,5.6,Session Timeout
+STUE116117,In Progress,,Identity Verification,Started,18.5,
+STUE116124,Complete,2025-01-06 05:00:38,Fund Account,Completed,0.2,
+STUE116129,Failed,,Identity Verification,Failed,5.5,Session Timeout
+STUE116141,Abandoned,,Proof of Address,Abandoned,7.3,Address Not Verified
+STUE116145,Complete,2025-03-05 19:29:20,Fund Account,Completed,13.0,
+STUE116154,Complete,2024-04-04 05:10:42,Fund Account,Completed,4.4,
+STUE116159,Complete,2024-04-12 02:56:36,Fund Account,Completed,6.3,
+STUE116169,Complete,2024-10-27 10:24:29,Fund Account,Completed,12.9,
+STUE116176,Complete,2024-10-31 07:32:08,Fund Account,Completed,7.6,
+STUE116181,IN PROGRESS,,Personal Details,Started,9.1,
+STUE116185,Complete,2025-08-22 20:44:49,Fund Account,Completed,7.6,
+STUE116196,Complete,2024-07-31 03:59:32,Fund Account,COMPLETED,2.6,
+STUE116202,In Progress,,Proof of Address,Started,2.8,
+STUE116210,In Progress,,Email Verification,Started,13.6,
+STUE116214,Abandoned,,Proof of Address,Abandoned,6.9,Details Mismatch
+STUE116220,Failed,,Bank Account Link,Failed,1.8,Session Timeout
+STUE116232,Complete,2025-02-02 04:08:00,Fund Account,Completed,0.2,
+STUE116239,Complete,2025-02-28 05:19:35,Fund Account,Completed,4.6,
+STUE116242,Complete,2024-05-13 20:54:10,Fund Account,Completed,1.9,
+STUE116252,Complete,2024-10-26 07:48:20,Fund Account,Completed,5.4,
+STUE116256,Complete,2024-06-12 04:44:21,Fund Account,Completed,13.1,
+STUE116267,In Progress,,Identity Verification,Started,19.8,
+STUE116270,Complete,2024-01-15 17:18:57,Fund Account,Completed,1.8,
+STUE116276,Abandoned,,Identity Verification,Abandoned,17.4,Poor Image Quality
+STUE116286,Complete,2024-01-12 05:48:12,Fund Account,Completed,13.0,
+STUE116290,Abandoned,,Identity Verification,Abandoned,6.6,Document Rejected
+STUE116297,Complete,2024-10-01 17:34:47,Fund Account,Completed,13.9,
+STUE116303,In Progress,,Email Verification,Started,9.3,
+STUE116315,Complete,2024-12-09 05:07:37,Fund Account,Completed,8.6,
+STUE116320,Abandoned,,Identity Verification,Abandoned,9.5,ID Expired
+STUE116327,Complete,2024-03-07 04:30:31,Fund Account,Completed,6.9,
+STUE116331,Complete,2024-06-03 17:14:00,Fund Account,Completed,4.5,
+STUE116341,Abandoned,,Bank Account Link,Abandoned,7.4,Address Not Verified
+STUE116348,Failed,,Identity Verification,Failed,17.7,Poor Image Quality
+STUE116353,Complete,2024-07-13 06:44:23,Fund Account,Completed,13.1,
+STUE116360,In Progress,,Identity Verification,Started,5.3,
+STUE116370,Complete,2024-07-29 22:35:20,Fund Account,Completed,0.2,
+STUE116376,Complete,2025-06-01 02:44:05,Fund Account,Completed,7.2,
+STUE116386,Complete,2024-02-01 23:58:41,Fund Account,Completed,13.1,
+STUE116389,Complete,2024-12-30 04:34:22,Fund Account,Completed,12.4,
+STUE116395,Complete,2024-07-18 08:47:52,Fund Account,Completed,10.7,
+STUE116401,Complete,2024-01-19 02:04:43,Fund Account,Completed,12.1,
+STUE116411,Complete,2024-10-16 20:44:55,Fund Account,Completed,7.1,
+STUE116416,Abandoned,,Identity Verification,Abandoned,11.1,Session Timeout
+STUE116425,Failed,,Identity Verification,Failed,,Bank Verification Failed
+STUE116432,Abandoned,,Bank Account Link,Abandoned,9.0,Poor Image Quality
+STUE116439,In Progress,,Proof of Address,Started,12.2,
+STUE116448,Failed,,Personal Details,Failed,12.3,Document Rejected
+STUE116451,Complete,2024-04-17 06:09:48,Fund Account,Completed,1.6,
+STUE116460,Failed,,Personal Details,Failed,7.5,Poor Image Quality
+STUE116467,Complete,2025-01-27 03:02:32,Fund Account,Completed,9.8,
+STUE116476,Complete,2024-04-17 18:13:36,Fund Account,Completed,2.1,
+STUE116481,Complete,2025-03-18 18:23:47,Fund Account,Completed,5.9,
+STUE116491,Abandoned,,Personal Details,Abandoned,6.1,Document Rejected
+STUE116497,Complete,2024-08-06 18:39:35,Fund Account,Completed,11.9,
+STUE116502,Failed,,Bank Account Link,Failed,6.3,Session Timeout
+STUE116507,In Progress,,Personal Details,Started,5.4,
+STUE116515,Complete,2024-10-12 03:50:02,Fund Account,Completed,6.6,
+STUE116521,Complete,2024-03-09 08:57:05,Fund Account,Completed,110.68,
+STUE116528,Abandoned,,Personal Details,Abandoned,7.4,Bank Verification Failed
+STUE116534,In Progress,,Identity Verification,Started,11.4,
+STUE116545,Abandoned,,Personal Details,Abandoned,10.5,Session Timeout
+STUE116549,Complete,2024-07-01 18:54:57,Fund Account,Completed,2.0,
+STUE116558,Abandoned,,Identity Verification,Abandoned,10.4,Document Rejected
+STUE116567,Complete,2025-07-01 12:47:23,Fund Account,Completed,3.2,
+STUE116575,Abandoned,,Bank Account Link,Abandoned,7.9,Session Timeout
+STUE116582,In Progress,,Email Verification,Started,11.0,
+STUE116585,In Progress,,Identity Verification,Started,14.7,
+STUE116593,Failed,,Proof of Address,Failed,4.1,Details Mismatch
+STUE116603,In Progress,,Identity Verification,Started,9.5,
+STUE116605,Complete,2024-07-29 04:22:57,Fund Account,Completed,4.5,
+STUE116611,Abandoned,,Proof of Address,Abandoned,10.4,Session Timeout
+STUE116623,Complete,2024-06-10 14:14:03,Fund Account,Completed,10.6,
+STUE116627,Complete,2024-03-26 01:47:22,Fund Account,Completed,,
+STUE116635,Complete,2025-03-21 21:18:39,Fund Account,Completed,8.7,
+STUE116643,Complete,2025-07-05 09:19:28,Fund Account,Completed,6.3,
+STUE116648,Complete,2025-03-15 18:47:55,Fund Account,Completed,12.9,
+STUE116657,Complete,2025-02-20 07:37:15,Fund Account,Completed,11.1,
+STUE116663,Complete,2025-07-05 15:22:48,Fund Account,Completed,7.0,
+STUE116672,Failed,,Identity Verification,Failed,9.3,Bank Verification Failed
+STUE116680,Abandoned,,Identity Verification,Abandoned,5.3,ID Expired
+STUE116683,Complete,2025-04-02 07:07:19,Fund Account,Completed,6.1,
+STUE116689,In Progress,,Fund Account,Started,4.5,
+STUE116696,Complete,2025-01-09 06:27:47,Fund Account,Completed,5.0,
+STUE116707,Complete,2025-03-22 12:08:37,Fund Account,Completed,5.7,
+STUE116714,Complete,2024-11-27 03:01:00,Fund Account,Completed,5.7,
+STUE116716,Complete,2024-02-26 05:49:25,Fund Account,Completed,3.6,
+STUE116728,Complete,2025-04-27 20:03:06,Fund Account,Completed,1.5,
+STUE116730,Complete,2025-03-10 06:00:31,Fund Account,Completed,8.1,
+STUE116742,Failed,,Identity Verification,Failed,3.5,Address Not Verified
+STUE116744,Complete,2025-06-07 06:21:55,Fund Account,Completed,8.9,
+STUE116755,Complete,2024-10-05 03:05:00,Fund Account,Completed,0.2,
+STUE116759,Complete,2024-08-18 05:16:26,Fund Account,Completed,12.4,
+STUE116767,Complete,2024-02-15 18:50:20,Fund Account,Completed,3.5,
+STUE116777,Complete,2025-08-07 10:35:16,Fund Account,Completed,4.7,
+STUE116784,Complete,2024-11-22 17:39:34,Fund Account,Completed,4.6,
+STUE116791,Complete,2024-11-02 12:05:53,Fund Account,Completed,10.3,
+STUE116796,Complete,2024-04-15 19:10:29,Fund Account,Completed,8.7,
+STUE116801,In Progress,,Identity Verification,Started,6.4,
+STUE116811,Complete,2025-06-10 01:05:53,Fund Account,Completed,8.9,
+STUE116819,Failed,,Proof of Address,Failed,7.1,ID Expired
+STUE116825,Abandoned,,Identity Verification,Abandoned,5.2,Bank Verification Failed
+STUE116830,Failed,,Email Verification,Failed,8.6,Session Timeout
+STUE116837,Complete,2025-02-13 20:33:04,Fund Account,Completed,0.2,
+STUE116843,Complete,2025-03-30 04:26:48,Fund Account,Completed,4.9,
+STUE116853,Complete,2024-09-11 10:13:35,Fund Account,Completed,5.3,
+STUE116857,Failed,,Bank Account Link,Failed,0.2,Document Rejected
+STUE116864,Complete,2024-12-11 14:18:49,Fund Account,Completed,10.9,
+STUE116875,In Progress,,Email Verification,Started,12.2,

@@ -1,0 +1,1388 @@
+customer_id,ticket_date,ticket_reason,issue_type,response_time_hours,resolution_time_hours,resolution_status,deposit_related_indicator
+STUE115238,2024-10-05 04:44:05,Withdrawal Query,Banking,4.8,,Open,1
+STUE108824,2024-11-25 16:57:13,Account Query,Account Query,9.2,184.1,Closed,0
+STUE109154,2025-01-01 22:59:28,KYC Query,KYC,2.8,,Open,0
+STUE110781,2024-08-11 20:42:58,Deposit Issue,Banking,5.9,,Open,1
+STUE115078,2024-07-01 12:55:01,Withdrawal Query,Banking,12.9,103.6,Resolved,1
+STUE113428,2024-12-07 12:25:13,Fees Question,Account Query,26.9,35.3,Resolved,0
+STUE103425,2025-01-28 20:48:51,Withdrawal Query,Banking,8.2,14.1,Resolved,1
+STUE109797,2024-04-28 09:24:41,KYC Query,KYC,5.2,8.5,Resolved,0
+STUE101745,2025-06-14 05:40:01,Withdrawal Query,Banking,8.6,34.4,Closed,1
+STUE116777,2025-08-27 05:12:36,Login Problem,Technical,8.1,,Escalated,0
+STUE111497,2024-02-29 09:16:30,KYC Query,KYC,5.7,15.5,Closed,0
+STUE115859,2024-08-25 20:38:57,Account Query,Account Query,11.9,19.3,Resolved,0
+STUE103957,2025-04-29 10:18:05,KYC Query,KYC,43.3,56.3,Resolved,0
+STUE115978,2024-02-16 11:18:13,Account Query,Account Query,15.7,26.4,Resolved,0
+STUE105518,2025-03-26 23:33:03,Login Problem,Technical,9.4,,Escalated,0
+STUE101808,2024-12-21 08:32:26,KYC Query,KYC,12.0,32.6,Closed,0
+STUE105128,2024-03-05 08:27:03,Login Problem,Technical,34.9,36.6,Resolved,0
+STUE102035,2025-04-14 09:30:49,KYC Query,KYC,4.3,20.6,Closed,0
+STUE100090,2025-05-01 01:35:24,Login Problem,Technical,19.4,28.0,Resolved,0
+STUE116154,2024-06-01 23:57:46,Fees Question,Account Query,1.6,16.3,Resolved,0
+STUE110760,2025-04-07 15:31:08,Account Query,Account Query,36.8,,Escalated,0
+STUE116582,2024-09-01 15:19:57,Account Query,Account Query,6.6,14.2,Closed,0
+STUE101820,2024-04-08 12:14:07,KYC Query,KYC,10.8,27.6,Closed,0
+STUE111954,2025-07-19 08:37:48,Deposit Issue,Banking,3.5,12.0,Resolved,1
+STUE103309,2024-12-05 19:17:51,App Crash,Technical,9.8,,Escalated,0
+STUE114951,2025-02-09 19:33:53,KYC Query,KYC,4.1,84.4,Resolved,0
+STUE107655,2024-12-29 04:48:06,KYC Query,KYC,1.2,22.6,Resolved,0
+STUE115207,2024-04-06 22:08:53,App Crash,Technical,4.3,7.1,Resolved,0
+STUE105078,2025-03-09 22:06:14,Deposit Issue,Banking,9.1,,Open,1
+STUE101089,2024-08-07 13:06:50,Deposit Issue,Banking,1.8,46.6,Resolved,1
+STUE110627,2025-02-24 10:59:37,KYC Query,KYC,8.9,38.8,Closed,0
+STUE100962,2025-05-30 07:15:36,Fees Question,Account Query,3.6,,Escalated,0
+STUE103050,2024-03-20 14:04:08,App Crash,Technical,25.1,27.1,Resolved,0
+STUE107613,2024-08-07 17:37:02,Account Query,Account Query,3.8,9.0,Closed,0
+STUE115735,2025-02-19 14:14:31,KYC Query,KYC,20.3,40.0,Resolved,0
+STUE108911,2024-03-07 13:44:49,KYC Query,KYC,13.9,24.1,Resolved,0
+STUE110331,2024-06-20 00:16:50,App Crash,Technical,3.9,15.6,Resolved,0
+STUE100998,2024-12-22 13:58:16,Account Query,Account Query,1.5,,Open,0
+STUE100043,2025-05-24 10:24:11,Withdrawal Query,Banking,8.4,134.1,Resolved,1
+STUE107608,2024-12-11 04:58:58,KYC Query,KYC,5.8,17.3,Resolved,0
+STUE102842,2024-08-13 12:33:24,KYC Query,KYC,21.5,35.5,Closed,0
+STUE105608,2024-10-01 07:48:01,Deposit Issue,Banking,13.5,16.6,Resolved,1
+STUE113225,2024-09-07 11:50:10,Deposit Issue,Banking,5.9,,Open,1
+STUE109186,2025-05-08 16:40:30,Account Query,Account Query,66.2,88.1,Resolved,0
+STUE101389,2024-12-24 04:44:11,Fees Question,Account Query,5.6,,Open,0
+STUE114208,2024-05-07 10:16:46,App Crash,Technical,3.8,35.3,Resolved,0
+STUE105279,2024-12-21 05:37:12,KYC Query,KYC,1.6,,Escalated,0
+STUE102106,2024-04-17 21:50:08,KYC Query,KYC,11.7,40.0,Closed,0
+STUE107155,2024-09-01 14:51:20,Deposit Issue,Banking,5.9,123.8, Resolved ,1
+STUE112746,2025-06-16 11:46:23,Login Problem,Technical,5.0,26.4,Resolved,0
+STUE115984,2025-06-23 19:12:46,App Crash,Technical,,8.1,Resolved,0
+STUE106966,2024-09-19 11:51:04,KYC Query,KYC,64.0,76.9,Resolved,0
+STUE101940,2025-01-11 03:55:21,Login Problem,Technical,12.8,38.8,Resolved,0
+STUE114872,2024-07-14 03:26:32,KYC Query,KYC,13.3,67.3,Resolved,0
+STUE115335,2025-09-05 14:08:18,Fees Question,Account Query,5.1,,Escalated,0
+STUE114181,2025-10-02 12:55:59,App Crash,Technical,0.4,64.8,Resolved,0
+STUE100543,2024-04-16 17:00:48,Deposit Issue,Banking,8.8,16.6,Resolved,1
+STUE108083,2024-12-24 08:13:34,Withdrawal Query,Banking,,48.3,Resolved,1
+STUE106344,2024-09-05 19:10:27,Deposit Issue,Banking,1.6,19.3,Closed,1
+STUE102941,2024-04-29 02:42:19,Deposit Issue,Banking,31.0,90.2,Closed,1
+STUE100619,2025-08-27 09:24:56,Account Query,Account Query,7.4,93.7,Resolved,0
+STUE101011,2025-07-14 23:07:30,Deposit Issue,Banking,52.6,115.9,Resolved,1
+STUE114161,2025-07-20 13:51:47,Account Query,Account Query,8.1,11.7,Resolved,0
+STUE109084,2025-06-25 05:00:07,KYC Query,KYC,8.1,10.2,Closed,0
+STUE100332,2025-03-31 16:44:19,KYC Query,KYC,34.0,41.6,Resolved,0
+STUE101313,2025-04-27 05:38:36,Deposit Issue,Banking,40.2,41.4,Closed,1
+STUE105804,2024-07-15 10:29:45,KYC Query,KYC,4.1,,Escalated,0
+STUE103274,2024-07-17 23:38:48,KYC Query,KYC,10.4,17.9,Resolved,0
+STUE107103,2024-06-22 22:17:58,Deposit Issue,Banking,8.7,15.7,Resolved,1
+STUE102950,2024-07-14 13:25:31,KYC Query,KYC,11.6,40.9,Resolved,0
+STUE109347,2024-02-11 18:25:57,Deposit Issue,Banking,4.5,11.5,Resolved,1
+STUE107193,2024-09-27 05:22:04,Login Problem,Technical,9.1,24.2,Resolved,0
+STUE109838,2024-08-04 18:13:30,Account Query,Account Query,13.2,,Open,0
+STUE104516,2024-05-01 22:24:02,KYC Query,KYC,5.5,30.3,Closed,0
+STUE101531,2025-07-18 08:45:30,Withdrawal Query,Banking,14.8,33.0,Resolved,1
+STUE109591,2024-04-18 01:37:49,Deposit Issue,Banking,2.7,29.1,Resolved,1
+STUE103748,2025-07-31 09:13:00,KYC Query,KYC,7.0,36.3,Resolved,0
+STUE105710,2025-08-14 21:16:36,Fees Question,Account Query,13.9,78.4,Closed,0
+STUE116864,2025-01-10 01:23:51,Account Query,Account Query,1.8,11.5,Resolved,0
+STUE116159,2024-04-27 13:26:50,Deposit Issue,Banking,8.4,60.0,Closed,1
+STUE106699,2025-08-09 15:48:28,App Crash,Technical,17.5,70.7,Resolved,0
+STUE105725,2024-02-15 17:21:18,Withdrawal Query,Banking,13.5,114.9,Closed,1
+STUE108642,2024-10-01 19:25:27,App Crash,Technical,21.1,35.5,Resolved,0
+STUE108111,2024-09-26 15:05:37,KYC Query,KYC,15.2,93.3,Closed,0
+STUE106778,2025-05-01 22:07:41,Withdrawal Query,Banking,2.3,32.8,Closed,1
+STUE106685,2025-08-15 02:32:59,Account Query,Account Query,8.0,27.6,Resolved,0
+STUE108152,2024-10-14 14:42:17,Login Problem,Technical,10.4,,Escalated,0
+STUE114063,2025-07-31 12:16:28,Deposit Issue,Banking,3.6,91.9,Closed,1
+STUE103556,2024-03-04 00:06:39,Login Problem,Technical,4.0,15.7,Resolved,0
+STUE109460,2025-04-08 05:08:07,Deposit Issue,Banking,5.6,13.8,Resolved,1
+STUE106462,2024-02-12 21:50:18,KYC Query,KYC,1.0,12.3,Resolved,0
+STUE103184,2025-05-10 16:42:51,Deposit Issue,Banking,21.0,26.3,Closed,1
+STUE102388,2025-05-06 00:19:36,Deposit Issue,Banking,36.4,,Open,1
+STUE111740,2024-12-19 03:45:57,Fees Question,Account Query,6.5,91.3,Closed,0
+STUE111877,2024-07-05 05:25:57,Account Query,Account Query,8.9,133.3,Resolved,0
+STUE105821,2024-12-01 13:27:46,KYC Query,KYC,4.9,,Escalated,0
+STUE103028,2025-03-23 06:57:30,KYC Query,KYC,1.7,36.9,Resolved,0
+STUE112758,2025-01-30 04:27:01,App Crash,Technical,13.1,35.8,Closed,0
+STUE115533,2024-02-18 19:48:45,Fees Question,Account Query,4.2,26.0,Resolved,0
+STUE102717,2024-09-22 17:42:24,Deposit Issue,Banking,11.1,33.4,Resolved,1
+STUE108026,2025-08-25 08:23:43,Deposit Issue,Banking,1.9,25.7,Resolved,1
+STUE115727,2025-05-31 13:13:41,Account Query,Account Query,12.5,22.5,Resolved,0
+STUE106436,2025-06-03 04:42:52,Fees Question,Account Query,6.4,12.4,Resolved,0
+STUE109705,2024-08-25 10:36:15,KYC Query,KYC,32.7,77.5,Closed,0
+STUE100724,2025-01-18 17:07:36,Withdrawal Query,Banking,3.1,22.3,Resolved,1
+STUE102418,2025-07-02 16:37:42,Account Query,Account Query,14.2,33.1,Resolved,0
+STUE103216,2025-08-11 23:09:57,KYC Query,KYC,10.0,49.4,Resolved,0
+STUE113115,2025-04-26 14:31:15,Fees Question,Account Query,4.2,16.7,Resolved,0
+STUE101996,2024-09-14 00:53:13,KYC Query,KYC,3.5,,Open,0
+STUE100043,2025-04-04 19:36:31,KYC Query,KYC,1.0,42.8,Resolved,0
+STUE107907,2024-02-18 09:57:35,KYC Query,KYC,3.5,25.3,Resolved,0
+STUE110639,2024-12-23 11:48:22,Account Query,Account Query,15.7,33.9,Closed,0
+STUE103039,2024-03-02 00:39:05,Account Query,Account Query,,,Escalated,0
+STUE110706,2024-04-18 01:17:16,KYC Query,KYC,7.8,30.6,Closed,0
+STUE107394,2024-03-28 04:22:35,Account Query,Account Query,8.8,22.1,Resolved,0
+STUE108326,2025-08-17 17:37:17,App Crash,Technical,1.8,,Escalated,0
+STUE115196,2024-12-24 09:20:27,App Crash,Technical,2.7,13.9,Resolved,0
+STUE106237,2024-08-01 10:46:57,KYC Query,KYC,62.4,72.2,Resolved,0
+STUE106642,2024-07-20 03:36:20,Deposit Issue,Banking,1.4,36.5,Resolved,1
+STUE110584,2025-01-08 19:24:29,Login Problem,Technical,50.0,79.4,Resolved,0
+STUE107028,2024-02-27 00:52:24,Account Query,Account Query,5.7,7.7,Resolved,0
+STUE100566,2025-02-07 04:49:40,Account Query,Account Query,8.2,54.5,Closed,0
+STUE100351,2025-07-17 13:03:18,Deposit Issue,Banking,5.5,21.1,Resolved,1
+STUE109239,2024-09-21 02:07:29,Deposit Issue,Banking,40.0,,Escalated,1
+STUE102880,2024-08-15 10:49:49,Withdrawal Query,Banking,,22.8,Resolved,1
+STUE106256,2024-09-05 23:09:28,Account Query,Account Query,1.0,,Escalated,0
+STUE103033,2024-09-29 01:12:39,Deposit Issue,Banking,2.1,12.7,Closed,1
+STUE106628,2025-07-17 20:34:05,Withdrawal Query,Banking,1.8,13.3,Resolved,1
+STUE100172,2025-03-16 20:11:00,Login Problem,Technical,13.7,20.2,Resolved,0
+STUE113679,2024-05-16 16:00:56,Deposit Issue,Banking,9.4,48.1,Closed,1
+STUE111654,2024-10-25 03:47:20,Deposit Issue,Banking,13.1,83.5,Resolved,1
+STUE100011,2024-05-04 06:08:05,Account Query,Account Query,13.0,42.7,Resolved,0
+STUE114390,2024-06-15 21:59:05,App Crash,Technical,8.4,69.6,Resolved,0
+STUE105960,2025-05-18 23:38:38,Deposit Issue,Banking,3.2,14.4,Resolved,1
+STUE104448,2025-05-18 14:47:41,Account Query,Account Query,4.2,30.1,Resolved,0
+STUE103386,2025-06-12 18:17:25,App Crash,Technical,8.7,45.3,Closed,0
+STUE106249,2025-03-29 17:38:09,KYC Query,KYC,16.3,35.6,Resolved,0
+STUE103810,2024-03-09 10:16:56,Login Problem,Technical,20.7,70.7,Resolved,0
+STUE104416,2025-01-22 21:07:24,KYC Query,KYC,27.7,46.4,Closed,0
+STUE115776,2024-11-08 14:00:00,Withdrawal Query,Banking,2.0,21.4,Resolved,1
+STUE103014,2025-02-16 04:39:38,Deposit Issue,Banking,7.4,36.9,Resolved,1
+STUE104358,2025-09-23 01:27:57,KYC Query,KYC,15.1,34.5,Resolved,0
+STUE115924,2024-03-29 16:20:26,KYC Query,KYC,1.7,21.3,Resolved,0
+STUE100501,2024-08-04 05:58:26,Deposit Issue,Banking,4.8,32.1,Closed,1
+STUE112656,2025-09-07 00:48:27,Account Query,Account Query,3.5,,Escalated,0
+STUE110822,2024-07-21 18:39:18,KYC Query,KYC,3.0,9.0,Resolved,0
+STUE102784,2024-06-03 08:38:03,Account Query,Account Query,11.5,57.0,Resolved,0
+STUE107691,2024-02-03 07:38:27,KYC Query,KYC,5.0,146.7,Closed,0
+STUE107752,2024-05-05 08:34:51,Login Problem,Technical,10.7,13.4,Resolved,0
+STUE116796,2024-06-02 05:54:13,App Crash,Technical,5.9,,Escalated,0
+STUE110506,2025-03-15 17:37:17,KYC Query,KYC,2.9,87.7,Resolved,0
+STUE115617,2025-01-19 01:36:20,App Crash,Technical,1.6,37.4,Resolved,0
+STUE107288,2024-12-14 12:52:46,Withdrawal Query,Banking,1.5,22.4,Closed,1
+STUE116657,2025-03-11 07:52:05,Fees Question,Account Query,13.8,19.1,Resolved,0
+STUE104172,2024-10-15 02:41:32,Login Problem,Technical,9.1,19.6,Resolved,0
+STUE107025,2025-03-06 17:06:17,Fees Question,Account Query,19.6,,Open,0
+STUE115308,2024-04-22 20:37:39,KYC Query,KYC,1.3,64.0,Resolved,0
+STUE115781,2025-08-23 01:03:03,Login Problem,Technical,,12.3,Closed,0
+STUE104104,2024-03-14 01:19:00,Deposit Issue,Banking,7.0,21.8,Closed,1
+STUE112868,2025-03-09 22:53:34,Deposit Issue,Banking,21.2,23.9,Resolved,1
+STUE108306,2024-07-24 21:01:41,Login Problem,Technical,12.1,42.3,Resolved,0
+STUE106044,2024-12-14 06:41:59,Login Problem,Technical,58.3,,Escalated,0
+STUE100465,2024-05-25 16:35:48,KYC Query,KYC,22.9,58.1,Resolved,0
+STUE115167,2025-05-22 13:30:58,KYC Query,KYC,7.7,14.4,Resolved,0
+STUE104278,2025-03-24 13:36:05,Deposit Issue,Banking,6.5,9.9,Closed,1
+STUE112273,2024-09-04 17:36:13,KYC Query,KYC,5.2,,Escalated,0
+STUE102330,2024-07-02 21:38:00,KYC Query,KYC,15.4,16.6,Resolved,0
+STUE112707,2025-06-14 00:39:32,KYC Query,KYC,1.3,15.6,Resolved,0
+STUE105690,2024-06-01 19:47:02,App Crash,Technical,2.8,66.4,Resolved,0
+STUE110741,2025-04-05 07:28:39,KYC Query,KYC,21.9,,Open,0
+STUE101156,2024-08-18 04:59:16,KYC Query,KYC,2.0,22.4,Resolved,0
+STUE109084,2025-08-01 15:53:25,App Crash,Technical,1.4,50.3,Closed,0
+STUE109429,2024-05-19 20:40:25,Deposit Issue,Banking,4.7,,Escalated,1
+STUE101884,2025-08-31 19:03:00,KYC Query,KYC,11.7,56.0,Resolved,0
+STUE106061,2025-08-09 13:37:37,Account Query,Account Query,11.4,30.6,Closed,0
+STUE108001,2025-04-09 10:00:09,Withdrawal Query,Banking,9.5,,Open,1
+STUE110095,2024-02-23 10:51:20,Fees Question,Account Query,4.9,23.9,Resolved,0
+STUE110627,2025-03-13 07:29:44,Withdrawal Query,Banking,9.9,19.3,Closed,1
+STUE102076,2025-01-21 12:10:41,Deposit Issue,Banking,4.4,15.2,Resolved,1
+STUE106070,2024-04-24 14:45:49,Login Problem,Technical,2.3,,Escalated,0
+STUE115875,2025-06-04 20:44:33,Deposit Issue,Banking,5.0,,Escalated,1
+STUE112201,2025-02-17 21:00:52,account query,Account Query,4.0,12.8,Resolved,0
+STUE100760,2025-05-15 09:49:28,App Crash,Technical,22.1,117.7,Closed,0
+STUE107622,2025-01-01 05:09:30,App Crash,Technical,5.6,37.7,Resolved,0
+STUE114092,2025-03-30 11:13:13,Withdrawal Query,Banking,1.9,,open,1
+STUE113485,2025-04-20 19:07:12,Withdrawal Query,Banking,5.8,16.0,Resolved,1
+STUE116303,2025-04-22 17:39:26,Deposit Issue,Banking,8.2,11.3,Resolved,1
+STUE114272,2025-06-22 23:03:38,KYC Query,KYC,5.5,,Escalated,0
+STUE103819,2024-08-14 00:07:11,KYC Query,KYC,5.3,,Open,0
+STUE105842,2024-07-31 04:45:52,Login Problem,Technical,7.8,13.2,Closed,0
+STUE103369,2024-03-05 16:53:35,Login Problem,Technical,14.6,,Open,0
+STUE104369,2024-12-13 15:27:40,Login Problem,Technical,11.9,,Escalated,0
+STUE108399,2025-08-19 03:18:28,deposit issue,Banking,4.3,,Escalated,1
+STUE105842,2024-06-08 17:47:11,Deposit Issue,Banking,1.0,6.0,Closed,1
+STUE105886,2024-04-20 00:08:50,Withdrawal Query,Banking,3.7,,Open,1
+STUE110392,2025-02-05 01:17:12,Withdrawal Query,Banking,1.5,34.7,Resolved,1
+STUE103138,2024-11-15 16:47:48,App Crash,Technical,26.6,41.9,Resolved,0
+STUE115959,2025-08-04 22:21:00,App Crash,Technical,74.4,158.1,Closed,0
+STUE108360,2025-06-04 10:50:02,KYC Query,KYC,4.3,,Open,0
+STUE100701,2024-08-25 07:21:10,KYC Query,KYC,21.1,33.3,Resolved,0
+STUE116521,2024-03-29 03:04:43,KYC Query,KYC,,90.2,Resolved,0
+STUE106728,2024-09-06 01:18:21,Fees Question,Account Query,4.8,11.8,Resolved,0
+STUE109578,2025-02-01 08:51:19,Login Problem,Technical,1.3,38.7,Resolved,0
+STUE114562,2024-10-29 01:17:54,Deposit Issue,Banking,,31.8,Closed,1
+STUE108999,2025-03-30 01:44:30,Deposit Issue,Banking,18.3,,Escalated,1
+STUE105214,2025-04-06 08:45:28,Withdrawal Query,Banking,6.5,40.5,Closed,1
+STUE107608,2024-10-23 02:52:03,KYC Query,KYC,1.4,,Open,0
+STUE114730,2025-02-16 17:33:41,Deposit Issue,Banking,1.8,79.6,Resolved,1
+STUE113220,2024-12-03 03:56:34,KYC Query,KYC,13.6,20.0,Resolved,0
+STUE105690,2024-07-22 04:20:23,KYC Query,KYC,11.7,28.2,Resolved,0
+STUE103885,2025-04-11 11:51:28,Withdrawal Query,Banking,4.5,,Open,1
+STUE105690,2024-07-20 11:09:32,Account Query,Account Query,95.3,108.9,Resolved,0
+STUE106258,2025-01-20 18:28:21,App Crash,Technical,4.4,10.9,Resolved,0
+STUE109368,2024-02-27 05:29:09,Login Problem,Technical,6.4,44.4,Closed,0
+STUE107284,2024-08-04 19:49:34,Fees Question,Account Query,12.2,78.3,Resolved,0
+STUE114971,2024-09-03 13:47:09,KYC Query,KYC,20.7,85.4,Closed,0
+STUE108631,2025-09-22 10:06:16,Account Query,Account Query,2.7,7.0,Closed,0
+STUE115449,2025-07-25 15:00:48,KYC Query,KYC,12.2,85.9,Resolved,0
+STUE104071,2024-05-10 23:51:00,Deposit Issue,Banking,48.1,92.0,Resolved,1
+STUE105608,2024-09-01 00:27:29,App Crash,Technical,18.5,264.7,Resolved,0
+STUE106299,2025-03-27 06:49:36,Deposit Issue,Banking,5.3,135.2,Resolved,1
+STUE115139,2025-08-09 11:23:24,KYC Query,KYC,1.6,34.6,Resolved,0
+STUE111323,2024-12-08 19:13:07,App Crash,Technical,1.5,21.3,Resolved,0
+STUE104259,2025-01-14 11:26:46,Account Query,Account Query,14.0,23.4,Resolved,0
+STUE113157,2024-07-25 11:26:20,App Crash,Technical,7.6,,Escalated,0
+STUE103081,2024-01-20 16:02:53,KYC Query,KYC,6.3,,Escalated,0
+STUE106551,2025-09-27 22:46:02,Withdrawal Query,Banking,16.2,42.5,Resolved,1
+STUE101697,2024-11-21 11:36:07,KYC Query,KYC,35.7,174.7,Resolved,0
+STUE104127,2024-07-11 03:35:52,KYC Query,KYC,5.8,,Open,0
+STUE115647,2024-08-04 01:35:51,Deposit Issue,Banking,193.0,205.4,Closed,1
+STUE107103,2024-06-27 20:17:13,Deposit Issue,Banking,4.7,17.7,Resolved,1
+STUE100245,2024-10-30 06:16:30,KYC Query,KYC,11.6,,Escalated,0
+STUE102267,2024-12-16 01:08:24,Account Query,Account Query,3.5,22.6,Resolved,0
+STUE104573,2025-06-29 20:18:36,Deposit Issue,Banking,23.6,27.6,Closed,1
+STUE116176,2024-11-26 19:19:52,KYC Query,KYC,7.5,23.1,Resolved,0
+STUE109626,2025-06-17 09:38:06,Fees Question,Account Query,,104.4,Resolved,0
+STUE103348,2024-12-01 12:19:38,Account Query,Account Query,33.8,65.1,Resolved,0
+STUE116623,2024-07-25 05:43:34,KYC Query,KYC,10.9,36.1,Closed,0
+STUE105207,2024-06-15 21:08:17,App Crash,Technical,18.7,33.9,Resolved,0
+STUE101373,2025-05-07 04:07:55,KYC Query,KYC,10.6,,Open,0
+STUE104416,2024-12-27 22:30:58,Deposit Issue,Banking,15.6,24.4,Closed,1
+STUE115178,2025-08-18 09:35:51,Withdrawal Query,Banking,1.4,41.1,Resolved,1
+STUE111458,2024-10-04 20:28:23,Account Query,Account Query,68.0,85.9,Closed,0
+STUE106483,2025-05-06 02:12:50,Login Problem,Technical,22.1,32.8,Resolved,0
+STUE100434,2024-03-23 11:39:02,KYC Query,KYC,1.7,16.8,Resolved,0
+STUE114052,2025-08-25 18:26:07,KYC Query,KYC,5.6,18.3,Closed,0
+STUE112088,2025-04-12 09:09:43,Account Query,Account Query,9.0,29.0,Resolved,0
+STUE102332,2024-05-18 18:07:29,Login Problem,Technical,25.1,32.6,Resolved,0
+STUE113676,2025-01-12 16:03:20,KYC Query,KYC,8.4,17.0,Resolved,0
+STUE107907,2024-03-06 08:53:33,KYC Query,KYC,6.6,11.8,Resolved,0
+STUE103969,2025-09-02 12:21:35,KYC Query,KYC,,8.7,Closed,0
+STUE101757,2024-08-22 03:54:07,KYC Query,KYC,0.9,123.1,Resolved,0
+STUE112201,2025-03-13 07:51:10,Deposit Issue,Banking,10.4,,Open,1
+STUE104743,2025-02-16 20:16:45,Deposit Issue,Banking,5.9,16.8,Resolved,1
+STUE114115,2025-01-21 20:16:56,Account Query,Account Query,9.5,41.1,Resolved,0
+STUE115108,2024-03-28 10:15:50,KYC Query,KYC,29.5,59.3,Resolved,0
+STUE103727,2024-06-26 07:15:28,App Crash,Technical,12.5,17.0,Resolved,0
+STUE103253,2024-04-13 08:17:33,Account Query,Account Query,7.8,26.6,Resolved,0
+STUE101667,2024-03-14 01:59:59,Login Problem,Technical,20.7,54.9,Resolved,0
+STUE108719,2024-04-03 02:12:29,KYC Query,KYC,11.0,25.0,Resolved,0
+STUE108001,2025-05-17 02:26:08,App Crash,Technical,4.3,18.4,Resolved,0
+STUE105964,2024-02-13 02:26:06,KYC Query,KYC,6.3,,Escalated,0
+STUE108907,2024-01-05 10:09:29,Fees Question,Account Query,12.5,24.6,Resolved,0
+STUE107125,2024-09-02 08:25:12,KYC Query,KYC,1.8,23.2,Resolved,0
+STUE105144,2025-03-23 23:21:18,Withdrawal Query,Banking,16.4,24.0,Resolved,1
+STUE107872,2024-02-24 18:59:58,KYC Query,KYC,10.5,,Escalated,0
+STUE106104,2024-11-18 00:36:13,KYC Query,KYC,1.3,,Escalated,0
+STUE101402,2024-09-08 06:02:47,Deposit Issue,Banking,3.0,5.7,Resolved,1
+STUE108315,2025-04-08 06:35:57, Deposit Issue ,Banking,1.3,32.8,Resolved,1
+STUE116623,2024-06-14 20:25:18,KYC Query,KYC,12.6,28.4,Resolved,0
+STUE100292,2024-12-05 07:33:19,Deposit Issue,Banking,3.4,,Escalated,1
+STUE110386,2024-06-29 00:29:09,KYC Query,KYC,8.1,48.9,Closed,0
+STUE100144,2025-05-05 07:03:16,App Crash,Technical,5.7,49.8,Resolved,0
+STUE100239,2024-04-25 14:11:33,Login Problem,Technical,67.1,77.1, Closed ,0
+STUE115398,2025-03-03 03:20:13,KYC Query,KYC,11.2,,Open,0
+STUE111348,2024-04-04 12:37:03,Deposit Issue,Banking,6.7,27.7,Resolved,1
+STUE112378,2025-04-15 22:26:41,Deposit Issue,Banking,3.3,58.0,Resolved,1
+STUE109278,2024-05-10 08:02:46,Deposit Issue,Banking,5.0,34.1,Resolved,1
+STUE105105,2025-01-23 10:18:13,Account Query,Account Query,4.8,50.0,Resolved,0
+STUE109966,2025-08-05 13:20:42,KYC Query,KYC,8.6,,Open,0
+STUE114867,2025-06-26 04:53:51,KYC Query,KYC,15.3,40.6,Resolved,0
+STUE107414,2024-08-12 04:31:27,Withdrawal Query,Banking,5.6,9.2,Resolved,1
+STUE116534,2025-08-28 00:04:08,Withdrawal Query,Banking,13.0,20.2,Resolved,1
+STUE107484,2024-02-21 15:06:46,Fees Question,Account Query,11.6,63.6,Closed,0
+STUE114169,2025-10-01 20:32:30,App Crash,Technical,16.3,17.6,Resolved,0
+STUE115456,2024-04-13 00:10:35,App Crash,Technical,11.1,43.4,Closed,0
+STUE108053,2025-08-20 10:53:11,Login Problem,Technical,11.0,45.5,Resolved,0
+STUE110169,2025-01-05 17:59:59,KYC Query,KYC,4.0,58.1,Closed,0
+STUE106877,2024-09-22 08:31:01,KYC Query,KYC,5.3,17.9,Resolved,0
+STUE105940,2024-08-19 17:58:02,Deposit Issue,Banking,6.1,26.4,Closed,1
+STUE116558,2025-09-09 09:17:46,KYC Query,KYC,,18.4,Resolved,0
+STUE100752,2025-03-23 12:10:47,KYC Query,KYC,6.7,22.0,Closed,0
+STUE111113,2025-05-12 08:50:11,App Crash,Technical,3.7,9.1,Closed,0
+STUE109513,2024-12-26 00:30:34, Account Query ,Account Query,3.6,8.1,Resolved,0
+STUE110682,2025-02-13 23:45:21,KYC Query,KYC,63.1,152.4,Resolved,0
+STUE113461,2024-06-16 00:43:54,Deposit Issue,Banking,9.6,42.2,Closed,1
+STUE105930,2024-11-01 06:24:00,Withdrawal Query,Banking,6.9,,Escalated,1
+STUE104139,2025-02-01 01:57:38,App Crash,Technical,9.7,,Escalated,0
+STUE112719,2024-10-27 11:42:34,KYC Query,KYC,2.6,15.5,Closed,0
+STUE110091,2024-04-15 14:09:12,Login Problem,Technical,9.3,,Escalated,0
+STUE100317,2024-11-15 08:34:42,KYC Query,KYC,14.4,40.5,Resolved,0
+STUE108205,2025-08-30 20:50:51,KYC Query,KYC,8.6,,Escalated,0
+STUE109525,2025-05-18 18:03:01,App Crash,Technical,2.2,11.4,Resolved,0
+STUE108414,2025-03-20 00:28:44,Fees Question,Account Query,5.0,,Escalated,0
+STUE111224,2025-08-05 22:51:19,Fees Question,Account Query,8.5,16.4,Resolved,0
+STUE100572,2024-02-03 22:59:30,Withdrawal Query,Banking,9.9,73.3,Closed,1
+STUE114313,2024-09-05 18:59:41,Login Problem,Technical,27.5,49.3,Resolved,0
+STUE100092,2025-07-18 13:47:27,Account Query,Account Query,13.6,26.7,Resolved,0
+STUE113157,2024-07-17 02:47:21,KYC Query,KYC,43.7,135.1,Resolved,0
+STUE101226,2025-05-23 07:23:59,App Crash,Technical,2.2,20.4,Resolved,0
+STUE111497,2024-02-29 20:16:44,Deposit Issue,Banking,3.0,27.1,Resolved,1
+STUE103039,2024-01-10 14:52:18,Account Query,Account Query,2.4,,Escalated,0
+STUE111719,2025-07-04 23:35:10,Account Query,Account Query,65.8,95.5,Resolved,0
+STUE114903,2024-12-30 16:07:49,KYC Query,KYC,6.0,7.8,Resolved,0
+STUE100950,2024-10-01 18:47:37,Fees Question,Account Query,6.7,55.8,Closed,0
+STUE103020,2025-10-15 23:35:02,Withdrawal Query,Banking,2.4,,Open,1
+STUE107446,2024-10-05 21:49:37,KYC Query,KYC,1.4,20.1,Closed,0
+STUE116032,2024-08-10 15:46:23,Withdrawal Query,Banking,42.2,,Escalated,1
+STUE114961,2024-09-02 19:26:17,App Crash,Technical,11.4,91.2,Closed,0
+STUE105927,2024-10-01 02:45:20,KYC Query,KYC,8.2,53.1,Resolved,0
+STUE110547,2024-01-09 06:59:45,KYC Query,KYC,30.3,70.6,Resolved,0
+STUE111800,2025-02-22 22:25:58,Deposit Issue,Banking,3.9,14.1,Closed,1
+STUE115265,2024-05-19 23:41:14,Account Query,Account Query,4.0,7.0,Resolved,0
+STUE102189,2024-11-29 17:48:38,KYC Query,KYC,,78.2,Closed,0
+STUE108793,2025-03-21 11:25:25,Deposit Issue,Banking,3.8,13.6,Resolved,1
+STUE113559,2024-10-22 02:54:27,KYC Query,KYC,33.8,35.7,Resolved,0
+STUE101619,2024-05-02 16:26:34,KYC Query,KYC,20.6,,Escalated,0
+STUE103732,2025-03-16 15:54:37,Deposit Issue,Banking,20.6,46.3,Resolved,1
+STUE104336,2024-09-04 17:22:25,KYC Query,KYC,2.3,,Escalated,0
+STUE106166,2025-08-04 01:25:40,KYC Query,KYC,2.6,7.3,Resolved,0
+STUE111596,2025-07-16 08:08:20,Account Query,Account Query,26.0,,Open,0
+STUE115403,2024-08-21 02:28:24,App Crash,Technical,12.8,21.1,Resolved,0
+STUE110397,2024-02-21 13:47:45,Account Query,Account Query,8.9,56.1,Resolved,0
+STUE105755,2025-10-06 12:55:36,Deposit Issue,Banking,4.7,17.6,Resolved,1
+STUE100313,2024-10-09 14:55:21,Account Query,Account Query,17.2,,Open,0
+STUE107344,2025-09-16 13:11:33,App Crash,Technical,10.5,206.0,Resolved,0
+STUE109347,2024-02-21 13:25:09,Account Query,Account Query,6.2,,Escalated,0
+STUE107574,2025-04-20 22:30:19,KYC Query,KYC,0.9,134.9,Resolved,0
+STUE101134,2024-12-12 02:59:04,App Crash,Technical,1.8,,Escalated,0
+STUE104114,2025-07-16 21:47:26,Account Query,Account Query,14.4,,Escalated,0
+STUE109246,2024-09-12 19:02:50,Login Problem,Technical,10.1,13.5,Resolved,0
+STUE107103,2024-06-08 19:41:33,Withdrawal Query,Banking,7.2,21.3,Resolved,1
+STUE104059,2024-06-07 09:05:49,KYC Query,KYC,8.6,10.0,Resolved,0
+STUE112959,2025-08-18 04:23:34,KYC Query,KYC,9.5,58.0,Closed,0
+STUE109672,2025-08-21 22:20:45,KYC Query,KYC,6.1,29.1,Resolved,0
+STUE106927,2024-08-06 11:49:11,Deposit Issue,Banking,5.6,9.3,Resolved,1
+STUE103317,2024-09-09 04:53:32,Deposit Issue,Banking,22.7,25.0,Closed,1
+STUE113692,2024-01-26 22:58:32,Account Query,Account Query,12.9,48.5,Closed,0
+STUE103608,2025-06-30 04:01:39,KYC Query,KYC,5.0,135.2,Resolved,0
+STUE109938,2025-06-14 07:42:57,KYC Query,KYC,73.1,82.0,Resolved,0
+STUE101742,2024-09-30 19:16:01,Account Query,Account Query,6.5,13.0,Resolved,0
+STUE101531,2025-08-08 01:52:30,App Crash,Technical,8.0,12.9,Resolved,0
+STUE115318,2024-12-19 05:21:53,Login Problem,Technical,5.9,29.5,Closed,0
+STUE105975,2025-01-16 05:36:58,Account Query,Account Query,28.6,45.6,Resolved,0
+STUE109578,2025-01-25 09:45:23,KYC Query,KYC,5.1,19.1,Resolved,0
+STUE101841,2025-05-12 05:37:44,KYC Query,KYC,28.6,,Escalated,0
+STUE111802,2025-06-22 23:46:21,Deposit Issue,Banking,0.6,16.9,Resolved,1
+STUE103655,2025-02-15 06:47:35,Account Query,Account Query,3.3,9.4,Resolved,0
+STUE107284,2024-07-21 13:16:06,KYC Query,KYC,25.3,43.4,Closed,0
+STUE111315,2025-09-15 22:18:02,Account Query,Account Query,4.4,6.2,Closed,0
+STUE112905,2024-05-06 13:36:11,KYC Query,KYC,3.3,18.1,Resolved,0
+STUE106571,2024-03-26 21:31:21,Deposit Issue,Banking,6.7,13.9,Closed,1
+STUE108719,2024-03-13 14:36:38,Deposit Issue,Banking,10.0,54.7,Closed,1
+STUE113796,2025-09-13 19:29:52,Deposit Issue,Banking,13.2,,Open,1
+STUE110464,2024-10-17 06:26:46,KYC Query,KYC,33.9,,Escalated,0
+STUE103957,2025-04-10 07:17:15,Deposit Issue,Banking,8.2,32.2,Closed,1
+STUE107312,2025-07-28 11:40:09,Fees Question,Account Query,2.4,17.6,Resolved,0
+STUE107475,2024-04-02 08:31:04,Fees Question,Account Query,5.6,,Escalated,0
+STUE115178,2025-08-20 20:21:45,Fees Question,Account Query,3.7,17.9,Resolved,0
+STUE109170,2024-03-20 11:56:25,KYC Query,KYC,5.2,32.8,Resolved,0
+STUE114688,2024-03-21 01:08:25,Deposit Issue,Banking,9.4,,Escalated,1
+STUE103727,2024-06-21 02:40:15,KYC Query,KYC,3.6,,Escalated,0
+STUE112514,2024-06-18 07:42:26,Fees Question,Account Query,8.8,113.8,Resolved,0
+STUE113141,2024-03-14 09:12:56,Login Problem,Technical,8.8,,Escalated,0
+STUE108649,2024-12-13 02:34:47,Login Problem,Technical,6.4,73.5,Closed,0
+STUE109116,2025-05-18 20:47:45,Deposit Issue,Banking,2.9,38.3,Resolved,1
+STUE105614,2024-06-19 03:07:07,KYC Query,KYC,5.8,27.5,Resolved,0
+STUE113305,2024-06-28 18:14:30,App Crash,Technical,3.6,87.4,Resolved,0
+STUE115485,2024-07-10 04:51:52,Deposit Issue,Banking,9.9,16.7,Closed,1
+STUE105256,2025-01-28 04:10:11,Login Problem,Technical,15.1,29.2,Resolved,0
+STUE108626,2024-09-30 21:33:34,App Crash,Technical,8.1,,Open,0
+STUE102828,2024-05-20 00:59:18,Deposit Issue,Banking,6.5,121.9,Closed,1
+STUE114760,2024-03-31 20:35:37,Account Query,Account Query,,27.0,Resolved,0
+STUE115528,2024-11-05 18:29:54,KYC Query,KYC,13.9,80.1,Resolved,0
+STUE108999,2025-02-18 09:42:27,Withdrawal Query,Banking,11.8,17.0,Resolved,1
+STUE105525,2025-02-03 09:50:30,Account Query,Account Query,4.3,21.1,Resolved,0
+STUE110430,2024-11-13 03:19:39,App Crash,Technical,1.3,26.1,Resolved,0
+STUE101890,2025-07-24 11:46:28,Account Query,Account Query,30.9,,Escalated,0
+STUE105804,2024-08-04 22:42:38,Deposit Issue,Banking,16.3,28.4,Resolved,1
+STUE107825,2025-01-23 04:44:03,Account Query,Account Query,2.2,6.3,Resolved,0
+STUE109327,2024-02-01 15:42:55,Fees Question,Account Query,5.1,57.8,Resolved,0
+STUE112201,2025-04-16 20:56:48,Account Query,Account Query,49.7,,Open,0
+STUE113079,2025-07-08 07:07:37,KYC Query,KYC,20.0,62.9,Resolved,0
+STUE115988,2024-02-13 05:35:37,KYC Query,KYC,18.2,,Escalated,0
+STUE108525,2025-01-02 12:45:03,Fees Question,Account Query,4.7,39.0,Closed,0
+STUE116728,2025-06-02 15:01:10,App Crash,Technical,8.8,48.1,Resolved,0
+STUE114208,2024-04-07 01:48:50,KYC Query,KYC,5.6,7.2,Closed,0
+STUE100837,2024-08-17 04:22:30,KYC Query,KYC,2.5,,Escalated,0
+STUE114519,2025-03-29 15:02:40,App Crash,Technical,7.7,16.8,Resolved,0
+STUE109254,2025-04-25 10:14:15,KYC Query,KYC,0.4,,Open,0
+STUE104022,2024-10-07 05:15:39,KYC Query,KYC,2.5,85.6,Resolved,0
+STUE110724,2025-01-03 02:26:33,Deposit Issue,Banking,2.8,,Escalated,1
+STUE115092,2024-11-23 09:26:44,KYC Query,KYC,15.8,,Escalated,0
+STUE103600,2024-08-04 14:51:25,Deposit Issue,Banking,2.0,17.6,Resolved,1
+STUE105930,2024-10-09 01:50:11,KYC Query,KYC,2.0,,Escalated,0
+STUE110724,2025-02-03 00:35:20,Login Problem,Technical,8.2,17.6,Resolved,0
+STUE109672,2025-08-09 05:12:47,Login Problem,Technical,3.8,6.3,Closed,0
+STUE103184,2025-06-09 09:13:49,App Crash,Technical,10.5,27.8,Resolved,0
+STUE108342,2024-02-11 21:52:56,App Crash,Technical,6.9,22.2,Resolved,0
+STUE112955,2024-10-28 10:00:09,KYC Query,KYC,36.2,55.1,Closed,0
+STUE106344,2024-10-04 11:47:40,Withdrawal Query,Banking,37.6,68.7,Resolved,1
+STUE109680,2024-01-31 12:37:33,Login Problem,Technical,7.3,55.6,Closed,0
+STUE114327,2024-01-24 01:10:57,Account Query,Account Query,7.4,11.2,Resolved,0
+STUE102035,2025-04-13 15:25:22,KYC Query,KYC,4.2,,Escalated,0
+STUE105358,2024-11-28 19:46:06,deposit issue,Banking,11.0,14.7,Resolved,1
+STUE101531,2025-08-07 23:06:20,KYC Query,KYC,5.4,16.7,Resolved,0
+STUE104989,2025-01-19 03:29:03,Account Query,Account Query,9.0,33.7,Closed,0
+STUE103417,2024-09-19 09:11:00,Login Problem,Technical,5.3,27.2,Resolved,0
+STUE110255,2025-08-28 19:51:46,Withdrawal Query,Banking,9.1,105.7,Closed,1
+STUE113149,2024-07-23 16:10:32,Account Query,Account Query,7.9,15.7,Resolved,0
+STUE108001,2025-06-01 08:59:21,Login Problem,Technical,12.4,43.8,Resolved,0
+STUE111402,2024-11-11 04:11:30,App Crash,Technical,8.3,24.8,Resolved,0
+STUE100566,2025-01-23 05:30:48,Withdrawal Query,Banking,8.3,36.8,Resolved,1
+STUE106061,2025-07-31 01:32:44,KYC Query,KYC,3.9,,Escalated,0
+STUE116843,2025-04-23 00:29:49,Login Problem,Technical,7.7,47.6,Closed,0
+STUE104172,2024-09-09 20:03:38,Deposit Issue,Banking,1.3,28.9,Resolved,1
+STUE107597,2024-03-17 10:51:10,KYC Query,KYC,7.1,45.2,Resolved,0
+STUE101333,2025-02-10 17:57:20,Login Problem,Technical,20.0,105.9,Resolved,0
+STUE114502,2024-06-04 14:19:24,Deposit Issue,Banking,6.4,,Escalated,1
+STUE104369,2025-01-27 06:05:19,Account Query,Account Query,9.0,,Open,0
+STUE115456,2024-04-30 05:09:18,KYC Query,KYC,3.1,153.8,Resolved,0
+STUE106070,2024-05-19 02:25:56,KYC Query,KYC,24.1,49.1,Resolved,0
+STUE102489,2024-09-15 02:14:32,Deposit Issue,Banking,1.7,99.5,Closed,1
+STUE102118,2024-04-11 09:38:07,KYC Query,KYC,9.4,14.0,Resolved,0
+STUE101156,2024-07-14 07:35:56,App Crash,Technical,2.6,9.1,Resolved,0
+STUE111340,2025-02-11 18:03:19,Withdrawal Query,Banking,4.3,21.2,Resolved,1
+STUE104007,2025-03-15 11:17:06,Deposit Issue,Banking,9.4,,Open,1
+STUE109186,2025-05-31 13:16:34,Login Problem,Technical,11.5,40.5,Resolved,0
+STUE110068,2025-08-18 17:07:25,App Crash,Technical,6.0,12.4,Resolved,0
+STUE101753,2024-10-30 06:09:54,KYC Query,KYC,17.1,23.4,Resolved,0
+STUE102605,2024-04-12 17:16:47,Deposit Issue,Banking,3.1,26.3,Resolved,1
+STUE116575,2025-07-27 17:31:57,Withdrawal Query,Banking,2.1,12.1,Resolved,1
+STUE109980,2025-07-30 11:14:20,App Crash,Technical,2.8,28.8,Closed,0
+STUE107045,2025-02-14 23:01:02,App Crash,Technical,11.6,44.0,Resolved,0
+STUE100952,2024-10-02 02:35:59,Login Problem,Technical,1.8,,Escalated,0
+STUE100418,2025-05-09 00:21:45,Deposit Issue,Banking,5.5,,Escalated,1
+STUE100566,2025-01-12 16:17:42,Account Query,Account Query,11.2,13.8,Resolved,0
+STUE102162,2025-08-16 02:54:26,Withdrawal Query,Banking,2.5,,Open,1
+STUE113889,2025-09-14 05:38:51,Login Problem,Technical,4.1,12.7,Closed,0
+STUE108642,2024-10-10 05:50:20,Login Problem,Technical,20.5,33.1,Resolved,0
+STUE115368,2024-05-05 16:40:31,Fees Question,Account Query,43.2,62.0,Resolved,0
+STUE114181,2025-09-08 13:52:00,KYC Query,KYC,9.1,,Open,0
+STUE112707,2025-06-29 16:23:31,Account Query,Account Query,10.0,24.4,Resolved,0
+STUE102589,2025-04-22 09:09:11,Deposit Issue,Banking,5.2,48.7,Resolved,1
+STUE109146,2025-06-25 07:42:43,KYC Query,KYC,1.8,,Escalated,0
+STUE114553,2025-04-04 07:48:12,Fees Question,Account Query,20.0,123.9,Closed,0
+STUE112887,2025-01-27 23:01:30,App Crash,Technical,3.0,18.5,Resolved,0
+STUE115108,2024-03-31 07:55:42,Deposit Issue,Banking,3.0,26.5,Resolved,1
+STUE114257,2024-04-09 13:37:04,Deposit Issue,Banking,4.7,,Escalated,1
+STUE112491,2024-04-24 18:38:56,Login Problem,Technical,29.9,161.9,Resolved,0
+STUE111727,2024-09-30 21:33:28,KYC Query,KYC,5.8,41.1,Resolved,0
+STUE101909,2024-08-27 23:36:39,App Crash,Technical,6.5,23.4,Resolved,0
+STUE106513,2024-09-16 09:58:56,KYC Query,KYC,7.2,,Escalated,0
+STUE106366,2024-12-17 04:36:06,Deposit Issue,Banking,3.3,8.4,Resolved,1
+STUE114543,2025-04-27 08:49:13,Account Query,Account Query,5.4,18.2,Resolved,0
+STUE112818,2024-07-09 01:40:28,KYC Query,KYC,2.0,63.1,Closed,0
+STUE109748,2025-06-10 13:53:00,Login Problem,Technical,3.3,70.9,Resolved,0
+STUE110575,2024-03-26 08:06:04,Deposit Issue,Banking,1.1,,Open,1
+STUE102216,2025-09-29 20:36:43,KYC Query,KYC,3.9,17.0,Resolved,0
+STUE108322,2025-09-04 20:55:32,Withdrawal Query,Banking,25.9,,Escalated,1
+STUE102620,2024-03-21 21:46:00,Account Query,Account Query,6.0,33.7,Resolved,0
+STUE104573,2025-06-14 01:59:33,Deposit Issue,Banking,21.0,49.8,Resolved,1
+STUE113811,2024-12-07 05:15:42,Login Problem,Technical,8.9,28.6,Resolved,0
+STUE116252,2024-11-23 10:46:45,Withdrawal Query,Banking,4.0,,Escalated,1
+STUE102612,2024-06-01 16:51:06,Withdrawal Query,Banking,79.0,92.0,Resolved,1
+STUE106950,2024-12-26 03:33:01,Fees Question,Account Query,11.8,15.0,Closed,0
+STUE101193,2024-05-01 12:36:59,Login Problem,Technical,14.4,48.4,Closed,0
+STUE115568,2025-01-27 01:02:22,Deposit Issue,Banking,,17.7,Closed,1
+STUE115318,2024-12-17 19:24:20,Deposit Issue,Banking,8.3,18.5,Closed,1
+STUE105456,2024-11-14 20:59:26,App Crash,Technical,13.6,88.7,Closed,0
+STUE116320,2024-08-09 08:43:15,Account Query,Account Query,2.5,38.1,Resolved,0
+STUE100874,2024-10-19 12:51:18,Login Problem,Technical,18.8,,Escalated,0
+STUE105230,2025-06-13 22:10:05,Withdrawal Query,Banking,2.7,6.4,Resolved,1
+STUE105271,2025-07-20 20:45:25,KYC Query,KYC,4.9,78.9,Closed,0
+STUE106211,2025-04-09 19:44:08,KYC Query,KYC,6.5,33.1,Resolved,0
+STUE111402,2024-10-27 01:30:38,Deposit Issue,Banking,9.7,15.0,Resolved,1
+STUE102605,2024-04-10 15:57:46,App Crash,Technical,12.5,22.0,Closed,0
+STUE105912,2025-01-29 21:13:08,Login Problem,Technical,7.1,,Open,0
+STUE104259,2025-01-19 02:41:53,Fees Question,Account Query,27.0,42.6,Resolved,0
+STUE111290,2024-09-11 10:04:21,Deposit Issue,Banking,15.1,34.0,Resolved,1
+STUE105946,2024-08-15 08:58:16,Account Query,Account Query,9.5,116.0,Resolved,0
+STUE107165,2025-03-17 22:05:39,Deposit Issue,Banking,3.0,17.6,Resolved,1
+STUE101890,2025-06-18 18:19:32,Deposit Issue,Banking,8.3,,Open,1
+STUE115672,2024-08-13 22:43:54,Withdrawal Query,Banking,1.5,101.6,Resolved,1
+STUE103631,2025-03-27 17:12:26,Login Problem,Technical,8.0,14.9,Resolved,0
+STUE104931,2024-10-12 20:18:38,KYC Query,KYC,12.9,18.8,Resolved,0
+STUE115815,2024-08-17 15:53:20,Deposit Issue,Banking,7.6,26.1,Resolved,1
+STUE114799,2025-08-25 17:33:44,Login Problem,Technical,5.0,10.6,Resolved,0
+STUE105545,2025-05-16 20:24:43,Withdrawal Query,Banking,10.4,33.9,Resolved,1
+STUE103193,2025-03-28 13:10:43,Deposit Issue,Banking,3.5,23.8,Resolved,1
+STUE113181,2024-11-03 15:01:05,KYC Query,KYC,1.6,9.4,Resolved,0
+STUE105358,2024-10-05 15:12:39,Withdrawal Query,Banking,22.9,,escalated,1
+STUE114789,2025-07-07 10:04:16,Account Query,Account Query,1.6,7.1,Resolved,0
+STUE111954,2025-07-14 12:22:21,KYC Query,KYC,19.6,26.0,Resolved,0
+STUE105755,2025-10-11 19:21:20,Login Problem,Technical,2.1,5.3,Resolved,0
+STUE112656,2025-10-22 04:22:42,KYC Query,KYC,4.4,48.2,Closed,0
+STUE111616,2024-06-24 10:00:31,App Crash,Technical,1.0,31.8,Resolved,0
+STUE108471,2024-02-22 09:47:37,Account Query,Account Query,51.9,76.2,Resolved,0
+STUE114771,2024-07-04 18:22:21,Account Query,Account Query,9.0,,Escalated,0
+STUE106677,2024-10-12 13:51:57,App Crash,Technical,3.3,6.0,Resolved,0
+STUE105625,2025-08-13 02:48:08,Login Problem,Technical,28.8,33.7,Resolved,0
+STUE107193,2024-09-16 19:30:37,Deposit Issue,Banking,3.1,22.6,Closed,1
+STUE108062,2025-05-24 23:32:35,Account Query,Account Query,5.3,29.8,Resolved,0
+STUE110584,2024-12-06 07:27:35,Withdrawal Query,Banking,1.8,,Open,1
+STUE101254,2025-03-07 09:01:23,KYC Query,KYC,2.0,13.8,Closed,0
+STUE110213,2024-06-04 13:47:24,Deposit Issue,Banking,26.2,56.4,Resolved,1
+STUE107738,2024-07-14 14:20:31,KYC Query,KYC,2.9,8.8,Resolved,0
+STUE113096,2024-11-20 07:22:00,Deposit Issue,Banking,9.3,,Escalated,1
+STUE109626,2025-06-15 20:18:41,Deposit Issue,Banking,6.3,16.0,Resolved,1
+STUE102747,2025-04-02 23:37:17,Fees Question,Account Query,10.0,39.4,Resolved,0
+STUE110837,2025-09-04 05:50:54,KYC Query,KYC,3.8,,Escalated,0
+STUE116303,2025-04-07 10:22:03,KYC Query,KYC,6.8,10.1,Closed,0
+STUE115596,2024-03-04 09:06:10,Login Problem,Technical,39.6,102.5,Resolved,0
+STUE100298,2025-01-09 13:08:53,Account Query,Account Query,8.9,17.3,Resolved,0
+STUE106840,2025-09-25 23:06:06,Deposit Issue,Banking,7.5,74.2,Resolved,1
+STUE115373,2024-07-01 05:46:13,Deposit Issue,Banking,18.1,37.9,Resolved,1
+STUE101667,2024-03-16 21:41:11,Deposit Issue,Banking,17.6,,Escalated,1
+STUE111167,2025-09-28 14:35:17,Deposit Issue,Banking,25.4,37.2,Resolved,1
+STUE110741,2025-03-17 16:15:39,Deposit Issue,Banking,4.6,20.2,Resolved,1
+STUE108573,2025-06-19 22:41:15,KYC Query,KYC,12.5,33.9,Closed,0
+STUE102612,2024-05-07 22:51:08,Account Query,Account Query,5.5,,Escalated,0
+STUE107193,2024-10-05 14:35:15,KYC Query,KYC,5.4,,Open,0
+STUE116267,2025-01-11 16:40:18,App Crash,Technical,13.7,35.0,Closed,0
+STUE111672,2025-05-25 13:08:03,Deposit Issue,Banking,2.2,,Escalated,1
+STUE110430,2024-11-12 17:42:35,Deposit Issue,Banking,4.4,15.7,Resolved,1
+STUE102530,2025-09-08 11:06:17,Deposit Issue,Banking,4.1,,Escalated,1
+STUE105498,2024-05-12 00:41:40,Fees Question,Account Query,10.9,13.4,Resolved,0
+STUE109525,2025-05-13 09:29:08,KYC Query,KYC,7.0,,Open,0
+STUE115382,2025-04-08 23:35:19,Account Query,Account Query,8.3,11.7,Closed,0
+STUE105456,2024-11-23 08:19:10,KYC Query,KYC,5.4,18.8,Resolved,0
+STUE105239,2024-04-13 00:49:20,Account Query,Account Query,22.9,33.4,Resolved,0
+STUE103885,2025-02-24 11:05:45,Deposit Issue,Banking,4.3,41.5,Closed,1
+STUE114327,2024-02-05 05:48:21,Account Query,Account Query,9.8,,Escalated,0
+STUE105134,2025-02-01 16:22:20,Login Problem,Technical,15.4,164.6,Resolved,0
+STUE115360,2024-01-20 21:10:40,Withdrawal Query,Banking,2.1,21.9,Resolved,1
+STUE113869,2025-03-09 04:55:53,Deposit Issue,Banking,12.3,32.6,Closed,1
+STUE105950,2025-03-14 09:14:07,Deposit Issue,Banking,4.2,,Escalated,1
+STUE108016,2024-11-06 14:36:21,Deposit Issue,Banking,24.6,37.2,Resolved,1
+STUE102023,2024-02-10 18:15:46,Account Query,Account Query,4.8,10.3,Resolved,0
+STUE111265,2024-09-02 10:34:31,Deposit Issue,Banking,3.2,16.6,Resolved,1
+STUE104901,2024-04-10 22:16:02,KYC Query,KYC,22.9,47.6,Resolved,0
+STUE103765,2024-02-02 04:06:53,Deposit Issue,Banking,4.6,,Open,1
+STUE115675,2025-06-17 02:09:10,App Crash,Technical,4.0,44.3,Closed,0
+STUE112818,2024-07-20 00:31:10,Account Query,Account Query,11.5,12.4,Resolved,0
+STUE110016,2024-10-15 10:00:51,App Crash,Technical,9.5,38.5,Resolved,0
+STUE109904,2025-06-22 10:43:18,Fees Question,Account Query,3.0,,Open,0
+STUE103957,2025-04-27 14:10:49,Deposit Issue,Banking,53.6,69.9,Resolved,1
+STUE109211,2024-10-04 05:20:18,App Crash,Technical,14.9,,Escalated,0
+STUE114507,2025-05-30 07:10:43,Deposit Issue,Banking,6.1,17.4,Closed,1
+STUE106134,2024-04-13 22:11:51,Login Problem,Technical,8.6,13.3,Closed,0
+STUE112810,2024-02-14 20:58:31,KYC Query,KYC,3.2,92.5,Resolved,0
+STUE113917,2025-04-25 00:51:58,Deposit Issue,Banking,3.9,,Escalated,1
+STUE106908,2024-06-22 04:32:57,Deposit Issue,Banking,5.0,8.9,Resolved,1
+STUE101422,2025-08-15 02:36:59,Account Query,Account Query,6.3,49.5,Resolved,0
+STUE106232,2024-08-29 00:01:08,Deposit Issue,Banking,8.1,23.5,Resolved,1
+STUE110522,2024-07-08 06:02:02,Deposit Issue,Banking,8.3,51.5,Resolved,1
+STUE104951,2024-12-18 04:23:34,KYC Query,KYC,5.3,,Escalated,0
+STUE100424,2025-06-10 16:27:33,Deposit Issue,Banking,4.7,14.9,Resolved,1
+STUE111665,2024-07-22 00:07:05,Deposit Issue,Banking,21.6,56.1,Closed,1
+STUE109705,2024-09-02 06:07:23,Deposit Issue,Banking,22.5,58.0,Resolved,1
+STUE100641,2025-02-16 23:59:15,App Crash,Technical,0.4,8.6,Closed,0
+STUE110781,2024-08-10 17:31:44,Deposit Issue,Banking,9.3,57.2,Resolved,1
+STUE100783,2024-10-16 13:27:04,Login Problem,Technical,1.3,12.6,Resolved,0
+STUE101018,2025-05-11 06:47:06,Account Query,Account Query,2.8,14.5,Closed,0
+STUE102012,2025-05-15 10:33:57,Deposit Issue,Banking,7.2,13.1,Closed,1
+STUE103290,2024-02-15 21:45:48,Account Query,Account Query,,16.7,Resolved,0
+STUE105975,2025-01-08 19:20:37,Deposit Issue,Banking,4.2,,Escalated,1
+STUE107568,2024-02-22 00:06:06,KYC Query,KYC,4.0,31.1,Closed,0
+STUE116545,2024-08-23 20:53:47,Deposit Issue,Banking,6.2,14.8,Closed,1
+STUE102836,2025-07-07 02:53:06,Account Query,Account Query,3.2,,Open,0
+STUE109460,2025-05-17 11:02:36,KYC Query,KYC,4.0,,Escalated,0
+STUE103020,2025-09-19 11:33:44,Login Problem,Technical,12.1,20.7,Resolved,0
+STUE116416,2025-05-17 06:55:26,Fees Question,Account Query,13.4,28.1,Resolved,0
+STUE114760,2024-04-08 00:44:36,Login Problem,Technical,25.5,33.9,Resolved,0
+STUE103317,2024-08-21 14:15:19,Account Query,Account Query,6.6,75.5,Resolved,0
+STUE104942,2025-06-04 06:58:44,Deposit Issue,Banking,6.4,,Escalated,1
+STUE101445,2024-08-02 10:09:50,Deposit Issue,Banking,,62.4,Closed,1
+STUE116360,2025-04-16 05:03:32,Login Problem,Technical,2.7,30.0,Resolved,0
+STUE105513,2024-02-04 20:21:03,Account Query,Account Query,2.1,50.1,Resolved,0
+STUE115881,2024-03-01 18:09:28,Account Query,Account Query,2.3,33.4,Resolved,0
+STUE102836,2025-07-31 11:38:40,Account Query,Account Query,3.5,,Open,0
+STUE116497,2024-09-07 05:16:17,Login Problem,Technical,15.5,,Escalated,0
+STUE101627,2025-01-28 04:15:52,Deposit Issue,Banking,1.4,53.0,Resolved,1
+STUE109966,2025-07-08 17:32:16,Fees Question,Account Query,2.9,,Open,0
+STUE112868,2025-03-25 18:46:23,KYC Query,KYC,,25.3,Closed,0
+STUE109843,2024-02-03 04:54:57,Deposit Issue,Banking,2.9,19.4,Resolved,1
+STUE111151,2024-02-24 23:54:14,Deposit Issue,Banking,9.0,,Open,1
+STUE115927,2025-03-12 02:26:08,Account Query,Account Query,5.7,17.0,Resolved,0
+STUE101268,2024-02-15 10:19:46,KYC Query,KYC,4.5,28.5,Resolved,0
+STUE115859,2024-08-20 17:01:48,Deposit Issue,Banking,17.7,37.2,Closed,1
+STUE109246,2024-08-06 10:16:47,App Crash,Technical,4.1,22.2,Resolved,0
+STUE116767,2024-03-10 05:16:22,Login Problem,Technical,15.5,80.8,Closed,0
+STUE116270,2024-02-16 16:14:55,Account Query,Account Query,8.5,46.1,Resolved,0
+STUE108573,2025-06-17 09:52:59,Deposit Issue,Banking,1.8,13.1,Closed,1
+STUE104304,2024-04-26 17:38:30,Login Problem,Technical,6.2,19.7,Closed,0
+STUE109412,2025-01-02 18:12:03,Account Query,Account Query,8.4,34.0,Resolved,0
+STUE100613,2024-03-14 14:47:42,Account Query,Account Query,65.5,76.5,Closed,0
+STUE109732,2024-12-28 18:05:30,KYC Query,KYC,18.5,31.6,Resolved,0
+STUE102292,2025-04-10 04:00:58,Deposit Issue,Banking,7.2,16.2,Resolved,1
+STUE104941,2025-09-12 12:45:16,KYC Query,KYC,3.1,14.1,Resolved,0
+STUE111954,2025-08-09 10:49:11,Deposit Issue,Banking,9.1,,Escalated,1
+STUE114030,2025-02-22 12:22:09,Deposit Issue,Banking,14.7,,Escalated,1
+STUE100504,2025-10-15 22:12:54,App Crash,Technical,8.1,12.3,Resolved,0
+STUE104304,2024-05-28 09:13:28,DEPOSIT ISSUE,Banking,9.0,41.8,Resolved,1
+STUE101123,2025-06-06 18:08:29,Login Problem,Technical,11.5,28.6,Closed,0
+STUE105163,2024-04-03 01:44:48,Deposit Issue,Banking,7.9,,Escalated,1
+STUE112674,2025-02-24 20:31:12,Login Problem,Technical,2.5,41.5,Resolved,0
+STUE113167,2025-08-25 21:56:15,Deposit Issue,Banking,25.3,43.7,Resolved,1
+STUE103014,2025-03-09 13:43:09,Account Query,Account Query,20.7,82.7,Resolved,0
+STUE114543,2025-04-18 01:15:19,KYC Query,KYC,7.3,13.1,Resolved,0
+STUE100707,2025-04-23 15:56:48,Fees Question,Account Query,6.6,82.7,Resolved,0
+STUE105742,2024-07-04 16:34:45,Withdrawal Query,Banking,42.6,69.0,Closed,1
+STUE108583,2024-04-26 01:10:09,KYC Query,KYC,6.3,7.5,Resolved,0
+STUE100701,2024-07-20 09:31:30,Withdrawal Query,Banking,1.8,13.9,Resolved,1
+STUE104516,2024-05-27 18:59:01,Login Problem,Technical,5.4,28.2,Resolved,0
+STUE107025,2025-03-19 08:18:20,KYC Query,KYC,4.6,111.7,Resolved,0
+STUE113061,2025-07-03 00:49:11,KYC Query,KYC,6.4,10.2,Resolved,0
+STUE111689,2024-09-18 21:45:24,KYC Query,KYC,7.0,25.2,Resolved,0
+STUE105377,2025-02-19 04:37:18,Deposit Issue,Banking,5.4,120.7,Resolved,1
+STUE111616,2024-06-28 07:18:42,Fees Question,Account Query,3.1,,Escalated,0
+STUE104846,2024-02-18 08:47:42,Login Problem,Technical,3.4,68.5,Resolved,0
+STUE111591,2025-02-17 17:26:25,Account Query,Account Query,18.8,38.4,Resolved,0
+STUE109778,2025-06-10 03:44:26,Account Query,Account Query,2.9,,Open,0
+STUE111315,2025-08-24 10:02:02,App Crash,Technical,9.0,55.4,Closed,0
+STUE115933,2024-08-30 19:50:32,Deposit Issue,Banking,6.6,25.1,Resolved,1
+STUE102106,2024-03-29 03:41:56,App Crash,Technical,3.2,59.3,Resolved,0
+STUE101538,2025-07-02 19:16:36,Withdrawal Query,Banking,4.8,73.3,Closed,1
+STUE108938,2025-08-22 02:21:20,Deposit Issue,Banking,30.2,58.0,Closed,1
+STUE114872,2024-06-05 04:22:49,App Crash,Technical,61.6,76.6,Resolved,0
+STUE110517,2025-06-12 22:16:15,Deposit Issue,Banking,1.0,14.6,Resolved,1
+STUE112190,2024-10-06 17:34:36,Withdrawal Query,Banking,7.8,15.0,Resolved,1
+STUE108385,2024-05-06 11:05:11,Deposit Issue,Banking,0.7,,Escalated,1
+STUE108428,2024-02-12 12:35:54,Login Problem,Technical,15.2,35.2,Resolved,0
+STUE107583,2025-06-22 03:19:24,Login Problem,Technical,14.8,,Open,0
+STUE105218,2025-08-26 10:17:17,Account Query,Account Query,6.6,,Open,0
+STUE113167,2025-09-18 13:26:46,KYC Query,KYC,13.9,20.7,Resolved,0
+STUE115449,2025-07-23 13:48:57,Deposit Issue,Banking,5.1,11.0,Closed,1
+STUE108360,2025-06-25 12:30:07,App Crash,Technical,2.6,32.5,Resolved,0
+STUE105836,2024-11-10 00:08:27,Login Problem,Technical,3.2,,Escalated,0
+STUE107152,2024-07-28 17:58:43,KYC Query,KYC,20.7,56.8,Closed,0
+STUE116032,2024-07-22 15:46:44,Deposit Issue,Banking,2.7,19.3,Resolved,1
+STUE108326,2025-07-30 02:14:00,Deposit Issue,Banking,11.4,,Escalated,1
+STUE116214,2025-01-18 08:40:56,Fees Question,Account Query,5.5,25.8,Resolved,0
+STUE107298,2025-06-01 08:26:32,KYC Query,KYC,14.9,16.8,Resolved,0
+STUE104022,2024-09-27 19:35:41,Deposit Issue,Banking,13.0,15.9,Resolved,1
+STUE101322,2024-09-19 00:57:09,Login Problem,Technical,11.5,19.2,Resolved,0
+STUE105301,2024-04-23 18:18:04,Login Problem,Technical,1.7,,Escalated,0
+STUE100998,2024-11-18 10:18:30,Login Problem,Technical,3.6,10.2,Resolved,0
+STUE101341,2024-04-17 16:55:34,KYC Query,KYC,3.6,16.5,Closed,0
+STUE111569,2024-09-18 13:07:51,Deposit Issue,Banking,37.7,51.5,Resolved,1
+STUE103789,2024-06-19 06:14:03,Deposit Issue,Banking,9.6,,Escalated,1
+STUE106950,2024-12-11 03:27:53,Fees Question,Account Query,12.3,24.7,Resolved,0
+STUE105930,2024-11-04 15:45:28,Deposit Issue,Banking,21.3,36.7,Closed,1
+STUE113855,2024-10-25 06:02:28,Deposit Issue,Banking,2.0,46.0,Resolved,1
+STUE106468,2025-09-26 15:23:58,Withdrawal Query,Banking,46.2,77.3,Resolved,1
+STUE108091,2024-08-26 13:26:57,Fees Question,Account Query,23.0,38.1,Resolved,0
+STUE107899,2024-11-08 12:59:17,Login Problem,Technical,14.5,30.6,Resolved,0
+STUE115373,2024-08-03 10:24:58,KYC Query,KYC,10.0,90.0,Resolved,0
+STUE115604,2024-04-06 08:04:53,Withdrawal Query,Banking,7.4,,Open,1
+STUE103216,2025-08-02 15:14:22,KYC Query,KYC,14.1,27.5,Resolved,0
+STUE102804,2024-06-01 22:21:27,KYC Query,KYC,9.7,,Open,0
+STUE112887,2025-02-09 03:53:53,Deposit Issue,Banking,3.5,26.0,Resolved,1
+STUE116864,2024-12-22 01:29:31,Deposit Issue,Banking,21.0,55.0,resolved,1
+STUE105179,2025-03-20 08:11:52,Login Problem,Technical,0.8,5.8,Resolved,0
+STUE113707,2024-06-17 17:43:54,Withdrawal Query,Banking,5.2,18.0,Resolved,1
+STUE110439,2024-11-17 05:50:13,Deposit Issue,Banking,5.5,105.7,Closed,1
+STUE101373,2025-05-25 11:25:54,Fees Question,Account Query,16.9,67.0,Resolved,0
+STUE116515,2024-10-22 05:02:57,Withdrawal Query,Banking,3.4,58.0,Closed,1
+STUE109186,2025-06-05 22:31:19,Deposit Issue,Banking,8.9,,Escalated,1
+STUE108239,2025-02-04 20:50:52,KYC Query,KYC,15.9,19.5,Resolved,0
+STUE111551,2025-07-02 14:54:17,Account Query,Account Query,6.3,25.7,Closed,0
+STUE105383,2024-08-07 21:58:55,App Crash,Technical,7.2,18.4,Closed,0
+STUE107752,2024-05-06 16:59:28,Withdrawal Query,Banking,14.7,20.4,Resolved,1
+STUE102962,2024-07-30 23:13:35,KYC Query,KYC,15.6,23.0,Resolved,0
+STUE104007,2025-04-07 02:23:42,Deposit Issue,Banking,13.3,18.7,Resolved,1
+STUE111780,2025-05-19 12:41:46,KYC Query,KYC,34.5,53.6,Resolved,0
+STUE113442,2025-05-08 22:14:45,Deposit Issue,Banking,30.3,36.1,Resolved,1
+STUE112434,2024-09-29 07:31:52,Deposit Issue,Banking,10.9,,Open,1
+STUE105436,2024-04-17 04:00:05,Account Query,Account Query,2.6,15.1,Resolved,0
+STUE103652,2025-07-12 19:20:38,Account Query,Account Query,7.1,,Escalated,0
+STUE103765,2024-01-25 15:59:12,Login Problem,Technical,4.4,29.0,Closed,0
+STUE102382,2024-07-25 15:15:04,Deposit Issue,Banking,13.6,22.7,Resolved,1
+STUE102237,2024-07-05 12:51:38,Deposit Issue,Banking,10.2,33.7,Closed,1
+STUE116864,2024-12-31 22:09:27,KYC Query,KYC,14.4,,Escalated,0
+STUE105861,2024-02-20 08:50:53,Account Query,Account Query,1.7,28.1,Closed,0
+STUE100932,2025-07-27 17:31:35,Deposit Issue,Banking,2.3,26.0,Resolved,1
+STUE105730,2024-03-12 16:08:49,Account Query,Account Query,2.9,11.2,Resolved,0
+STUE106561,2025-08-26 01:42:08,KYC Query,KYC,7.5,58.1,Resolved,0
+STUE102249,2025-10-01 04:14:27,KYC Query,KYC,4.0,21.8,Resolved,0
+STUE108788,2024-09-26 09:21:33,Account Query,Account Query,22.5,,Escalated,0
+STUE113115,2025-04-24 23:04:58,Deposit Issue,Banking,10.2,59.6,Resolved,1
+STUE114793,2025-09-18 14:42:24,Account Query,Account Query,6.5,21.7,Resolved,0
+STUE114092,2025-04-15 02:16:11,App Crash,Technical,8.6,,Escalated,0
+STUE106061,2025-08-13 14:13:38,Deposit Issue,Banking,3.5,,Escalated,1
+STUE113022,2025-08-28 07:34:31,Account Query,Account Query,5.4,55.6,Closed,0
+STUE104217,2024-10-15 04:24:55,Login Problem,Technical,6.0,43.7,Closed,0
+STUE116558,2025-09-26 05:16:28,Login Problem,Technical,12.5,22.7,Resolved,0
+STUE115025,2025-07-27 13:44:24,KYC Query,KYC,49.8,67.6,Resolved,0
+STUE116825,2025-01-16 08:00:02,Account Query,Account Query,35.7,79.3,Resolved,0
+STUE114428,2024-10-13 11:34:40,Account Query,Account Query,4.4,,Escalated,0
+STUE105436,2024-04-30 20:21:13,Account Query,Account Query,24.9,93.3,Resolved,0
+STUE116767,2024-02-20 13:14:19,Fees Question,Account Query,0.8,16.5,Closed,0
+STUE104478,2025-06-04 03:44:34,KYC Query,KYC,7.1,42.6,Resolved,0
+STUE102687,2025-08-09 17:35:09,KYC Query,KYC,3.1,29.8,Resolved,0
+STUE106501,2024-08-09 00:48:16,Deposit Issue,Banking,3.2,,Escalated,1
+STUE106299,2025-04-21 07:33:06,Account Query,Account Query,13.9,20.8,Resolved,0
+STUE103827,2024-02-09 03:14:24,Deposit Issue,Banking,10.2,,Escalated,1
+STUE109121,2024-08-09 12:49:02,App Crash,Technical,12.2,,Open,0
+STUE109843,2024-01-31 17:57:58,KYC Query,KYC,26.0,,Escalated,0
+STUE109467,2024-12-28 17:03:50,KYC Query,KYC,1.8,113.3,Resolved,0
+STUE106483,2025-05-18 16:11:15,KYC Query,KYC,2.0,25.0,Resolved,0
+STUE101619,2024-05-13 17:31:02,Withdrawal Query,Banking,13.2,,Open,1
+STUE113157,2024-07-07 14:59:30,Fees Question,Account Query,15.0,,Open,0
+STUE111365,2024-07-07 06:08:08,KYC Query,KYC,1.8,,Open,0
+STUE106728,2024-09-20 13:12:17,Deposit Issue,Banking,1.7,9.8,Closed,1
+STUE103571,2024-06-06 15:07:56,App Crash,Technical,3.9,65.0,Resolved,0
+STUE104059,2024-05-10 00:00:58,App Crash,Technical,22.5,45.2,Resolved,0
+STUE106893,2024-05-26 09:38:58,Deposit Issue,Banking,1.6,10.9,Resolved,1
+STUE108083,2024-11-20 08:16:32,Deposit Issue,Banking,15.7,29.7,Resolved,1
+STUE116002,2025-08-05 01:08:18,Account Query,Account Query,11.4,27.9,Resolved,0
+STUE113046,2024-05-23 08:33:41,App Crash,Technical,2.7,,Escalated,0
+STUE115984,2025-06-14 05:11:32,Deposit Issue,Banking,2.6,,Escalated,1
+STUE109006,2025-07-18 00:41:45,Fees Question,Account Query,12.9,62.2,Resolved,0
+STUE111918,2025-08-11 20:35:16,KYC Query,KYC,2.8,52.4,Resolved,0
+STUE113676,2024-12-08 09:37:34,Deposit Issue,Banking,2.8,20.4,Closed,1
+STUE106544,2025-04-06 00:09:20,App Crash,Technical,11.8,169.4,Resolved,0
+STUE116376,2025-07-23 21:04:07,Account Query,Account Query,1.4,,Escalated,0
+STUE110741,2025-05-08 22:50:45,Withdrawal Query,Banking,5.0,15.6,Resolved,1
+STUE104652,2025-07-28 23:23:30,Deposit Issue,Banking,36.0,102.3,Resolved,1
+STUE113716,2025-04-19 05:34:55,App Crash,Technical,15.9,61.8,Closed,0
+STUE105927,2024-09-21 04:34:05,Login Problem,Technical,3.7,60.8,Resolved,0
+STUE108191,2025-07-12 12:16:39,Login Problem,Technical,7.4,44.0,Resolved,0
+STUE106663,2025-04-27 06:41:22,Deposit Issue,Banking,4.7,30.3,Resolved,1
+STUE103253,2024-04-16 10:51:16,Login Problem,Technical,23.4,,Open,0
+STUE106211,2025-04-22 04:58:27,Deposit  Issue,Banking,2.3,17.4,Resolved,1
+STUE102601,2025-04-27 01:53:05,Login Problem,Technical,2.7,,Open,0
+STUE107312,2025-07-28 02:49:44,Account Query,Account Query,9.0,,Open,0
+STUE110430,2024-10-27 19:35:07,Deposit Issue,Banking,1.8,49.1,Resolved,1
+STUE102118,2024-03-31 02:49:13,KYC Query,KYC,25.3,28.3,Resolved,0
+STUE106447,2025-04-10 04:13:47,Deposit Issue,Banking,0.8,,Escalated,1
+STUE103696,2024-03-27 04:27:57,Login Problem,Technical,3.4,21.7,Resolved,0
+STUE104862,2025-05-07 05:02:12,Deposit Issue,Banking,2.3,,Open,1
+STUE114839,2025-06-26 21:24:18,Withdrawal Query,Banking,16.2,44.7,Resolved,1
+STUE104672,2024-09-23 17:15:59,Account Query,Account Query,2.6,,Open,0
+STUE111136,2025-06-19 03:59:44,Deposit Issue,Banking,8.9,13.6,Resolved,1
+STUE116270,2024-03-12 05:09:39,Fees Question,Account Query,4.7,28.2,Resolved,0
+STUE115353,2024-08-19 20:31:40,KYC Query,KYC,6.3,,Escalated,0
+STUE116558,2025-08-30 01:32:26,App Crash,Technical,20.3,61.6,Resolved,0
+STUE101456,2024-04-20 03:51:11,App Crash,Technical,4.8,25.2,Resolved,0
+STUE102097,2025-04-29 10:10:22,Account Query,Account Query,18.8,64.4,Resolved,0
+STUE113181,2024-10-12 07:45:19,Login Problem,Technical,8.1,51.4,Resolved,0
+STUE116051,2025-05-15 17:06:09,Fees Question,Account Query,10.3,,Open,0
+STUE114771,2024-07-18 17:58:16,Deposit Issue,Banking,2.2,5.6,Closed,1
+STUE111142,2025-06-27 13:39:39,Deposit Issue,Banking,6.5,90.7,Closed,1
+STUE101134,2024-11-17 18:55:22,KYC Query,KYC,4.3,46.9,Resolved,0
+STUE101859,2025-08-17 02:33:04,App Crash,Technical,17.6,,Escalated,0
+STUE111275,2025-06-25 09:11:44,KYC Query,KYC,2.6,69.5,Closed,0
+STUE103991,2025-07-06 22:49:24,App Crash,Technical,12.0,19.1,Resolved,0
+STUE111727,2024-10-25 13:28:18,Login Problem,Technical,19.5,45.0,Resolved,0
+STUE102842,2024-08-17 23:22:40,App Crash,Technical,19.1,,Open,0
+STUE109344,2025-05-12 04:34:53,Deposit Issue,Banking,7.3,28.5,Resolved,1
+STUE105755,2025-09-08 05:24:24,Account Query,Account Query,20.9,50.7,Resolved,0
+STUE115533,2024-01-23 23:56:29,KYC Query,KYC,12.0,23.4,Resolved,0
+STUE115368,2024-06-07 15:01:30,Account Query,Account Query,2.4,,Open,0
+STUE104957,2025-10-01 02:22:29,Account Query,Account Query,8.5,22.8,Closed,0
+STUE109368,2024-02-28 19:32:05,Deposit Issue,Banking,4.8,6.8,Resolved,1
+STUE111551,2025-06-17 09:21:04,Deposit Issue,Banking,14.2,62.6,Resolved,1
+STUE104324,2024-12-17 08:40:02,Account Query,Account Query,3.3,31.0,Resolved,0
+STUE104172,2024-09-01 17:50:56,Deposit Issue,Banking,12.0,111.6,Resolved,1
+STUE109525,2025-04-27 23:46:44,KYC Query,KYC,7.4,20.8,Resolved,0
+STUE108345,2025-05-10 12:18:16,Deposit Issue,Banking,23.3,63.2,Closed,1
+STUE102118,2024-03-29 09:19:49,KYC Query,KYC,3.9,42.9,Resolved,0
+STUE107394,2024-04-16 05:55:55,KYC Query,KYC,0.9,11.5,Resolved,0
+STUE106666,2025-08-29 15:08:23,Account Query,Account Query,,59.0,Resolved,0
+STUE103991,2025-06-25 10:34:00,Login Problem,Technical,1.8,45.5,Resolved,0
+STUE111102,2025-04-16 01:00:44,APP CRASH,Technical,1.5,16.5,Closed,0
+STUE102163,2025-01-18 17:27:42,Fees Question,Account Query,1.3,,Escalated,0
+STUE102790,2025-01-07 06:46:08,Withdrawal Query,Banking,2.5,,Open,1
+STUE101940,2025-02-05 15:44:06,Deposit Issue,Banking,2.5,27.2,Resolved,1
+STUE113061,2025-06-12 19:56:44,Withdrawal Query,Banking,8.4,,Escalated,1
+STUE105207,2024-05-06 03:12:56,Login Problem,Technical,32.6,,Escalated,0
+STUE106840,2025-10-06 07:28:31,Deposit Issue,Banking,14.4,32.3,Closed,1
+STUE100179,2024-02-05 16:39:57,Deposit Issue,Banking,1.6,22.4,Closed,1
+STUE116051,2025-06-14 14:56:37,KYC Query,KYC,5.3,,Open,0
+STUE103864,2024-10-07 10:48:22,Login Problem,Technical,5.3,55.8,Resolved,0
+STUE116819,2024-09-16 16:43:18,Account Query,Account Query,3.6,37.0,Resolved,0
+STUE111142,2025-06-29 11:54:29,Account Query,Account Query,66.9,76.1,Resolved,0
+STUE100577,2025-02-18 09:31:13,Login Problem,Technical,8.6,38.7,Resolved,0
+STUE106285,2025-06-16 20:01:39,Deposit Issue,Banking,1.6,48.8,Resolved,1
+STUE109158,2025-07-08 13:25:37,App Crash,Technical,4.4,34.2,Resolved,0
+STUE100613,2024-03-24 03:41:21,KYC Query,KYC,6.9,,Escalated,0
+STUE107354,2024-07-11 06:03:27,App Crash,Technical,47.3,68.1,Closed,0
+STUE107959,2025-03-22 07:23:39,Deposit Issue,Banking,9.9,26.7,Resolved,1
+STUE110627,2025-03-03 21:14:17,Deposit Issue,Banking,10.7,29.3,Resolved,1
+STUE114169,2025-10-05 08:47:05,Account  Query,Account Query,0.8,24.7,Resolved,0
+STUE101389,2025-02-10 04:52:43,Deposit Issue,Banking,0.9,2.0,Resolved,1
+STUE103193,2025-02-08 17:30:21,App Crash,Technical,2.2,,Escalated,0
+STUE104573,2025-07-05 07:38:28,Deposit Issue,Banking,9.3,74.8,Closed,1
+STUE114016,2024-03-23 16:39:51,Withdrawal Query,Banking,1.1,20.8,Closed,1
+STUE114951,2025-01-11 04:51:39,KYC Query,KYC,13.9,21.5,Closed,0
+STUE106249,2025-03-20 12:25:02,App Crash,Technical,4.9,18.6,Resolved,0
+STUE111740,2025-01-15 19:42:15,Account Query,Account Query,37.7,46.0,Closed,0
+STUE103767,2024-11-26 22:14:14,Withdrawal Query,Banking,7.0,,Escalated,1
+STUE100172,2025-03-27 14:31:06,KYC Query,KYC,9.9,29.1,Resolved,0
+STUE103063,2024-11-05 04:06:39,KYC Query,KYC,1.7,,Open,0
+STUE113869,2025-03-19 13:07:48,App Crash,Technical,16.7,37.8,Resolved,0
+STUE114327,2024-01-29 18:44:32,App Crash,Technical,35.0,52.1, Resolved ,0
+STUE102484,2025-07-30 02:18:46,KYC Query,KYC,4.2,16.9,Resolved,0
+STUE106044,2024-10-24 05:08:43,KYC Query,KYC,13.2,18.3,Resolved,0
+STUE102468,2025-09-23 19:45:59,Login Problem,Technical,13.6,,Open,0
+STUE106504,2024-08-10 00:09:34,Login Problem,Technical,8.3,28.5,Resolved,0
+STUE106778,2025-05-15 08:03:39,KYC Query,KYC,1.8,63.0,Resolved,0
+STUE101912,2024-12-15 16:36:46,Login Problem,Technical,6.0,190.8,Resolved,0
+STUE112102,2024-08-16 07:43:12,Account Query,Account Query,3.2,20.1,Resolved,0
+STUE107658,2024-09-16 20:41:59,Deposit Issue,Banking,16.1,17.5,Closed,1
+STUE102315,2024-10-13 02:02:41,App Crash,Technical,2.8,53.8,Closed,0
+STUE109966,2025-07-01 10:24:58,KYC Query,KYC,1.3,7.8,Closed,0
+STUE114730,2025-02-10 07:55:15,Withdrawal Query,Banking,13.6,60.7,Closed,1
+STUE101063,2024-12-09 17:40:42,Login Problem,Technical,9.1,,Escalated,0
+STUE106908,2024-07-01 02:58:53,App Crash,Technical,2.7,44.5,Resolved,0
+STUE110091,2024-04-14 08:23:16,Deposit Issue,Banking,15.8,,Open,1
+STUE113369,2024-03-18 12:31:00,Fees Question,Account Query,2.8,11.9,Resolved,0
+STUE106090,2025-01-26 02:32:25,App Crash,Technical,20.4,,Escalated,0
+STUE115057,2024-06-28 03:48:48,Account Query,Account Query,5.3,7.8,Closed,0
+STUE114228,2025-07-09 08:57:15,App Crash,Technical,2.4,38.4,Resolved,0
+STUE116657,2025-04-02 07:07:27,Account Query,Account Query,10.7,32.8,Resolved,0
+STUE111891,2024-04-29 06:15:38,Deposit Issue,Banking,4.8,12.9,Resolved,1
+STUE101996,2024-09-19 19:22:15,App Crash,Technical,4.4,,Open,0
+STUE104916,2024-01-29 09:52:27,Deposit Issue,Banking,3.3,260.5,Resolved,1
+STUE110529,2025-06-26 17:48:35,Account Query,Account Query,10.3,,Open,0
+STUE101048,2024-09-28 05:15:26,Deposit Issue,Banking,5.5,17.0,Resolved,1
+STUE113769,2025-06-03 15:05:25,Account Query,Account Query,11.6,32.5,Closed,0
+STUE100285,2025-04-10 22:17:19,Account Query,Account Query,18.0,32.4,Closed,0
+STUE101105,2024-09-20 00:55:37,Account Query,Account Query,23.1,27.0,Closed,0
+STUE103968,2025-03-21 06:44:41,KYC Query,KYC,4.4,,Escalated,0
+STUE114428,2024-09-29 05:43:01,Account Query,Account Query,7.0,11.7,Closed,0
+STUE106561,2025-07-14 23:00:17,Fees Question,Account Query,9.5,,Escalated,0
+STUE101814,2024-06-23 02:53:43,Account Query,Account Query,25.9,33.9,Resolved,0
+STUE101307,2025-08-11 01:01:12,Deposit Issue,Banking,18.0,32.5,Resolved,1
+STUE115715,2024-04-10 01:21:54,Deposit Issue,Banking,1.2,,Escalated,1
+STUE115368,2024-05-25 10:53:00,Deposit Issue,Banking,4.6,,Open,1
+STUE116401,2024-03-16 21:15:39,KYC Query,KYC,2.3,,Escalated,0
+STUE100475,2025-09-03 06:16:46,Login Problem,Technical,2.6,25.1,Resolved,0
+STUE108970,2025-06-19 05:25:57,Withdrawal Query,Banking,,29.6,Resolved,1
+STUE111303,2024-11-05 13:31:06,KYC Query,KYC,8.0,,Open,0
+STUE101226,2025-06-10 16:55:11,Login Problem,Technical,5.2,28.1,Resolved,0
+STUE100059,2024-06-13 14:43:32,Fees Question,Account Query,22.9,30.0,Resolved,0
+STUE103290,2024-03-11 15:14:15,Account Query,Account Query,7.9,21.6,Resolved,0
+STUE116416,2025-04-06 14:15:26,KYC Query,KYC,44.2,106.7,Resolved,0
+STUE100783,2024-09-10 09:10:52,Deposit Issue,Banking,7.5,27.1,Closed,1
+STUE116507,2024-02-19 22:18:09,KYC Query,KYC,11.0,,Escalated,0
+STUE115552,2024-02-14 16:50:22,Withdrawal Query,Banking,1.3,,Open,1
+STUE107344,2025-09-13 03:41:21,KYC Query,KYC,0.3,31.2,Closed,0
+STUE112068,2024-03-03 21:22:06,Account Query,Account Query,8.0,21.0,Resolved,0
+STUE111534,2024-04-21 12:31:42,Account Query,Account Query,10.1,14.0,Resolved,0
+STUE107169,2024-06-09 22:12:12,Login Problem,Technical,6.8,71.4,Resolved,0
+STUE102315,2024-09-13 15:12:53,Deposit Issue,Banking,5.0,14.8,Resolved,1
+STUE109553,2025-02-05 03:54:17,Login Problem,Technical,30.6,,Open,0
+STUE109757,2024-12-12 09:01:19,KYC Query,KYC,6.7,40.8,Resolved,0
+STUE111616,2024-06-26 11:54:40,Login Problem,Technical,8.9,41.9,Resolved,0
+STUE114414,2025-09-24 21:08:14,Login Problem,Technical,8.1,13.4,Resolved,0
+STUE115360,2024-01-21 11:54:30,Withdrawal Query,Banking,18.8,23.9,Closed,1
+STUE109797,2024-03-28 03:17:22,Account Query,Account Query,1.2,,Escalated,0
+STUE116521,2024-04-11 22:43:38,Login Problem,Technical,24.3,32.0,Resolved,0
+STUE109467,2025-01-07 09:47:14,Account Query,Account Query,6.0,15.3,Resolved,0
+STUE104096,2025-09-03 07:55:17,Deposit Issue,Banking,7.3,9.9,Resolved,1
+STUE115746,2025-03-23 07:09:03,Fees Question,Account Query,28.0,55.5,Resolved,0
+STUE100211,2024-06-07 04:27:05,Account Query,Account Query,9.6,88.6,Resolved,0
+STUE111833,2025-09-03 06:39:21,Account Query,Account Query,1.0,31.4,Resolved,0
+STUE102440,2024-07-12 16:32:36,Account Query,Account Query,0.6,6.1,Resolved,0
+STUE100292,2024-12-16 18:02:30,Deposit Issue,Banking,1.7,48.7,Resolved,1
+STUE105650,2024-05-08 00:51:44,Withdrawal Query,Banking,7.5,29.2,Resolved,1
+STUE111591,2025-01-23 12:27:23,App Crash,Technical,,12.3,Resolved,0
+STUE100517,2025-06-13 00:48:08,Login Problem,Technical,18.1,63.7,Resolved,0
+STUE101477,2024-10-12 19:24:14,Login Problem,Technical,9.9,27.9,Resolved,0
+STUE100317,2024-11-20 19:55:27,Deposit Issue,Banking,5.0,29.8,Closed,1
+STUE102035,2025-04-22 08:29:49,Deposit Issue,Banking,48.9,58.2,Resolved,1
+STUE102926,2024-08-23 09:45:58,Login Problem,Technical,3.0,,Escalated,0
+STUE103441,2025-08-19 07:53:59,Account Query,Account Query,15.2,21.0,Resolved,0
+STUE110640,2024-03-23 04:10:59,KYC Query,KYC,5.5,7.6,Resolved,0
+STUE116534,2025-08-11 12:41:39,KYC Query,KYC,44.4,,Open,0
+STUE102908,2024-05-24 03:22:58,Login Problem,Technical,8.0,35.2,Resolved,0
+STUE110529,2025-06-22 22:46:34,App Crash,Technical,6.7,51.1,Resolved,0
+STUE109239,2024-09-18 16:13:47,KYC Query,KYC,7.5,,Escalated,0
+STUE105179,2025-02-16 18:19:18,Withdrawal Query,Banking,13.0,22.9,Closed,1
+STUE116159,2024-04-17 21:35:39,App Crash,Technical,47.7,73.1,Closed,0
+STUE115057,2024-08-03 12:04:23,Account Query,Account Query,5.0,7.5,Resolved,0
+STUE110822,2024-06-30 17:24:10,Deposit Issue,Banking,,16.6,Closed,1
+STUE107691,2024-02-07 12:30:54,App Crash,Technical,18.9,55.7,Resolved,0
+STUE101971,2025-05-08 05:31:57,Deposit Issue,Banking,1.8,58.4,Resolved,1
+STUE108437,2025-10-08 09:37:13,Account Query,Account Query,38.2,64.0,Resolved,0
+STUE101757,2024-08-24 21:13:31,App Crash,Technical,10.5,29.0,Closed,0
+STUE110068,2025-08-20 11:24:08,Deposit Issue,Banking,2.5,25.1,Resolved,1
+STUE100876,2025-03-29 12:18:43,Deposit Issue,Banking,9.3,21.1,Resolved,1
+STUE111909,2024-10-23 01:44:05,Login Problem,Technical,15.8,25.3,Resolved,0
+STUE113881,2025-01-19 16:35:56,KYC Query,KYC,4.8,26.8,Resolved,0
+STUE116159,2024-05-10 11:48:32,Deposit Issue,Banking,,44.0,Resolved,1
+STUE104589,2024-07-20 02:43:56,Deposit Issue,Banking,10.6,13.2,Closed,1
+STUE106696,2025-09-07 04:44:19,Deposit Issue,Banking,,25.8,Closed,1
+STUE108626,2024-09-05 14:28:16,Login Problem,Technical,16.9,25.2,Closed,0
+STUE105734,2024-08-06 01:01:53,Account Query,Account Query,9.0,,Open,0
+STUE111262,2024-11-07 02:14:09,Deposit Issue,Banking,4.3,14.0,Resolved,1
+STUE109357,2025-07-13 03:25:22,Deposit Issue,Banking,4.5,12.5,Resolved,1
+STUE102489,2024-08-19 18:32:14,Deposit Issue,Banking,2.6,23.5,Resolved,1
+STUE114272,2025-06-03 11:25:11,App Crash,Technical,1.9,6.7,Resolved,0
+STUE102344,2025-09-05 23:09:33,Deposit Issue,Banking,9.0,20.9,Resolved,1
+STUE115594,2024-04-01 09:39:40,Withdrawal Query,Banking,1.7,,Escalated,1
+STUE109090,2024-12-12 08:25:45,Fees Question,Account Query,8.1,26.3,Resolved,0
+STUE110985,2025-03-22 09:25:32,Deposit Issue,Banking,1.6,8.9,Resolved,1
+STUE109578,2025-01-09 03:39:47,Account Query,Account Query,20.3,65.3,Closed,0
+STUE103050,2024-03-24 21:49:37,KYC Query,KYC,7.1,28.4,Resolved,0
+STUE109907,2024-02-16 09:56:54,Account Query,Account Query,2.6,,Escalated,0
+STUE108342,2024-03-19 08:18:40,Withdrawal Query,Banking,7.0,21.7,Resolved,1
+STUE116582,2024-09-10 17:19:14,Deposit Issue,Banking,5.9,18.4,Closed,1
+STUE105230,2025-07-17 05:22:34,Deposit Issue,Banking,4.6,30.1,Closed,1
+STUE115353,2024-08-10 07:59:36,Withdrawal Query,Banking,10.1,24.3,Closed,1
+STUE103216,2025-07-12 20:45:37,Fees Question,Account Query,1.5,23.1,Resolved,0
+STUE101542,2025-04-26 07:49:50,Account Query,Account Query,20.3,31.9,Closed,0
+STUE101757,2024-10-04 02:46:41,Fees Question,Account Query,6.8,37.1,Closed,0
+STUE110457,2024-10-25 17:28:33,Deposit Issue,Banking,4.8,52.5,Resolved,1
+STUE106428,2024-07-31 16:35:24,Withdrawal Query,Banking,6.6,23.2,Resolved,1
+STUE110267,2025-08-26 03:25:18,Withdrawal Query,Banking,24.4,31.6,Resolved,1
+STUE113821,2024-03-09 17:02:16,Deposit Issue,Banking,8.7,41.7,Closed,1
+STUE112019,2025-08-16 14:14:58,Withdrawal Query,Banking,17.8,56.2,Closed,1
+STUE103253,2024-04-17 18:02:52,Withdrawal Query,Banking,2.0,5.3,Closed,1
+STUE102023,2024-01-19 15:28:59,KYC Query,KYC,3.7,48.0,Resolved,0
+STUE104148,2024-08-14 12:22:09,KYC Query,KYC,2.0,15.4,Resolved,0
+STUE115638,2025-01-18 19:26:55,App Crash,Technical,16.4,24.8,Resolved,0
+STUE114274,2025-10-19 18:29:12,Account Query,Account Query,5.9,35.0,Resolved,0
+STUE105964,2024-02-02 11:55:47,KYC Query,KYC,2.8,,Open,0
+STUE103435,2025-07-12 08:14:36,Fees Question,Account Query,7.8,,Escalated,0
+STUE116348,2025-02-03 16:55:01,KYC Query,KYC,8.9,,Escalated,0
+STUE101926,2024-05-16 04:53:12,App Crash,Technical,4.8,38.5,Resolved,0
+STUE104397,2025-09-14 06:49:56,Withdrawal Query,Banking,7.6,57.5,Resolved,1
+STUE100197,2025-02-22 15:48:17,Deposit Issue,Banking,2.3,39.9,Resolved,1
+STUE111099,2024-11-09 04:29:19,Account Query,Account Query,2.4,15.0,Resolved,0
+STUE101808,2025-01-19 01:01:32,Login Problem,Technical,7.7,,Escalated,0
+STUE102066,2024-12-16 15:28:19,Account Query,Account Query,2.6,10.2,Resolved,0
+STUE108756,2024-07-26 17:34:23,Withdrawal Query,Banking,8.4,,Escalated,1
+STUE116545,2024-07-22 01:51:34,Login Problem,Technical,38.7,,Escalated,0
+STUE103885,2025-04-09 21:51:09,Account Query,Account Query,2.0,,Open,0
+STUE102767,2024-08-11 18:20:27,Deposit Issue,Banking,3.4,,Escalated,1
+STUE114368,2024-09-18 22:45:40,Fees Question,Account Query,2.1,,Open,0
+STUE108737,2024-02-15 10:53:57,Login Problem,Technical,2.3,,Open,0
+STUE101551,2024-05-09 16:43:46,Account Query,Account Query,27.3,57.9,Resolved,0
+STUE100783,2024-10-21 23:22:19,KYC Query,KYC,3.6,30.1,Resolved,0
+STUE103985,2024-07-27 02:29:10,Deposit Issue,Banking,2.7,9.2,Resolved,1
+STUE103014,2025-03-04 08:07:19,Deposit Issue,Banking,6.7,11.1,Closed,1
+STUE100418,2025-04-18 15:56:25,KYC Query,KYC,10.6,21.8,Resolved,0
+STUE109833,2025-08-02 22:15:08,Login Problem,Technical,34.8,,Escalated,0
+STUE116002,2025-07-11 09:10:56,KYC Query,KYC,1.8,23.1,Resolved,0
+STUE102828,2024-05-29 20:25:44,Fees Question,Account Query,6.5,,Escalated,0
+STUE104931,2024-10-22 14:43:00,KYC Query,KYC,20.2,38.1,Resolved,0
+STUE113874,2024-12-28 20:52:22,KYC Query,KYC,4.2,37.2,Resolved,0
+STUE112423,2024-03-12 14:21:48,KYC Query,KYC,10.0,31.9,Resolved,0
+STUE103985,2024-08-22 19:44:46,KYC Query,KYC,1.2,,Escalated,0
+STUE116857,2025-03-17 10:13:17,App Crash,Technical,5.9,12.3,Resolved,0
+STUE107284,2024-08-10 07:27:14,Login Problem,Technical,11.0,18.3,Resolved,0
+STUE111151,2024-02-22 10:29:15,Login Problem,Technical,2.1,11.6,Resolved,0
+STUE111979,2024-02-27 14:34:05,Deposit Issue,Banking,2.6,18.8,Resolved,1
+STUE116360,2025-04-20 05:13:23,Deposit Issue,Banking,17.1,31.6,Resolved,1
+STUE104546,2024-04-04 11:53:11,Withdrawal Query,Banking,2.7,3.5,Resolved,1
+STUE100916,2024-09-07 07:49:39,Account Query,Account Query,3.5,18.4,Closed,0
+STUE103514,2025-02-26 17:53:40,Account Query,Account Query,13.3,19.9,Resolved,0
+STUE105710,2025-09-03 10:29:08,Account Query,Account Query,1.5,25.9,Resolved,0
+STUE109822,2025-09-05 00:19:36,Fees Question,Account Query,2.3,,Open,0
+STUE109429,2024-05-06 02:56:43,Deposit Issue,Banking,1.5,,Escalated,1
+STUE114426,2025-05-01 12:26:08,withdrawal query,Banking,9.2,,Escalated,1
+STUE106025,2024-05-07 20:22:02,KYC Query,KYC,6.9,37.3,Resolved,0
+STUE110380,2024-11-01 01:23:02,Withdrawal Query,Banking,9.6,25.9,Resolved,1
+STUE106713,2025-01-05 13:10:29,KYC Query,KYC,1.5,28.1,Resolved,0
+STUE111217,2025-07-11 09:44:25,Deposit Issue,Banking,13.3,59.3,Resolved,1
+STUE116290,2025-09-19 01:08:45,Deposit Issue,Banking,17.2,60.9,Resolved,1
+STUE101831,2025-05-14 09:11:36,Deposit Issue,Banking,10.7,12.0,Resolved,1
+STUE101721,2024-06-23 05:35:35,KYC Query,KYC,4.8,23.2,Resolved,0
+STUE103448,2024-08-05 05:39:26,Deposit Issue,Banking,1.0,6.5,Resolved,1
+STUE111415,2024-03-11 17:16:44,KYC Query,KYC,136.2,138.2,Resolved,0
+STUE101402,2024-08-19 10:23:13,Fees Question,Account Query,19.6,,Open,0
+STUE105470,2024-11-07 17:36:57,App Crash,Technical,18.5,46.7,Closed,0
+STUE114961,2024-09-23 14:07:17,Login Problem,Technical,4.2,18.0,Closed,0
+STUE103323,2025-07-23 05:00:28,Deposit Issue,Banking,13.8,125.6,Resolved,1
+STUE113869,2025-04-14 09:01:43,Account Query,Account Query,0.1,6.8,Resolved,0
+STUE116169,2024-12-18 18:17:13,KYC Query,KYC,32.8,52.5,Resolved,0
+STUE113862,2024-07-10 04:55:10,Fees Question,Account Query,1.7,9.5,Closed,0
+STUE115984,2025-06-29 20:19:11,KYC Query,KYC,6.3,45.3,Resolved,0
+STUE106778,2025-05-23 02:35:58,Fees Question,Account Query,1.9,11.2,Resolved,0
+STUE107556,2025-04-25 15:42:03,Deposit Issue,Banking,4.2,42.8,Resolved,1
+STUE116467,2025-02-14 05:48:49,KYC Query,KYC,4.7,43.0,Closed,0
+STUE116401,2024-02-03 11:20:19,Deposit Issue,Banking,1.6,29.6,Resolved,1
+STUE108938,2025-09-15 03:03:33,Login Problem,Technical,2.5,,Open,0
+STUE111591,2025-02-28 02:13:58,Deposit Issue,Banking,2.9,10.5,Resolved,1
+STUE112237,2025-08-20 14:38:22,KYC Query,KYC,7.3,14.3,Resolved,0
+STUE107725,2024-04-07 12:49:56,KYC Query,KYC,,16.1,Resolved,0
+STUE110985,2025-03-15 10:34:03,Fees Question,Account Query,22.8,32.3,Closed,0
+STUE105342,2024-11-03 10:25:34,Deposit Issue,Banking,7.1,15.9,Closed,1
+STUE104657,2025-08-24 00:10:38,Login Problem,Technical,54.9,135.7,Closed,0
+STUE105374,2025-02-27 01:10:37,Login Problem,Technical,9.9,53.8,Closed,0
+STUE108152,2024-11-15 07:09:10,Account Query,Account Query,7.2,14.3,Resolved,0
+STUE113740,2025-08-06 12:15:31,Deposit Issue,Banking,1.8,20.5,Resolved,1
+STUE106848,2024-02-28 21:34:36,Fees Question,Account Query,5.7,31.0,Resolved,0
+STUE110671,2024-09-20 19:51:47,Deposit Issue,Banking,11.7,48.1,Closed,1
+STUE108657,2024-10-18 11:15:35,App Crash,Technical,7.5,14.5,Resolved,0
+STUE108345,2025-04-29 18:45:21,Login Problem,Technical,3.8,,Escalated,0
+STUE109615,2025-01-01 14:22:53,KYC Query,KYC,17.9,54.2,Resolved,0
+STUE110506,2025-03-26 21:31:00,Account Query,Account Query,9.6,14.9,Resolved,0
+STUE112237,2025-07-11 11:59:27,Login Problem,Technical,2.0,40.7,Closed,0
+STUE103661,2025-04-22 18:48:54,KYC Query,KYC,8.5,,Open,0
+STUE109460,2025-05-18 05:17:36,KYC Query,KYC,1.8,6.8,Resolved,0
+STUE113220,2024-12-10 16:06:51,Login Problem,Technical,12.7,27.5,Resolved,0
+STUE101214,2025-08-23 18:38:23,Account Query,Account Query,44.7,49.0,Resolved,0
+STUE106966,2024-10-16 20:47:35,Withdrawal Query,Banking,13.3,,Escalated,1
+STUE110267,2025-08-31 17:34:27,Deposit Issue,Banking,53.6,96.7,Resolved,1
+STUE115715,2024-05-02 14:08:09,Fees Question,Account Query,15.0,77.5,Resolved,0
+STUE116286,2024-03-06 20:17:54,ACCOUNT QUERY,Account Query,9.0,35.7,Closed,0
+STUE110228,2025-08-14 19:25:23,Withdrawal Query,Banking,2.7,41.0,Resolved,1
+STUE101859,2025-07-10 21:18:33,Deposit Issue,Banking,3.9,79.5,Resolved,1
+STUE107622,2025-01-18 11:12:25,Fees Question,Account Query,6.4,70.5,Resolved,0
+STUE115924,2024-05-07 02:07:25,Account Query,Account Query,4.9,15.5,Resolved,0
+STUE116145,2025-04-30 22:57:32,KYC Query,KYC,6.0,28.8,Resolved,0
+STUE111877,2024-06-16 02:56:27,Account Query,Account Query,7.9,104.8,closed,0
+STUE110439,2024-11-22 14:57:16,KYC Query,KYC,10.8,,Escalated,0
+STUE107312,2025-08-10 03:18:10,KYC Query,KYC,19.8,175.6,Resolved,0
+STUE116270,2024-03-06 14:55:12,Login Problem,Technical,15.3,22.6,Closed,0
+STUE103652,2025-07-20 09:07:25,Deposit Issue,Banking,21.1,89.1,Resolved,1
+STUE107885,2024-03-14 06:45:16,Account Query,Account Query,8.5,18.5,Resolved,0
+STUE103097,2024-11-05 00:53:06,App Crash,Technical,1.4,,Escalated,0
+STUE100292,2025-01-28 18:47:52,Account Query,Account Query,47.2,,Escalated,0
+STUE102898,2025-05-13 01:39:27,Fees Question,Account Query,2.2,,Escalated,0
+STUE106278,2025-09-12 17:49:40,Deposit Issue,Banking,1.6,8.0,Resolved,1
+STUE103991,2025-07-06 08:21:26,Fees Question,Account Query,1.8,9.3,Resolved,0
+STUE116117,2025-02-09 10:52:50,KYC Query,KYC,23.4,30.6,Resolved,0
+STUE106600,2024-07-01 05:05:18,Deposit Issue,Banking,7.2,25.7,Closed,1
+STUE115933,2024-09-17 11:51:59,App Crash,Technical,5.0,,Open,0
+STUE111048,2025-03-05 02:29:01,Login Problem,Technical,3.6,,Escalated,0
+STUE103154,2024-06-29 15:44:38,Login Problem,Technical,1.7,18.2,Closed,0
+STUE108827,2025-03-15 13:31:34,Fees Question,Account Query,3.0,17.9,Closed,0
+STUE110370,2024-03-11 04:10:20,Withdrawal Query,Banking,13.7,,Escalated,1
+STUE102344,2025-08-24 07:12:59,Deposit Issue,Banking,3.6,14.3,Resolved,1
+STUE101264,2025-05-23 14:34:45,KYC Query,KYC,3.2,10.1,Resolved,0
+STUE104805,2024-05-10 04:49:40,KYC Query,KYC,5.9,50.6,Resolved,0
+STUE107259,2025-07-10 21:02:36,Deposit Issue,Banking,6.7,20.0,Closed,1
+STUE110850,2024-11-23 16:15:52,App Crash,Technical,5.2,17.4,RESOLVED,0
+STUE106190,2025-07-04 11:03:43,Account Query,Account Query,4.5,42.1,Closed,0
+STUE106985,2025-02-03 10:40:08,KYC Query,KYC,5.4,7.5,Resolved,0
+STUE116425,2025-05-06 22:16:28,Deposit Issue,Banking,10.0,54.8,Resolved,1
+STUE115108,2024-05-10 21:02:50,KYC Query,KYC,3.4,9.7,closed,0
+STUE114030,2025-02-08 19:12:40,Account Query,Account Query,19.8,38.3,Resolved,0
+STUE103767,2024-11-28 14:41:29,Deposit Issue,Banking,,14.2,Resolved,1
+STUE115099,2024-02-08 22:07:14,Account Query,Account Query,13.3,16.2,Closed,0
+STUE110781,2024-07-18 06:51:12,Login Problem,Technical,53.2,61.3,Resolved,0
+STUE110016,2024-09-18 23:58:59,Account Query,Account Query,27.5,78.3,Closed,0
+STUE101596,2024-04-09 10:04:05,KYC Query,KYC,1.2,,Open,0
+STUE113022,2025-08-29 19:38:37, Deposit Issue ,Banking,4.8,5.9,Resolved,1
+STUE107825,2025-01-18 09:23:36,Withdrawal Query,Banking,18.1,,Escalated,1
+STUE114639,2024-05-30 10:04:49,Login Problem,Technical,1.8,11.4,Resolved,0
+STUE113331,2024-12-20 11:39:43,KYC Query,KYC,2.9,60.4,Resolved,0
+STUE108326,2025-09-12 13:25:13,Login Problem,Technical,4.8,25.0,Resolved,0
+STUE100465,2024-05-23 18:56:00,Fees Question,Account Query,5.8,18.6,Resolved,0
+STUE114052,2025-08-27 03:28:58,Account Query,Account Query,10.1,13.7,Resolved,0
+STUE101721,2024-08-05 10:00:33,Account Query,Account Query,5.3,33.1,Resolved,0
+STUE108725,2025-07-28 00:57:15,Deposit Issue,Banking,9.8,,Escalated,1
+STUE104259,2025-01-28 20:28:55,Deposit Issue,Banking,1.7,9.7,Resolved,1
+STUE113513,2024-02-21 02:23:04,Deposit Issue,Banking,18.7,55.9,Resolved,1
+STUE106134,2024-04-12 16:33:06,Login Problem,Technical,8.8,79.5,Resolved,0
+STUE110564,2025-08-04 13:11:48,Account Query,Account Query,6.1,, Escalated ,0
+STUE112562,2025-07-17 20:48:30,Login Problem,Technical,3.2,,Open,0
+STUE104071,2024-06-10 13:33:06,Account Query,Account Query,31.1,82.5,Closed,0
+STUE112190,2024-09-11 21:11:32,App Crash,Technical,3.0,10.8,Resolved,0
+STUE114440,2024-09-06 04:58:21,KYC Query,KYC,7.5,15.3,Resolved,0
+STUE105339,2025-08-18 13:17:33,Deposit Issue,Banking,3.7,,Escalated,1
+STUE105078,2025-03-28 04:46:39,Deposit Issue,Banking,3.1,,Escalated,1
+STUE112190,2024-10-27 14:32:21,KYC Query,KYC,3.8,,Escalated,0
+STUE112955,2024-09-25 20:25:38,Login Problem,Technical,4.5,8.3,Resolved,0
+STUE104678,2024-08-30 08:22:08,Account Query,Account Query,,10.2,Resolved,0
+STUE108970,2025-06-30 01:10:29,Deposit Issue,Banking,8.2,,Open,1
+STUE108287,2024-10-30 03:40:46,KYC Query,KYC,2.5,165.0,Closed,0
+STUE110858,2025-02-05 13:00:09,Account Query,Account Query,10.7,,Escalated,0
+STUE113209,2024-06-28 21:07:35,Login Problem,Technical,9.4,208.3,Closed,0
+STUE112681,2024-03-12 15:53:39,App Crash,Technical,4.3,38.8,Closed,0
+STUE115746,2025-04-20 13:43:48,KYC Query,KYC,19.2,28.5,Resolved,0
+STUE114727,2024-06-21 12:22:46,Fees Question,Account Query,3.8,,Escalated,0
+STUE108649,2025-01-04 06:50:04,KYC Query,KYC,5.5,272.9,Resolved,0
+STUE115025,2025-07-25 13:32:35,Withdrawal Query,Banking,22.2,,Escalated,1
+STUE107956,2024-08-10 11:01:48,KYC Query,KYC,16.8,65.5,Resolved,0
+STUE116534,2025-07-10 14:47:32,account query,Account Query,2.8,51.1,Resolved,0
+STUE100135,2025-08-26 02:08:09,Login Problem,Technical,11.3,22.7,Closed,0
+STUE115821,2025-03-02 00:04:12,Deposit Issue,Banking,9.1,13.4,Resolved,1
+STUE113549,2024-09-13 15:37:00,App Crash,Technical,3.0,24.3,Resolved,0
+STUE101595,2024-05-24 18:10:32,KYC Query,KYC,1.7,49.9,Resolved,0
+STUE100434,2024-03-30 20:25:00,KYC Query,KYC,21.4,,Escalated,0
+STUE113997,2024-07-19 23:25:31,Deposit Issue,Banking,3.2,,Escalated,1
+STUE105332,2024-12-10 14:09:33,Login Problem,Technical,15.8,41.1,Closed,0
+STUE115092,2024-10-28 09:42:09,Deposit Issue,Banking,1.3,74.9,Resolved,1
+STUE110584,2024-12-10 04:38:57,App Crash,Technical,22.6,77.2,Resolved,0
+STUE106278,2025-08-31 20:49:25,Deposit Issue,Banking,5.6,40.8,Resolved,1
+STUE113811,2024-10-23 23:17:16,App Crash,Technical,3.7,,Escalated,0
+STUE111408,2025-03-09 18:10:01,KYC Query,KYC,11.1,18.6,Resolved,0
+STUE113234,2024-06-27 03:36:46,Login Problem,Technical,7.7,,Open,0
+STUE101926,2024-05-03 14:23:55,KYC Query,KYC,7.1,16.5,Resolved,0
+STUE112261,2025-04-05 04:44:41,Login Problem,Technical,13.6,20.0,Resolved,0
+STUE104790,2025-03-30 04:23:45,Login Problem,Technical,2.9,53.5,Closed,0
+STUE115139,2025-08-22 16:00:50,App Crash,Technical,18.3,,Escalated,0
+STUE108410,2025-08-01 08:52:56,Deposit Issue,Banking,4.7,10.8,Resolved,1
+STUE109113,2025-07-30 15:16:07,Deposit Issue,Banking,9.8,28.6,Resolved,1
+STUE104957,2025-09-28 21:52:10,Login Problem,Technical,6.8,14.1,Resolved,0
+STUE102106,2024-03-21 17:38:43,KYC Query,KYC,1.2,23.5,Closed,0
+STUE102570,2024-04-18 19:41:05,Login Problem,Technical,29.5,35.7,Closed,0
+STUE108423,2025-06-27 20:31:42,KYC Query,KYC,11.4,18.9,Resolved,0
+STUE107608,2024-11-21 02:33:55,Deposit Issue,Banking,9.2,,Escalated,1
+STUE110892,2025-06-07 22:12:11,Withdrawal Query,Banking,14.6,48.7,Closed,1
+STUE110255,2025-08-09 00:55:34,KYC Query,KYC,3.1,11.7,Resolved,0
+STUE109429,2024-05-06 19:05:01,Deposit Issue,Banking,11.7,117.6,Resolved,1
+STUE102418,2025-06-02 16:50:16,Account Query,Account Query,3.5,45.5,Resolved,0
+STUE105456,2024-11-28 14:28:52,Login Problem,Technical,1.0,22.2,Resolved,0
+STUE108331,2024-07-28 07:33:46,App Crash,Technical,23.3,65.8,Closed,0
+STUE100424,2025-06-25 16:41:25,App Crash,Technical,2.9,71.6,Resolved,0
+STUE109006,2025-08-03 02:40:44,App Crash,Technical,4.2,,Open,0
+STUE115013,2024-12-16 07:10:38,Account Query,Account Query,9.4,14.8,Resolved,0
+STUE116286,2024-02-11 16:31:36,Login Problem,Technical,5.4,9.0,Closed,0
+STUE104197,2024-11-28 19:00:23,Account Query,Account Query,0.9,37.9,Resolved,0
+STUE104516,2024-06-07 11:15:01,App Crash,Technical,3.7,54.3,Closed,0
+STUE104800,2024-09-01 09:07:29,KYC Query,KYC,41.7,,Escalated,0
+STUE107992,2024-12-01 08:04:21,Account Query,Account Query,18.1,40.7,Resolved,0
+STUE113917,2025-04-10 09:47:54,KYC Query,KYC,1.0,5.1,Resolved,0
+STUE103149,2024-06-24 10:18:48,App Crash,Technical,,50.1,Resolved,0
+STUE111275,2025-06-12 01:04:17,Deposit Issue,Banking,1.0,11.7,Resolved,1
+STUE106362,2025-02-12 16:06:07,Account Query,Account Query,13.3,46.6,Resolved,0
+STUE100351,2025-07-14 13:38:15,KYC Query,KYC,6.7,35.3,Closed,0
+STUE113521,2025-06-27 11:31:53,Withdrawal Query,Banking,8.5,37.6,Closed,1
+STUE113322,2024-03-20 06:02:02,KYC Query,KYC,11.5,,Escalated,0
+STUE103543,2025-08-11 07:37:48,Deposit Issue,Banking,2.7,17.1,Resolved,1
+STUE102260,2025-05-01 03:37:57,Withdrawal Query,Banking,6.9,24.2,Closed,1
+STUE102163,2024-12-25 23:42:20,Account Query,Account Query,31.5,32.7,Resolved,0
+STUE108026,2025-09-11 00:51:14,KYC Query,KYC,4.0,33.3,Closed,0
+STUE110102,2025-06-25 19:35:57,KYC Query,KYC,2.6,117.7,Closed,0
+STUE101940,2025-01-04 18:49:44,Deposit Issue,Banking,5.6,34.1,Resolved,1
+STUE116663,2025-07-15 23:03:02,App Crash,Technical,7.1,141.5,Closed,0
+STUE105339,2025-08-10 16:56:29,KYC Query,KYC,6.4,10.5,Resolved,0
+STUE113924,2024-09-27 08:40:37,Login Problem,Technical,7.7,,Escalated,0
+STUE114375,2025-06-30 20:09:40,App Crash,Technical,4.0,111.4,Closed,0
+STUE116214,2025-01-17 23:20:48,KYC Query,KYC,5.5,34.0,Resolved,0
+STUE110671,2024-09-04 19:33:17,Deposit Issue,Banking,5.8,22.8,resolved,1
+STUE110439,2024-10-25 11:05:51,Account Query,Account Query,11.9,,Escalated,0
+STUE103160,2024-03-09 16:34:03,Fees Question,Account Query,6.0,11.9,Resolved,0
+STUE104733,2025-01-27 17:10:16,Withdrawal Query,Banking,1.3,,Escalated,1
+STUE102867,2024-11-28 05:02:40,App Crash,Technical,13.6,20.3,Resolved,0
+STUE108414,2025-03-15 09:29:59,Deposit Issue,Banking,20.2,51.9,Resolved,1
+STUE113032,2024-07-09 11:03:56,KYC Query,KYC,9.3,13.0,Closed,0
+STUE105540,2024-09-02 18:51:26,Account Query,Account Query,5.2,152.7,Resolved,0
+STUE107025,2025-03-08 21:55:16,KYC Query,KYC,6.2,35.8,Resolved,0
+STUE100418,2025-05-13 01:06:35,Withdrawal Query,Banking,9.9,25.9,Resolved,1
+STUE114445,2025-04-21 02:41:36,Deposit Issue,Banking,12.0,37.3,Resolved,1
+STUE100135,2025-09-09 04:42:12,KYC Query,KYC,13.7,33.0,Resolved,0
+STUE102394,2024-09-11 14:15:13,Account Query,Account Query,15.5,,Escalated,0
+STUE103186,2025-03-03 00:13:52,App Crash,Technical,10.1,20.4,Resolved,0
+STUE105163,2024-05-29 04:43:32,Deposit Issue,Banking,2.6,16.6,Resolved,1
+STUE109591,2024-06-07 07:17:25,Account Query,Account Query,8.0,55.4,Resolved,0
+STUE105332,2025-01-16 01:00:11,Login Problem,Technical,10.4,28.4,Resolved,0
+STUE112640,2024-06-27 00:29:26,Deposit Issue,Banking,3.1,10.9,Closed,1
+STUE101951,2024-12-01 09:10:36,Deposit Issue,Banking,4.8,,Escalated,1
+STUE114428,2024-10-12 20:29:10,KYC Query,KYC,1.5,96.3,Closed,0
+STUE114983,2025-03-28 02:19:17,KYC Query,KYC,14.6,44.9,Resolved,0
+STUE108691,2024-12-10 10:32:09,App Crash,Technical,14.1,22.7,Closed,0
+STUE101415,2024-12-31 08:33:33,Account Query,Account Query,11.1,30.1,Resolved,0
+STUE101290,2024-06-24 00:48:28,KYC Query,KYC,9.3,51.0,Resolved,0
+STUE102576,2024-02-27 10:21:14,Login Problem,Technical,5.8,,Open,0
+STUE103386,2025-06-16 21:15:04,Login Problem,Technical,4.3,,Open,0
+STUE106166,2025-06-10 15:51:05,KYC Query,KYC,3.5,7.4,Closed,0
+STUE109084,2025-08-09 08:55:00,App Crash,Technical,2.8,25.9,Resolved,0
+STUE108399,2025-09-24 16:59:35,KYC Query,KYC,27.5,,Open,0
+STUE101018,2025-05-05 10:47:09,Login Problem,Technical,2.6,53.2,Closed,0
+STUE111290,2024-08-20 13:58:08,KYC Query,KYC,6.8,,Open,0
+STUE104596,2025-07-10 13:44:37,Fees Question,Account Query,39.9,91.6,Resolved,0
+STUE112088,2025-03-26 00:50:29,KYC Query,KYC,44.7,57.1,Closed,0
+STUE110575,2024-03-12 10:37:23,KYC Query,KYC,8.7,14.0,Resolved,0
+STUE116521,2024-04-12 15:51:08,KYC Query,KYC,3.9,,Open,0
+STUE112232,2025-03-25 14:52:59,Account Query,Account Query,9.6,19.1,Resolved,0
+STUE108631,2025-10-01 03:51:57,Account Query,Account Query,4.3,57.2,Resolved,0
+STUE107832,2025-01-29 15:04:16,KYC Query,KYC,20.7,22.7,Resolved,0
+STUE105332,2024-12-18 04:03:14,Withdrawal Query,Banking,18.9,,Escalated,1
+STUE105964,2024-01-19 10:57:37,Deposit Issue,Banking,8.9,34.2,Resolved,1
+STUE103748,2025-09-01 18:22:22,KYC Query,KYC,8.3,24.7,Closed,0
+STUE110499,2025-03-25 13:35:19,App Crash,Technical,2.7,,Open,0
+STUE110529,2025-05-14 05:51:07,KYC Query,KYC,1.3,,Open,0
+STUE108620,2025-08-05 19:14:59,Deposit Issue,Banking,7.4,15.1,Resolved,1
+STUE114476,2024-03-27 15:30:13,Deposit Issue,Banking,12.0,19.2,Resolved,1
+STUE100632,2024-02-15 11:07:37,Login Problem,Technical,61.3,100.6,Closed,0
+STUE111486,2025-03-21 06:19:06,Withdrawal Query,Banking,11.5,39.6,Resolved,1
+STUE113167,2025-10-16 13:32:42,KYC Query,KYC,11.7,45.0,Resolved,0
+STUE107649,2025-03-12 06:11:57,Login Problem,Technical,10.1,,Escalated,0
+STUE108377,2024-02-24 17:25:24,App Crash,Technical,8.3,,Escalated,0
+STUE105230,2025-07-26 11:56:22,Deposit Issue,Banking,21.7,25.9,Resolved,1
+STUE106362,2025-02-15 08:21:19,App Crash,Technical,4.3,10.1,Closed,0
+STUE115859,2024-09-30 06:27:03,App Crash,Technical,6.2,13.2,Resolved,0
+STUE101653,2025-02-13 03:38:11,Fees Question,Account Query,57.8,,Escalated,0
+STUE109838,2024-07-29 17:16:36,Login Problem,Technical,7.5,37.1,Resolved,0
+STUE110891,2025-06-06 18:03:41,Fees Question,Account Query,12.7,54.8,Resolved,0
+STUE115188,2025-03-26 19:31:06,App Crash,Technical,17.5,19.5,Resolved,0
+STUE100678,2025-01-06 10:06:16,App Crash,Technical,5.3,,Open,0
+STUE105268,2024-10-07 08:52:10,Login Problem,Technical,6.7,,Escalated,0
+STUE102004,2024-11-19 09:36:54,Withdrawal Query,Banking,2.5,15.3,Closed,1
+STUE104430,2024-08-21 21:32:58,KYC Query,KYC,8.7,,Open,0
+STUE108999,2025-03-09 08:53:37,KYC Query,KYC,5.1,97.1,Resolved,0
+STUE109368,2024-03-02 13:21:46,Account Query,Account Query,13.9,,Open,0
+STUE101018,2025-04-13 06:16:54,App Crash,Technical,17.7,20.0,Closed,0
+STUE100905,2025-09-08 06:16:35,Login Problem,Technical,13.6,44.6,Closed,0
+STUE113874,2025-01-13 03:45:30,KYC Query,KYC,4.1,26.9,Resolved,0
+STUE116777,2025-09-30 00:10:55,App Crash,Technical,1.7,,Open,0
+STUE115403,2024-09-23 12:14:33,Fees Question,Account Query,7.7,31.1,Resolved,0
+STUE114046,2025-06-04 09:26:44,App Crash,Technical,2.1,,Escalated,0
+STUE109262,2025-02-21 23:46:03,Login Problem,Technical,26.4,34.6,Closed,0
+STUE104627,2024-05-21 19:53:59,Deposit Issue,Banking,2.7,13.7,Resolved,1
+STUE115568,2025-03-11 17:59:27,Deposit Issue,Banking,2.6,,Open,1
+STUE108631,2025-09-06 02:59:29,KYC Query,KYC,19.3,28.6,Closed,0
+STUE105742,2024-07-10 09:48:10,Fees Question,Account Query,4.4,28.3,Closed,0
+STUE114187,2024-04-15 02:35:17,Account Query,Account Query,2.8,8.9,Closed,0
+STUE113821,2024-03-24 20:10:43,App Crash,Technical,13.5,36.4,Closed,0
+STUE109980,2025-08-11 23:27:10,Deposit Issue,Banking,3.9,,Escalated,1
+STUE107832,2025-01-27 20:05:33,Account Query,Account Query,6.7,43.0,Closed,0
+STUE112062,2024-05-18 11:44:27,Deposit Issue,Banking,25.9,58.5,Closed,1
+STUE106182,2025-04-14 16:56:50,Fees Question,Account Query,4.7,16.3,Resolved,0
+STUE109833,2025-07-08 16:34:59,KYC  Query,KYC,9.0,,Open,0
+STUE110753,2024-02-13 14:54:41,Fees Question,Account Query,2.4,,Escalated,0
+STUE105144,2025-05-02 21:31:09,Deposit Issue,Banking,6.5,79.4,Resolved,1
+STUE109856,2025-07-29 15:46:42,Account Query,Account Query,7.3,,Open,0
+STUE111224,2025-07-21 02:57:42,KYC Query,KYC,5.8,31.0,Closed,0
+STUE106501,2024-07-25 20:06:22,Fees Question,Account Query,3.6,,Escalated,0
+STUE105608,2024-10-11 00:31:41,App Crash,Technical,16.2,,Escalated,0
+STUE102134,2024-03-30 05:20:13,Deposit Issue,Banking,22.4,,Open,1
+STUE109154,2024-11-25 12:39:53,App Crash,Technical,7.2,13.4,Resolved,0
+STUE102926,2024-07-15 03:26:04,Deposit Issue,Banking,7.5,25.6,Resolved,1
+STUE112093,2024-11-05 17:40:54,KYC Query,KYC,9.1,15.3,Resolved,0
+STUE112232,2025-04-05 10:31:20,KYC Query,KYC,2.1,,Escalated,0
+STUE107354,2024-06-27 02:52:16,Deposit Issue,Banking,8.5,67.9,Closed,1
+STUE111486,2025-02-16 08:13:12,Login Problem,Technical,8.1,67.8,Resolved,0
+STUE108289,2024-08-22 23:55:33,LOGIN PROBLEM,Technical,4.3,8.9,Closed,0
+STUE112145,2024-03-23 09:00:55,Deposit Issue,Banking,2.0,,Escalated,1
+STUE109710,2024-06-12 09:31:41,Deposit Issue,Banking,4.7,92.9,Resolved,1
+STUE110996,2025-04-26 01:07:09,Fees Question,Account Query,16.6,75.9,Resolved,0
+STUE103160,2024-03-16 00:07:20,Deposit Issue,Banking,19.1,,Escalated,1
+STUE112695,2024-07-29 00:34:48,Deposit Issue,Banking,3.2,12.2,Resolved,1
+STUE115318,2024-12-22 15:25:34,Fees Question,Account Query,7.3,17.4,Resolved,0
+STUE107719,2024-12-09 18:21:09,KYC Query,KYC,1.2,22.0,Resolved,0
+STUE107832,2025-01-26 08:39:51,KYC Query,KYC,2.3,,Escalated,0
+STUE114008,2024-11-06 00:07:42,KYC Query,KYC,18.2,41.8,Resolved,0
+STUE100731,2025-07-14 12:36:29,Deposit Issue,Banking,1.2,11.9,Resolved,1
+STUE104007,2025-05-11 03:38:17,Deposit Issue,Banking,10.8,,Escalated,1
+STUE102842,2024-09-04 16:08:24,Login Problem,Technical,3.9,,Escalated,0
+STUE104358,2025-10-04 13:26:46,Fees Question,Account Query,4.7,,Escalated,0
+STUE106613,2024-07-08 04:41:56,Deposit Issue,Banking,5.1,,Escalated,1
+STUE106232,2024-08-26 08:11:08,App Crash,Technical,16.1,47.6,Resolved,0
+STUE113716,2025-04-02 10:38:52,Login Problem,Technical,6.5,,Escalated,0
+STUE116370,2024-09-03 01:45:18,Deposit Issue,Banking,3.7,,Escalated,1
+STUE101890,2025-07-11 13:23:57,Deposit Issue,Banking,13.9,40.6,Resolved,1
+STUE114829,2024-12-09 14:02:21,KYC Query,KYC,6.8,8.7,Closed,0
+STUE115057,2024-07-18 23:25:29,Withdrawal Query,Banking,11.2,35.4,Resolved,1
+STUE104589,2024-08-11 14:11:31,Deposit Issue,Banking,6.1,19.7,Resolved,1
+STUE102530,2025-09-18 03:05:31,Login Problem,Technical,21.7,,Escalated,0
+STUE108869,2025-02-11 03:06:33,Deposit Issue,Banking,13.8,51.9,Resolved,1
+STUE103020,2025-09-08 19:33:47,Login Problem,Technical,17.7,30.1,Resolved,0
+STUE100135,2025-09-01 21:58:43,Deposit Issue,Banking,6.1,15.6,Closed,1
+STUE116214,2025-02-10 03:38:38,Account Query,Account Query,9.2,23.5,Resolved,0
+STUE116767,2024-02-23 22:07:52,Account Query,Account Query,4.8,52.3,Resolved,0
+STUE108399,2025-09-13 05:19:51,Fees Question,Account Query,0.7,5.6,Resolved,0
+STUE100092,2025-06-18 20:53:00,Withdrawal Query,Banking,16.1,74.1,Resolved,1
+STUE106927,2024-07-23 14:43:23,App Crash,Technical,42.8,60.4,Resolved,0
+STUE100661,2024-08-19 04:11:59,App Crash,Technical,3.9,30.8,Resolved,0
+STUE111224,2025-07-08 00:50:59,Login Problem,Technical,7.4,23.4,Resolved,0
+STUE104895,2025-01-30 17:30:31,Deposit Issue,Banking,10.5,21.7,Closed,1
+STUE110306,2025-01-21 17:45:23,Withdrawal Query,Banking,11.0,33.7,Resolved,1
+STUE106504,2024-07-22 10:47:14,Login Problem,Technical,1.4,22.2,Resolved,0
+STUE103640,2024-12-02 04:24:52,Fees Question,Account Query,12.2,,Open,0
+STUE103101,2025-08-14 08:50:54,Login Problem,Technical,1.5,48.0,Resolved,0
+STUE111315,2025-09-30 11:54:10,App Crash,Technical,7.8,20.8,Closed,0
+STUE107520,2025-03-15 19:29:13,Deposit Issue,Banking,16.8,25.2,Closed,1
+STUE101926,2024-05-20 16:51:47,Login Problem,Technical,36.9,57.1,Resolved,0
+STUE114274,2025-09-16 14:46:37,App Crash,Technical,18.4,,Escalated,0
+STUE105112,2025-04-22 08:02:49,Fees Question,Account Query,2.4,94.9,Closed,0
+STUE110985,2025-03-06 05:28:40,Fees Question,Account Query,1.3,,Escalated,0
+STUE102804,2024-06-19 00:32:10,Withdrawal Query,Banking,14.0,24.4,Resolved,1
+STUE108769,2024-09-28 10:17:41,Deposit Issue,Banking,7.1,13.1,Resolved,1
+STUE108575,2024-12-05 08:01:38,App Crash,Technical,1.9,22.2,Resolved,0
+STUE103827,2024-01-28 20:39:39,Login Problem,Technical,8.8,,Open,0
+STUE115636,2025-07-27 03:45:47,KYC Query,KYC,4.5,6.9,Resolved,0
+STUE116467,2025-03-17 07:25:20,Deposit Issue,Banking,19.4,35.8,Resolved,1
+STUE110760,2025-04-27 22:27:22,KYC Query,KYC,3.2,20.3,Resolved,0
+STUE110464,2024-10-15 00:41:41,KYC Query,KYC,8.2,17.5,Resolved,0
+STUE100125,2024-03-07 09:40:22,Deposit Issue,Banking,4.8,,Open,1
+STUE101868,2024-02-20 12:24:07,Withdrawal Query,Banking,9.6,,Escalated,1
+STUE101627,2025-02-06 00:16:24,Account Query,Account Query,1.1,7.0,Resolved,0
+STUE103274,2024-05-25 22:07:20,Deposit Issue,Banking,9.9,22.8,Resolved,1
+STUE100298,2025-01-16 10:14:41,Login Problem,Technical,20.2,24.6,Resolved,0
+STUE103301,2024-12-24 23:56:23,App Crash,Technical,3.8,,Open,0
+STUE116416,2025-05-15 15:48:41,KYC Query,KYC,5.6,9.9,Closed,0
+STUE104743,2025-01-25 14:46:36,Deposit Issue,Banking,48.8,80.6,Closed,1
+STUE107414,2024-09-24 21:45:37,Login Problem,Technical,56.1,,Open,0
+STUE112887,2024-12-22 09:34:19,Deposit Issue,Banking,7.2,33.5,Resolved,1
+STUE116497,2024-09-25 18:16:15,Fees Question,Account Query,11.6,57.0,Resolved,0
+STUE103716,2025-02-28 23:03:09,KYC Query,KYC,6.8,22.3,Resolved,0
+STUE106070,2024-06-04 20:53:56,App Crash,Technical,75.9,135.1,Resolved,0
+STUE111582,2024-09-29 03:58:40,App Crash,Technical,6.7,21.7,Closed,0
+STUE100179,2024-01-21 13:06:30,Login Problem,Technical,3.2,6.9,Closed,0
+STUE105742,2024-07-30 20:27:40,Withdrawal Query,Banking,4.1,,Escalated,1
+STUE111534,2024-04-27 19:42:56,App Crash,Technical,36.6,59.9,Resolved,0
+STUE103556,2024-02-24 04:28:00,Withdrawal Query,Banking,7.1,16.3,Closed,1
+STUE102189,2024-11-07 21:37:24,App Crash,Technical,19.6,43.6,Closed,0
+STUE110837,2025-09-15 17:48:16,Account Query,Account Query,1.4,32.9,Resolved,0
+STUE109871,2025-01-24 21:26:37,Account Query,Account Query,30.2,69.2,Resolved,0
+STUE115927,2025-01-13 23:43:29,KYC Query,KYC,11.9,,Escalated,0
+STUE101667,2024-03-16 09:41:38,App Crash,Technical,7.5,,Escalated,0
+STUE101514,2024-11-17 21:02:26,Deposit Issue,Banking,9.5,15.4,Closed,1
+STUE104165,2024-02-27 21:43:00,Login Problem,Technical,3.6,4.3,Resolved,0
+STUE101742,2024-09-09 05:12:59,Deposit Issue,Banking,0.8,5.4,Closed,1
+STUE102246,2025-01-15 23:15:49,Withdrawal Query,Banking,7.9,15.4,Resolved,1
+STUE112739,2025-06-14 14:35:52,Login Problem,Technical,,30.4,Resolved,0
+STUE115797,2024-05-18 17:05:45,Account Query,Account Query,23.8,64.4,Resolved,0
+STUE106523,2025-06-01 01:24:15,App Crash,Technical,17.3,89.1,Closed,0
+STUE112818,2024-07-24 11:21:42,Account Query,Account Query,3.5,,Escalated,0
+STUE116370,2024-08-21 07:50:17,Withdrawal Query,Banking,20.5,,Escalated,1
+STUE114257,2024-05-27 10:03:16,Deposit Issue,Banking,1.5,12.8,Resolved,1
+STUE110837,2025-09-18 02:00:11,Deposit Issue,Banking,4.6,47.0,Resolved,1
+STUE116549,2024-08-18 18:22:42,App Crash,Technical,2.3,,Escalated,0
+STUE101745,2025-07-30 08:31:30,App Crash,Technical,0.7,,Escalated,0
+STUE103985,2024-08-18 09:48:33,Deposit Issue,Banking,9.1,,Open,1
+STUE106504,2024-08-08 02:33:55,Login Problem,Technical,12.5,16.0,Resolved,0
+STUE109057,2024-11-15 06:21:58,App Crash,Technical,5.3,14.8,Closed,0
+STUE113997,2024-08-13 09:52:03,Deposit Issue,Banking,9.9,25.3,Resolved,1
+STUE111840,2025-05-30 06:18:08,Fees Question,Account Query,3.6,24.6,Resolved,0
+STUE108944,2024-02-23 14:28:38,Login Problem,Technical,5.8,8.1,Resolved,0
+STUE103727,2024-07-08 20:17:58,Login Problem,Technical,3.7,150.4,Resolved,0
+STUE103796,2025-05-06 17:37:29,KYC Query,KYC,7.4,132.1,Resolved,0
+STUE107433,2024-10-18 14:07:23,Login Problem,Technical,2.9,,Escalated,0
+STUE103895,2024-10-02 10:49:35,KYC Query,KYC,2.6,5.0,Closed,0
+STUE103343,2025-07-03 03:12:39,Fees Question,Account Query,5.7,20.5,Closed,0
+STUE108494,2025-09-09 18:21:50,Deposit Issue,Banking,1.9,4.3,Resolved,1
+STUE114181,2025-09-16 20:19:27,Deposit Issue,Banking,4.4,9.5,Closed,1
+STUE102351,2024-11-04 04:31:37,Account Query,Account Query,18.7,56.0,Closed,0
+STUE102763,2025-06-08 19:03:25,Fees Question,Account Query,4.1,10.7,Resolved,0
+STUE104435,2025-05-02 13:43:02,KYC Query,KYC,10.4,23.1,Resolved,0
+STUE106728,2024-07-27 13:10:13,KYC Query,KYC,9.1,19.3,Resolved,0
+STUE102394,2024-09-25 10:37:11,KYC Query,KYC,21.7,63.8,Resolved,0
+STUE111151,2024-02-14 12:54:09,KYC Query,KYC,15.7,45.1,Resolved,0
+STUE109333,2024-05-27 13:51:16,App Crash,Technical,3.5,21.6,Resolved,0
+STUE106366,2025-01-12 23:39:47,Fees Question,Account Query,8.1,16.4,Resolved,0
+STUE108911,2024-02-24 12:42:44,KYC Query,KYC,6.1,72.4,Resolved,0
+STUE114445,2025-04-18 23:59:12,Login Problem,Technical,26.4,42.5,Resolved,0
+STUE100661,2024-08-15 03:06:29,Deposit Issue,Banking,3.0,24.2,Closed,1
+STUE102605,2024-05-12 11:38:54,Deposit Issue,Banking,12.5,122.8,Resolved,1
+STUE111719,2025-07-14 23:43:08,Withdrawal Query,Banking,6.0,,Open,1
+STUE106025,2024-04-16 06:09:41,Deposit Issue,Banking,8.1,22.8,Resolved,1
+STUE105804,2024-08-10 14:07:45,KYC Query,KYC,20.0,45.9,Closed,0
+STUE115360,2024-01-22 22:31:11,Deposit Issue,Banking,1.6,32.2,Resolved,1
+STUE107956,2024-07-20 05:33:29,KYC Query,KYC,8.5,,Open,0
+STUE104522,2024-03-19 17:48:32,KYC Query,KYC,6.9,9.2,Closed,0
+STUE105821,2024-12-14 16:36:31,Login Problem,Technical,16.5,34.7,Closed,0
+STUE103810,2024-03-19 08:43:20,Withdrawal Query,Banking,0.5,151.2,Resolved,1
+STUE103508,2025-01-11 07:52:13,Login Problem,Technical,4.2,,Escalated,0
+STUE106256,2024-09-14 23:06:34,Deposit Issue,Banking,0.9,10.2,Resolved,1
+STUE101978,2025-04-11 15:20:50,App Crash,Technical,6.6,,Escalated,0
+STUE113609,2025-09-01 01:14:15,App Crash,Technical,3.2,22.8,Resolved,0
+STUE112341,2024-10-28 19:32:52,KYC Query,KYC,0.9,206.2,Resolved,0
+STUE100952,2024-09-05 09:14:05,Withdrawal Query,Banking,5.3,,Escalated,1
+STUE110306,2025-01-17 13:00:45,KYC Query,KYC,9.2,17.2,Resolved,0
+STUE103969,2025-08-30 18:48:34,Deposit Issue,Banking,0.7,14.3,Resolved,1
+STUE104882,2024-10-14 13:33:46,Deposit Issue,Banking,3.8,39.1,Closed,1
+STUE106018,2024-04-17 04:19:19,App Crash,Technical,20.9,,Open,0
+STUE111021,2024-11-09 01:05:26,Login Problem,Technical,2.8,159.8,Resolved,0
+STUE116796,2024-05-30 22:14:33,Account Query,Account Query,9.5,,Open,0
+STUE106299,2025-03-26 06:48:39,Deposit Issue,Banking,3.6,26.3,Resolved,1
+STUE107520,2025-03-30 09:22:00,Withdrawal Query,Banking,2.6,4.5,Resolved,1
+STUE116401,2024-02-26 23:16:19,Withdrawal Query,Banking,2.3,20.3,Closed,1
+STUE100950,2024-09-10 09:26:37,Account Query,Account Query,3.7,39.9,Resolved,0
+STUE104059,2024-05-01 08:15:17,KYC Query,KYC,16.3,,Escalated,0
+STUE105179,2025-02-25 02:21:19,Deposit Issue,Banking,13.2,96.1,Closed,1
+STUE108289,2024-08-02 02:27:13,Deposit Issue,Banking,4.2,27.8,Resolved,1
+STUE101721,2024-08-12 10:45:12,Account Query,Account Query,1.5,20.7,Resolved,0
+STUE106249,2025-04-10 10:54:41,Deposit Issue,Banking,8.6,23.1,Resolved,1
