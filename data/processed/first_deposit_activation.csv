@@ -1,0 +1,521 @@
+customer_id,age,region_province,investment_goal,risk_appetite,acquisition_channel,campaign_id,acquisition_cost_zar,sessions_first_7_days,total_session_seconds,total_screens_viewed,deposit_page_views,deposit_attempts,messages_first_7_days,messages_opened,messages_clicked,nudge_responses,support_tickets_first_7_days,avg_response_time_hours,avg_resolution_time_hours,deposit_related_tickets,activation_target,dataset_split
+STUE100011,30.0,Mpumalanga,Education fund,Moderate,Radio,CAMP2024_04,186.55,4.0,1123.0,32.0,2.0,1.0,,,,,1.0,13.0,42.7,0.0,1,training
+STUE100017,33.0,Northern Cape,Long-term growth,Very Aggressive,Google Search,CAMP2025_02,249.72,7.0,2664.0,76.0,3.0,2.0,2.0,2.0,1.0,1.0,,,,,1,test
+STUE100043,26.0,KwaZulu-Natal,Long-term growth,Conservative,Direct,,11.66,12.0,4260.0,152.0,7.0,2.0,,,,,,,,,1,training
+STUE100063,31.0,Western Cape,Wealth preservation,Balanced,Google Search,CAMP2024_05,35.08,7.0,2395.0,58.0,5.0,3.0,1.0,1.0,0.0,0.0,,,,,1,validation
+STUE100135,19.0,Eastern Cape,Short-term gains,Conservative,Social Media,CAMP2025_07,75.43,5.0,1559.0,39.0,2.0,2.0,,,,,,,,,0,training
+STUE100156,45.0,Free State,Retirement,Moderate,Direct,,26.38,7.0,2738.0,92.0,7.0,4.0,,,,,,,,,1,training
+STUE100164,33.0,Western Cape,Wealth preservation,Conservative,Referral,CAMP2024_06,34.04,2.0,727.0,14.0,2.0,1.0,1.0,1.0,1.0,0.0,,,,,0,validation
+STUE100225,18.0,Gauteng,Short-term gains,Very Aggressive,Google Search,CAMP2024_06,155.52,6.0,3578.0,51.0,3.0,1.0,1.0,1.0,0.0,0.0,,,,,1,validation
+STUE100274,34.0,Eastern Cape,Short-term gains,Balanced,Social Media,CAMP2024_09,140.91,5.0,2133.0,57.0,3.0,1.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE100332,31.0,Gauteng,Retirement,Balanced,Email Campaign,CAMP2025_02,135.95,4.0,1182.0,28.0,2.0,1.0,1.0,1.0,0.0,0.0,,,,,1,validation
+STUE100371,22.0,Mpumalanga,Wealth preservation,Moderate,Google Search,CAMP2024_01,462.45,4.0,992.0,41.0,1.0,0.0,1.0,1.0,0.0,0.0,,,,,0,training
+STUE100385,29.0,North West,Retirement,Balanced,Radio,CAMP2024_07,189.33,5.0,2876.0,53.0,1.0,1.0,,,,,,,,,1,test
+STUE100410,48.0,North West,Wealth preservation,Balanced,Google Search,CAMP2024_09,98.6,9.0,2672.0,104.0,5.0,3.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE100427,18.0,Free State,Retirement,Moderate,Google Search,CAMP2024_03,122.69,4.0,5008.0,36.0,2.0,1.0,2.0,2.0,2.0,0.0,,,,,1,training
+STUE100441,18.0,Eastern Cape,Long-term growth,Moderate,Google Search,CAMP2024_12,86.79,4.0,1449.0,28.0,1.0,1.0,3.0,2.0,0.0,0.0,,,,,0,test
+STUE100453,40.0,North West,Long-term growth,Moderate,Direct,,19.88,8.0,2686.0,103.0,6.0,2.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE100465,32.0,Western Cape,Long-term growth,Moderate,Referral,CAMP2024_04,14.97,8.0,5212.0,84.0,5.0,3.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE100493,22.0,Limpopo,Long-term growth,Balanced,Google Search,CAMP2025_01,193.53,6.0,2297.0,84.0,4.0,4.0,3.0,1.0,1.0,0.0,,,,,1,training
+STUE100517,35.0,KwaZulu-Natal,Education fund,Conservative,Referral,CAMP2025_04,47.77,6.0,2567.0,87.0,3.0,3.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE100549,34.0,Eastern Cape,Short-term gains,Moderate,Referral,CAMP2024_01,31.45,2.0,952.0,15.0,1.0,0.0,,,,,,,,,0,training
+STUE100553,28.0,Mpumalanga,Education fund,Conservative,Affiliate,CAMP2025_06,172.85,,,,,,3.0,2.0,1.0,1.0,,,,,1,training
+STUE100577,27.0,KwaZulu-Natal,Income generation,Balanced,Google Search,CAMP2025_01,188.6,3.0,1197.0,37.0,2.0,1.0,,,,,,,,,0,training
+STUE100594,32.0,Western Cape,Long-term growth,Moderate,Email Campaign,CAMP2024_01,237.92,4.0,806.0,58.0,2.0,0.0,,,,,,,,,1,validation
+STUE100641,18.0,Eastern Cape,Long-term growth,Moderate,Direct,,26.69,6.0,2623.0,75.0,4.0,1.0,3.0,2.0,1.0,1.0,1.0,0.4,8.6,0.0,1,training
+STUE100649,48.0,Western Cape,Long-term growth,Conservative,Direct,,24.58,3.0,1384.0,13.0,1.0,0.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE100699,24.0,KwaZulu-Natal,Education fund,Moderate,Google Search,CAMP2024_01,117.27,1.0,418.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE100738,35.0,Free State,Education fund,Balanced,Influencer,CAMP2025_05,190.61,3.0,2821.0,23.0,1.0,1.0,1.0,0.0,0.0,0.0,,,,,1,validation
+STUE100752,30.0,North West,Short-term gains,Conservative,Social Media,CAMP2025_03,137.91,7.0,3561.0,69.0,2.0,1.0,1.0,1.0,0.0,0.0,,,,,1,test
+STUE100760,23.0,Eastern Cape,Retirement,Moderate,Social Media,CAMP2025_03,41.74,6.0,3023.0,59.0,2.0,0.0,1.0,1.0,1.0,1.0,,,,,0,training
+STUE100764,31.0,Gauteng,Wealth preservation,Aggressive,Social Media,CAMP2025_02,132.02,2.0,274.0,10.0,0.0,0.0,,,,,,,,,0,validation
+STUE100785,38.0,North West,Wealth preservation,Conservative,Referral,CAMP2025_01,17.05,3.0,925.0,30.0,1.0,0.0,,,,,,,,,0,validation
+STUE100808,39.0,Gauteng,Short-term gains,Moderate,Direct,,24.96,5.0,1182.0,48.0,1.0,0.0,1.0,1.0,1.0,0.0,,,,,0,training
+STUE100825,36.0,Free State,Long-term growth,Conservative,Influencer,CAMP2024_08,142.12,3.0,1785.0,23.0,2.0,1.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE100874,24.0,Gauteng,Short-term gains,Aggressive,Google Search,CAMP2024_08,173.34,4.0,2698.0,44.0,3.0,1.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE100876,49.0,Gauteng,Short-term gains,Moderate,Google Search,CAMP2025_03,224.44,6.0,1381.0,32.0,4.0,3.0,,,,,1.0,9.3,21.1,1.0,1,training
+STUE100887,18.0,Free State,Income generation,Balanced,Social Media,CAMP2025_05,70.11,3.0,1016.0,29.0,1.0,1.0,,,,,,,,,1,training
+STUE100901,22.0,Limpopo,Long-term growth,Conservative,Direct,,37.02,8.0,3157.0,66.0,3.0,3.0,,,,,,,,,1,validation
+STUE100916,18.0,Gauteng,Income generation,Moderate,Google Search,CAMP2024_08,136.4,5.0,2165.0,24.0,1.0,1.0,2.0,2.0,0.0,0.0,,,,,1,test
+STUE100922,18.0,Gauteng,Long-term growth,Moderate,Google Search,CAMP2024_06,189.5,6.0,3015.0,41.0,4.0,2.0,2.0,1.0,0.0,0.0,,,,,0,training
+STUE100932,43.0,Gauteng,Income generation,Balanced,Direct,,30.03,9.0,4206.0,101.0,3.0,0.0,1.0,1.0,0.0,0.0,,,,,0,training
+STUE101028,31.0,Gauteng,Long-term growth,Very Aggressive,Email Campaign,CAMP2025_05,271.54,1.0,367.0,5.0,1.0,1.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE101033,52.0,Free State,Education fund,Moderate,Google Search,CAMP2024_02,92.34,11.0,4594.0,96.0,6.0,5.0,1.0,0.0,0.0,0.0,,,,,0,validation
+STUE101105,37.0,KwaZulu-Natal,Long-term growth,Aggressive,Social Media,CAMP2024_09,240.78,5.0,1530.0,50.0,4.0,2.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE101149,32.0,Western Cape,Wealth preservation,Aggressive,Social Media,CAMP2024_01,62.64,3.0,1568.0,37.0,2.0,1.0,2.0,1.0,0.0,0.0,,,,,1,validation
+STUE101193,22.0,Free State,Long-term growth,Moderate,Google Search,CAMP2024_04,266.77,1.0,62.0,5.0,1.0,1.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE101209,37.0,Western Cape,Retirement,Moderate,Direct,,40.92,4.0,1590.0,26.0,2.0,2.0,1.0,0.0,0.0,0.0,,,,,0,validation
+STUE101244,36.0,Eastern Cape,Wealth preservation,Aggressive,Email Campaign,CAMP2025_04,129.74,3.0,1829.0,9.0,0.0,0.0,,,,,,,,,0,training
+STUE101356,37.0,KwaZulu-Natal,Income generation,Conservative,Referral,CAMP2025_01,26.11,2.0,342.0,12.0,1.0,0.0,,,,,,,,,1,training
+STUE101364,32.0,Mpumalanga,Long-term growth,Very Aggressive,Direct,,43.35,6.0,1704.0,64.0,2.0,2.0,,,,,,,,,1,validation
+STUE101373,42.0,Gauteng,Long-term growth,Moderate,Google Search,CAMP2025_04,245.98,4.0,612.0,29.0,0.0,0.0,3.0,2.0,1.0,0.0,,,,,0,training
+STUE101384,19.0,KwaZulu-Natal,Short-term gains,Moderate,Google Search,CAMP2025_02,113.55,3.0,2127.0,31.0,2.0,1.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE101389,19.0,Mpumalanga,Long-term growth,Moderate,Social Media,CAMP2024_12,184.97,1.0,183.0,6.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,5.6,,0.0,0,test
+STUE101410,41.0,Limpopo,Long-term growth,Conservative,Social Media,CAMP2024_02,167.13,4.0,834.0,45.0,3.0,1.0,2.0,1.0,1.0,1.0,,,,,1,validation
+STUE101468,32.0,KwaZulu-Natal,Long-term growth,Moderate,Google Search,CAMP2024_01,137.78,5.0,1570.0,59.0,3.0,0.0,3.0,3.0,2.0,0.0,,,,,1,training
+STUE101477,54.0,Western Cape,Wealth preservation,Very Aggressive,Referral,CAMP2024_08,28.94,8.0,1783.0,115.0,4.0,3.0,4.0,3.0,2.0,2.0,,,,,1,validation
+STUE101505,27.0,Gauteng,Retirement,Balanced,Social Media,CAMP2025_02,85.84,7.0,1560.0,55.0,2.0,1.0,2.0,1.0,1.0,1.0,,,,,0,training
+STUE101514,31.0,Western Cape,Short-term gains,Aggressive,Affiliate,CAMP2024_10,78.78,5.0,2158.0,45.0,3.0,3.0,1.0,1.0,1.0,0.0,,,,,1,test
+STUE101542,26.0,Western Cape,Long-term growth,Aggressive,Google Search,CAMP2025_03,299.62,1.0,766.0,7.0,0.0,0.0,2.0,1.0,1.0,0.0,,,,,1,test
+STUE101613,23.0,Free State,Short-term gains,Moderate,Google Search,CAMP2025_02,108.86,7.0,2765.0,66.0,0.0,0.0,2.0,1.0,1.0,1.0,,,,,0,training
+STUE101619,31.0,KwaZulu-Natal,Short-term gains,Conservative,Social Media,CAMP2024_04,131.48,3.0,482.0,28.0,2.0,2.0,2.0,1.0,1.0,0.0,,,,,0,test
+STUE101634,35.0,North West,Wealth preservation,Conservative,Social  Media,CAMP2024_09,134.39,4.0,1973.0,29.0,3.0,1.0,,,,,,,,,0,validation
+STUE101659,18.0,Gauteng,Long-term growth,Conservative,Email Campaign,CAMP2025_04,98.38,10.0,4521.0,107.0,4.0,3.0,,,,,,,,,1,training
+STUE101667,20.0,Mpumalanga,Wealth preservation,Very Aggressive,Referral,CAMP2024_02,23.15,3.0,838.0,37.0,3.0,1.0,2.0,1.0,1.0,1.0,,,,,0,training
+STUE101683,39.0,Gauteng,Long-term growth,Very Aggressive,Google Search,CAMP2025_01,79.1,8.0,3390.0,106.0,5.0,2.0,,,,,,,,,1,training
+STUE101689,29.0,Gauteng,Income generation,Aggressive,Affiliate,CAMP2024_02,87.88,1.0,356.0,5.0,0.0,0.0,2.0,2.0,0.0,0.0,,,,,1,training
+STUE101728,41.0,Mpumalanga,Long-term growth,Balanced,Google Search,CAMP2025_07,54.44,7.0,2482.0,77.0,0.0,0.0,2.0,2.0,1.0,1.0,,,,,1,training
+STUE101753,42.0,KwaZulu-Natal,Long-term growth,Moderate,Google Search,CAMP2024_09,551.08,9.0,5161.0,130.0,6.0,3.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE101839,40.0,Gauteng,Long-term growth,Moderate,Direct,,56.72,8.0,5085.0,101.0,4.0,3.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE101993,44.0,KwaZulu-Natal,Long-term growth,Aggressive,Affiliate,CAMP2024_02,300.83,5.0,3980.0,31.0,3.0,1.0,2.0,1.0,0.0,0.0,,,,,1,test
+STUE102012,38.0,Eastern Cape,Long-term growth,Balanced,Radio,CAMP2025_03,113.86,8.0,4816.0,86.0,3.0,2.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE102017,29.0,Western Cape,Long-term growth,Moderate,Direct,,33.11,4.0,602.0,35.0,1.0,0.0,2.0,0.0,0.0,0.0,,,,,1,test
+STUE102084,28.0,KwaZulu-Natal,Long-term growth,Moderate,Social Media,CAMP2024_10,115.58,8.0,2896.0,102.0,4.0,2.0,1.0,0.0,0.0,0.0,,,,,1,validation
+STUE102110,35.0,Gauteng,Retirement,Moderate,Referral,CAMP2024_07,99.45,5.0,3367.0,52.0,4.0,3.0,1.0,1.0,1.0,1.0,,,,,1,training
+STUE102124,26.0,KwaZulu-Natal,Short-term gains,Balanced,Influencer,CAMP2025_07,154.19,7.0,2623.0,63.0,4.0,2.0,2.0,1.0,0.0,0.0,,,,,0,test
+STUE102163,37.0,North West,Education fund,Balanced,Direct,,98.39,7.0,3447.0,100.0,5.0,2.0,3.0,2.0,1.0,0.0,,,,,1,validation
+STUE102172,23.0,Western Cape,Long-term growth,Moderate,Email Campaign,CAMP2024_11,226.13,5.0,3384.0,35.0,3.0,3.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE102189,23.0,KwaZulu-Natal,Long-term growth,Balanced,Direct,,16.98,5.0,1219.0,35.0,3.0,2.0,,,,,,,,,1,training
+STUE102279,52.0,Gauteng,Long-term growth,Aggressive,Influencer,CAMP2024_01,99.07,7.0,3648.0,80.0,4.0,1.0,2.0,2.0,1.0,0.0,,,,,1,validation
+STUE102344,22.0,Limpopo,Wealth preservation,Aggressive,Social Media,CAMP2025_08,92.12,4.0,1419.0,60.0,1.0,0.0,1.0,1.0,1.0,1.0,,,,,1,training
+STUE102382,51.0,Gauteng,Long-term growth,Conservative,Referral,CAMP2024_06,80.5,2.0,1406.0,23.0,1.0,1.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE102388,46.0,Limpopo,Short-term gains,Moderate,Google Search,CAMP2025_03,189.78,5.0,8317.0,55.0,4.0,3.0,,,,,,,,,0,training
+STUE102405,33.0,KwaZulu-Natal,Retirement,Moderate,Affiliate,CAMP2024_08,122.58,4.0,2910.0,43.0,3.0,0.0,,,,,,,,,1,training
+STUE102484,60.0,KwaZulu-Natal,Long-term growth,Moderate,Affiliate,CAMP2025_06,209.66,6.0,1726.0,44.0,2.0,1.0,,,,,,,,,0,training
+STUE102508,38.0,Gauteng,Wealth preservation,Balanced,Google Search,CAMP2024_11,178.13,,,,,,,,,,,,,,1,training
+STUE102513,18.0,Western Cape,Retirement,Conservative,Radio,CAMP2024_09,173.07,14.0,5690.0,190.0,11.0,5.0,1.0,1.0,1.0,1.0,,,,,1,training
+STUE102541,34.0,Gauteng,Short-term gains,Balanced,Direct,,28.44,1.0,217.0,6.0,0.0,0.0,,,,,,,,,0,training
+STUE102595,34.0,KwaZulu-Natal,Education fund,Balanced,Affiliate,CAMP2025_06,81.46,2.0,361.0,4.0,1.0,1.0,2.0,2.0,0.0,0.0,,,,,0,training
+STUE102747,34.0,gauteng,Retirement,Balanced,Direct,,12.25,5.0,2825.0,54.0,3.0,2.0,1.0,1.0,0.0,0.0,,,,,1,test
+STUE102804,33.0,Gauteng,Wealth preservation,Conservative,Direct,,11.09,3.0,541.0,12.0,0.0,0.0,,,,,1.0,9.7,,0.0,0,training
+STUE102885,39.0,Gauteng,Income generation,Aggressive,Social Media,CAMP2024_02,52.91,8.0,1737.0,109.0,5.0,3.0,1.0,1.0,0.0,0.0,,,,,1,test
+STUE102908,18.0,Mpumalanga,Long-term growth,Moderate,Social Media,CAMP2024_04,85.19,3.0,979.0,25.0,1.0,0.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE102941,28.0,Mpumalanga,Long-term growth,Aggressive,Social Media,CAMP2024_03,240.02,1.0,298.0,9.0,0.0,0.0,,,,,,,,,0,training
+STUE102950,38.0,Limpopo,Retirement,Very Aggressive,Referral,CAMP2024_06,44.27,10.0,5155.0,138.0,9.0,6.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE103033,38.0,Eastern Cape,Short-term gains,Aggressive,Google Search,CAMP2024_09,135.04,3.0,991.0,24.0,3.0,2.0,,,,,,,,,0,training
+STUE103066,48.0,Limpopo,Long-term growth,Moderate,Google Search,CAMP2024_08,126.25,1.0,308.0,12.0,0.0,0.0,1.0,1.0,1.0,1.0,,,,,1,training
+STUE103073,50.0,Limpopo,Wealth preservation,Conservative,Google Search,CAMP2024_11,218.63,3.0,733.0,37.0,2.0,0.0,3.0,3.0,0.0,0.0,,,,,1,training
+STUE103081,21.0,North West,Long-term growth,Conservative,Google Search,CAMP2024_01,256.17,1.0,554.0,2.0,0.0,0.0,,,,,,,,,0,training
+STUE103087,45.0,Gauteng,Retirement,Balanced,Social Media,CAMP2024_08,171.14,6.0,2435.0,81.0,4.0,3.0,2.0,0.0,0.0,0.0,,,,,1,training
+STUE103132,52.0,KwaZulu-Natal,Wealth preservation,Balanced,Google Search,CAMP2025_01,146.26,1.0,184.0,11.0,1.0,1.0,,,,,,,,,0,training
+STUE103224,35.0,Gauteng,Short-term gains,Conservative,Influencer,CAMP2024_10,120.45,5.0,1716.0,46.0,3.0,1.0,2.0,2.0,1.0,1.0,,,,,1,training
+STUE103228,25.0,Mpumalanga,Retirement,Aggressive,Google Search,CAMP2025_08,97.82,5.0,1059.0,44.0,0.0,0.0,,,,,,,,,0,training
+STUE103301,18.0,Free State,Education fund,Conservative,Affiliate,CAMP2024_11,57.23,4.0,2180.0,19.0,1.0,0.0,3.0,2.0,1.0,0.0,,,,,0,validation
+STUE103317,40.0,KwaZulu-Natal,Short-term gains,Conservative,Social Media,CAMP2024_08,230.86,2.0,368.0,22.0,1.0,1.0,3.0,0.0,0.0,0.0,1.0,6.6,75.5,0.0,1,test
+STUE103343,38.0,Gauteng,Education fund,Conservative,Google Search,CAMP2025_06,140.96,6.0,2735.0,55.0,3.0,2.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE103425,36.0,KwaZulu-Natal,Long-term growth,Moderate,Email Campaign,CAMP2024_12,201.44,,,,,,,,,,,,,,1,training
+STUE103481,39.0,Gauteng,Long-term growth,Aggressive,Referral,CAMP2024_02,13.79,2.0,611.0,4.0,1.0,1.0,,,,,,,,,0,training
+STUE103514,33.0,KwaZulu-Natal,Retirement,Balanced,Google Search,CAMP2025_01,85.17,8.0,4457.0,93.0,7.0,5.0,1.0,1.0,1.0,0.0,,,,,0,training
+STUE103526,30.0,Eastern Cape,Wealth preservation,Conservative,Social Media,CAMP2025_02,125.28,6.0,3019.0,39.0,1.0,0.0,,,,,,,,,0,test
+STUE103571,27.0,Limpopo,Long-term growth,Moderate,Email Campaign,CAMP2024_05,91.46,4.0,1138.0,41.0,3.0,2.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE103596,36.0,Eastern Cape,Long-term growth,Aggressive,Social Media,CAMP2024_06,146.16,4.0,1821.0,34.0,3.0,0.0,,,,,,,,,1,training
+STUE103674,26.0,Gauteng,Retirement,Balanced,Influencer,CAMP2024_12,99.1,9.0,3929.0,122.0,5.0,4.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE103716,29.0,KwaZulu-Natal,Retirement,Balanced,Referral,CAMP2025_01,20.55,9.0,3882.0,113.0,6.0,1.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE103732,31.0,Mpumalanga,Income generation,Moderate,google search,CAMP2025_03,365.91,3.0,1039.0,23.0,2.0,1.0,,,,,,,,,0,test
+STUE103829,40.0,Limpopo,Short-term gains,Moderate,Direct,,46.9,6.0,1955.0,64.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,0,test
+STUE103857,21.0,Limpopo,Retirement,Moderate,Email Campaign,CAMP2025_08,72.29,8.0,3409.0,121.0,5.0,2.0,,,,,,,,,1,training
+STUE103885,25.0,Gauteng,Income generation,Moderate,Social Media,CAMP2025_02,152.82,9.0,3066.0,94.0,3.0,0.0,1.0,1.0,1.0,1.0,,,,,0,training
+STUE103909,23.0,Gauteng,Short-term gains,Conservative,Radio,CAMP2024_09,51.1,7.0,2400.0,61.0,5.0,4.0,,,,,,,,,0,training
+STUE103949,30.0,Gauteng,Long-term growth,Aggressive,Direct,,25.57,4.0,1739.0,30.0,1.0,1.0,3.0,0.0,0.0,0.0,,,,,1,validation
+STUE103968,55.0,Gauteng,Retirement,Aggressive,Google Search,CAMP2025_02,186.83,7.0,2723.0,97.0,5.0,3.0,,,,,,,,,1,training
+STUE103969,22.0,Gauteng,Education fund,Moderate,Social Media,CAMP2025_08,188.89,6.0,2281.0,49.0,2.0,1.0,,,,,,,,,1,training
+STUE104014,18.0,Gauteng,Long-term growth,Aggressive,Influencer,CAMP2024_07,29.82,2.0,1158.0,5.0,0.0,0.0,2.0,0.0,0.0,0.0,,,,,0,validation
+STUE104051,26.0,Mpumalanga,Long-term growth,Balanced,Google Search,CAMP2025_08,162.72,4.0,958.0,34.0,1.0,1.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE104071,60.0,Gauteng,Income generation,Moderate,Social Media,CAMP2024_04,121.89,2.0,204.0,11.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,0,validation
+STUE104092,36.0,Gauteng,Long-term growth,Balanced,Referral,CAMP2025_03,27.69,5.0,2004.0,57.0,1.0,1.0,2.0,1.0,0.0,0.0,,,,,0,training
+STUE104104,32.0,KwaZulu-Natal,Education fund,Balanced,Direct,,27.16,7.0,2617.0,78.0,4.0,0.0,3.0,1.0,0.0,0.0,1.0,7.0,21.8,1.0,0,training
+STUE104135,33.0,Gauteng,Short-term gains,Very Aggressive,Social Media,CAMP2024_07,99.78,7.0,2201.0,56.0,4.0,1.0,2.0,1.0,1.0,0.0,,,,,1,training
+STUE104165,18.0,Western Cape,Education fund,Very Aggressive,Google Search,CAMP2024_02,286.56,5.0,3993.0,67.0,4.0,4.0,,,,,,,,,1,training
+STUE104217,31.0,Western Cape,Short-term gains,Moderate,Social Media,CAMP2024_08,104.86,4.0,3019.0,37.0,0.0,0.0,,,,,,,,,1,training
+STUE104233,35.0,Mpumalanga,Wealth preservation,Aggressive,Google Search,CAMP2024_07,210.25,4.0,970.0,42.0,1.0,0.0,1.0,1.0,0.0,0.0,,,,,0,validation
+STUE104250,18.0,KwaZulu-Natal,Long-term growth,Balanced,Social Media,CAMP2024_11,116.28,5.0,1423.0,69.0,3.0,2.0,1.0,0.0,0.0,0.0,,,,,1,test
+STUE104259,27.0,North West,Long-term growth,Aggressive,Social Media,CAMP2025_01,81.7,4.0,2122.0,59.0,2.0,1.0,2.0,2.0,0.0,0.0,1.0,14.0,23.4,0.0,1,training
+STUE104264,36.0,Western Cape,Income generation,Conservative,Google Search,CAMP2024_09,119.78,4.0,1272.0,43.0,3.0,2.0,,,,,,,,,1,training
+STUE104305,33.0,Western Cape,Short-term gains,Conservative,Social Media,CAMP2025_08,85.95,4.0,1123.0,25.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE104314,58.0,KwaZulu-Natal,Income generation,Moderate,Radio,CAMP2024_04,123.31,5.0,4752.0,52.0,2.0,2.0,2.0,2.0,0.0,0.0,,,,,1,training
+STUE104324,31.0,Eastern Cape,Short-term gains,Conservative,Social Media,CAMP2024_12,159.54,1.0,282.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,3.3,31.0,0.0,0,validation
+STUE104336,25.0,Eastern Cape,Long-term growth, Aggressive ,Referral,CAMP2024_07,41.59,6.0,1725.0,62.0,4.0,3.0,,,,,,,,,1,training
+STUE104348,38.0,Gauteng,Income generation,Balanced,Referral,CAMP2025_08,22.31,2.0,829.0,18.0,0.0,0.0,,,,,,,,,0,validation
+STUE104387,39.0,Gauteng,Long-term growth,Aggressive,Email Campaign,CAMP2025_03,234.37,1.0,197.0,8.0,1.0,1.0,,,,,,,,,1,training
+STUE104389,20.0,Northern Cape,Long-term growth,Balanced,Social Media,CAMP2024_12,114.06,2.0,549.0,10.0,0.0,0.0,,,,,,,,,0,validation
+STUE104397,20.0,Gauteng,Income generation,Conservative,Social Media,CAMP2025_08,82.48,6.0,1350.0,58.0,2.0,1.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE104430,28.0,Mpumalanga,Income generation,Moderate,Google Search,CAMP2024_07,146.83,1.0,792.0,7.0,0.0,0.0,,,,,,,,,0,training
+STUE104448,41.0,KwaZulu-Natal,Short-term gains,Balanced,Google Search,CAMP2025_04,126.55,4.0,2427.0,52.0,1.0,0.0,2.0,1.0,1.0,0.0,,,,,0,test
+STUE104481,29.0,Mpumalanga,Wealth preservation,Balanced,Google Search,CAMP2025_06,49.35,7.0,1657.0,79.0,4.0,2.0,1.0,1.0,0.0,0.0,,,,,0,validation
+STUE104516,33.0,Gauteng,Long-term growth,Moderate,Social Media,CAMP2024_04,101.42,8.0,4420.0,87.0,4.0,4.0,,,,,1.0,5.5,30.3,0.0,1,training
+STUE104537,38.0,Gauteng,Long-term growth,Very Aggressive,Google Search,CAMP2025_06,186.08,4.0,860.0,26.0,0.0,0.0,,,,,,,,,1,training
+STUE104589,32.0,Limpopo,Retirement,Conservative,Affiliate,CAMP2024_06,99.56,4.0,1693.0,29.0,2.0,2.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE104596,39.0,Free State,Short-term  gains,Moderate,Google Search,CAMP2025_05,96.62,,,,,,2.0,1.0,0.0,0.0,,,,,1,test
+STUE104645,42.0,KwaZulu-Natal,Short-term gains,Moderate,Direct,,17.99,5.0,1821.0,58.0,4.0,3.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE104829,33.0,Western Cape,Long-term growth,Conservative,Google Search,CAMP2024_12,134.26,2.0,1034.0,10.0,2.0,2.0,1.0,1.0,1.0,1.0,,,,,1,training
+STUE104831,38.0,Free State,Long-term growth,Very Aggressive,Referral,CAMP2025_05,17.32,3.0,1400.0,21.0,1.0,0.0,3.0,3.0,0.0,0.0,,,,,0,test
+STUE104862,27.0,Gauteng,Wealth preservation,Conservative,Google Search,CAMP2025_05,142.06,5.0,861.0,45.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,2.3,,1.0,0,training
+STUE104901,28.0,Gauteng,Long-term growth,Very Aggressive,Direct,,36.58,4.0,2620.0,50.0,3.0,2.0,2.0,1.0,1.0,0.0,,,,,1,training
+STUE105009,25.0,Limpopo,Short-term gains,Conservative,direct,,21.68,12.0,4463.0,134.0,8.0,4.0,2.0,0.0,0.0,0.0,,,,,1,validation
+STUE105014,43.0,Gauteng,Long-term growth,Balanced,Social Media,CAMP2025_08,322.44,,,,,,2.0,1.0,0.0,0.0,,,,,0,training
+STUE105029,25.0,Gauteng,Long-term growth,Moderate,Referral,CAMP2024_01,24.66,7.0,3444.0,71.0,2.0,1.0,2.0,2.0,2.0,1.0,,,,,1,test
+STUE105040,27.0,Mpumalanga,Income generation,Conservative,Direct,,15.66,2.0,541.0,12.0,0.0,0.0,,,,,,,,,1,test
+STUE105163,30.0,Gauteng,Short-term gains,Conservative,Referral,CAMP2024_03,51.44,8.0,2214.0,105.0,7.0,5.0,,,,,1.0,7.9,,1.0,1,training
+STUE105169,54.0,Gauteng,Long-term growth,Conservative,Direct,,23.86,7.0,5348.0,100.0,5.0,4.0,,,,,,,,,1,training
+STUE105193,36.0,Gauteng,Retirement,Balanced,Influencer,CAMP2024_03,151.76,8.0,9502.0,78.0,1.0,1.0,2.0,2.0,2.0,1.0,,,,,0,test
+STUE105224,19.0,KwaZulu-Natal,Wealth preservation,Aggressive,Referral,CAMP2024_03,34.47,3.0,844.0,31.0,2.0,1.0,3.0,1.0,1.0,0.0,,,,,1,training
+STUE105230,36.0,Gauteng,Long-term growth,Balanced,Direct,,28.93,2.0,2017.0,13.0,1.0,1.0,1.0,1.0,0.0,0.0,,,,,0,test
+STUE105239,32.0,Gauteng,Short-term gains,Moderate,Google Search,CAMP2024_03,131.96,3.0,622.0,34.0,0.0,0.0,4.0,3.0,0.0,0.0,,,,,0,test
+STUE105271,47.0,Mpumalanga,Education fund,Moderate,Social Media,CAMP2025_05,34.38,8.0,2691.0,75.0,6.0,2.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE105286,37.0,KwaZulu-Natal,Short-term gains,Moderate,Influencer,CAMP2024_07,59.41,2.0,614.0,13.0,1.0,0.0,,,,,,,,,1,test
+STUE105339,43.0,Eastern Cape,Retirement,Aggressive,Referral,CAMP2025_07,35.82,6.0,2250.0,90.0,4.0,3.0,,,,,,,,,1,training
+STUE105402,56.0,Gauteng,Education fund,Aggressive,Radio,CAMP2025_04,463.57,5.0,1382.0,39.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE105415,38.0,KwaZulu-Natal,Retirement,Balanced,Direct,,34.26,,,,,,2.0,1.0,0.0,0.0,,,,,0,training
+STUE105421,41.0,KwaZulu-Natal,Wealth preservation,Moderate,Influencer,CAMP2025_06,146.29,3.0,777.0,16.0,3.0,3.0,,,,,,,,,1,training
+STUE105461,32.0,Gauteng,Retirement,Conservative,Referral,CAMP2024_06,16.66,6.0,1814.0,67.0,6.0,6.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE105484,41.0,Gauteng,Income generation,Conservative,Google Search,CAMP2024_10,165.52,4.0,1190.0,24.0,3.0,2.0,2.0,1.0,0.0,0.0,,,,,0,training
+STUE105564,34.0,Eastern Cape,Income generation,Conservative,Referral,CAMP2024_07,16.97,5.0,1428.0,44.0,3.0,0.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE105596,26.0,Gauteng,Income generation,Moderate,Google Search,CAMP2024_04,104.96,8.0,7139.0,107.0,4.0,3.0,2.0,1.0,1.0,0.0,,,,,1,validation
+STUE105614,42.0,kwazulu-natal,Short-term gains,Balanced,Social Media,CAMP2024_05,141.62,6.0,3550.0,98.0,3.0,2.0,,,,,,,,,1,test
+STUE105625,31.0,Gauteng,Retirement,Moderate,Email Campaign,CAMP2025_07,386.08,5.0,734.0,59.0,2.0,1.0,2.0,0.0,0.0,0.0,,,,,1,validation
+STUE105631,24.0,Gauteng,Short-term gains,Balanced,Social Media,CAMP2025_03,81.91,4.0,873.0,12.0,0.0,0.0,,,,,,,,,0,validation
+STUE105650,22.0,KwaZulu-Natal,Retirement,Moderate,Email Campaign,CAMP2024_03,137.58,3.0,1246.0,18.0,1.0,0.0,2.0,0.0,0.0,0.0,,,,,0,test
+STUE105659,36.0,Gauteng,Short-term gains,Moderate,Google Search,CAMP2024_04,84.41,3.0,2020.0,12.0,2.0,2.0,2.0,0.0,0.0,0.0,,,,,1,test
+STUE105710,34.0,KwaZulu-Natal,Wealth preservation,Balanced,Social Media,CAMP2025_07,60.05,5.0,2461.0,50.0,2.0,0.0,,,,,,,,,0,training
+STUE105730,30.0,Gauteng,Retirement,Balanced,Referral,CAMP2024_02,46.56,5.0,1286.0,43.0,1.0,0.0,,,,,,,,,0,training
+STUE105767,38.0,Western Cape,Retirement,Very Aggressive,Direct,,30.78,7.0,6036.0,69.0,3.0,2.0,1.0,1.0,1.0,1.0,,,,,1,validation
+STUE105799,18.0,Gauteng,Retirement,Aggressive,Social Media,CAMP2024_08,237.61,1.0,557.0,1.0,0.0,0.0,,,,,,,,,0,training
+STUE105804,18.0,North West,Short-term gains,Balanced,Google Search,CAMP2024_07,116.37,7.0,2147.0,78.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,4.1,,0.0,0,training
+STUE105836,,Gauteng,Wealth preservation,Balanced,Social Media,CAMP2024_10,110.51,3.0,1146.0,30.0,3.0,2.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE105886,29.0,Gauteng,Retirement,Balanced,Social Media,CAMP2024_04,153.09,5.0,3318.0,39.0,4.0,2.0,,,,,,,,,1,validation
+STUE105905,32.0,Eastern Cape,Short-term gains,Aggressive,Social Media,CAMP2024_07,71.58,3.0,1282.0,29.0,1.0,0.0,,,,,,,,,1,validation
+STUE105946,31.0,Free State,Long-term growth,Moderate,Social Media,CAMP2024_07,97.04,3.0,780.0,16.0,1.0,1.0,1.0,1.0,0.0,0.0,,,,,1,validation
+STUE105964,63.0,KwaZulu-Natal,Retirement,Aggressive,Direct,,20.51,9.0,6498.0,108.0,7.0,3.0,,,,,,,,,1,training
+STUE106005,18.0,Gauteng,Long-term growth,Moderate,Google Search,CAMP2024_05,105.64,4.0,610.0,37.0,4.0,4.0,1.0,0.0,0.0,0.0,,,,,1,validation
+STUE106018,32.0,Northern Cape,Income generation,Balanced,Google Search,CAMP2024_03,115.44,3.0,903.0,25.0,2.0,1.0,1.0,1.0,0.0,0.0,,,,,1,test
+STUE106052,19.0,KwaZulu-Natal,Wealth preservation,Conservative,Social Media,CAMP2024_10,69.14,2.0,95.0,9.0,1.0,0.0,2.0,1.0,0.0,0.0,,,,,0,training
+STUE106084,22.0,Gauteng,Short-term gains,Conservative,Email Campaign,CAMP2024_07,141.73,2.0,327.0,10.0,1.0,0.0,,,,,,,,,0,test
+STUE106171,45.0,Mpumalanga,Wealth preservation,Conservative,Affiliate,CAMP2024_09,99.6,5.0,2088.0,49.0,1.0,0.0,1.0,0.0,0.0,0.0,,,,,0,test
+STUE106211,43.0,Gauteng,Retirement,Balanced,Email Campaign,CAMP2025_02,100.56,5.0,2175.0,55.0,3.0,2.0,1.0,0.0,0.0,0.0,,,,,0,validation
+STUE106232,34.0,North West,Short-term gains,Moderate,Email Campaign,CAMP2024_07,80.21,2.0,590.0,26.0,1.0,0.0,3.0,1.0,1.0,0.0,,,,,1,training
+STUE106278,25.0,North West,Income generation,Very Aggressive,Influencer,CAMP2025_08,94.39,5.0,1682.0,47.0,4.0,2.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE106325,35.0,KwaZulu-Natal,Short-term gains,Conservative,Direct,,11.39,,,,,,1.0,1.0,0.0,0.0,,,,,0,training
+STUE106337,37.0,North West,Retirement,Aggressive,Google Search,CAMP2024_02,557.95,3.0,947.0,41.0,1.0,1.0,,,,,,,,,1,validation
+STUE106414,40.0,Gauteng,Wealth preservation,Conservative,Influencer,CAMP2024_02,108.11,1.0,414.0,5.0,1.0,1.0,1.0,1.0,1.0,0.0,,,,,0,test
+STUE106501,23.0,KwaZulu-Natal,Short-term gains,Moderate,Social Media,CAMP2024_06,68.83,1.0,299.0,10.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE106504,18.0,Mpumalanga,Long-term growth,Very Aggressive,Direct,,58.95,9.0,4740.0,106.0,8.0,6.0,,,,,,,,,1,validation
+STUE106561,35.0,Gauteng,Short-term gains,Conservative,Influencer,CAMP2025_07,103.4,6.0,2129.0,58.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,9.5,,0.0,1,training
+STUE106617,34.0,Eastern Cape,Retirement,Balanced,Google Search,CAMP2024_12,252.36,3.0,1521.0,26.0,0.0,0.0,,,,,,,,,0,training
+STUE106696,29.0,North West,Education fund,Moderate,Referral,CAMP2025_07,11.4,2.0,633.0,16.0,0.0,0.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE106710,31.0,Eastern Cape,Retirement,Balanced,Direct,,21.84,4.0,6779.0,55.0,4.0,3.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE106740,26.0,Limpopo,Short-term gains,Aggressive,Google Search,CAMP2025_02,110.68,4.0,2326.0,64.0,1.0,0.0,2.0,2.0,1.0,1.0,,,,,1,validation
+STUE106761,32.0,Gauteng,Retirement,Conservative,Social Media,CAMP2025_01,99.95,6.0,3436.0,60.0,6.0,1.0,,,,,,,,,1,validation
+STUE106807,23.0,KwaZulu-Natal,Long-term growth,Moderate,Social Media,CAMP2024_03,124.8,4.0,1412.0,21.0,2.0,1.0,,,,,,,,,1,training
+STUE106835,37.0,KwaZulu-Natal,Short-term gains,Moderate,Direct,,35.71,5.0,1006.0,22.0,2.0,2.0,,,,,,,,,1,validation
+STUE106897,36.0,Limpopo,Short-term gains,Aggressive,Email Campaign,CAMP2024_12,1967.34,7.0,1341.0,54.0,4.0,2.0,,,,,,,,,1,training
+STUE106932,35.0,Eastern Cape,Long-term growth,Moderate,Social Media,CAMP2025_03,139.97,6.0,1835.0,68.0,3.0,1.0,,,,,,,,,0,training
+STUE106950,29.0,KwaZulu-Natal,Short-term gains,Balanced,Social Media,CAMP2024_11,203.96,2.0,1527.0,17.0,2.0,0.0,3.0,1.0,0.0,0.0,,,,,1,training
+STUE106955,18.0,KwaZulu-Natal,Retirement,Very Aggressive,Direct,,39.14,2.0,829.0,12.0,0.0,0.0,,,,,,,,,1,training
+STUE107040,32.0,KwaZulu-Natal,Long-term growth,Aggressive,Radio,CAMP2024_08,145.88,4.0,1307.0,35.0,2.0,2.0,,,,,,,,,1,test
+STUE107045,47.0,Western Cape,Long-term growth,Moderate,Google Search,CAMP2025_02,83.13,7.0,2015.0,76.0,4.0,2.0,1.0,1.0,1.0,0.0,1.0,11.6,44.0,0.0,1,validation
+STUE107066,48.0,KwaZulu-Natal,Long-term growth,Moderate,Direct,,33.52,1.0,134.0,7.0,1.0,1.0,,,,,,,,,1,training
+STUE107103,38.0,Western Cape,Education fund,Moderate,Influencer,CAMP2024_05,183.17,7.0,4019.0,98.0,6.0,2.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE107179,18.0,Gauteng,Long-term growth,Balanced,Social Media,CAMP2024_10,159.87,4.0,1546.0,26.0,3.0,1.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE107185,28.0,KwaZulu-Natal,Long-term growth,Balanced,Social Media,CAMP2024_06,138.0,5.0,818.0,58.0,2.0,0.0,1.0,0.0,0.0,0.0,,,,,1,test
+STUE107201,35.0,Limpopo,Short-term gains,Balanced,Direct,,39.34,2.0,884.0,24.0,1.0,1.0,3.0,2.0,0.0,0.0,,,,,1,training
+STUE107254,24.0,Gauteng,Retirement,Conservative,Direct,,23.55,2.0,531.0,24.0,1.0,1.0,2.0,1.0,0.0,0.0,,,,,1,test
+STUE107268,24.0,Gauteng,Short-term gains,Very Aggressive,Google Search,CAMP2024_09,212.28,3.0,531.0,18.0,0.0,0.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE107394,26.0,Gauteng,Long-term growth,Balanced,Social Media,CAMP2024_03,148.03,7.0,4082.0,104.0,5.0,2.0,,,,,,,,,1,test
+STUE107404,18.0,Free State,Long-term growth,Balanced,Influencer,CAMP2025_05,224.59,4.0,2084.0,34.0,1.0,0.0,3.0,2.0,0.0,0.0,,,,,0,training
+STUE107414,52.0,North West,Short-term gains,Balanced,Google Search,CAMP2024_08,46.93,5.0,2818.0,52.0,2.0,1.0,1.0,0.0,0.0,0.0,,,,,1,test
+STUE107446,18.0,Gauteng,Short-term gains,Balanced,Direct,,38.99,5.0,1420.0,59.0,5.0,4.0,,,,,,,,,1,test
+STUE107484,37.0,Gauteng,Short-term gains,Moderate,Influencer,CAMP2024_01,23.96,2.0,658.0,15.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE107496,35.0,KwaZulu-Natal,Long-term growth,Very Aggressive,Social Media,CAMP2025_01,131.44,5.0,1384.0,61.0,4.0,2.0,,,,,,,,,0,test
+STUE107531,37.0,KwaZulu-Natal,Wealth preservation,Moderate,Referral,CAMP2024_01,19.97,8.0,5089.0,59.0,4.0,0.0,4.0,2.0,0.0,0.0,,,,,0,test
+STUE107532,43.0,Mpumalanga,Long-term growth,Moderate,Google Search,CAMP2025_06,250.0,3.0,276.0,11.0,0.0,0.0,1.0,1.0,1.0,1.0,,,,,0,training
+STUE107549,23.0,Mpumalanga,Long-term growth,Moderate,Affiliate,CAMP2024_09,67.91,1.0,251.0,8.0,1.0,0.0,1.0,0.0,0.0,0.0,,,,,1,test
+STUE107608,18.0,KwaZulu-Natal,Retirement,Conservative,Social Media,CAMP2024_10,253.25,4.0,1464.0,15.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.4,,0.0,1,test
+STUE107613,42.0,Gauteng,Wealth preservation,Balanced,Referral,CAMP2024_07,14.31,6.0,3008.0,92.0,4.0,3.0,,,,,,,,,1,training
+STUE107628,38.0,Gauteng,Short-term gains,Moderate,Google Search,CAMP2025_02,76.09,7.0,2105.0,45.0,4.0,4.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE107745,,Eastern Cape,Income generation,Aggressive,Referral,CAMP2024_02,25.63,,,,,,2.0,0.0,0.0,0.0,,,,,0,test
+STUE107757,41.0,Free State,Retirement,Moderate,Google Search,CAMP2025_05,165.54,2.0,480.0,11.0,0.0,0.0,2.0,2.0,1.0,0.0,,,,,0,training
+STUE107783,30.0,KwaZulu-Natal,Long-term growth,Conservative,Referral,CAMP2024_08,72.38,9.0,4790.0,72.0,6.0,3.0,2.0,2.0,1.0,1.0,,,,,0,training
+STUE107825,19.0,North West,Long-term growth,Conservative,Social Media,CAMP2024_11,185.12,3.0,1594.0,26.0,2.0,1.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE107835,18.0,Eastern Cape,Wealth preservation,Moderate,Google Search,CAMP2025_02,149.5,4.0,1226.0,52.0,3.0,3.0,,,,,,,,,1,validation
+STUE107841,27.0,Mpumalanga,Retirement,Moderate,Direct,,21.2,,,,,,1.0,0.0,0.0,0.0,,,,,1,validation
+STUE107877,39.0,Eastern Cape,Long-term growth,Moderate,Direct,,32.87,3.0,805.0,17.0,0.0,0.0,1.0,1.0,1.0,0.0,,,,,0,validation
+STUE107891,27.0,KwaZulu-Natal,Long-term growth,Balanced,Influencer,CAMP2024_10,232.25,5.0,1801.0,33.0,3.0,1.0,2.0,2.0,1.0,0.0,,,,,1,validation
+STUE108001,18.0,Limpopo,Short-term gains,Very Aggressive,Email Campaign,CAMP2025_04,164.04,2.0,706.0,10.0,2.0,2.0,,,,,1.0,9.5,,1.0,1,training
+STUE108053,18.0,KwaZulu-Natal,Short-term gains,Conservative,Social Media,CAMP2025_06,223.9,,,,,,,,,,,,,,0,test
+STUE108062,25.0,Gauteng,Retirement,Balanced,Influencer,CAMP2025_05,184.26,6.0,3975.0,61.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,5.3,29.8,0.0,0,validation
+STUE108069,30.0,North West,Long-term growth,Moderate,Social Media,CAMP2024_07,77.02,8.0,2122.0,80.0,6.0,3.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE108152,21.0,KwaZulu-Natal,Income generation,Conservative,Social Media,CAMP2024_09,278.35,3.0,510.0,40.0,1.0,0.0,2.0,2.0,0.0,0.0,,,,,0,training
+STUE108164,29.0,Gauteng,Short-term gains,Conservative,Direct,,519.3,9.0,2642.0,118.0,6.0,4.0,,,,,,,,,1,training
+STUE108171,26.0,Gauteng,Income generation,Moderate,Direct,,25.04,5.0,2321.0,58.0,3.0,2.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE108187,,Western Cape,Long-term growth,Balanced,Referral,CAMP2024_09,40.93,5.0,1222.0,64.0,3.0,1.0,,,,,,,,,1,validation
+STUE108217,40.0,Gauteng,Education fund,Aggressive,Direct,,164.55,6.0,3606.0,71.0,4.0,2.0,1.0,1.0,0.0,0.0,,,,,0,validation
+STUE108219,47.0,North West,Short-term gains,Conservative,Referral,CAMP2024_11,17.4,1.0,231.0,17.0,0.0,0.0,,,,,,,,,1,training
+STUE108287,38.0,Gauteng,Income generation,Moderate,Google Search,CAMP2024_10,172.46,7.0,3529.0,44.0,2.0,2.0,,,,,,,,,0,test
+STUE108322,31.0,KwaZulu-Natal,Long-term growth,Aggressive,Google Search,CAMP2025_07,61.32,3.0,510.0,30.0,2.0,1.0,2.0,1.0,0.0,0.0,,,,,1,test
+STUE108331,35.0,KwaZulu-Natal,Long-term growth,Balanced,Radio,CAMP2024_07,140.95,10.0,6328.0,127.0,5.0,2.0,,,,,,,,,1,validation
+STUE108342,34.0,Free State,Retirement,Balanced,Social Media,CAMP2024_01,135.66,1.0,132.0,6.0,0.0,0.0,,,,,,,,,0,training
+STUE108377,27.0,Gauteng,Retirement,Aggressive,Affiliate,CAMP2024_01,129.36,5.0,1733.0,51.0,5.0,3.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE108385,29.0,Gauteng,Education fund,Aggressive,Google Search,CAMP2024_04,92.18,8.0,3067.0,98.0,5.0,2.0,1.0,1.0,0.0,0.0,,,,,1,test
+STUE108399,39.0,Gauteng,Long-term growth,Aggressive,Social Media,CAMP2025_08,127.64,3.0,1444.0,37.0,0.0,0.0,,,,,,,,,1,training
+STUE108414,27.0,KwaZulu-Natal,Retirement,Moderate,Referral,CAMP2025_01,41.06,4.0,3382.0,24.0,1.0,0.0,,,,,,,,,0,validation
+STUE108459,31.0,KwaZulu-Natal,Long-term growth,Conservative,Direct,,50.53,6.0,2171.0,41.0,5.0,1.0,3.0,2.0,0.0,0.0,,,,,1,training
+STUE108471,43.0,Western Cape,Retirement,Moderate,Influencer,CAMP2024_02,300.73,1.0,286.0,8.0,0.0,0.0,1.0,1.0,0.0,0.0,,,,,0,training
+STUE108494,40.0,Mpumalanga,Long-term growth,Moderate,Google Search,CAMP2025_08,117.42,7.0,5139.0,94.0,4.0,2.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE108565,40.0,Gauteng,Retirement,Moderate,Referral,CAMP2025_05,11.96,4.0,4309.0,53.0,2.0,2.0,,,,,,,,,1,training
+STUE108575,18.0,Limpopo,Wealth preservation,Moderate,Social Media,CAMP2024_11,49.09,4.0,1686.0,31.0,2.0,2.0,2.0,1.0,1.0,0.0,,,,,0,training
+STUE108583,25.0,Gauteng, Education fund ,Conservative,Social Media,CAMP2024_03,90.02,1.0,2799.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE108590,29.0,Gauteng,Long-term growth,Aggressive,Affiliate,CAMP2025_02,169.47,7.0,3830.0,81.0,4.0,4.0,2.0,2.0,1.0,1.0,,,,,1,training
+STUE108612,32.0,Limpopo,Retirement,Moderate,Google Search,CAMP2024_04,149.58,5.0,1026.0,40.0,4.0,3.0,2.0,1.0,1.0,1.0,,,,,1,test
+STUE108631,38.0,KwaZulu-Natal,Long-term growth,Conservative,Google Search,CAMP2025_08,160.3,4.0,1379.0,14.0,1.0,0.0,,,,,,,,,1,training
+STUE108659,28.0,KwaZulu-Natal,Wealth preservation,Moderate,Social Media,CAMP2025_07,42.45,4.0,1020.0,27.0,2.0,2.0,,,,,,,,,0,training
+STUE108799,23.0,Free State,Retirement,Aggressive,Email Campaign,CAMP2025_01,349.08,,,,,,1.0,0.0,0.0,0.0,,,,,1,training
+STUE108853,20.0,Gauteng,Education fund,Aggressive,Google Search,CAMP2024_11,146.17,3.0,1102.0,38.0,2.0,1.0,1.0,1.0,1.0,0.0,,,,,1,validation
+STUE108890,40.0,mpumalanga,Income generation,Aggressive,Google Search,CAMP2025_02,96.79,7.0,3974.0,95.0,4.0,1.0,2.0,2.0,1.0,1.0,,,,,1,training
+STUE108926,44.0,Eastern Cape,Wealth preservation,Aggressive,Direct,,11.5,5.0,1077.0,41.0,4.0,4.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE108938,35.0,Gauteng,Short-term gains,Moderate,Google Search,CAMP2025_08,197.96,8.0,2506.0,115.0,4.0,1.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE108952,42.0,Eastern Cape,Retirement,Conservative,Google Search,CAMP2024_07,146.1,4.0,1229.0,26.0,0.0,0.0,1.0,1.0,0.0,0.0,,,,,0,test
+STUE108984,25.0,Gauteng,Long-term growth,Conservative,Google Search,CAMP2024_03,95.44,5.0,1495.0,27.0,1.0,0.0,,,,,,,,,1,test
+STUE109006,39.0,Gauteng,Long-term growth,Conservative,Email Campaign,CAMP2025_06,101.76,1.0,45.0,1.0,1.0,1.0,,,,,,,,,1,training
+STUE109050,42.0,Gauteng,Education fund,Balanced,Social Media,CAMP2024_08,167.74,3.0,1686.0,19.0,2.0,0.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE109084,43.0,Northern Cape,Long-term growth,Moderate,Google Search,CAMP2025_06,239.7,4.0,2058.0,45.0,3.0,1.0,,,,,1.0,8.1,10.2,0.0,1,training
+STUE109168,19.0,Mpumalanga,Education fund,Aggressive,Affiliate,CAMP2024_01,183.84,2.0,677.0,11.0,1.0,1.0,,,,,,,,,0,training
+STUE109239,20.0,Gauteng,Income generation,Very Aggressive,Google Search,CAMP2024_07,341.99,4.0,1523.0,24.0,0.0,0.0,,,,,,,,,0,training
+STUE109278,35.0,Gauteng,Long-term growth,Balanced,Referral,CAMP2024_04,22.47,4.0,2837.0,40.0,3.0,3.0,3.0,2.0,1.0,0.0,,,,,0,test
+STUE109319,31.0,KwaZulu-Natal,Short-term gains,Moderate,Email Campaign,CAMP2025_03,160.29,4.0,1289.0,29.0,3.0,2.0,1.0,1.0,0.0,0.0,,,,,0,validation
+STUE109333,35.0,Eastern Cape,Short-term gains,Moderate,Referral,CAMP2024_05,28.69,4.0,1047.0,50.0,3.0,3.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE109344,22.0,Western Cape,Education fund,Balanced,Social Media,CAMP2025_04,86.55,3.0,1313.0,24.0,3.0,2.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE109357,35.0,Limpopo,Retirement,Moderate,Email Campaign,CAMP2025_05,216.8,7.0,1678.0,64.0,3.0,2.0,1.0,0.0,0.0,0.0,,,,,0,test
+STUE109368,31.0,Mpumalanga,Wealth preservation,Aggressive,Social Media,CAMP2024_01,66.6,1.0,686.0,10.0,0.0,0.0,,,,,,,,,1,training
+STUE109382,19.0,KwaZulu-Natal,Retirement,Balanced,Social Media,CAMP2024_03,65.82,4.0,1148.0,33.0,1.0,1.0,,,,,,,,,0,validation
+STUE109395,37.0,Gauteng,Long-term growth,Conservative,Social Media,CAMP2024_03,246.76,3.0,494.0,19.0,1.0,1.0,,,,,,,,,0,test
+STUE109424,20.0,Eastern Cape,Education fund,Aggressive,Influencer,CAMP2024_02,114.44,7.0,3939.0,104.0,3.0,2.0,2.0,2.0,1.0,1.0,,,,,1,test
+STUE109443,30.0,Gauteng,Long-term growth,Balanced,Social Media,CAMP2025_04,94.02,7.0,1824.0,56.0,4.0,2.0,1.0,1.0,0.0,0.0,,,,,0,training
+STUE109454,27.0,Free State,Long-term growth,Moderate,Referral,CAMP2024_07,24.13,3.0,2752.0,16.0,3.0,1.0,2.0,1.0,0.0,0.0,,,,,0,training
+STUE109477,34.0,North West,Retirement,Aggressive,Google Search,CAMP2024_02,167.95,1.0,338.0,9.0,1.0,1.0,1.0,0.0,0.0,0.0,,,,,0,test
+STUE109609,41.0,Gauteng,Retirement,Conservative,Influencer,CAMP2025_04,103.47,7.0,3151.0,56.0,3.0,3.0,,,,,,,,,0,training
+STUE109648,41.0,Gauteng,Long-term growth,Moderate,Google Search,CAMP2025_05,148.7,5.0,4053.0,46.0,4.0,2.0,,,,,,,,,0,training
+STUE109682,46.0,Free State,Education fund,Moderate,Google Search,CAMP2024_11,38.33,3.0,1220.0,9.0,1.0,1.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE109710,25.0,Mpumalanga,Short-term gains,Conservative,Google Search,CAMP2024_05,146.68,3.0,652.0,17.0,0.0,0.0,4.0,3.0,1.0,0.0,,,,,0,training
+STUE109717,20.0,KwaZulu-Natal,Short-term gains,Balanced,Email Campaign,CAMP2025_06,212.04,1.0,290.0,5.0,0.0,0.0,,,,,,,,,1,test
+STUE109732,25.0,Gauteng,Short-term gains,Moderate,Referral,CAMP2024_11,18.71,4.0,471.0,15.0,2.0,0.0,1.0,1.0,0.0,0.0,,,,,0,training
+STUE109789,19.0,KwaZulu-Natal,Retirement,Moderate,Direct,,20.0,9.0,3711.0,141.0,7.0,3.0,2.0,1.0,1.0,0.0,,,,,1,training
+STUE109806,29.0,Eastern Cape,Income generation,Aggressive,Radio,CAMP2024_06,140.64,2.0,380.0,11.0,0.0,0.0,,,,,,,,,0,training
+STUE109843,18.0,Gauteng,Wealth preservation,Balanced,Radio,CAMP2024_01,65.9,11.0,4500.0,115.0,5.0,3.0,1.0,1.0,1.0,1.0,,,,,0,validation
+STUE109853,58.0,Eastern Cape,Education fund,Balanced,Google Search,CAMP2024_06,209.63,6.0,1605.0,61.0,2.0,2.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE109943,18.0,Gauteng,Long-term growth,Balanced,Google Search,CAMP2025_08,157.8,1.0,60.0,11.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,1,validation
+STUE110024,52.0,Eastern Cape,Wealth preservation,Moderate,Email Campaign,CAMP2024_12,177.42,4.0,605.0,26.0,2.0,2.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE110054,24.0,KwaZulu-Natal,Long-term growth,Balanced,Social Media,CAMP2025_01,139.75,5.0,674.0,22.0,3.0,3.0,2.0,0.0,0.0,0.0,,,,,0,training
+STUE110079,48.0,Western Cape,Wealth preservation,Moderate,Social Media,CAMP2024_05,92.63,5.0,3551.0,36.0,3.0,2.0,1.0,1.0,0.0,0.0,,,,,1,test
+STUE110091,90.4,Gauteng, Short-term gains ,Balanced,Google Search,CAMP2024_03,36.26,1.0,3884.0,5.0,0.0,0.0,,,,,,,,,0,training
+STUE110102,37.0,Limpopo,Education fund,Moderate,Google Search,CAMP2025_05,131.92,9.0,3246.0,87.0,5.0,3.0,1.0,1.0,0.0,0.0,,,,,0,training
+STUE110120,24.0,Eastern Cape,Education fund,Conservative,Social Media,CAMP2024_10,101.65,5.0,717.0,32.0,0.0,0.0,,,,,,,,,0,training
+STUE110140,25.0,Gauteng,Income generation,Moderate,Google Search,CAMP2024_03,119.22,3.0,2139.0,23.0,2.0,2.0,2.0,0.0,0.0,0.0,,,,,0,validation
+STUE110149,37.0,Eastern Cape,Long-term growth,Moderate,Direct,,34.39,4.0,1928.0,58.0,3.0,2.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE110253,31.0,Northern Cape,Long-term growth,Moderate,Direct,,8.58,6.0,2607.0,65.0,5.0,2.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE110272,40.0,Limpopo,Long-term growth,Very Aggressive,Google Search,CAMP2025_07,103.69,5.0,1771.0,66.0,4.0,1.0,2.0,1.0,1.0,1.0,,,,,1,test
+STUE110286,36.0,KwaZulu-Natal,Long-term growth,Moderate,Referral,CAMP2024_01,27.53,3.0,2121.0,25.0,2.0,0.0,,,,,,,,,1,training
+STUE110370,26.0,Gauteng,Long-term growth,Aggressive,Radio,CAMP2024_02,187.23,9.0,4509.0,98.0,9.0,6.0,2.0,2.0,2.0,0.0,,,,,1,test
+STUE110408,29.0,North West,Short-term gains,Moderate,Direct,,42.96,1.0,153.0,4.0,0.0,0.0,,,,,,,,,1,validation
+STUE110410,18.0,KwaZulu-Natal,Retirement,Balanced,Direct,,19.99,2.0,308.0,20.0,2.0,1.0,,,,,,,,,0,training
+STUE110430,25.0,Gauteng,Short-term gains,Very Aggressive,Social Media,CAMP2024_09,63.1,6.0,1940.0,50.0,3.0,0.0,,,,,,,,,0,test
+STUE110478,18.0,Gauteng,Retirement,Moderate,Email Campaign,CAMP2024_06,146.85,3.0,1299.0,25.0,2.0,2.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE110489,26.0,Western Cape,Education fund,Moderate,Influencer,CAMP2025_05,128.34,7.0,3001.0,73.0,6.0,4.0,,,,,,,,,1,test
+STUE110517,23.0,Western Cape,Long-term growth,Moderate,Social Media,CAMP2025_06,39.11,7.0,1867.0,42.0,3.0,2.0,1.0,0.0,0.0,0.0,1.0,1.0,14.6,1.0,0,training
+STUE110596,41.0,North West,Long-term growth,Balanced,Social Media,CAMP2025_01,127.62,8.0,3208.0,88.0,3.0,2.0,,,,,,,,,1,test
+STUE110619,36.0,Gauteng,Retirement,Moderate,Email Campaign,CAMP2024_09,43.18,3.0,393.0,26.0,2.0,1.0,1.0,1.0,1.0,1.0,,,,,0,training
+STUE110647,36.0,Gauteng,Long-term growth,Moderate,Direct,,6.8,3.0,1230.0,23.0,2.0,1.0,,,,,,,,,0,training
+STUE110658,27.0,Eastern Cape,Income generation,Conservative,Social Media,CAMP2024_11,184.17,2.0,1114.0,7.0,0.0,0.0,,,,,,,,,0,training
+STUE110682,23.0,Gauteng,Long-term growth,Moderate,Social Media,CAMP2025_01,96.55,4.0,631.0,24.0,2.0,1.0,2.0,0.0,0.0,0.0,,,,,0,training
+STUE110777,25.0,GAUTENG,Income generation,Aggressive,Social Media,CAMP2025_05,103.18,3.0,654.0,39.0,2.0,2.0,2.0,1.0,0.0,0.0,,,,,0,test
+STUE110870,29.0,Gauteng,Short-term gains,Balanced,Influencer,CAMP2024_03,96.35,2.0,243.0,11.0,0.0,0.0,,,,,,,,,0,validation
+STUE110911,21.0,Western Cape, Short-term gains ,Moderate,Influencer,CAMP2024_08,218.1,6.0,2234.0,66.0,0.0,0.0,1.0,1.0,0.0,0.0,,,,,1,validation
+STUE110926,44.0,Gauteng,Long-term growth,Balanced,Referral,CAMP2025_08,22.51,11.0,7186.0,159.0,6.0,4.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE110960,32.0,North West,Long-term growth,Aggressive,Direct,,17.5,7.0,5669.0,60.0,5.0,3.0,2.0,1.0,0.0,0.0,,,,,1,validation
+STUE110970,18.0,Free State,Retirement,Aggressive,Direct,,16.7,4.0,2298.0,35.0,2.0,0.0,,,,,,,,,1,training
+STUE110978,29.0,Gauteng,Wealth preservation,Moderate,Influencer,CAMP2024_05,65.99,,,,,,2.0,1.0,0.0,0.0,,,,,0,validation
+STUE110985,36.0,Mpumalanga,Retirement,Conservative,Google Search,CAMP2025_02,218.04,3.0,965.0,20.0,0.0,0.0,,,,,,,,,0,training
+STUE111011,27.0,Gauteng,Long-term growth,Conservative,Google Search,CAMP2024_07,88.18,2.0,489.0,13.0,0.0,0.0,,,,,,,,,1,validation
+STUE111021,40.0,Mpumalanga,Short-term gains,Moderate,Google Search,CAMP2024_10,158.1,2.0,717.0,25.0,2.0,2.0,1.0,1.0,1.0,0.0,,,,,0,test
+STUE111040,26.0,KwaZulu-Natal,Short-term gains,Moderate,Affiliate,CAMP2024_09,275.84,4.0,948.0,24.0,2.0,2.0,,,,,,,,,1,validation
+STUE111151,22.0,Mpumalanga,Short-term gains,Moderate,Referral,CAMP2024_02,34.18,1.0,763.0,14.0,0.0,0.0,,,,,,,,,1,validation
+STUE111245,32.0,Western Cape,Short-term gains,Moderate,Social Media,CAMP2025_03,189.31,2.0,412.0,21.0,1.0,1.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE111279,30.0,Mpumalanga,Wealth preservation,Moderate,Direct,,29.82,4.0,1649.0,44.0,1.0,1.0,1.0,1.0,1.0,0.0,,,,,0,validation
+STUE111348,33.0,Mpumalanga,Long-term growth,Conservative,Direct,,62.45,1.0,447.0,7.0,1.0,0.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE111365,30.0,Eastern Cape,Short-term gains,Moderate,Influencer,CAMP2024_05,194.2,5.0,1580.0,43.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE111383,18.0,Gauteng,Income generation,Balanced,Direct,,79.86,7.0,2197.0,55.0,2.0,1.0,1.0,1.0,1.0,0.0,,,,,0,test
+STUE111436,29.0,Limpopo,Retirement,Moderate,Google Search,CAMP2024_01,68.79,9.0,4071.0,121.0,4.0,0.0,,,,,,,,,0,training
+STUE111464,32.0,KwaZulu-Natal,Short-term gains,Aggressive,Social Media,CAMP2024_11,220.74,1.0,607.0,11.0,1.0,0.0,,,,,,,,,0,training
+STUE111504,51.0,KwaZulu-Natal,Education fund,Balanced,Social Media,CAMP2025_04,116.15,5.0,1767.0,43.0,3.0,3.0,2.0,2.0,1.0,0.0,,,,,1,validation
+STUE111561,35.0,Western Cape,Long-term growth,Conservative,Direct,,34.55,2.0,758.0,23.0,1.0,1.0,2.0,0.0,0.0,0.0,,,,,1,training
+STUE111569,23.0,KwaZulu-Natal,Income generation,Moderate,Direct,,54.19,6.0,2598.0,48.0,2.0,1.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE111582,18.0,Eastern Cape,Long-term growth,Moderate,Direct,,18.34,3.0,1325.0,35.0,0.0,0.0,,,,,1.0,6.7,21.7,0.0,1,training
+STUE111612,27.0,Western Cape,Wealth preservation,Moderate,Social Media,CAMP2025_08,324.79,3.0,1951.0,28.0,1.0,0.0,,,,,,,,,1,validation
+STUE111672,36.0,Gauteng,Retirement,Very Aggressive,Influencer,CAMP2025_04,56.22,8.0,2348.0,97.0,5.0,1.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE111691,28.0,KwaZulu-Natal,Long-term growth,Moderate,Referral,CAMP2024_10,8.01,2.0,604.0,11.0,1.0,0.0,1.0,1.0,0.0,0.0,,,,,0,training
+STUE111800,45.0,Mpumalanga,Retirement,Balanced,Google Search,CAMP2025_02,186.59,6.0,2110.0,72.0,4.0,4.0,,,,,,,,,1,test
+STUE111840,41.0,Western Cape,Short-term gains,Conservative,Google Search,CAMP2025_04,341.35,5.0,1571.0,53.0,0.0,0.0,2.0,1.0,1.0,0.0,,,,,0,training
+STUE111850,42.0,Limpopo,Long-term growth,Very Aggressive,Influencer,CAMP2025_04,166.08,7.0,6406.0,90.0,5.0,3.0,2.0,2.0,2.0,2.0,,,,,1,training
+STUE111899,40.0,Western Cape,Retirement,Balanced,Referral,CAMP2024_06,22.51,1.0,126.0,8.0,0.0,0.0,2.0,0.0,0.0,0.0,,,,,0,training
+STUE111909,41.0,KwaZulu-Natal,Education fund,Conservative,Referral,CAMP2024_09,30.32,6.0,2803.0,49.0,5.0,3.0,4.0,2.0,0.0,0.0,,,,,0,training
+STUE111918,33.0,Gauteng,Retirement,Moderate,Social Media,CAMP2025_07,116.4,4.0,1485.0,48.0,2.0,0.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE111937,30.0,Eastern Cape,Short-term gains,Balanced,Affiliate,CAMP2025_06,331.42,4.0,1846.0,33.0,2.0,0.0,,,,,,,,,1,test
+STUE111954,40.0,Western Cape,Long-term growth,Balanced,Google Search,CAMP2025_06,323.73,2.0,306.0,13.0,1.0,1.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE111972,36.0,Gauteng,Long-term growth,Aggressive,Email Campaign,CAMP2024_09,401.55,3.0,568.0,7.0,0.0,0.0,1.0,1.0,0.0,0.0,,,,,0,validation
+STUE111979,43.0,KwaZulu-Natal,Long-term growth,Conservative,Google Search,CAMP2024_02,127.23,6.0,1877.0,68.0,0.0,0.0,,,,,,,,,0,training
+STUE112041,18.0,Gauteng,Retirement,Moderate,Direct,,22.19,7.0,4432.0,84.0,5.0,1.0,,,,,,,,,1,test
+STUE112105,31.0,Gauteng,Wealth preservation,Aggressive,Social Media,CAMP2025_08,176.71,4.0,863.0,32.0,1.0,1.0,,,,,,,,,1,training
+STUE112124,31.0,KwaZulu-Natal,Long-term growth,Aggressive,Direct,,8.72,4.0,2609.0,28.0,3.0,3.0,,,,,,,,,0,training
+STUE112134,29.0,KwaZulu-Natal,Wealth preservation,Moderate,Referral,CAMP2024_10,4.95,8.0,2892.0,101.0,5.0,3.0,,,,,,,,,1,training
+STUE112232,29.0,KwaZulu-Natal,Retirement,Moderate,Social Media,CAMP2025_02,134.44,1.0,177.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,,,,,1,training
+STUE112252,35.0,Eastern Cape,Education fund,Balanced,Referral,CAMP2025_07,11.84,5.0,2560.0,60.0,3.0,3.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE112273,38.0,North West,WEALTH PRESERVATION,Moderate,Social Media,CAMP2024_07,160.23,7.0,2764.0,27.0,3.0,1.0,,,,,,,,,0,training
+STUE112293,34.0,KwaZulu-Natal,Long-term growth,Conservative,Social Media,CAMP2024_11,38.77,2.0,189.0,26.0,2.0,1.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE112307,18.0,Limpopo,Education fund,Balanced,Google Search,CAMP2025_03,226.08,3.0,894.0,12.0,2.0,1.0,2.0,0.0,0.0,0.0,,,,,1,training
+STUE112331,37.0,Free State,Short-term gains,Balanced,Referral,CAMP2024_06,38.95,4.0,873.0,31.0,4.0,3.0,2.0,1.0,1.0,0.0,,,,,0,test
+STUE112338,40.0,Limpopo,Long-term growth,Aggressive,Google Search,CAMP2024_08,286.36,5.0,1828.0,40.0,3.0,3.0,2.0,1.0,1.0,0.0,,,,,1,training
+STUE112351,29.0,Gauteng,Wealth preservation,Moderate,Referral,CAMP2025_08,28.15,3.0,2617.0,21.0,1.0,1.0,,,,,,,,,0,training
+STUE112362,27.0,North West,Long-term growth,moderate,Google Search,CAMP2024_11,153.18,3.0,491.0,21.0,2.0,1.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE112378,25.0,Western Cape,Long-term growth,Moderate,Google Search,CAMP2025_03,59.16,4.0,530.0,43.0,3.0,0.0,,,,,,,,,0,test
+STUE112398,40.0,Limpopo,Long-term growth,Balanced,Google Search,CAMP2024_02,174.15,5.0,2746.0,41.0,2.0,2.0,,,,,,,,,0,training
+STUE112465,42.0,Gauteng,Long-term growth,Balanced,Affiliate,CAMP2024_06,88.07,3.0,338.0,26.0,1.0,0.0,,,,,,,,,1,training
+STUE112496,18.0,Gauteng,Education fund,Moderate,Social Media,CAMP2025_07,274.29,2.0,549.0,7.0,2.0,2.0,2.0,1.0,0.0,0.0,,,,,1,test
+STUE112562,19.0,Gauteng,Long-term growth,BALANCED,Social Media,CAMP2025_06,110.69,1.0,649.0,11.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,1,validation
+STUE112580,31.0,Gauteng,Wealth preservation,Aggressive,Social Media,CAMP2024_06,102.98,4.0,1838.0,46.0,1.0,0.0,,,,,,,,,0,test
+STUE112624,18.0,Gauteng,Retirement,Very Aggressive,Social Media,CAMP2024_03,119.1,4.0,2652.0,23.0,0.0,0.0,1.0,1.0,1.0,1.0,,,,,0,training
+STUE112651,36.0,KwaZulu-Natal,Long-term growth,Balanced,Social Media,CAMP2025_06,61.51,1.0,1272.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE112656,30.0,Gauteng,Wealth preservation,Balanced,Google Search,CAMP2025_08,201.73,1.0,1053.0,14.0,0.0,0.0,2.0,2.0,1.0,0.0,,,,,0,training
+STUE112781,28.0,KwaZulu-Natal,Retirement,Aggressive,Email Campaign,CAMP2024_02,99.83,6.0,5118.0,71.0,4.0,2.0,3.0,2.0,1.0,0.0,,,,,1,training
+STUE112799,36.0,KwaZulu-Natal,Retirement,Balanced,Referral,CAMP2024_08,17.47,10.0,7183.0,134.0,4.0,2.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE112864,36.0,KwaZulu-Natal,Income generation,Balanced,Influencer,CAMP2025_02,63.52,5.0,1857.0,49.0,2.0,1.0,3.0,0.0,0.0,0.0,,,,,1,validation
+STUE112879,18.0,Gauteng,Short-term gains,Balanced,Google Search,CAMP2025_02,253.52,5.0,2120.0,57.0,4.0,3.0,,,,,,,,,1,validation
+STUE112887,42.0,Gauteng,Long-term growth,Balanced,Social Media,CAMP2024_12,66.12,2.0,898.0,14.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,7.2,33.5,1.0,1,validation
+STUE112930,41.0,LIMPOPO,Long-term growth,moderate,Social Media,CAMP2025_03,259.49,4.0,696.0,56.0,3.0,3.0,2.0,0.0,0.0,0.0,,,,,1,test
+STUE112937,32.0,Gauteng,Education fund,Moderate,Social Media,CAMP2024_01,84.28,2.0,680.0,9.0,1.0,0.0,2.0,0.0,0.0,0.0,,,,,1,training
+STUE112946,30.0,Mpumalanga,Wealth preservation,Moderate,Referral,CAMP2025_02,503.52,5.0,2869.0,41.0,2.0,2.0,,,,,,,,,1,test
+STUE112964,29.0,KwaZulu-Natal,Wealth preservation,Aggressive,Referral,CAMP2024_01,26.91,8.0,3373.0,95.0,5.0,4.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE113012,42.0,Mpumalanga,Wealth preservation,Conservative,Radio,CAMP2025_06,187.74,6.0,1356.0,69.0,2.0,1.0,,,,,,,,,0,training
+STUE113051,38.0,Gauteng,Short-term gains,Balanced,Google Search,CAMP2024_09,163.38,3.0,387.0,17.0,3.0,3.0,3.0,3.0,1.0,0.0,,,,,0,test
+STUE113073,36.0,Gauteng,Short-term gains,Aggressive,Google Search,CAMP2025_08,200.48,5.0,1998.0,40.0,3.0,2.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE113176,26.0,Mpumalanga,Short-term gains,Conservative,Influencer,CAMP2024_11,205.87,5.0,2155.0,44.0,1.0,0.0,3.0,2.0,0.0,0.0,,,,,1,validation
+STUE113181,48.0,Eastern Cape,Long-term growth,Balanced,Influencer,CAMP2024_09,119.25,5.0,1788.0,61.0,2.0,1.0,,,,,,,,,1,training
+STUE113220,27.0,KwaZulu-Natal,Wealth preservation,Conservative,Social Media,CAMP2024_10,217.47,4.0,5247.0,52.0,2.0,2.0,,,,,,,,,1,training
+STUE113234,18.0,Gauteng,Retirement,Aggressive,Influencer,CAMP2024_06,114.44,5.0,3976.0,38.0,2.0,1.0,,,,,,,,,0,training
+STUE113241,37.0,Gauteng,Short-term gains,Very Aggressive,Email Campaign,CAMP2025_08,61.97,7.0,3744.0,80.0,1.0,0.0,2.0,1.0,0.0,0.0,,,,,0,training
+STUE113280,28.0,Gauteng,Income generation,Conservative,Influencer,CAMP2024_03,253.15,6.0,8567.0,69.0,4.0,1.0,,,,,,,,,1,training
+STUE113305,48.0,Eastern Cape,Retirement,Moderate,Influencer,CAMP2024_06,120.18,4.0,1305.0,43.0,1.0,1.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE113319,34.0,Gauteng,Long-term growth,Balanced,Google Search,CAMP2024_03,139.06,4.0,2667.0,35.0,3.0,0.0,,,,,,,,,1,training
+STUE113331,28.0,Limpopo,Education fund,Moderate,Social Media,CAMP2024_12,90.95,2.0,347.0,11.0,2.0,1.0,2.0,0.0,0.0,0.0,1.0,2.9,60.4,0.0,0,validation
+STUE113346,33.0,Western Cape,Long-term growth,Conservative,Direct,,31.49,3.0,938.0,18.0,1.0,0.0,,,,,,,,,0,training
+STUE113398,40.0,KwaZulu-Natal,Education fund,Conservative,Google Search,CAMP2025_08,103.73,6.0,2397.0,55.0,3.0,2.0,,,,,,,,,0,validation
+STUE113416,40.0,Western Cape,Long-term growth,Very Aggressive,Google Search,CAMP2024_09,171.3,6.0,4627.0,51.0,1.0,1.0,,,,,,,,,1,training
+STUE113437,18.0,Gauteng,Education fund,Moderate,Google Search,CAMP2024_12,121.69,3.0,2315.0,33.0,2.0,1.0,1.0,0.0,0.0,0.0,,,,,1,test
+STUE113448,46.0,KwaZulu-Natal,Retirement,Moderate,Google Search,CAMP2025_01,164.1,1.0,246.0,4.0,0.0,0.0,1.0,1.0,0.0,0.0,,,,,0,test
+STUE113459,32.0,Gauteng,Long-term growth,Aggressive,Social Media,CAMP2024_12,95.99,5.0,3407.0,44.0,4.0,0.0,,,,,,,,,1,training
+STUE113461,21.0,Free State,Long-term growth,Conservative,Social Media,CAMP2024_06,110.82,1.0,200.0,5.0,1.0,1.0,3.0,3.0,1.0,0.0,,,,,1,test
+STUE113506,31.0,KwaZulu-Natal,Wealth preservation,Moderate,Social Media,CAMP2024_03,82.12,7.0,2421.0,58.0,4.0,4.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE113552,36.0,Western Cape,Education fund,Moderate,Social Media,CAMP2024_05,43.87,2.0,462.0,17.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE113579,42.0,KwaZulu-Natal,Income generation,Balanced,Email Campaign,CAMP2024_11,52.54,3.0,967.0,14.0,2.0,0.0,,,,,,,,,0,training
+STUE113665,28.0,Gauteng,Wealth preservation,Balanced,Direct,,59.06,10.0,3583.0,70.0,6.0,2.0,,,,,,,,,1,validation
+STUE113729,38.0,Gauteng,Retirement,Moderate,Social Media,CAMP2024_09,98.36,1.0,1285.0,1.0,1.0,1.0,,,,,,,,,0,training
+STUE113740,32.0,Gauteng,Income generation,Balanced,Email Campaign,CAMP2025_08,97.74,4.0,4618.0,38.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0,1.8,20.5,1.0,1,validation
+STUE113826,52.0,North West,Long-term growth,Balanced,Email Campaign,CAMP2024_10,132.59,6.0,2422.0,58.0,3.0,1.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE113838,36.0,Free State,Wealth preservation,Conservative,Email Campaign,CAMP2024_11,84.26,6.0,925.0,62.0,3.0,1.0,2.0,2.0,1.0,0.0,,,,,1,test
+STUE113845,36.0,Free State,Retirement,Conservative,Influencer,CAMP2025_04,195.62,,,,,,1.0,0.0,0.0,0.0,,,,,0,training
+STUE113855,21.0,KwaZulu-Natal,Long-term growth,Balanced,Social Media,CAMP2024_09,93.27,1.0,124.0,9.0,0.0,0.0,2.0,1.0,0.0,0.0,,,,,0,training
+STUE113869,30.0,Eastern Cape,Long-term growth,Moderate,Google Search,CAMP2025_02,293.29,,,,,,3.0,2.0,1.0,1.0,,,,,1,test
+STUE113881,44.0,KwaZulu-Natal,Long-term growth,Moderate,Referral,CAMP2024_12,9.87,1.0,432.0,5.0,1.0,1.0,1.0,1.0,1.0,0.0,,,,,1,training
+STUE113908,40.0,Western Cape,Income generation,Aggressive,Social Media,CAMP2024_05,189.65,2.0,384.0,7.0,1.0,1.0,3.0,1.0,0.0,0.0,,,,,0,validation
+STUE113965,27.0,North West,Wealth preservation,Balanced,Referral,CAMP2024_10,353.3,5.0,1248.0,41.0,3.0,2.0,2.0,1.0,0.0,0.0,,,,,0,training
+STUE114038,18.0,Limpopo,Long-term growth,Conservative,Google Search,CAMP2025_07,199.3,3.0,764.0,25.0,0.0,0.0,,,,,,,,,0,training
+STUE114063,35.0,Gauteng,Long-term growth,Conservative,Email Campaign,CAMP2025_06,94.68,6.0,3310.0,50.0,5.0,3.0,3.0,2.0,2.0,0.0,,,,,1,training
+STUE114089,36.0,Gauteng,Education fund,Balanced,Social Media,CAMP2024_08,309.84,6.0,1072.0,62.0,4.0,3.0,,,,,,,,,0,training
+STUE114099,26.0,Limpopo,Short-term gains,Balanced,Social Media,CAMP2025_03,123.78,5.0,2377.0,50.0,2.0,1.0,2.0,1.0,0.0,0.0,,,,,1,test
+STUE114105,26.0,Eastern Cape,Retirement,Moderate,Google Search,CAMP2025_08,144.76,2.0,1052.0,27.0,1.0,1.0,3.0,3.0,0.0,0.0,,,,,1,test
+STUE114152,34.0,KwaZulu-Natal,Short-term gains,Moderate,Influencer,CAMP2025_01,191.21,1.0,675.0,15.0,1.0,0.0,2.0,1.0,0.0,0.0,,,,,1,training
+STUE114155,24.0,Free State,Education fund,Moderate,Referral,CAMP2024_01,29.77,1.0,546.0,13.0,1.0,1.0,1.0,0.0,0.0,0.0,,,,,0,validation
+STUE114169,18.0,Limpopo,Long-term growth,Balanced,Referral,CAMP2025_08,71.68,1.0,355.0,5.0,0.0,0.0,,,,,,,,,0,test
+STUE114181,18.0,North West,Long-term growth,Balanced,Social Media,CAMP2025_08,453.23,5.0,1572.0,36.0,3.0,2.0,2.0,1.0,1.0,0.0,,,,,1,training
+STUE114187,19.0,Gauteng,Retirement,Aggressive,Google Search,CAMP2024_02,284.44,4.0,2247.0,34.0,0.0,0.0,,,,,,,,,1,training
+STUE114197,29.0,KwaZulu-Natal,Short-term gains,Very  Aggressive,Social Media,CAMP2024_04,198.76,1.0,280.0,9.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE114274,18.0,Western Cape,Education fund,Balanced,Affiliate,CAMP2025_08,144.69,3.0,1917.0,26.0,3.0,1.0,2.0,0.0,0.0,0.0,,,,,0,training
+STUE114307,42.0,Limpopo,Long-term growth,Moderate,Google Search,CAMP2024_07,83.25,4.0,1233.0,31.0,3.0,1.0,1.0,1.0,1.0,0.0,,,,,1,test
+STUE114313,18.0, Eastern Cape ,Long-term growth, Moderate ,Radio,CAMP2024_08,184.62,4.0,1210.0,19.0,2.0,1.0,,,,,,,,,1,training
+STUE114320,39.0,KwaZulu-Natal,Wealth preservation,Moderate,Google Search,CAMP2024_09,290.21,4.0,828.0,39.0,1.0,0.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE114363,25.0,North West,Long-term growth,Balanced,Google Search,CAMP2025_07,107.41,4.0,1324.0,28.0,0.0,0.0,2.0,0.0,0.0,0.0,,,,,0,validation
+STUE114375,27.0,Mpumalanga,Long-term growth,Balanced,Social Media,CAMP2025_06,137.63,3.0,1110.0,15.0,0.0,0.0,2.0,2.0,2.0,0.0,1.0,4.0,111.4,0.0,1,validation
+STUE114445,22.0,Gauteng,Long-term growth,Balanced,Social Media,CAMP2025_03,113.65,7.0,1807.0,49.0,4.0,2.0,2.0,1.0,0.0,0.0,,,,,0,validation
+STUE114467,18.0,Limpopo,Retirement,Balanced,Direct,,21.06,2.0,598.0,16.0,0.0,0.0,1.0,1.0,0.0,0.0,,,,,1,training
+STUE114519,24.0,Gauteng,Short-term gains,Moderate,Direct,,118.24,2.0,574.0,14.0,0.0,0.0,,,,,,,,,0,training
+STUE114553,18.0,KwaZulu-Natal,Education fund,Moderate,Direct,,13.08,1.0,111.0,10.0,1.0,0.0,,,,,,,,,1,test
+STUE114562,30.0,KwaZulu-Natal,Long-term growth,Aggressive,Google Search,CAMP2024_10,61.95,9.0,3012.0,80.0,5.0,2.0,1.0,1.0,0.0,0.0,,,,,1,validation
+STUE114568,33.0,KwaZulu-Natal,Long-term growth,Moderate,Affiliate,CAMP2024_06,129.52,3.0,3113.0,35.0,3.0,2.0,1.0,0.0,0.0,0.0,,,,,1,validation
+STUE114588,49.0,Eastern Cape,Retirement,Aggressive,Social Media,CAMP2024_08,302.43,2.0,1907.0,22.0,2.0,1.0,2.0,0.0,0.0,0.0,,,,,0,test
+STUE114605,52.0,Gauteng,Short-term gains,Conservative,Social Media,CAMP2025_06,29.57,1.0,205.0,14.0,0.0,0.0,,,,,,,,,0,test
+STUE114628,34.0,Mpumalanga,Long-term growth,Conservative,Google Search,CAMP2024_06,228.04,8.0,3798.0,103.0,2.0,0.0,1.0,1.0,1.0,0.0,,,,,0,validation
+STUE114651,36.0,Gauteng,Short-term gains,Moderate,Social Media,CAMP2025_08,164.47,8.0,2988.0,76.0,3.0,3.0,1.0,1.0,1.0,0.0,,,,,0,training
+STUE114667,19.0,Mpumalanga,Retirement,Balanced,Google  Search,CAMP2025_07,145.4,1.0,178.0,10.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,0,validation
+STUE114736,18.0,Western Cape,Education fund,Conservative,Direct,,12.14,1.0,145.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,,,,,0,training
+STUE114771,42.0,Gauteng,Short-term gains,Moderate,Google Search,CAMP2024_06,124.97,6.0,3344.0,65.0,4.0,2.0,,,,,,,,,1,validation
+STUE114789,29.0,KwaZulu-Natal,Short-term gains,Conservative,Referral,CAMP2025_06,22.2,5.0,2033.0,53.0,4.0,1.0,1.0,1.0,1.0,1.0,,,,,1,training
+STUE114793,24.0,Mpumalanga,Wealth preservation,Balanced,Google Search,CAMP2025_08,203.94,1.0,1163.0,14.0,0.0,0.0,,,,,,,,,1,training
+STUE114799,49.0,Gauteng,Retirement,Aggressive,Email Campaign,CAMP2025_08,233.19,4.0,391.0,11.0,2.0,0.0,3.0,0.0,0.0,0.0,,,,,0,validation
+STUE114814,18.0,Gauteng,Long-term growth,Moderate,Referral,CAMP2024_12,38.98,8.0,2275.0,83.0,4.0,1.0,,,,,,,,,1,training
+STUE114829,19.0,Gauteng,Retirement,Aggressive,Google Search,CAMP2024_12,133.41,6.0,1603.0,54.0,4.0,2.0,2.0,2.0,1.0,1.0,1.0,6.8,8.7,0.0,1,training
+STUE114917,39.0,Gauteng,Long-term growth,Moderate,Direct,,40.13,7.0,1135.0,82.0,2.0,1.0,,,,,,,,,1,training
+STUE114951,32.0,Gauteng,Long-term growth,Conservative,Affiliate,CAMP2024_12,252.53,3.0,2613.0,40.0,1.0,1.0,2.0,2.0,1.0,0.0,,,,,1,validation
+STUE114983,28.0,KwaZulu-Natal,Education fund,Balanced,Social Media,CAMP2025_03,126.72,4.0,1672.0,40.0,2.0,1.0,,,,,,,,,1,training
+STUE114995,36.0,KwaZulu-Natal,Retirement,Moderate,Referral,CAMP2024_12,50.93,10.0,4664.0,98.0,6.0,4.0,,,,,,,,,1,training
+STUE115013,36.0,KwaZulu-Natal,Long-term growth,Aggressive,Social Media,CAMP2024_10,146.72,4.0,1649.0,55.0,2.0,0.0,1.0,0.0,0.0,0.0,,,,,0,test
+STUE115025,22.0,KwaZulu-Natal,Long-term growth,Conservative,Referral,CAMP2025_06,18.0,4.0,878.0,31.0,0.0,0.0,1.0,1.0,0.0,0.0,,,,,1,validation
+STUE115033,38.0,KwaZulu-Natal,Short-term gains,Very Aggressive,Social Media,CAMP2024_08,128.77,4.0,810.0,32.0,3.0,1.0,,,,,,,,,1,test
+STUE115054,44.0,Gauteng,Wealth preservation,Moderate,Email Campaign,CAMP2024_02,98.95,9.0,7614.0,101.0,6.0,3.0,1.0,0.0,0.0,0.0,,,,,0,training
+STUE115057,38.0,Western Cape,Education fund,Balanced,Email Campaign,CAMP2024_06,121.95,4.0,1247.0,26.0,3.0,1.0,2.0,0.0,0.0,0.0,1.0,5.3,7.8,0.0,1,training
+STUE115108,37.0,Western Cape,short-term gains,Moderate,Google Search,CAMP2024_03,90.71,2.0,668.0,14.0,1.0,0.0,1.0,0.0,0.0,0.0,,,,,0,validation
+STUE115113,20.0,North West,Long-term growth,Aggressive,Email Campaign,CAMP2025_01,163.6,5.0,2119.0,38.0,2.0,1.0,1.0,1.0,0.0,0.0,,,,,0,training
+STUE115139,42.0,KwaZulu-Natal,Short-term gains,Conservative,Referral,CAMP2025_07,38.11,3.0,1580.0,12.0,0.0,0.0,2.0,1.0,0.0,0.0,,,,,1,test
+STUE115170,22.0,Northern Cape,Long-term growth,Moderate,Direct,,31.41,4.0,4242.0,50.0,2.0,1.0,2.0,2.0,1.0,0.0,,,,,1,validation
+STUE115188,37.0,Gauteng,Income generation,Moderate,Social Media,CAMP2025_03,101.55,5.0,1845.0,50.0,2.0,1.0,,,,,,,,,0,test
+STUE115250,34.0,Gauteng,Retirement,Conservative,Google Search,CAMP2024_12,76.48,7.0,3125.0,101.0,2.0,1.0,,,,,,,,,1,training
+STUE115274,29.0,KwaZulu-Natal,Long-term growth,Moderate,Social Media,CAMP2024_03,126.84,2.0,1468.0,23.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE115368,22.0,Gauteng,Long-term growth,Balanced,Social Media,CAMP2024_04,111.03,10.0,6239.0,128.0,7.0,2.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE115382,30.0,Free State,Long-term growth,Moderate,Social  Media,CAMP2025_02,229.33,4.0,1735.0,40.0,3.0,3.0,1.0,1.0,1.0,0.0,,,,,0,training
+STUE115403,18.0,Gauteng,Education fund,Balanced,Social Media,CAMP2024_08,246.06,4.0,544.0,16.0,1.0,1.0,2.0,0.0,0.0,0.0,,,,,1,training
+STUE115415,28.0,Northern Cape,Long-term growth,Moderate,Direct,,20.97,6.0,3776.0,77.0,4.0,2.0,,,,,,,,,1,test
+STUE115440,18.0,Northern Cape,Education fund,Moderate,Social Media,CAMP2024_04,379.17,4.0,2047.0,31.0,1.0,1.0,,,,,,,,,0,training
+STUE115482,48.0,Limpopo,Short-term gains,Conservative,Direct,,24.31,6.0,2855.0,71.0,5.0,4.0,3.0,2.0,0.0,0.0,,,,,1,training
+STUE115494,63.0,Mpumalanga,Long-term growth,Conservative,Referral,CAMP2025_05,17.5,9.0,2491.0,134.0,6.0,3.0,2.0,0.0,0.0,0.0,,,,,1,test
+STUE115545,35.0,Gauteng,Wealth preservation,Conservative,Social Media,CAMP2024_09,140.44,5.0,1908.0,41.0,4.0,1.0,1.0,0.0,0.0,0.0,,,,,1,test
+STUE115594,22.0,KwaZulu-Natal,Wealth preservation,Conservative,Affiliate,CAMP2024_02,58.21,,,,,,,,,,,,,,0,validation
+STUE115611,19.0,Limpopo,Education fund,Aggressive,Google Search,CAMP2025_01,413.65,2.0,225.0,8.0,0.0,0.0,,,,,,,,,1,validation
+STUE115627,25.0,Gauteng,Retirement,Balanced,Social Media,CAMP2024_03,77.47,9.0,8005.0,112.0,7.0,5.0,,,,,,,,,1,validation
+STUE115658,52.0,Limpopo,Income generation,Moderate,Email Campaign,CAMP2024_02,147.81,4.0,2566.0,42.0,1.0,1.0,,,,,,,,,1,validation
+STUE115661,33.0,KwaZulu-Natal,short-term gains,Aggressive,Google Search,CAMP2024_11,69.99,4.0,1969.0,47.0,3.0,1.0,,,,,,,,,1,test
+STUE115735,43.0,Western Cape,Long-term growth,Conservative,Direct,,85.05,5.0,2126.0,44.0,3.0,1.0,,,,,,,,,1,validation
+STUE115764,29.0,Gauteng,Long-term growth,Balanced,Google Search,CAMP2024_07,124.35,4.0,1857.0,30.0,4.0,2.0,,,,,,,,,1,training
+STUE115845,29.0,Eastern Cape,Wealth preservation,Balanced,Affiliate,CAMP2024_04,170.92,6.0,1549.0,67.0,0.0,0.0,,,,,,,,,0,training
+STUE115910,41.0,Northern Cape,Retirement,Conservative,Direct,,19.07,5.0,1488.0,66.0,3.0,2.0,1.0,1.0,0.0,0.0,,,,,1,test
+STUE115947,37.0,Gauteng,Long-term growth,Aggressive,Email Campaign,CAMP2025_04,342.75,3.0,1066.0,38.0,2.0,2.0,1.0,1.0,1.0,0.0,,,,,1,validation
+STUE115962,32.0,KwaZulu-Natal,Wealth preservation,Moderate,Affiliate,CAMP2025_07,144.75,4.0,921.0,31.0,2.0,0.0,1.0,1.0,0.0,0.0,,,,,0,training
+STUE115967,21.0,Free State,Income generation,Moderate,Google Search,CAMP2024_03,213.56,5.0,1399.0,54.0,1.0,0.0,2.0,2.0,1.0,0.0,,,,,0,training
+STUE115984,42.0,Gauteng,Long-term growth,Moderate,Social Media,CAMP2025_05,91.9,6.0,3867.0,59.0,4.0,1.0,,,,,,,,,1,training
+STUE116013,33.0,KwaZulu-Natal,Short-term gains,Balanced,Social Media,CAMP2025_08,216.23,4.0,546.0,31.0,4.0,3.0,1.0,1.0,1.0,1.0,,,,,1,training
+STUE116032,28.0,Gauteng,Long-term growth,Aggressive,Google Search,CAMP2024_07,372.68,6.0,4815.0,69.0,2.0,0.0,2.0,1.0,1.0,1.0,,,,,1,training
+STUE116048,34.0,Limpopo,Income generation,Moderate,Influencer,CAMP2024_06,144.21,2.0,537.0,29.0,0.0,0.0,,,,,,,,,1,training
+STUE116096,29.0,Gauteng,Wealth preservation,Balanced,Social Media,CAMP2025_07,113.57,5.0,2276.0,43.0,2.0,0.0,,,,,,,,,0,test
+STUE116141,55.0,Gauteng,Short-term gains,Moderate,Affiliate,CAMP2024_12,122.47,1.0,117.0,4.0,0.0,0.0,,,,,,,,,0,test
+STUE116145,18.0,Free  State,Income generation,Conservative,Social Media,CAMP2025_03,78.26,3.0,1370.0,31.0,2.0,2.0,2.0,2.0,1.0,0.0,,,,,0,training
+STUE116181,28.0,Gauteng,Education fund,Very Aggressive,Social Media,CAMP2025_03,98.06,3.0,835.0,14.0,0.0,0.0,2.0,1.0,0.0,0.0,,,,,0,training
+STUE116185,21.0,Gauteng,Income generation,Aggressive,Google Search,CAMP2025_08,19.6,4.0,924.0,59.0,4.0,1.0,,,,,,,,,1,training
+STUE116232,39.0,Gauteng,Retirement,Aggressive,Social Media,CAMP2025_02,66.46,3.0,1051.0,23.0,2.0,0.0,1.0,0.0,0.0,0.0,,,,,1,training
+STUE116286,44.0,Free State,Education fund,Balanced,Google Search,CAMP2024_01,642.32,6.0,2095.0,53.0,5.0,3.0,,,,,,,,,1,training
+STUE116439,30.0,Western Cape,Income generation,Moderate,Google Search,CAMP2025_04,56.47,4.0,2772.0,20.0,0.0,0.0,1.0,0.0,0.0,0.0,,,,,0,validation
+STUE116585,34.0,Gauteng,Retirement,Balanced,Referral,CAMP2025_02,8.86,,,,,,,,,,,,,,0,training
+STUE116623,28.0,KwaZulu-Natal,Retirement,Very Aggressive,Social Media,CAMP2024_06,52.82,3.0,7707.0,32.0,1.0,1.0,,,,,1.0,12.6,28.4,0.0,0,training
+STUE116635,42.0,Gauteng,Long-term growth,Moderate,Radio,CAMP2025_03,85.62,1.0,364.0,11.0,1.0,1.0,,,,,,,,,1,training
+STUE116643,42.0,Mpumalanga,Short-term gains,Aggressive,Radio,CAMP2025_07,988.78,2.0,165.0,17.0,2.0,1.0,,,,,,,,,1,training
+STUE116714,44.0,Gauteng,Retirement,Moderate,Direct,,36.98,6.0,2823.0,91.0,5.0,2.0,1.0,1.0,1.0,1.0,,,,,1,training
+STUE116730,38.0,Gauteng,Income generation,Aggressive,Direct,,6.5,2.0,150.0,8.0,1.0,1.0,2.0,0.0,0.0,0.0,,,,,0,validation
+STUE116759,51.0,Limpopo,Long-term growth,Moderate,Direct,,21.12,6.0,2274.0,68.0,6.0,2.0,2.0,1.0,1.0,0.0,,,,,1,test
+STUE116777,28.0,Northern Cape,Short-term gains,Balanced,Social Media,CAMP2025_08,174.23,3.0,1242.0,30.0,3.0,2.0,3.0,1.0,0.0,0.0,,,,,1,test
+STUE116796,35.0,Free State,Retirement,Moderate,Email Campaign,CAMP2024_04,61.78,9.0,4787.0,114.0,3.0,2.0,1.0,0.0,0.0,0.0,,,,,1,validation
+STUE116811,18.0,Free State,Long-term growth,Moderate,Social Media,CAMP2025_06,32.12,1.0,1050.0,9.0,1.0,1.0,,,,,,,,,1,test
