@@ -1,2 +1,2 @@
 model,learning_rate,max_depth,n_estimators,cross_validation_roc_auc
-GradientBoostingClassifier,0.05,2,100,0.6465399478425795
+GradientBoostingClassifier,0.05,2,100,0.6461188952110006
