@@ -668,3 +668,10 @@ validation and monitoring would be required before operational use.
 The implementation is documented in [`SS3_PartB.ipynb`](SS3_PartB.ipynb)
 and covers the five required components: dataset loading, preprocessing,
 model training, model validation and results visualisation.
+
+---
+
+## SS3 Video Presentation
+
+[Watch the SS3 video presentation on SharePoint](https://stadiomultiversity-my.sharepoint.com/:f:/g/personal/26304870_stadio_ac_za/IgAEMwJVXxGFSZrVF_tQVx2OAViqdG67A1MP_cRmRcdlVsY?e=TsjicD)
+
