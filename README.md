@@ -1,140 +1,346 @@
 # CAP182_STADIOEquities_first-deposit-activation-project
 
-Data science project investigating first-deposit activation at STADIOEquities, identifying factors associated with customer activation and informing targeted onboarding interventions.
+Data science project investigating first-deposit activation at
+STADIOEquities, identifying factors associated with customer activation
+and informing targeted onboarding interventions.
 
 # STADIOEquities First-Deposit Activation Project
 
-This project investigates the customer activation challenge at STADIOEquities, with a specific focus on the transition from registration to first deposit. The project progresses from defining the business problem and requesting the required data to developing, evaluating and comparing machine-learning models using a proxy dataset.
+This project investigates the customer activation challenge at
+STADIOEquities, with a specific focus on the transition from
+registration to first deposit. The project progresses from defining the
+business problem and requesting the required data to developing,
+evaluating and comparing machine-learning models using a proxy dataset.
 
----
+------------------------------------------------------------------------
 
-# SS1 – Project Definition
+# SS1 -- Project Definition
 
-## Part A – Motivation
+## Part A -- Motivation
 
 ### 1. Industry and Business Context
 
-STADIOEquities is a South African digital investment platform that aims to make investing accessible to a broad population by lowering traditional barriers to entry. Through this approach, the company has grown to approximately 2.3 million registered accounts. Despite this growth, only 760,000 accounts are funded and active, while 41% of registered accounts have never deposited funds. This indicates a substantial gap between customer acquisition and customer activation.
+STADIOEquities is a South African digital investment platform that aims
+to make investing accessible to a broad population by lowering
+traditional barriers to entry. Through this approach, the company has
+grown to approximately 2.3 million registered accounts. Despite this
+growth, only 760,000 accounts are funded and active, while 41% of
+registered accounts have never deposited funds. This indicates a
+substantial gap between customer acquisition and customer activation.
 
 ### 2. Business Problem
 
-The inability to convert registered users into funded and active clients represents a significant business challenge. Customer acquisition costs are only recovered once an account becomes active, while most of STADIOEquities' revenue streams are dependent on clients funding their accounts and remaining engaged with the platform. Furthermore, the sign-up-to-first-deposit conversion rate has declined from 64% to 59% over the past two years, suggesting that customer activation is becoming increasingly difficult.
+The inability to convert registered users into funded and active clients
+represents a significant business challenge. Customer acquisition costs
+are only recovered once an account becomes active, while most of
+STADIOEquities' revenue streams are dependent on clients funding their
+accounts and remaining engaged with the platform. Furthermore, the
+sign-up-to-first-deposit conversion rate has declined from 64% to 59%
+over the past two years, suggesting that customer activation is becoming
+increasingly difficult.
 
 ### 3. Importance of the Problem
 
-This problem is important because it directly affects business growth, customer lifetime value, and the organisation's ability to generate sustainable revenue from its existing customer base. It also aligns with STADIOEquities' 2030 strategic objective of activating more existing accounts and improving long-term customer engagement. Addressing the activation gap could therefore improve the effectiveness of customer acquisition investments while contributing to increased platform usage and revenue generation.
+This problem is important because it directly affects business growth,
+customer lifetime value, and the organisation's ability to generate
+sustainable revenue from its existing customer base. It also aligns with
+STADIOEquities' 2030 strategic objective of activating more existing
+accounts and improving long-term customer engagement. Addressing the
+activation gap could therefore improve the effectiveness of customer
+acquisition investments while contributing to increased platform usage
+and revenue generation.
 
 ### 4. Data Science Opportunity
 
-Advances in data science and machine learning provide an opportunity to better understand customer activation behaviour. STADIOEquities collects extensive customer, onboarding, behavioural, funding, marketing and support data throughout the customer journey. However, despite operating in a data-rich environment, activation efforts are currently based on a largely standardised onboarding process rather than customer-specific insights.
+Advances in data science and machine learning provide an opportunity to
+better understand customer activation behaviour. STADIOEquities collects
+extensive customer, onboarding, behavioural, funding, marketing and
+support data throughout the customer journey. However, despite operating
+in a data-rich environment, activation efforts are currently based on a
+largely standardised onboarding process rather than customer-specific
+insights.
 
-By analysing patterns in historical customer behaviour, machine learning techniques can be used to identify the characteristics and behaviours associated with successful activation, as well as customers who may be at risk of failing to make a first deposit. This would enable STADIOEquities to move from a one-size-fits-all onboarding approach towards more personalised and timely interventions.
+By analysing patterns in historical customer behaviour, machine learning
+techniques can be used to identify the characteristics and behaviours
+associated with successful activation, as well as customers who may be
+at risk of failing to make a first deposit. This would enable
+STADIOEquities to move from a one-size-fits-all onboarding approach
+towards more personalised and timely interventions.
 
 ### 5. Value of the Study
 
-The findings of this study could help STADIOEquities identify customers who need support during the onboarding process and improve customer activation rates. This could reduce the number of never-funded accounts and help the organisation gain greater value from its existing customer base.
+The findings of this study could help STADIOEquities identify customers
+who need support during the onboarding process and improve customer
+activation rates. This could reduce the number of never-funded accounts
+and help the organisation gain greater value from its existing customer
+base.
 
-Increased activation may also contribute to higher customer lifetime value and sustainable revenue growth. Furthermore, the study will demonstrate how data science can be used to address a real-world business challenge while supporting STADIOEquities' goal of growing its active client base.
+Increased activation may also contribute to higher customer lifetime
+value and sustainable revenue growth. Furthermore, the study will
+demonstrate how data science can be used to address a real-world
+business challenge while supporting STADIOEquities' goal of growing its
+active client base.
 
----
+------------------------------------------------------------------------
 
-## Part B – Problem Statement
+## Part B -- Problem Statement
 
 ### 1. The Problem
 
-STADIOEquities faces a customer activation challenge in which 41% of registered accounts have never been funded. Each registration costs approximately R180 to acquire, and this cost is only recovered once a customer activates by making a deposit. While the organisation collects extensive customer, onboarding, behavioural, marketing and support data, it has limited insight into which customers are likely to activate and which are likely to stall before making their first deposit.
+STADIOEquities faces a customer activation challenge in which 41% of
+registered accounts have never been funded. Each registration costs
+approximately R180 to acquire, and this cost is only recovered once a
+customer activates by making a deposit. While the organisation collects
+extensive customer, onboarding, behavioural, marketing and support data,
+it has limited insight into which customers are likely to activate and
+which are likely to stall before making their first deposit.
 
-As a result, activation efforts are largely applied uniformly rather than being guided by customer-specific behaviour and characteristics. This limits STADIOEquities' ability to convert registrations into funded investors, maximise the value of its customer acquisition investment and support the growth of its active client base.
+As a result, activation efforts are largely applied uniformly rather
+than being guided by customer-specific behaviour and characteristics.
+This limits STADIOEquities' ability to convert registrations into funded
+investors, maximise the value of its customer acquisition investment and
+support the growth of its active client base.
 
 ### 2. Who Is Affected
 
-The problem affects STADIOEquities' customer acquisition, onboarding and customer-service functions, as well as registered customers who do not progress to becoming funded investors.
+The problem affects STADIOEquities' customer acquisition, onboarding and
+customer-service functions, as well as registered customers who do not
+progress to becoming funded investors.
 
 ### 3. What Is Unknown
 
-It is not sufficiently understood which customer characteristics and behaviours are associated with failing to make a first deposit. Potential factors include onboarding progress, app/web behaviour, acquisition source, demographics, marketing interactions and customer-service interactions.
+It is not sufficiently understood which customer characteristics and
+behaviours are associated with failing to make a first deposit.
+Potential factors include onboarding progress, app/web behaviour,
+acquisition source, demographics, marketing interactions and
+customer-service interactions.
 
 ### 4. Data to Be Used
 
-The study will use available customer demographic, account and funding, app/web behaviour, onboarding, marketing and customer-support data to examine differences between customers who activate and those who remain unfunded.
+The study will use available customer demographic, account and funding,
+app/web behaviour, onboarding, marketing and customer-support data to
+examine differences between customers who activate and those who remain
+unfunded.
 
 ### 5. Data Science Problem
 
-The study will analyse historical customer data to identify patterns and factors associated with first-deposit activation. The outcome can be defined as whether a registered customer makes a first deposit within a specified activation period.
+The study will analyse historical customer data to identify patterns and
+factors associated with first-deposit activation. The outcome can be
+defined as whether a registered customer makes a first deposit within a
+specified activation period.
 
 ### 6. Research Question
 
-**To what extent can STADIOEquities' customer, onboarding, behavioural, marketing and support-service data be used to identify factors associated with first-deposit activation and inform interventions that may encourage registered customers to make their first deposit?**
+**To what extent can STADIOEquities' customer, onboarding, behavioural,
+marketing and support-service data be used to identify factors
+associated with first-deposit activation and inform interventions that
+may encourage registered customers to make their first deposit?**
 
----
+------------------------------------------------------------------------
 
-## Part C – Data Request
+## Part C -- Data Request
 
-The detailed data requirements are provided in the data request document located in the `data/` folder.
+The detailed data requirements are provided in the data request document
+located in the `data/` folder.
 
----
+------------------------------------------------------------------------
 
-## Part D – Repository Structure
+## Part D -- Repository Structure
 
-| Folder | Purpose |
-|---|---|
-| `data/` | Data requirements, datasets and project reports |
-| `preprocessing/` | Data cleaning and preparation |
-| `feature_engineering/` | Creation and transformation of modelling features |
-| `models/` | Machine-learning models |
-| `evaluation/` | Model evaluation |
-| `statistical_analysis/` | Statistical helper and comparison scripts |
-| `visualisation/` | Visualisation scripts |
-| `results/` | Experimental results, figures and tables |
+  -----------------------------------------------------------------------
+  Folder                              Purpose
+  ----------------------------------- -----------------------------------
+  `data/`                             Data requirements, datasets and
+                                      project reports
+
+  `preprocessing/`                    Data cleaning and preparation
+
+  `feature_engineering/`              Creation and transformation of
+                                      modelling features
+
+  `models/`                           Machine-learning models
+
+  `evaluation/`                       Model evaluation
+
+  `statistical_analysis/`             Statistical helper and comparison
+                                      scripts
+
+  `visualisation/`                    Visualisation scripts
+
+  `results/`                          Experimental results, figures and
+                                      tables
+  -----------------------------------------------------------------------
 
 ### Project Workflow
 
-Data Collection → Data Validation → Data Preprocessing → Feature Engineering → Exploratory Data Analysis → Model Development → Model Evaluation → Results → Recommendations
+Data Collection → Data Validation → Data Preprocessing → Feature
+Engineering → Exploratory Data Analysis → Model Development → Model
+Evaluation → Results → Recommendations
 
----
+------------------------------------------------------------------------
 
-## Part E – RAAIDD Log
+## Part E -- RAAIDD Log
 
-| Category | Description / Log Entries |
-|---|---|
-| **Risks** | **1.** Customer ID inconsistencies may prevent reliable integration of customer, onboarding, behavioural, funding, marketing and support datasets required for activation modelling.<br><br>**2.** Incorrect activation classification may occur if First Deposit Date or Transaction Status records are incomplete, resulting in mislabelled target variables.<br><br>**3.** Limited predictive value of behavioural variables may reduce the model's ability to identify factors associated with first-deposit activation.<br><br>**4.** Class imbalance between activated and never-funded customers may bias model performance and reduce predictive accuracy.<br><br>**5.** Missing or incomplete marketing and support data may limit investigation of whether customer engagement activities influence activation outcomes. |
-| **Actions** | **1.** Obtain the six STADIOEquities datasets specified in Part C and verify field availability and historical coverage.<br><br>**2.** Conduct data-quality assessments, including completeness, consistency, duplicate-record and missing-value analysis.<br><br>**3.** Integrate datasets using Customer ID to create a unified customer-level analytical dataset.<br><br>**4.** Define and validate the first-deposit activation outcome variable.<br><br>**5.** Perform exploratory data analysis and feature engineering using customer, onboarding, behavioural, funding, marketing and support data.<br><br>**6.** Develop, train and evaluate an appropriate machine-learning model.<br><br>**7.** Interpret the results and formulate recommendations to improve customer activation rates. |
-| **Assumptions** | **1.** Customer IDs are consistently recorded across all six datasets, enabling accurate dataset integration.<br><br>**2.** First Deposit Date and Transaction Status accurately represent customer activation status.<br><br>**3.** Behavioural variables such as session activity, onboarding progress and deposit attempts contain meaningful indicators of activation likelihood.<br><br>**4.** Four to six years of historical data provides a sufficiently large sample for robust analysis.<br><br>**5.** Historical activation patterns are broadly representative of future customer activation behaviour.<br><br>**6.** No major changes to onboarding processes occurred during the study period that would materially distort activation patterns. |
-| **Issues** | **1.** The STADIOEquities datasets not being received timely or not received at all. This will result in data completeness, linkage success and feature availability not being verified. This will be addressed once access to the datasets is obtained. |
-| **Decisions** | **1.** First-deposit activation will be used as the target variable because it directly addresses the business problem of reducing the proportion of never-funded accounts and improving sign-up-to-deposit conversion.<br><br>**2.** A supervised machine-learning approach will be used because activation status is a known outcome that can be predicted using historical customer data. |
-| **Dependencies** | **1.** Data quality assessment depends on dataset acquisition. The STADIOEquities datasets must be received before their completeness, accuracy and consistency can be evaluated.<br><br>**2.** Dataset integration depends on data quality assessment. The datasets must be validated and Customer ID consistency confirmed before they can be combined into a single customer view.<br><br>**3.** Feature engineering depends on dataset integration. Customer, onboarding, behavioural, funding, marketing and support data must be combined before meaningful variables can be created for analysis.<br><br>**4.** Model development depends on feature engineering. The activation outcome and predictor variables must be prepared before a machine-learning model can be developed and evaluated.<br><br>**5.** Recommendations depend on model evaluation. Recommendations for improving first-deposit activation can only be made after the model results have been analysed and the key factors influencing activation have been identified. |
+  ----------------------------------------------------------------------------------
+  Category                            Description / Log Entries
+  ----------------------------------- ----------------------------------------------
+  **Risks**                           **1.** Customer ID inconsistencies may prevent
+                                      reliable integration of customer, onboarding,
+                                      behavioural, funding, marketing and support
+                                      datasets required for activation
+                                      modelling.`<br>`{=html}`<br>`{=html}**2.**
+                                      Incorrect activation classification may occur
+                                      if First Deposit Date or Transaction Status
+                                      records are incomplete, resulting in
+                                      mislabelled target
+                                      variables.`<br>`{=html}`<br>`{=html}**3.**
+                                      Limited predictive value of behavioural
+                                      variables may reduce the model's ability to
+                                      identify factors associated with first-deposit
+                                      activation.`<br>`{=html}`<br>`{=html}**4.**
+                                      Class imbalance between activated and
+                                      never-funded customers may bias model
+                                      performance and reduce predictive
+                                      accuracy.`<br>`{=html}`<br>`{=html}**5.**
+                                      Missing or incomplete marketing and support
+                                      data may limit investigation of whether
+                                      customer engagement activities influence
+                                      activation outcomes.
 
----
+  **Actions**                         **1.** Obtain the six STADIOEquities datasets
+                                      specified in Part C and verify field
+                                      availability and historical
+                                      coverage.`<br>`{=html}`<br>`{=html}**2.**
+                                      Conduct data-quality assessments, including
+                                      completeness, consistency, duplicate-record
+                                      and missing-value
+                                      analysis.`<br>`{=html}`<br>`{=html}**3.**
+                                      Integrate datasets using Customer ID to create
+                                      a unified customer-level analytical
+                                      dataset.`<br>`{=html}`<br>`{=html}**4.**
+                                      Define and validate the first-deposit
+                                      activation outcome
+                                      variable.`<br>`{=html}`<br>`{=html}**5.**
+                                      Perform exploratory data analysis and feature
+                                      engineering using customer, onboarding,
+                                      behavioural, funding, marketing and support
+                                      data.`<br>`{=html}`<br>`{=html}**6.** Develop,
+                                      train and evaluate an appropriate
+                                      machine-learning
+                                      model.`<br>`{=html}`<br>`{=html}**7.**
+                                      Interpret the results and formulate
+                                      recommendations to improve customer activation
+                                      rates.
 
-# SS2 – Data Science Project
+  **Assumptions**                     **1.** Customer IDs are consistently recorded
+                                      across all six datasets, enabling accurate
+                                      dataset
+                                      integration.`<br>`{=html}`<br>`{=html}**2.**
+                                      First Deposit Date and Transaction Status
+                                      accurately represent customer activation
+                                      status.`<br>`{=html}`<br>`{=html}**3.**
+                                      Behavioural variables such as session
+                                      activity, onboarding progress and deposit
+                                      attempts contain meaningful indicators of
+                                      activation
+                                      likelihood.`<br>`{=html}`<br>`{=html}**4.**
+                                      Four to six years of historical data provides
+                                      a sufficiently large sample for robust
+                                      analysis.`<br>`{=html}`<br>`{=html}**5.**
+                                      Historical activation patterns are broadly
+                                      representative of future customer activation
+                                      behaviour.`<br>`{=html}`<br>`{=html}**6.** No
+                                      major changes to onboarding processes occurred
+                                      during the study period that would materially
+                                      distort activation patterns.
 
-## Part A – Literature Review and Dataset Selection
+  **Issues**                          **1.** The STADIOEquities datasets not being
+                                      received timely or not received at all. This
+                                      will result in data completeness, linkage
+                                      success and feature availability not being
+                                      verified. This will be addressed once access
+                                      to the datasets is obtained.
 
-The literature review investigated the use of machine-learning techniques for customer response, conversion and take-up prediction.
+  **Decisions**                       **1.** First-deposit activation will be used
+                                      as the target variable because it directly
+                                      addresses the business problem of reducing the
+                                      proportion of never-funded accounts and
+                                      improving sign-up-to-deposit
+                                      conversion.`<br>`{=html}`<br>`{=html}**2.** A
+                                      supervised machine-learning approach will be
+                                      used because activation status is a known
+                                      outcome that can be predicted using historical
+                                      customer data.
+
+  **Dependencies**                    **1.** Data quality assessment depends on
+                                      dataset acquisition. The STADIOEquities
+                                      datasets must be received before their
+                                      completeness, accuracy and consistency can be
+                                      evaluated.`<br>`{=html}`<br>`{=html}**2.**
+                                      Dataset integration depends on data quality
+                                      assessment. The datasets must be validated and
+                                      Customer ID consistency confirmed before they
+                                      can be combined into a single customer
+                                      view.`<br>`{=html}`<br>`{=html}**3.** Feature
+                                      engineering depends on dataset integration.
+                                      Customer, onboarding, behavioural, funding,
+                                      marketing and support data must be combined
+                                      before meaningful variables can be created for
+                                      analysis.`<br>`{=html}`<br>`{=html}**4.**
+                                      Model development depends on feature
+                                      engineering. The activation outcome and
+                                      predictor variables must be prepared before a
+                                      machine-learning model can be developed and
+                                      evaluated.`<br>`{=html}`<br>`{=html}**5.**
+                                      Recommendations depend on model evaluation.
+                                      Recommendations for improving first-deposit
+                                      activation can only be made after the model
+                                      results have been analysed and the key factors
+                                      influencing activation have been identified.
+  ----------------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# SS2 -- Data Science Project
+
+## Part A -- Literature Review and Dataset Selection
+
+The literature review investigated the use of machine-learning
+techniques for customer response, conversion and take-up prediction.
 
 Three related studies were reviewed:
 
-1. **Verster et al. (2021)** – prediction of home-loan take-up using tree-based ensemble models.
-2. **Breed and Verster (2017)** – customer-response prediction and segmentation in a South African banking context.
-3. **Moro, Cortez and Rita (2014)** – prediction of bank telemarketing success using the Bank Marketing dataset.
+1.  **Verster et al. (2021)** -- prediction of home-loan take-up using
+    tree-based ensemble models.
+2.  **Breed and Verster (2017)** -- customer-response prediction and
+    segmentation in a South African banking context.
+3.  **Moro, Cortez and Rita (2014)** -- prediction of bank telemarketing
+    success using the Bank Marketing dataset.
 
-The **UCI Bank Marketing dataset** was selected as a structural proxy dataset because the actual STADIOEquities customer data requested in SS1 was not available for the modelling stage.
+The **UCI Bank Marketing dataset** was selected as a structural proxy
+dataset because the actual STADIOEquities customer data requested in SS1
+was not available for the modelling stage.
 
 ### Part A Report
 
-[View the Part A Literature Review and Dataset Selection Report](data/CAP182%20-%20SS2%20-PART%20A.pdf)
+[View the Part A Literature Review and Dataset Selection
+Report](data/CAP182%20-%20SS2%20-PART%20A.pdf)
 
 ### Proxy Dataset
 
-The modelling dataset used in SS2 is the UCI Bank Marketing `bank-full.csv` dataset. It contains 45,211 observations and was used only as a proxy for demonstrating the data-science workflow.
+The modelling dataset used in SS2 is the UCI Bank Marketing
+`bank-full.csv` dataset. It contains 45,211 observations and was used
+only as a proxy for demonstrating the data-science workflow.
 
-The proxy dataset should not be interpreted as STADIOEquities customer data.
+The proxy dataset should not be interpreted as STADIOEquities customer
+data.
 
----
+------------------------------------------------------------------------
 
-# SS2 Part B – Data Science Implementation
+# SS2 Part B -- Data Science Implementation
 
-Part B implements the complete modelling workflow through separate preprocessing, feature-engineering and model-development stages.
+Part B implements the complete modelling workflow through separate
+preprocessing, feature-engineering and model-development stages.
 
 ## 1. Data Preprocessing
 
@@ -146,14 +352,17 @@ Part B implements the complete modelling workflow through separate preprocessing
 
 [`preprocessing/preprocessing.ipynb`](preprocessing/preprocessing.ipynb)
 
-The preprocessing stage loads the raw Bank Marketing dataset, performs data-quality checks, handles the `pdays = -1` representation, creates the binary target variable and produces the preprocessed dataset.
+The preprocessing stage loads the raw Bank Marketing dataset, performs
+data-quality checks, handles the `pdays = -1` representation, creates
+the binary target variable and produces the preprocessed dataset.
 
 ### Data
 
-- Raw dataset: `data/raw/bank-full.csv`
-- Preprocessed dataset: `data/processed/bank_marketing_preprocessed.csv`
+-   Raw dataset: `data/raw/bank-full.csv`
+-   Preprocessed dataset:
+    `data/processed/bank_marketing_preprocessed.csv`
 
----
+------------------------------------------------------------------------
 
 ## 2. Feature Engineering
 
@@ -165,22 +374,24 @@ The preprocessing stage loads the raw Bank Marketing dataset, performs data-qual
 
 [`feature_engineering/feature_engineering.ipynb`](feature_engineering/feature_engineering.ipynb)
 
-The feature-engineering stage creates additional modelling variables, including:
+The feature-engineering stage creates additional modelling variables,
+including:
 
-- `previously_contacted`
-- `age_band`
-- `balance_band`
-- `repeated_contact_flag`
+-   `previously_contacted`
+-   `age_band`
+-   `balance_band`
+-   `repeated_contact_flag`
 
-Categorical variables are one-hot encoded and the final modelling dataset is prepared for machine learning.
+Categorical variables are one-hot encoded and the final modelling
+dataset is prepared for machine learning.
 
 ### Data
 
 `data/processed/bank_marketing_features.csv`
 
----
+------------------------------------------------------------------------
 
-## 3. Model 1 – Logistic Regression
+## 3. Model 1 -- Logistic Regression
 
 ### Documentation
 
@@ -194,21 +405,21 @@ Logistic Regression was implemented as the first classification model.
 
 The workflow uses:
 
-- 80/20 stratified train-test split
-- `random_state = 42`
-- StandardScaler
-- Logistic Regression
-- 5-fold StratifiedKFold cross-validation
-- Accuracy
-- Precision
-- Recall
-- F1-score
-- ROC-AUC
-- Held-out test evaluation
+-   80/20 stratified train-test split
+-   `random_state = 42`
+-   StandardScaler
+-   Logistic Regression
+-   5-fold StratifiedKFold cross-validation
+-   Accuracy
+-   Precision
+-   Recall
+-   F1-score
+-   ROC-AUC
+-   Held-out test evaluation
 
----
+------------------------------------------------------------------------
 
-## 4. Model 2 – Gradient Boosting
+## 4. Model 2 -- Gradient Boosting
 
 ### Documentation
 
@@ -222,24 +433,27 @@ Gradient Boosting was implemented as the second classification model.
 
 The workflow uses:
 
-- 80/20 stratified train-test split
-- `random_state = 42`
-- GradientBoostingClassifier
-- 5-fold StratifiedKFold cross-validation
-- Accuracy
-- Precision
-- Recall
-- F1-score
-- ROC-AUC
-- Held-out test evaluation
+-   80/20 stratified train-test split
+-   `random_state = 42`
+-   GradientBoostingClassifier
+-   5-fold StratifiedKFold cross-validation
+-   Accuracy
+-   Precision
+-   Recall
+-   F1-score
+-   ROC-AUC
+-   Held-out test evaluation
 
----
+------------------------------------------------------------------------
 
-# SS2 Part C – Model Performance Evaluation
+# SS2 Part C -- Model Performance Evaluation
 
-Model performance was evaluated using a consistent evaluation framework for both models.
+Model performance was evaluated using a consistent evaluation framework
+for both models.
 
-The evaluation process uses the same stratified 80/20 train-test split and 5-fold cross-validation approach. Both models are evaluated using Accuracy, Precision, Recall, F1-score and ROC-AUC.
+The evaluation process uses the same stratified 80/20 train-test split
+and 5-fold cross-validation approach. Both models are evaluated using
+Accuracy, Precision, Recall, F1-score and ROC-AUC.
 
 ## Model 1 Performance
 
@@ -257,63 +471,200 @@ The evaluation process uses the same stratified 80/20 train-test split and 5-fol
 
 [`evaluation/evaluation.ipynb`](evaluation/evaluation.ipynb)
 
-The evaluation notebook reconstructs both deterministic models using the same feature-engineered dataset, train-test split and random state used during model development. It then calculates and compares the performance metrics and confusion matrices.
+The evaluation notebook reconstructs both deterministic models using the
+same feature-engineered dataset, train-test split and random state used
+during model development. It then calculates and compares the
+performance metrics and confusion matrices.
 
----
+------------------------------------------------------------------------
 
-# SS2 Part D – Client Report
+# SS2 Part D -- Client Report
 
-Part D provides the client-facing interpretation of the modelling results and addresses:
+Part D provides the client-facing interpretation of the modelling
+results and addresses:
 
-1. Model selection
-2. Model improvement
-3. Adaptation of the selected model to actual STADIOEquities data
-4. Alignment of the results with the related literature
+1.  Model selection
+2.  Model improvement
+3.  Adaptation of the selected model to actual STADIOEquities data
+4.  Alignment of the results with the related literature
 
 ### Part D Report
 
 [View the Part D Client Report](data/CAP182%20-%20SS2%20-PART%20D.pdf)
 
-Gradient Boosting achieved the higher held-out test performance across the reported evaluation metrics and was therefore identified as the model for further development. The report also highlights the relatively low recall and the need for further refinement before applying the approach to actual STADIOEquities data.
+Gradient Boosting achieved the higher held-out test performance across
+the reported evaluation metrics and was therefore identified as the
+model for further development. The report also highlights the relatively
+low recall and the need for further refinement before applying the
+approach to actual STADIOEquities data.
 
----
+------------------------------------------------------------------------
 
 # SS2 Repository Structure
 
-```text
-CAP182_STADIOEquities_first-deposit-activation-project/
-│
-├── README.md
-│
-├── data/
-│   ├── raw/
-│   │   └── bank-full.csv
-│   │
-│   ├── processed/
-│   │   ├── bank_marketing_preprocessed.csv
-│   │   └── bank_marketing_features.csv
-│   │
-│   ├── CAP182 - SS2 -PART A.pdf
-│   ├── CAP182 - SS2 -PART D.pdf
-│   └── [SS1 data request document]
-│
-├── preprocessing/
-│   └── preprocessing.ipynb
-│
-├── feature_engineering/
-│   └── feature_engineering.ipynb
-│
-├── models/
-│   ├── logistic_regression.ipynb
-│   └── gradient_boosting.ipynb
-│
-├── evaluation/
-│   └── evaluation.ipynb
-│
-├── Preprocessing.MD
-├── FeatureEngineering.MD
-├── Model1.MD
-├── Model2.MD
-├── Model1Performance.MD
-├── Model2Performance.MD
-└── Comparison.MD
+\`\`\`text CAP182_STADIOEquities_first-deposit-activation-project/ │ ├──
+README.md │ ├── data/ │ ├── raw/ │ │ └── bank-full.csv │ │ │ ├──
+processed/ │ │ ├── bank_marketing_preprocessed.csv │ │ └──
+bank_marketing_features.csv │ │ │ ├── CAP182 - SS2 -PART A.pdf │ ├──
+CAP182 - SS2 -PART D.pdf │ └── \[SS1 data request document\] │ ├──
+preprocessing/ │ └── preprocessing.ipynb │ ├── feature_engineering/ │
+└── feature_engineering.ipynb │ ├── models/ │ ├──
+logistic_regression.ipynb │ └── gradient_boosting.ipynb │ ├──
+evaluation/ │ └── evaluation.ipynb │ ├── Preprocessing.MD ├──
+FeatureEngineering.MD ├── Model1.MD ├── Model2.MD ├──
+Model1Performance.MD ├── Model2Performance.MD └── Comparison.MD
+
+------------------------------------------------------------------------
+
+# SS3 Part B -- Applying the Selected Model to Client Data
+
+## Overview
+
+In SS2, Gradient Boosting was selected as the preferred method after
+comparison with Logistic Regression using the UCI Bank Marketing dataset
+as a structural proxy. In SS3, the selected method was applied to the
+newly supplied STADIOEquities capstone data to investigate first-deposit
+activation.
+
+**Data note:** the supplied STADIOEquities extract is synthetic capstone
+data, not verified operational customer data. Results demonstrate the
+modelling workflow and should not be presented as confirmed production
+performance.
+
+## 1. Dataset and target
+
+The supplied data comprised six CSV tables covering customer
+acquisition, KYC/onboarding, app/web behaviour, funding/deposits,
+marketing engagement and customer support. Because the tables had
+different levels of detail, repeated session, message and support
+records were aggregated into customer-level features before the prepared
+data were joined.
+
+The final modelling table contained **520 labelled customer records and
+23 features**. The target represented successful first-deposit
+activation during Days 8--30, using predictor information from the first
+seven days to reduce the risk of target leakage. Customers without
+resolved outcome labels were excluded from the labelled modelling
+sample.
+
+Some funding records had missing or ambiguous transaction statuses, so
+some negative labels were provisional and require verification before
+operational use.
+
+## 2. Data preparation and splitting
+
+Data preparation included checks of table dimensions, column names,
+missing values, duplicates and date consistency. Seven exact duplicate
+rows were removed from the acquisition data. Transaction-status text was
+standardised to reduce inconsistent categories caused by casing or extra
+spaces.
+
+Session, message and support records were aggregated into customer-level
+features before joining. The labelled dataset was then split into
+stratified subsets:
+
+  ------------------------------------------------------------------------
+  Subset                                     Records Purpose
+  --------------------- ---------------------------- ---------------------
+  Training                                       312 Fit the model
+
+  Validation                                     104 Assess model choices
+                                                     and select the
+                                                     classification
+                                                     threshold
+
+  Test                                           104 Final evaluation on
+                                                     unseen records
+  ------------------------------------------------------------------------
+
+The test set was held back from model fitting and threshold selection.
+
+## 3. Model training
+
+Gradient Boosting was used because it can capture non-linear
+relationships across customer and behavioural features while providing a
+manageable baseline for a small labelled dataset.
+
+  Hyperparameter                   Selected value Purpose
+  ------------------------------ ---------------- -----------------------------------
+  Number of estimators (trees)                100 Number of boosting stages
+  Learning rate                              0.05 Controls each tree's contribution
+  Maximum tree depth                            2 Limits each tree's complexity
+
+These settings were selected through model tuning. Performance was
+examined using cross-validation, validation data and a separate held-out
+test set.
+
+## 4. Validation and threshold selection
+
+The decision threshold was selected using the validation set, not the
+test set. A threshold of **0.35** was chosen because it produced the
+highest F1-score among the candidate thresholds tested. F1-score
+balances precision and recall.
+
+  Evaluation stage     ROC-AUC
+  ------------------ ---------
+  Cross-validation       0.646
+  Validation             0.667
+  Test                   0.658
+
+The similar ROC-AUC scores suggest that the model's modest ability to
+distinguish between the two classes was broadly consistent across
+evaluation stages. They do not indicate strong predictive
+discrimination.
+
+At the selected threshold of 0.35, the held-out test results were:
+
+  Metric        Test result
+  ----------- -------------
+  Accuracy            59.6%
+  Precision           60.0%
+  Recall              96.8%
+  F1-score            74.1%
+  ROC-AUC             65.8%
+
+The high recall means the model identified most positive-class records
+in the test sample. Precision of 60.0% means 40.0% of records predicted
+as positive were not positive in the labelled test data. This trade-off
+may be useful when identifying possible activation opportunities for
+follow-up, but the best threshold depends on intervention costs and
+benefits.
+
+## 5. Feature-importance findings
+
+Permutation importance was calculated on the validation set. The
+strongest predictive signals included:
+
+-   `deposit_page_views`
+-   `total_screens_viewed`
+-   `deposit_attempts`
+
+These findings suggest that early platform engagement and interaction
+with the deposit process contain information associated with later
+activation. Feature importance indicates predictive usefulness, not
+causation; it does not prove that increasing these behaviours will cause
+deposits.
+
+## 6. Conclusion, limitations and next steps
+
+SS3 applied the Gradient Boosting method selected in SS2 to the newly
+supplied client-style data, covering data preparation, customer-level
+feature creation, training, validation and visualisation. The model
+showed modest discrimination, with a test ROC-AUC of 0.658. The
+threshold of 0.35 favoured recall over precision.
+
+The findings require caution because the data are synthetic, some
+negative labels are provisional, and the labelled sample contains only
+520 records. These results may not generalise to the full customer
+population or real operational data.
+
+Next steps are to verify outcome labels, evaluate the model on reliable
+real-world data, investigate additional predictors and test proposed
+onboarding interventions through controlled experiments. Further
+validation and monitoring would be required before operational use.
+
+## SS3 notebook
+
+The implementation is documented in [`SS3_PartB.ipynb`](SS3_PartB.ipynb)
+and covers the five required components: dataset loading, preprocessing,
+model training, model validation and results visualisation.
